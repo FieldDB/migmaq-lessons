@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="MasterScriptXSL-20130228.xsl"?>
+<?xml-stylesheet type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"?>
+<lessonset>
+<lesson><title>16. Things Vocab</title>
+
+<designnote>Same pattern as used for animate plurals, for inanimate			plurals.</designnote><explnote>To mark more than one of a thing (rather than a person),				for most (but definitely not all) words the ending is -l. This				comes out as -n if the word already ends in -n. This double -nn at				the end of a word can be hard to hear at first, so it is a good				idea to practice both saying it and listening for it.				Like with people, if the ending is added to -i or -u, those sounds come out as -i'				and -u', as in awti'l.			</explnote><timesig>@20120723-JW-RM-1thru25.wav@6:45-6:58.5</timesig><vocab>
+<line><migmaq>awti'l</migmaq>				
+<english>roads, paths</english>
+<soundfile>S1U2/16_Goqwel/01-Awtil</soundfile></line>
+
+<line><migmaq>tuo'p'ti'l</migmaq>				
+<english>windows</english>
+<soundfile>S1U2/16_Goqwel/02-Tuoptil</soundfile></line>
+
+<line><migmaq>mutputi'l</migmaq>				
+<english>chairs</english>
+<soundfile>S1U2/16_Goqwel/03-Mutputil</soundfile></line>
+
+<line><migmaq>ga'qann</migmaq>				
+<english>doors</english>
+<soundfile>S1U2/16_Goqwel/04-Gaqann</soundfile></line>
+
+<line><migmaq>llutaqann</migmaq>				
+<english>fences</english>
+<soundfile>S1U2/16_Goqwel/05-Llutaqann</soundfile></line>
+
+<line><migmaq>a'su'nn</migmaq>				
+<english>blankets</english>
+<soundfile>S1U2/16_Goqwel/06-Asunn</soundfile></line>
+
+<line><migmaq>npo'qonn</migmaq>				
+<english>beds</english>
+<soundfile>S1U2/16_Goqwel/07-Npoqonn</soundfile></line>
+
+<line><migmaq>l'gusuaqann</migmaq>				
+<english>ladders</english>
+<soundfile>S1U2/16_Goqwel/08-Lgusuaqann</soundfile></line>
+
+<line><migmaq>gun'tal</migmaq>				
+<english>stones, rocks</english>
+<soundfile>S1U2/16_Goqwel/09-Guntal</soundfile></line>
+		</vocab></lesson>
+
+<lesson><title>24. How many people? 1-3, many.</title>
+
+<designnote>This lesson introduces counting (of people), using only			the minimum numbers/amounts (1, 2, 3, many) needed to show the basics			of the system.			Image files simply show these numbers: X number of countables together,			either as a natural picture or a photoshopping of X number of			identical images.		</designnote><explnote>In this lesson, we learn to count people: asking how many,					and giving answers.	</explnote><timesig>@20120723-JW-RM-1thru25.wav@8:31-8:57</timesig>		
+<dialog>
+<line><migmaq>Ta'sijig ji'nmug?</migmaq>				
+<english>How many men are there?</english>
+<soundfile>S1U3/22_Tasijig/01-TasijigJinmug_NewtejitNewtejitJinm</soundfile></line>
+
+<line><migmaq>- Newte'jit. Newte'jit ji'nm.</migmaq>				
+<english>One. There is one man.</english>
+<soundfile></soundfile></line>
+		</dialog>		
+<dialog>
+<line><migmaq>Ta'sijig ji'nmug?</migmaq>				
+<english>How many men are there?</english>
+<soundfile>S1U3/22_Tasijig/02-TasijigJinmug_TapusijigTapusijigJinmug</soundfile></line>
+
+<line><migmaq>- Tapusijig. Tapusijig ji'nmug.</migmaq>				
+<english>Two. There are two men.</english>
+<soundfile></soundfile></line>
+		</dialog>		
+<dialog>
+<line><migmaq>Ta'sijig ji'nmug?</migmaq>				
+<english>How many men are there?</english>
+<soundfile>S1U3/22_Tasijig/03-TasijigJinmug_NesisijigNesisijigJinmug</soundfile></line>
+
+<line><migmaq>- Ne'sisijig. Ne'sisijig ji'nmug.</migmaq>				
+<english>Three. There are three men.</english>
+<soundfile></soundfile></line>
+		</dialog>		
+<dialog>
+<line><migmaq>Ta'sijig ji'nmug?</migmaq>				
+<english>How many men are there?</english>
+<soundfile>S1U3/22_Tasijig/04-TasijigJinmug_PugwelgigPugwelgigJinmug</soundfile></line>
+
+<line><migmaq>- Pugwelgig! Pugwelgig ji'nmug.</migmaq>				
+<english>Many! There are many men.</english>
+<soundfile></soundfile></line>
+		</dialog></lesson>
+</lessonset>
