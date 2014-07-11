@@ -1,3 +1,6 @@
+<!-- This style sheet was originally created by Connor Quinn to transfer Can8 lesson content 
+ to a web browser -->
+ 
 <?xml version="1.0" encoding="UTF-8"?>
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
