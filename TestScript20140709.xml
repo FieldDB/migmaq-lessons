@@ -6,39 +6,56 @@
 <designnote>Same pattern as used for animate plurals, for inanimate			plurals.</designnote><explnote>To mark more than one of a thing (rather than a person),				for most (but definitely not all) words the ending is -l. This				comes out as -n if the word already ends in -n. This double -nn at				the end of a word can be hard to hear at first, so it is a good				idea to practice both saying it and listening for it.				Like with people, if the ending is added to -i or -u, those sounds come out as -i'				and -u', as in awti'l.			</explnote><timesig>@20120723-JW-RM-1thru25.wav@6:45-6:58.5</timesig><vocab>
 <line><migmaq>awti'l</migmaq>				
 <english>roads, paths</english>
-<soundfile>S1U2/16_Goqwel/01-Awtil</soundfile></line>
+<soundfile>S1U2/16_Goqwel/01-Awtil</soundfile>
+<picture></picture></line>
+</vocab><vocab>
 
 <line><migmaq>tuo'p'ti'l</migmaq>				
 <english>windows</english>
-<soundfile>S1U2/16_Goqwel/02-Tuoptil</soundfile></line>
+<soundfile>S1U2/16_Goqwel/02-Tuoptil</soundfile>
+<picture></picture></line>
+</vocab><vocab>
 
 <line><migmaq>mutputi'l</migmaq>				
 <english>chairs</english>
-<soundfile>S1U2/16_Goqwel/03-Mutputil</soundfile></line>
+<soundfile>S1U2/16_Goqwel/03-Mutputil</soundfile>
+<picture></picture></line>
+</vocab><vocab>
 
 <line><migmaq>ga'qann</migmaq>				
 <english>doors</english>
-<soundfile>S1U2/16_Goqwel/04-Gaqann</soundfile></line>
+<soundfile>S1U2/16_Goqwel/04-Gaqann</soundfile>
+<picture></picture></line>
+</vocab><vocab>
 
 <line><migmaq>llutaqann</migmaq>				
 <english>fences</english>
-<soundfile>S1U2/16_Goqwel/05-Llutaqann</soundfile></line>
+<soundfile>S1U2/16_Goqwel/05-Llutaqann</soundfile>
+<picture></picture></line>
+</vocab><vocab>
 
 <line><migmaq>a'su'nn</migmaq>				
 <english>blankets</english>
-<soundfile>S1U2/16_Goqwel/06-Asunn</soundfile></line>
+<soundfile>S1U2/16_Goqwel/06-Asunn</soundfile>
+<picture></picture></line>
+</vocab><vocab>
 
 <line><migmaq>npo'qonn</migmaq>				
 <english>beds</english>
-<soundfile>S1U2/16_Goqwel/07-Npoqonn</soundfile></line>
+<soundfile>S1U2/16_Goqwel/07-Npoqonn</soundfile>
+<picture></picture></line>
+</vocab><vocab>
 
 <line><migmaq>l'gusuaqann</migmaq>				
 <english>ladders</english>
-<soundfile>S1U2/16_Goqwel/08-Lgusuaqann</soundfile></line>
+<soundfile>S1U2/16_Goqwel/08-Lgusuaqann</soundfile>
+<picture></picture></line>
+</vocab><vocab>
 
 <line><migmaq>gun'tal</migmaq>				
 <english>stones, rocks</english>
-<soundfile>S1U2/16_Goqwel/09-Guntal</soundfile></line>
+<soundfile>S1U2/16_Goqwel/09-Guntal</soundfile>
+<picture></picture></line>
 		</vocab></lesson>
 
 <lesson><title>24. How many people? 1-3, many.</title>
