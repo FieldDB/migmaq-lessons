@@ -45,7 +45,7 @@ to a web browser -->
                 						</xsl:for-each>
                 						<li><a href="#">»</a></li>
                 					</ul> -->
-        <!-- Lesson page content -->
+        <!-- Lesson page content. define a variable lessonNumber that takes the n-th position of the lesson tag in xml as its value. this allows to refer to e.g. Lesson n, dialog 1, 2, 3 etc. later in the pagination and modal -->
             <div class="col-md-9" id="page-content-wrapper">
                 <xsl:for-each select="lessonset/lesson">
                 <xsl:variable name="lessonNumber" select="position()"/>
