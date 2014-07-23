@@ -32,19 +32,11 @@ to a web browser -->
               <ul class="sidebar-nav">
                   <xsl:for-each select="lessonset/lesson"> 
                     <!-- get the list of lesson titles linked to the correct lesson. the link refers to n-th position of <lesson> tag, and takes the title of the n-th lesson --> 
-                    <!-- <li><a href="#lesson{position()}"><xsl:value-of select="position()" /></a></li> --> 
                     <li><a href="#lesson{position()}"><xsl:value-of select="title" /></a></li> 
                   </xsl:for-each>
               </ul>
             </div> <!-- end of sidebar wrapper div --> 
 
-                					<!-- <ul class="pagination">
-                						<li><a href="#">«</a></li>
-                						<xsl:for-each select="lessonset/lesson">
-                							<li><a href="#lesson{position()}"><xsl:value-of select="position()" /></a></li>
-                						</xsl:for-each>
-                						<li><a href="#">»</a></li>
-                					</ul> -->
         <!-- Lesson page content. define a variable lessonNumber that takes the n-th position of the lesson tag in xml as its value. this allows to refer to e.g. Lesson n, dialog 1, 2, 3 etc. later in the pagination and modal -->
             <div class="col-md-9" id="page-content-wrapper">
                 <xsl:for-each select="lessonset/lesson">
@@ -68,16 +60,11 @@ to a web browser -->
                         </div>
                      </div> <!-- end of panel default div -->
                   </div> <!-- end of panel group accordion div -->
-                                      <!-- <div class="page-header">
-                                          <a name='lesson{position()}' ><xsl:value-of select="title"/></a> <br></br>
-                                        </div> -->
               
               <!--inserts an audio element for the entire lesson text, if one exists: these should be added just inside the "lesson" level as a "soundfile" element; contrast this with the "soundfile" element, which is the soundfile corresponding to "line"-level "migmaq" elements, i.e. to the individual Mi'gmaq sound clips-->
                   <div colspan="2">
                       <xsl:for-each select="soundfile">
-                        <!-- <embed src="{.}.wav" autostart="no" height="12">
-                             </embed>
-
+                        <!-- .wav takes forever to load, use .mp3
                              <embed src="{.}.mp3" autostart="no" height="12">
                              </embed> -->
                       </xsl:for-each>
@@ -85,11 +72,11 @@ to a web browser -->
 
               <!-- paginate a lesson into dialog|vocab. show each dialog|vocab as n-th position in the lesson. click the number to open a modal containing the dialog|vocab with picture and audio. id refers to the modal content, see the next set of code lines. indicate the current dialog|vocab number/position.  http://getbootstrap.com/components/#pagination-pager -->  
                   <ul class="pagination">
-                    <!-- <li><a href="#">«</a></li> --> 
+                    <!-- <li><a href="#">«</a></li> previous button, we probably don't need this --> 
                       <xsl:for-each select="dialog|vocab">
                         <li><a href="#lesson{$lessonNumber}dialog{position()}" data-toggle="modal" data-target="#lesson{$lessonNumber}dialog{position()}"><xsl:value-of select="position()" /><span class="sr-only">(current)</span></a></li>
                       </xsl:for-each>
-                    <!-- <li><a href="#">»</a></li>  -->
+                    <!-- <li><a href="#">»</a></li>  next button, we probably don't need this -->
                   </ul> 
 
                   <!-- modal content = dialog|vocab with pic and audio   http://getbootstrap.com/javascript/#modals  
