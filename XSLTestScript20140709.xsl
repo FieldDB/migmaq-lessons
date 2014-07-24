@@ -7,7 +7,8 @@ to a web browser -->
 	<xsl:template match="/">
 		<html>
 			<head>
-        <script src="https://code.jquery.com/jquery-2.1.1.min.js"/>
+        <script src="jquery-2.1.1.min.js"/>
+        <!-- script src="https://code.jquery.com/jquery-2.1.1.min.js"/ -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"/> 
         <link rel="stylesheet" type="text/css"  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
         <xsl:for-each select="lessonset">
