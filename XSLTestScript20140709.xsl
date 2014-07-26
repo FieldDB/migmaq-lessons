@@ -32,7 +32,7 @@ to a web browser -->
             <div class="col-md-3" id="sidebar-wrapper">
               <ul class="sidebar-nav">
                   <xsl:for-each select="lessonset/lesson"> 
-                    <!-- get the list of lesson titles linked to the correct lesson. the link refers to n-th position of <lesson> tag, and takes the title of the n-th lesson --> 
+                    <!-- get the list of lesson titles linked to the correct lesson. the link refers to n-th position of <lesson> tag, and takes the title of the n-th lesson. on .position() see http://api.jquery.com/position/  --> 
                     <li><a href="#lesson{position()}"><xsl:value-of select="title" /></a></li> 
                   </xsl:for-each>
               </ul>
@@ -109,11 +109,14 @@ to a web browser -->
                                         "You need to add the ="true" part to the controls in the video tag" 
                                         http://www.experts-exchange.com/Web_Development/Web_Languages-Standards/HTML/Q_27706079.html
                                         TODO make sound player to replay in Chrome -->                                 
-                                          <xsl:for-each select="soundfile">
+                                          <xsl:for-each select="soundfile|videofile">
                                             <audio controls="true" >
-                                              <source src="{.}.mp3" type="audio/mp3" ></source>  
+                                              <source src="{.}.mp3" type="audio/mp3" ></source>   
                                             <!-- <embed src="{.}.wav" autostart="no" height="12"></embed> -->
                                             </audio> 
+                                            <!--- <video controls="true" >
+                                              <source src="{.}.mp4" type="video/mp4" ></source>   
+                                            </video> --> 
                                           </xsl:for-each>    
                                     </div> <!-- end of container fluid -->
                                   </div> <!-- end of modal body -->
