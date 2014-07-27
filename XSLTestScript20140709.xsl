@@ -38,7 +38,7 @@ to a web browser -->
               </ul>
             </div> <!-- end of sidebar wrapper div --> 
 
-        <!-- Lesson page content. define a variable lessonNumber that takes the n-th position of the lesson tag in xml as its value. this allows to refer to e.g. Lesson n, dialog 1, 2, 3 etc. later in the pagination and modal -->
+        <!-- Begin Lesson page content wrapper. define a variable lessonNumber that takes the n-th position of the lesson tag in xml as its value. this allows to refer to e.g. Lesson n, dialog 1, 2, 3 etc. later in the pagination and modal -->
             <div class="col-md-9" id="page-content-wrapper">
                 <xsl:for-each select="lessonset/lesson">
                 <xsl:variable name="lessonNumber" select="position()"/>
@@ -80,9 +80,9 @@ to a web browser -->
                     <!-- <li><a href="#">»</a></li>  next button, we probably don't need this -->
                   </ul> 
 
-                  <!-- modal content = dialog|vocab with pic and audio   http://getbootstrap.com/javascript/#modals  
-                  TODO make question-response dialog into one modal (currently one line per modal) -->
-                        <xsl:for-each select="dialog/line|vocab/line">
+                  <!-- Begin modal content = dialog|vocab with pic and audio   http://getbootstrap.com/javascript/#modals  
+                  TODO  -->
+                        <xsl:for-each select="dialog|vocab">
                             <div class="modal" id="lesson{$lessonNumber}dialog{position()}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                               <div class="modal-dialog">
                                 <div class="modal-content">
@@ -92,32 +92,37 @@ to a web browser -->
                                   </div> <!-- end of modal header --> 
                                   <div class="modal-body">                            
                                     <div class="container-fluid">
-                                      <div class="col-md-12">                                        
+                                    <!--inserts line-level "migmaq", "english", and "soundfile" content: i.e. the Mi'gmaq, English, and corresponding audio clip for each "line" element -->
+                                     <xsl:for-each select="line">
+                                      <!-- begin picture div -->
+                                      <div class="col-md-12"> <!-- -->                                       
                                         <!-- inserts picture. use for-each commented out below, when pics are ready --> 
                                           <img src="Strawberry.gif" class="img-rounded"></img>
                                           <!-- <xsl:for-each select="picture"> 
                                             <img src="{.}.jpg" class="img-rounded"></img> 
                                           </xsl:for-each> -->
-                                      </div>
+                                      </div> <!-- end picture div inside modal -->                                  
 
-                                      <div class="col-md-12">
-                                        <!--inserts line-level "migmaq", "english", and "soundfile" content: i.e. the Mi'gmaq, English, and corresponding audio clip for each "line" element -->
-                                          <p><xsl:value-of select="migmaq"/></p>
-                                          <p><i><xsl:value-of select="english"/></i></p>
-                                      </div>  
+                                      <div class="col-md-12"> 
+                                            <p><xsl:value-of select="migmaq"/></p>
+                                            <p><i><xsl:value-of select="english"/></i></p>
                                         <!-- insert sound file with sound player  http://williamrandol.github.io/bootstrap-player/demo/ 
                                         "You need to add the ="true" part to the controls in the video tag" 
                                         http://www.experts-exchange.com/Web_Development/Web_Languages-Standards/HTML/Q_27706079.html
                                         TODO make sound player to replay in Chrome -->                                 
-                                          <xsl:for-each select="soundfile|videofile">
-                                            <audio controls="true" >
-                                              <source src="{.}.mp3" type="audio/mp3" ></source>   
-                                            <!-- <embed src="{.}.wav" autostart="no" height="12"></embed> -->
-                                            </audio> 
-                                            <!--- <video controls="true" >
-                                              <source src="{.}.mp4" type="video/mp4" ></source>   
-                                            </video> --> 
-                                          </xsl:for-each>    
+                                          <!-- xsl:value-of select="soundfile|videofile" /-->
+                                            <xsl:for-each select="soundfile|videofile">
+                                              <audio controls="true" >
+                                                <source src="{.}.mp3" type="audio/mp3" ></source>   
+                                              <!-- <embed src="{.}.wav" autostart="no" height="12"></embed> -->
+                                              </audio> 
+                                              <!--- <video controls="true" >
+                                                <source src="{.}.mp4" type="video/mp4" ></source>   
+                                              </video> --> 
+                                            </xsl:for-each>
+                                      </div> 
+                                     </xsl:for-each>
+
                                     </div> <!-- end of container fluid -->
                                   </div> <!-- end of modal body -->
                                   
@@ -137,7 +142,7 @@ to a web browser -->
                               </div>
                             </xsl:for-each>
 
-                        </xsl:for-each> <!-- end of for each line 97 --> 
+                        </xsl:for-each> <!-- end of modal content for-each (line 85) --> 
 
                 </xsl:for-each> <!-- end of for each line 50 select lessonset -->
 
