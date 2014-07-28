@@ -11,21 +11,43 @@ to a web browser -->
         <!-- script src="https://code.jquery.com/jquery-2.1.1.min.js"/ -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"/> 
         <link rel="stylesheet" type="text/css"  href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
-        <xsl:for-each select="lessonset">
+        <!-- <xsl:for-each select="lessonset">
          <title>
           <xsl:value-of select="title"/>
-         </title>
-        </xsl:for-each>
+         </title> 
+        </xsl:for-each> -->
        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
       </head>
-    <body>
-          <div class="well">
-             <h1>Mi'gmaq Lessons</h1>
-          </div>
+    <body>  
+      <div class="well"> <!-- begin page header well--> 
+        <h1>Mi'gmaq Lessons</h1>
+         <xsl:for-each select="lessonset/generalintro">  
+            <button type="button" class="btn btn-primary" href="#intromodal" data-toggle="modal" data-target="#intromodal">
+              <xsl:value-of select="introtitle"/></button>
+             <div class="modal" id="intromodal" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
+                   <div class="modal-dialog">
+                      <div class="modal-content">
+                         <div class="modal-header">
+                           <h4 class="modal-title" id=""><xsl:value-of select="introtitle" /></h4>
+                         </div>
+                         <div class="modal-body">                            
+                           <div class="container-fluid">
+                            <p><xsl:value-of select="introtext" /></p>
+                           </div> 
+                         </div>
+                         <div class="modal-footer">
+                          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                         </div>
+                      </div>
+                   </div>
+             </div> <!-- end of intro modal div-->
+         </xsl:for-each>       
+       </div> <!-- end of page header well --> 
+          
      <font face="Gentium, Lucida Grande, Arial Unicode MS">
-            <xsl:for-each select="lessonset">
+            <!-- <xsl:for-each select="lessonset">
                 <h2><xsl:value-of select="title"/></h2>
-            </xsl:for-each>  
+            </xsl:for-each> -->  
       <div class="col-md-12" id="wrapper">
      
         <!-- Sidebar showing lesson titles -->
