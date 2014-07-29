@@ -20,7 +20,7 @@ to a web browser -->
       </head>
     <body>  
       <div class="well"> <!-- begin page header well--> 
-        <h1>Mi'gmaq Lessons</h1>
+        <h1>Mi'gmaq Lessons (demo)</h1>
          <xsl:for-each select="lessonset/generalintro">  
             <button type="button" class="btn btn-primary" href="#intromodal" data-toggle="modal" data-target="#intromodal">
               <xsl:value-of select="introtitle"/></button>
@@ -64,8 +64,8 @@ to a web browser -->
             <div class="col-md-9" id="page-content-wrapper">
                 <xsl:for-each select="lessonset/lesson">
                 <xsl:variable name="lessonNumber" select="position()"/>
-
-                <!-- clickable lesson title that opens/hides (uncollapse/collapse) lesson intro explanation. use {position()} for id to make it unique   http://getbootstrap.com/javascript/#collapse -->
+                 <div class="well">
+                  <!-- clickable lesson title that opens/hides (uncollapse/collapse) lesson intro explanation. use {position()} for id to make it unique   http://getbootstrap.com/javascript/#collapse -->
                   <div class="panel-group" id="accordion{position()}"> 
                      <div class="panel panel-default">
                         <div class="panel-heading">
@@ -119,14 +119,14 @@ to a web browser -->
                                       <!-- begin picture div -->
                                       <div class="col-md-12"> <!-- -->                                       
                                         <!-- inserts picture. use for-each commented out below, when pics are ready --> 
-                                          <img src="Strawberry.gif" class="img-rounded"></img>
-                                          <!-- <xsl:for-each select="picture"> 
-                                            <img src="{.}.jpg" class="img-rounded"></img> 
-                                          </xsl:for-each> -->
+                                          <!-- <img src="Strawberry.gif" class="img-rounded"></img> -->
+                                          <xsl:for-each select="picture"> 
+                                            <img src="{.}.gif" class="img-rounded"></img> 
+                                          </xsl:for-each> 
                                       </div> <!-- end picture div inside modal -->                                  
 
                                       <div class="col-md-12"> 
-                                            <p><xsl:value-of select="migmaq"/></p>
+                                            <p><b><xsl:value-of select="migmaq"/></b></p>
                                             <p><i><xsl:value-of select="english"/></i></p>
                                         <!-- insert sound file with sound player  http://williamrandol.github.io/bootstrap-player/demo/ 
                                         "You need to add the ="true" part to the controls in the video tag" 
@@ -158,17 +158,42 @@ to a web browser -->
                             </div> <!-- end of modal div -->  
 
                           <!-- selects any and all note elements and gives each a line, i.e. via a NESTED for-each -->
-                            <xsl:for-each select="dialog/line|vocab/note">
+                            <!-- <xsl:for-each select="dialog/line|vocab/note">
                               <div width="500">
                                  <i><xsl:value-of select="."/></i>
                               </div>
-                            </xsl:for-each>
+                            </xsl:for-each> -->
 
                         </xsl:for-each> <!-- end of modal content for-each (line 85) --> 
-
-                </xsl:for-each> <!-- end of for each line 50 select lessonset -->
+                        
+                        <div class="outro"> 
+                          <div class="btn-group">
+                              <button type="button" class="btn btn-info" href="#lesson-outro-modal" data-toggle="modal" data-target="#lesson-outro-modal">
+                                Finished all the items?</button>
+                              <div class="modal" id="lesson-outro-modal" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
+                                 <div class="modal-dialog">
+                                    <div class="modal-content">
+                                       <div class="modal-header">
+                                         <h4 class="modal-title" id="outro-title"><xsl:value-of select="title" /></h4>
+                                       </div>
+                                       <div class="modal-body">                            
+                                         <div class="container-fluid">
+                                          <p><xsl:value-of select="outro" /></p>
+                                         </div> 
+                                       </div>
+                                       <div class="modal-footer">
+                                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div> <!-- end of lesson-outro-modal div -->
+                           </div>  <!-- end of btn-group div -->      
+                        </div>  <!-- end of outro div -->
+                  </div> <!-- end of the well inside page content wrapper -->                    
+                </xsl:for-each> <!-- end of page content wrapper for each selecting lessonset/lesson (line 65)-->
 
             </div> <!-- this is the end of the page-content wrapper div -->
+
         </div> <!-- end of the wrapper div --> 
       </font>
     </body>
