@@ -15,12 +15,14 @@
         <migmaq>Taluisin?</migmaq>
         <english>What's your name?</english>
         <soundfile>S1U1/1_Introductions/01-TaluisinCLP</soundfile>
+        <picture>Strawberry</picture>
       </line>
       <note>Alternative: - So'sep Nuel teluisi. My name is Joseph Noel.</note>
       <line>
         <migmaq>[- Ni'n na So'sep Nuel.]</migmaq>
         <english>[I am Joseph Noel.]</english>
         <soundfile>S1U1/1_Introductions/02-SosepNuelTeluisiCLP</soundfile>
+        <!-- <picture>Strawberry</picture> -->
       </line>
     </dialog>
     <dialog>
@@ -28,11 +30,13 @@
         <migmaq>Wen 'ggij?</migmaq>
         <english>Who is your mother?</english>
         <soundfile>S1U1/1_Introductions/03-WenGgijCLP</soundfile>
+        <picture>Strawberry</picture>
       </line>
       <line>
         <migmaq>- 'Ngij na Susan Nuel.</migmaq>
         <english>My mother is Susan Noel.</english>
         <soundfile>S1U1/1_Introductions/04-NgijNaSusanNuelCLP</soundfile>
+        <!-- <picture>Strawberry</picture> -->
       </line>
     </dialog>
     <dialog>
@@ -40,6 +44,7 @@
         <migmaq>Wen gujj?</migmaq>
         <english>Who is your father?</english>
         <soundfile>S1U1/1_Introductions/05-WenGujjCLP</soundfile>
+        <picture>Strawberry</picture>
       </line>
       <line>
         <migmaq>- Nujj na Piel Nuel.</migmaq>
@@ -52,6 +57,7 @@
         <migmaq>Tami tett tleiawin?</migmaq>
         <english>Where are you from?</english>
         <soundfile>S1U1/1_Introductions/07-TamiTettTleiawinCLP</soundfile>
+        <picture>Strawberry</picture>
       </line>
       <line>
         <migmaq>- Listugujg tleiawi.</migmaq>
@@ -64,6 +70,7 @@
         <migmaq>Tami tett tleiawit 'ggij?</migmaq>
         <english>Where is your mother from?</english>
         <soundfile>S1U1/1_Introductions/09-TamiTettTleiawitGgijCLP</soundfile>
+        <picture>Strawberry</picture>
       </line>
       <line>
         <migmaq>- 'Ngij Listugujg tleiawit.</migmaq>
@@ -76,6 +83,7 @@
         <migmaq>Tami tett tleiawit gujj?</migmaq>
         <english>Where is your father from?</english>
         <soundfile>S1U1/1_Introductions/11-TamiTettTleiawitGujjCLP</soundfile>
+        <picture>Strawberry</picture>
       </line>
       <line>
         <migmaq>- 'Nujj elg Listugujg tleiawit.</migmaq>
@@ -88,6 +96,7 @@
         <migmaq>Tami tett wigin?</migmaq>
         <english>Where do you live?</english>
         <soundfile>S1U1/1_Introductions/13-TamiTettWiginCLP</soundfile>
+        <picture>Strawberry</picture>
       </line>
       <line>
         <migmaq>- Listugujg wigi.</migmaq>
@@ -100,6 +109,7 @@
         <migmaq>Tami tett etllugwen?</migmaq>
         <english>Where do you work?</english>
         <soundfile>S1U1/1_Introductions/15-TamiTettEtllugwenCLP</soundfile>
+        <picture>Strawberry</picture>
       </line>
       <line>
         <migmaq>- Qamawtig a's'tuo'guomg.</migmaq>
@@ -107,6 +117,8 @@
         <soundfile>S1U1/1_Introductions/16-QamawtigAstuoguomg</soundfile>
       </line>
     </dialog>
+    <outro>Did you find the pattern such and such? 
+    </outro>
   </lesson>
   <lesson>
     <title>2. Coping: how to do your language-learning IN the language</title>
@@ -254,6 +266,8 @@
         <soundfile>S1U1/2_Coping/22-GetuPipanimulTanTelTluenFullMoon</soundfile>
       </line>
     </vocab>
+    <outro>Did you find the pattern such and such? 
+    </outro>
   </lesson>
   <lesson>
     <title>16. Things Vocab</title>
@@ -265,7 +279,7 @@
         <migmaq>awti'l</migmaq>
         <english>roads, paths</english>
         <soundfile>S1U2/16_Goqwel/01-Awtil</soundfile>
-        <picture />
+        <picture>Strawberry</picture>
       </line>
     </vocab>
     <vocab>
@@ -273,7 +287,7 @@
         <migmaq>tuo'p'ti'l</migmaq>
         <english>windows</english>
         <soundfile>S1U2/16_Goqwel/02-Tuoptil</soundfile>
-        <picture />
+        <picture>Strawberry</picture>
       </line>
     </vocab>
     <vocab>
@@ -281,7 +295,7 @@
         <migmaq>mutputi'l</migmaq>
         <english>chairs</english>
         <soundfile>S1U2/16_Goqwel/03-Mutputil</soundfile>
-        <picture />
+        <picture>Strawberry</picture>
       </line>
     </vocab>
     <vocab>
@@ -289,7 +303,7 @@
         <migmaq>ga'qann</migmaq>
         <english>doors</english>
         <soundfile>S1U2/16_Goqwel/04-Gaqann</soundfile>
-        <picture />
+        <picture>Strawberry</picture>
       </line>
     </vocab>
     <vocab>
@@ -297,7 +311,7 @@
         <migmaq>llutaqann</migmaq>
         <english>fences</english>
         <soundfile>S1U2/16_Goqwel/05-Llutaqann</soundfile>
-        <picture />
+        <picture>Strawberry</picture>
       </line>
     </vocab>
     <vocab>
@@ -305,7 +319,7 @@
         <migmaq>a'su'nn</migmaq>
         <english>blankets</english>
         <soundfile>S1U2/16_Goqwel/06-Asunn</soundfile>
-        <picture />
+        <picture>Strawberry</picture>
       </line>
     </vocab>
     <vocab>
@@ -313,7 +327,7 @@
         <migmaq>npo'qonn</migmaq>
         <english>beds</english>
         <soundfile>S1U2/16_Goqwel/07-Npoqonn</soundfile>
-        <picture />
+        <picture>Strawberry</picture>
       </line>
     </vocab>
     <vocab>
@@ -321,7 +335,7 @@
         <migmaq>l'gusuaqann</migmaq>
         <english>ladders</english>
         <soundfile>S1U2/16_Goqwel/08-Lgusuaqann</soundfile>
-        <picture />
+        <picture>Strawberry</picture>
       </line>
     </vocab>
     <vocab>
@@ -329,9 +343,11 @@
         <migmaq>gun'tal</migmaq>
         <english>stones, rocks</english>
         <soundfile>S1U2/16_Goqwel/09-Guntal</soundfile>
-        <picture />
+        <picture>Strawberry</picture>
       </line>
     </vocab>
+    <outro>Did you find the pattern such and such? 
+    </outro>
   </lesson>
   <lesson>
     <title>24. How many people? 1-3, many.</title>
@@ -342,7 +358,8 @@
       <line>
         <migmaq>Ta'sijig ji'nmug?</migmaq>
         <english>How many men are there?</english>
-        <soundfile>S1U3/22_Tasijig/01-TasijigJinmug_NewtejitNewtejitJinm</soundfile>
+        <!--<soundfile>S1U3/22_Tasijig/01-TasijigJinmug_NewtejitNewtejitJinm</soundfile> -->
+        <picture>Strawberry</picture>
       </line>
       <line>
         <migmaq>- Newte'jit. Newte'jit ji'nm.</migmaq>
@@ -354,7 +371,8 @@
       <line>
         <migmaq>Ta'sijig ji'nmug?</migmaq>
         <english>How many men are there?</english>
-        <soundfile>S1U3/22_Tasijig/02-TasijigJinmug_TapusijigTapusijigJinmug</soundfile>
+        <!-- <soundfile>S1U3/22_Tasijig/02-TasijigJinmug_TapusijigTapusijigJinmug</soundfile> -->
+        <picture>Strawberry</picture>
       </line>
       <line>
         <migmaq>- Tapusijig. Tapusijig ji'nmug.</migmaq>
@@ -366,7 +384,8 @@
       <line>
         <migmaq>Ta'sijig ji'nmug?</migmaq>
         <english>How many men are there?</english>
-        <soundfile>S1U3/22_Tasijig/03-TasijigJinmug_NesisijigNesisijigJinmug</soundfile>
+        <!-- <soundfile>S1U3/22_Tasijig/03-TasijigJinmug_NesisijigNesisijigJinmug</soundfile> -->
+        <picture>Strawberry</picture>
       </line>
       <line>
         <migmaq>- Ne'sisijig. Ne'sisijig ji'nmug.</migmaq>
@@ -378,7 +397,8 @@
       <line>
         <migmaq>Ta'sijig ji'nmug?</migmaq>
         <english>How many men are there?</english>
-        <soundfile>S1U3/22_Tasijig/04-TasijigJinmug_PugwelgigPugwelgigJinmug</soundfile>
+        <!-- <soundfile>S1U3/22_Tasijig/04-TasijigJinmug_PugwelgigPugwelgigJinmug</soundfile> -->
+        <picture>Strawberry</picture>
       </line>
       <line>
         <migmaq>- Pugwelgig! Pugwelgig ji'nmug.</migmaq>
@@ -386,5 +406,8 @@
         <soundfile>S1U3/22_Tasijig/04-TasijigJinmug_PugwelgigPugwelgigJinmug</soundfile>
       </line>
     </dialog>
+    <outro>Did you find the pattern such and such? 
+    </outro>
+
   </lesson>
 </lessonset>
