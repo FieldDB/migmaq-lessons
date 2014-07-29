@@ -117,7 +117,7 @@
         <soundfile>S1U1/1_Introductions/16-QamawtigAstuoguomg</soundfile>
       </line>
     </dialog>
-    <outro>Did you find the pattern such and such? 
+    <outro>In this lesson you've learned blah blah blah. Did you notice the pattern blah blah when you say blah blah blah?  
     </outro>
   </lesson>
   <lesson>
@@ -266,7 +266,7 @@
         <soundfile>S1U1/2_Coping/22-GetuPipanimulTanTelTluenFullMoon</soundfile>
       </line>
     </vocab>
-    <outro>Did you find the pattern such and such? 
+    <outro>In this lesson you've learned xyz. Did you notice the pattern xyz when you say xyz? 
     </outro>
   </lesson>
   <lesson>
@@ -346,7 +346,7 @@
         <picture>Strawberry</picture>
       </line>
     </vocab>
-    <outro>Did you find the pattern such and such? 
+    <outro>In this lesson you've learned such and such. Did you notice such and such patterns? 
     </outro>
   </lesson>
   <lesson>
@@ -406,7 +406,7 @@
         <soundfile>S1U3/22_Tasijig/04-TasijigJinmug_PugwelgigPugwelgigJinmug</soundfile>
       </line>
     </dialog>
-    <outro>Did you find the pattern such and such? 
+    <outro>In this lesson you've learned this and that. Did you notice the pattern like this and that? 
     </outro>
 
   </lesson>

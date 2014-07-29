@@ -168,9 +168,8 @@ to a web browser -->
                         
                         <div class="outro"> 
                           <div class="btn-group">
-                              <button type="button" class="btn btn-info" href="#lesson-outro-modal" data-toggle="modal" data-target="#lesson-outro-modal">
-                                Finished all the items?</button>
-                              <div class="modal" id="lesson-outro-modal" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
+                              <button type="button" class="btn btn-info" href="#lesson{$lessonNumber}outro" data-toggle="modal" data-target="#lesson{$lessonNumber}outro">Finished all the items?</button>
+                              <div class="modal" id="lesson{$lessonNumber}outro" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
                                  <div class="modal-dialog">
                                     <div class="modal-content">
                                        <div class="modal-header">
