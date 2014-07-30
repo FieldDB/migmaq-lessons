@@ -149,6 +149,8 @@
         <english>What's the name of this?</english>
         <soundfile>S1U1/2_Coping/04-TaluisigUlaCLP</soundfile>
       </line>
+    </vocab>
+    <vocab>  
       <line>
         <migmaq>Tlimi nnuigtug ta'n telluwgwen.</migmaq>
         <english>Tell me in Native what you are doing.</english>
@@ -204,6 +206,8 @@
         <english>I want to know how you say _______.</english>
         <soundfile>S1U1/2_Coping/dummy</soundfile>
       </line>
+    </vocab>
+    <vocab>
       <line>
         <migmaq>Ge' apoqonmui.</migmaq>
         <english>Please help me.</english>
@@ -214,6 +218,8 @@
         <english>Please help me say it.</english>
         <soundfile>S1U1/2_Coping/14-GeApoqonmuiTelueiCLP</soundfile>
       </line>
+    </vocab>
+    <vocab>
       <line>
         <migmaq>Tami e'w't's na glusuaqan?</migmaq>
         <english>Where would you use that word?</english>
@@ -235,8 +241,10 @@
       <line>
         <migmaq>Getu'-pipanimul, ta'n tel-tluen _______.</migmaq>
         <english>I want to ask you how you say _______.</english>
-        <soundfile>S1U1/2_Coping/17-GetuPipanimulNatGoqweiCLP</soundfile>
+        <soundfile>S1U1/2_Coping/17-GetuPipanimulNatGoqweiCLP</soundfile> <!-- wrong sound file --> 
       </line>
+    </vocab>
+    <vocab>  
       <line>
         <migmaq>Ge' tlimi na't-goqwei 'nnuigtug.</migmaq>
         <english>Please tell me something in Native.</english>
