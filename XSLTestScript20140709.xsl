@@ -52,7 +52,7 @@ to a web browser -->
      
         <!-- Sidebar showing lesson titles -->
             <div class="col-md-3" id="sidebar-wrapper">
-              <ul class="sidebar-nav">
+              <ul class="list-unstyled">
                   <xsl:for-each select="lessonset/lesson"> 
                     <!-- get the list of lesson titles linked to the correct lesson. the link refers to n-th position of <lesson> tag, and takes the title of the n-th lesson. on .position() see http://api.jquery.com/position/  --> 
                     <li><a href="#lesson{position()}"><xsl:value-of select="title" /></a></li> 
@@ -151,7 +151,7 @@ to a web browser -->
                                   <div class="modal-footer">
                                     <!-- TODO make Next to open the next modal item (currently it just closes the current modal) -->
                                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                                    <a href="#lesson{$lessonNumber}dialog{position()}" data-dismiss="modal" data-toggle="modal" data-target="#dialog{position()+1}" type="button" class="btn btn-primary">Next</a>
+                                    <a data-dismiss="modal" data-toggle="modal" data-target="#lesson{$lessonNumber}dialog{position()+1}" type="button" class="btn btn-primary">Next</a>
                                   </div>
                                 </div> <!-- end of modal content -->
                               </div> <!-- end of modal dialog --> 
