@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLTestScript20140709.xsl"?>
+<?xml-stylesheet type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"?>
+<lessonset>
+  <generalintro>
+    <introtitle>How to use this course</introtitle>
+    <introtext>Click the lesson title on the left-side navigation panel to go to the lesson. Click the lesson title to show/hide the lesson introduction. Click a number below the title to see/listen to the lesson item. </introtext>
+  </generalintro>
+  <lesson>
+    <title>1. Introductions</title>
+    <designnote>This lesson starts learners out in the language with the			main ways they can describe themselves and their relations:			their name, their parents, and where they come from, where they live, and			where they work.			Being about to name their parents (and where they come from) right off is			a particularly important part of self-introduction for learners,			since this allows older speakers from their community to place them			among the people they know.</designnote>
+    <timesig>@20120723-JW-RM-1thru25.wav@0:01.5-0:39.5</timesig>
+    <dialog>
+      <line>
+        <migmaq>Taluisin?</migmaq>
+        <english>What's your name?</english>
+        <soundfile>S1U1/1_Introductions/01-TaluisinCLP</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+      <note>Alternative: - So'sep Nuel teluisi. My name is Joseph Noel.</note>
+      <line>
+        <migmaq>[- Ni'n na So'sep Nuel.]</migmaq>
+        <english>[I am Joseph Noel.]</english>
+        <soundfile>S1U1/1_Introductions/02-SosepNuelTeluisiCLP</soundfile>
+        <!-- <picture>Strawberry</picture> -->
+      </line>
+    </dialog>
+    <dialog>
+      <line>
+        <migmaq>Wen 'ggij?</migmaq>
+        <english>Who is your mother?</english>
+        <soundfile>S1U1/1_Introductions/03-WenGgijCLP</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+      <line>
+        <migmaq>- 'Ngij na Susan Nuel.</migmaq>
+        <english>My mother is Susan Noel.</english>
+        <soundfile>S1U1/1_Introductions/04-NgijNaSusanNuelCLP</soundfile>
+        <!-- <picture>Strawberry</picture> -->
+      </line>
+    </dialog>
+    <dialog>
+      <line>
+        <migmaq>Wen gujj?</migmaq>
+        <english>Who is your father?</english>
+        <soundfile>S1U1/1_Introductions/05-WenGujjCLP</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+      <line>
+        <migmaq>- Nujj na Piel Nuel.</migmaq>
+        <english>My father is Peter Noel.</english>
+        <soundfile>S1U1/1_Introductions/06-NujjNaPielNuel</soundfile>
+      </line>
+    </dialog>
+    <dialog>
+      <line>
+        <migmaq>Tami tett tleiawin?</migmaq>
+        <english>Where are you from?</english>
+        <soundfile>S1U1/1_Introductions/07-TamiTettTleiawinCLP</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+      <line>
+        <migmaq>- Listugujg tleiawi.</migmaq>
+        <english>I am from Listuguj.</english>
+        <soundfile>S1U1/1_Introductions/08-ListugujgTleiawiCLP</soundfile>
+      </line>
+    </dialog>
+    <dialog>
+      <line>
+        <migmaq>Tami tett tleiawit 'ggij?</migmaq>
+        <english>Where is your mother from?</english>
+        <soundfile>S1U1/1_Introductions/09-TamiTettTleiawitGgijCLP</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+      <line>
+        <migmaq>- 'Ngij Listugujg tleiawit.</migmaq>
+        <english>My mother is from Listuguj.</english>
+        <soundfile>S1U1/1_Introductions/10-NgijListugujgTleiawitCLP</soundfile>
+      </line>
+    </dialog>
+    <dialog>
+      <line>
+        <migmaq>Tami tett tleiawit gujj?</migmaq>
+        <english>Where is your father from?</english>
+        <soundfile>S1U1/1_Introductions/11-TamiTettTleiawitGujjCLP</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+      <line>
+        <migmaq>- 'Nujj elg Listugujg tleiawit.</migmaq>
+        <english>My father is also from Listuguj.</english>
+        <soundfile>S1U1/1_Introductions/12-NujjElgListugujgTleiawitCLP</soundfile>
+      </line>
+    </dialog>
+    <dialog>
+      <line>
+        <migmaq>Tami tett wigin?</migmaq>
+        <english>Where do you live?</english>
+        <soundfile>S1U1/1_Introductions/13-TamiTettWiginCLP</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+      <line>
+        <migmaq>- Listugujg wigi.</migmaq>
+        <english>I live in Listuguj.</english>
+        <soundfile>S1U1/1_Introductions/14-ListugujgWigiCLP</soundfile>
+      </line>
+    </dialog>
+    <dialog>
+      <line>
+        <migmaq>Tami tett etllugwen?</migmaq>
+        <english>Where do you work?</english>
+        <soundfile>S1U1/1_Introductions/15-TamiTettEtllugwenCLP</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+      <line>
+        <migmaq>- Qamawtig a's'tuo'guomg.</migmaq>
+        <english>Across from the church.</english>
+        <soundfile>S1U1/1_Introductions/16-QamawtigAstuoguomg</soundfile>
+      </line>
+    </dialog>
+    <outro>In this lesson you've learned blah blah blah. Did you notice the pattern blah blah when you say blah blah blah?  
+    </outro>
+  </lesson>
+  <lesson>
+    <title>2. Coping: how to do your language-learning IN the language</title>
+    <designnote>This particular lesson is offered right from the start,			because it is most effective for learners to learn the language			THROUGH the language. By giving them the crucial phrases for this			early on, we aim to encourage doing this as much as possible from the			getgo, instead of dropping back to English. Learners of course			naturally drop back to English, but so do speakers, since it is the			language they have used with non-speakers for years. A successful			learner has to overcome not only their own lifelong habits of using			English, but also has to find polite, respectful ways of turning the			conversation from English back to Mi'gmaq wherever reasonably			possible. These phrases are one of the key ways they can do this.</designnote>
+    <note>@20120731-JV-2redux.wav is the complete and revised version of			all of this section. There is also			@20120723-JW-RM-1thru25.wav@0:39.5-1:54, as an early draft that would			need a redo @0:44, but is otherwise good for voice variation. Note			also that there are revised versions of the "fill in the blank"			forms, as actual blank-fillers are much better.</note>
+    <timesig>@20120731-JV-2redux.wav</timesig>
+    <explnote>When you learn a new language, you want to stay speaking		in the language as much as possible:		the more your mind goes back to English, the slower you will learn.		One great trick to keep the conversation solidly in Mig'maq---even		when you're not following everything---		is to learn how to ask your major questions ABOUT the langauge IN the		language.		Here we give the first of a series of phrases that you can use to help		stay in the game, no matter what....</explnote>
+    <dialog>
+      <line>
+        <migmaq>Ge' nnu'-gluli.</migmaq>
+        <english>Please speak to me in Native.</english>
+        <soundfile>S1U1/2_Coping/01-GeNnuGluliCLP</soundfile>
+      </line>
+      <line>
+        <migmaq>Tali-ulm'tu'n 'nnuigtug gluli.</migmaq>
+        <english>Would you be so kind as to talk to me in Native?</english>
+        <soundfile>S1U1/2_Coping/02-TaliUlmtunNnuigtugGluliCLP</soundfile>
+      </line>
+    </dialog>
+    <vocab>
+      <line>
+        <migmaq>Talui'tmn?</migmaq>
+        <english>What do you call it?</english>
+        <soundfile>S1U1/2_Coping/03-TaluitmnCLP</soundfile>
+      </line>
+      <line>
+        <migmaq>Taluisig ula?</migmaq>
+        <english>What's the name of this?</english>
+        <soundfile>S1U1/2_Coping/04-TaluisigUlaCLP</soundfile>
+      </line>
+    </vocab>
+    <vocab>  
+      <line>
+        <migmaq>Tlimi nnuigtug ta'n telluwgwen.</migmaq>
+        <english>Tell me in Native what you are doing.</english>
+        <soundfile>S1U1/2_Coping/05-TlimiNnuigtugTanTellugwenCLP</soundfile>
+      </line>
+      <line>
+        <migmaq>Tlimi nnuigtug ta'n telluwgwei</migmaq>
+        <english>Tell me in Native what I am doing.</english>
+        <soundfile>S1U1/2_Coping/06-TlimiNnuigtugTanTellugweiCLP</soundfile>
+      </line>
+      <line>
+        <migmaq>Tallugwen?</migmaq>
+        <english>What are you doing?</english>
+        <soundfile>S1U1/2_Coping/07-TallugwenCLP</soundfile>
+      </line>
+      <line>
+        <migmaq>Tallugwei?</migmaq>
+        <english>What am I doing?</english>
+        <soundfile>S1U1/2_Coping/08-TallugweiCLP</soundfile>
+      </line>
+    </vocab>
+    <dialog>
+      <line>
+        <migmaq>Ge' app tlua.</migmaq>
+        <english>Please say it again.</english>
+        <soundfile>S1U1/2_Coping/09-GeAppTluaCLP</soundfile>
+      </line>
+      <line>
+        <migmaq>Sangew tlua.</migmaq>
+        <english>Say it slowly.</english>
+        <soundfile>S1U1/2_Coping/10-SangewTluaCLP</soundfile>
+      </line>
+      <line>
+        <migmaq>Sangewi'si.</migmaq>
+        <english>Speak slowly.</english>
+        <soundfile>S1U1/2_Coping/11-Sangewi'siCLP</soundfile>
+      </line>
+      <line>
+        <migmaq>Menaqa tlua.</migmaq>
+        <english>Say it carefully/precisely.</english>
+        <soundfile>S1U1/2_Coping/12-MenaqaTluaCLP</soundfile>
+      </line>
+    </dialog>
+    <note>The following two lines are recorded, but should not be used,			because the blanks are not easy to make sense of in thevocab.			Use instead those with actual English fillers corresponding to the			blanks, located at the end of the sound recording.</note>
+    <vocab>
+      <line>
+        <migmaq>Tlua _______ 'nnuigtug.</migmaq>
+        <english>Say _______ in Native.</english>
+        <soundfile>S1U1/2_Coping/dummy</soundfile>
+      </line>
+      <line>
+        <migmaq>Getu' 'gji'tu ta'n tel-tluen _______ .</migmaq>
+        <english>I want to know how you say _______.</english>
+        <soundfile>S1U1/2_Coping/dummy</soundfile>
+      </line>
+    </vocab>
+    <vocab>
+      <line>
+        <migmaq>Ge' apoqonmui.</migmaq>
+        <english>Please help me.</english>
+        <soundfile>S1U1/2_Coping/13-GeApoqonmuiCLP</soundfile>
+      </line>
+      <line>
+        <migmaq>Ge' apoqonmui teluei.</migmaq>
+        <english>Please help me say it.</english>
+        <soundfile>S1U1/2_Coping/14-GeApoqonmuiTelueiCLP</soundfile>
+      </line>
+    </vocab>
+    <vocab>
+      <line>
+        <migmaq>Tami e'w't's na glusuaqan?</migmaq>
+        <english>Where would you use that word?</english>
+        <soundfile>S1U1/2_Coping/15-TamiEwtsNaGlusuaqanCLP</soundfile>
+      </line>
+      <line>
+        <migmaq>Tali-e'w'mugg na glusuaqan?</migmaq>
+        <english>How would I use that word?</english>
+        <soundfile>S1U1/2_Coping/16-TaliEwmuggNaGlusuaqanCLP</soundfile>
+      </line>
+    </vocab>
+    <note>The following two lines are recorded, but should not be used,			because the blanks are			not easy to make sense of in the audio. Use instead those with actual			English fillers corresponding to the blanks,			located at the end of the sound recording.</note>
+    <vocab>
+      <line>
+        <migmaq>Getu'-pipanimul na't-goqwei. Tal-tluen _______.</migmaq>
+        <english>I want to ask you something. How do you say _______.</english>
+        <soundfile>S1U1/2_Coping/dummy</soundfile>
+      </line>
+      <line>
+        <migmaq>Getu'-pipanimul, ta'n tel-tluen _______.</migmaq>
+        <english>I want to ask you how you say _______.</english>
+        <soundfile>S1U1/2_Coping/17-GetuPipanimulNatGoqweiCLP</soundfile> <!-- wrong sound file --> 
+      </line>
+    </vocab>
+    <vocab>  
+      <line>
+        <migmaq>Ge' tlimi na't-goqwei 'nnuigtug.</migmaq>
+        <english>Please tell me something in Native.</english>
+        <soundfile>S1U1/2_Coping/18-GeTlimiNatGoqweiNnuigtugCLP</soundfile>
+      </line>
+    </vocab>
+    <note>The following four lines are the preferred replacements for the			"blanks" lines.</note>
+    <vocab>
+      <line>
+        <migmaq>Tlua "I am tired" 'nnuigtug.</migmaq>
+        <english>Say "I am tired" in Native.</english>
+        <soundfile>S1U1/2_Coping/19-TluaIAmTiredNnuigtugCLP</soundfile>
+      </line>
+      <line>
+        <migmaq>Getu' 'gji'tu ta'n tel-tluen "I am hungry" .</migmaq>
+        <english>I want to know how you say "I am hungry".</english>
+        <soundfile>S1U1/2_Coping/20-GetuGjituTanTelTluenIAmHungryCLP</soundfile>
+      </line>
+      <line>
+        <migmaq>Getu'-pipanimul na't-goqwei. Tal-tluen "pail"?</migmaq>
+        <english>I want to ask you something. How do you say "pail"?</english>
+        <soundfile>S1U1/2_Coping/21-GetuPipanimulNatGoqweiTalTluenPail</soundfile>
+      </line>
+      <line>
+        <migmaq>Getu'-pipanimul, ta'n tel-tluen "full moon".</migmaq>
+        <english>I want to ask you how you say "full moon".</english>
+        <soundfile>S1U1/2_Coping/22-GetuPipanimulTanTelTluenFullMoon</soundfile>
+      </line>
+    </vocab>
+    <outro>In this lesson you've learned xyz. Did you notice the pattern xyz when you say xyz? 
+    </outro>
+  </lesson>
+  <lesson>
+    <title>16. Things Vocab</title>
+    <designnote>Same pattern as used for animate plurals, for inanimate			plurals.</designnote>
+    <explnote>To mark more than one of a thing (rather than a person),				for most (but definitely not all) words the ending is -l. This				comes out as -n if the word already ends in -n. This double -nn at				the end of a word can be hard to hear at first, so it is a good				idea to practice both saying it and listening for it.				Like with people, if the ending is added to -i or -u, those sounds come out as -i'				and -u', as in awti'l.</explnote>
+    <timesig>@20120723-JW-RM-1thru25.wav@6:45-6:58.5</timesig>
+    <vocab>
+      <line>
+        <migmaq>awti'l</migmaq>
+        <english>roads, paths</english>
+        <soundfile>S1U2/16_Goqwel/01-Awtil</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+    </vocab>
+    <vocab>
+      <line>
+        <migmaq>tuo'p'ti'l</migmaq>
+        <english>windows</english>
+        <soundfile>S1U2/16_Goqwel/02-Tuoptil</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+    </vocab>
+    <vocab>
+      <line>
+        <migmaq>mutputi'l</migmaq>
+        <english>chairs</english>
+        <soundfile>S1U2/16_Goqwel/03-Mutputil</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+    </vocab>
+    <vocab>
+      <line>
+        <migmaq>ga'qann</migmaq>
+        <english>doors</english>
+        <soundfile>S1U2/16_Goqwel/04-Gaqann</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+    </vocab>
+    <vocab>
+      <line>
+        <migmaq>llutaqann</migmaq>
+        <english>fences</english>
+        <soundfile>S1U2/16_Goqwel/05-Llutaqann</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+    </vocab>
+    <vocab>
+      <line>
+        <migmaq>a'su'nn</migmaq>
+        <english>blankets</english>
+        <soundfile>S1U2/16_Goqwel/06-Asunn</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+    </vocab>
+    <vocab>
+      <line>
+        <migmaq>npo'qonn</migmaq>
+        <english>beds</english>
+        <soundfile>S1U2/16_Goqwel/07-Npoqonn</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+    </vocab>
+    <vocab>
+      <line>
+        <migmaq>l'gusuaqann</migmaq>
+        <english>ladders</english>
+        <soundfile>S1U2/16_Goqwel/08-Lgusuaqann</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+    </vocab>
+    <vocab>
+      <line>
+        <migmaq>gun'tal</migmaq>
+        <english>stones, rocks</english>
+        <soundfile>S1U2/16_Goqwel/09-Guntal</soundfile>
+        <picture>Strawberry</picture>
+      </line>
+    </vocab>
+    <outro>In this lesson you've learned such and such. Did you notice such and such patterns? 
+    </outro>
+  </lesson>
+  <lesson>
+    <title>24. How many people? 1-3, many.</title>
+    <designnote>This lesson introduces counting (of people), using only			the minimum numbers/amounts (1, 2, 3, many) needed to show the basics			of the system.			Image files simply show these numbers: X number of countables together,			either as a natural picture or a photoshopping of X number of			identical images.</designnote>
+    <explnote>In this lesson, we learn to count people: asking how many,					and giving answers.</explnote>
+    <timesig>@20120723-JW-RM-1thru25.wav@8:31-8:57</timesig>
+    <dialog>
+      <line>
+        <migmaq>Ta'sijig ji'nmug?</migmaq>
+        <english>How many men are there?</english>
+        <!--<soundfile>S1U3/22_Tasijig/01-TasijigJinmug_NewtejitNewtejitJinm</soundfile> -->
+        <picture>Strawberry</picture>
+      </line>
+      <line>
+        <migmaq>- Newte'jit. Newte'jit ji'nm.</migmaq>
+        <english>One. There is one man.</english>
+        <soundfile>S1U3/22_Tasijig/01-TasijigJinmug_NewtejitNewtejitJinm</soundfile>
+      </line>
+    </dialog>
+    <dialog>
+      <line>
+        <migmaq>Ta'sijig ji'nmug?</migmaq>
+        <english>How many men are there?</english>
+        <!-- <soundfile>S1U3/22_Tasijig/02-TasijigJinmug_TapusijigTapusijigJinmug</soundfile> -->
+        <picture>Strawberry</picture>
+      </line>
+      <line>
+        <migmaq>- Tapusijig. Tapusijig ji'nmug.</migmaq>
+        <english>Two. There are two men.</english>
+        <soundfile>S1U3/22_Tasijig/02-TasijigJinmug_TapusijigTapusijigJinmug</soundfile>
+      </line>
+    </dialog>
+    <dialog>
+      <line>
+        <migmaq>Ta'sijig ji'nmug?</migmaq>
+        <english>How many men are there?</english>
+        <!-- <soundfile>S1U3/22_Tasijig/03-TasijigJinmug_NesisijigNesisijigJinmug</soundfile> -->
+        <picture>Strawberry</picture>
+      </line>
+      <line>
+        <migmaq>- Ne'sisijig. Ne'sisijig ji'nmug.</migmaq>
+        <english>Three. There are three men.</english>
+        <soundfile>S1U3/22_Tasijig/03-TasijigJinmug_NesisijigNesisijigJinmug</soundfile>
+      </line>
+    </dialog>
+    <dialog>
+      <line>
+        <migmaq>Ta'sijig ji'nmug?</migmaq>
+        <english>How many men are there?</english>
+        <!-- <soundfile>S1U3/22_Tasijig/04-TasijigJinmug_PugwelgigPugwelgigJinmug</soundfile> -->
+        <picture>Strawberry</picture>
+      </line>
+      <line>
+        <migmaq>- Pugwelgig! Pugwelgig ji'nmug.</migmaq>
+        <english>Many! There are many men.</english>
+        <soundfile>S1U3/22_Tasijig/04-TasijigJinmug_PugwelgigPugwelgigJinmug</soundfile>
+      </line>
+    </dialog>
+    <outro>In this lesson you've learned this and that. Did you notice the pattern like this and that? 
+    </outro>
+
+  </lesson>
+</lessonset>
