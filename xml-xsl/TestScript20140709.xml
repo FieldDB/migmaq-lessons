@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="XSLTestScript20140709.xsl"?>
+<?xml-stylesheet type="text/xsl" href="NewXSLTestScript.xsl"?>
 <?xml-stylesheet type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"?>
 <lessonset>
   <generalintro>
