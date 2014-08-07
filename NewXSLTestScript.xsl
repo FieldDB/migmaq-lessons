@@ -191,9 +191,7 @@ to a web browser -->
                         </xsl:for-each> <!-- end of modal content for-each (line 85) --> 
                         
                         <div class="outro"> 
-
-                          <div class="btn-group">
-                              <button type="button" class="btn btn-info" href="#unit{$unitNumber}info" data-toggle="modal" data-target="#unit{$unitNumber}info">Finished all the items?</button>
+                          <button type="button" class="btn btn-info" href="#unit{$unitNumber}info" data-toggle="modal" data-target="#unit{$unitNumber}info">Finished all the items?</button>
                               <div class="modal" id="unit{$unitNumber}info" tabindex="-1" role="dialog" aria-labelledby="" aria-hidden="true">
                                  <div class="modal-dialog">
                                     <div class="modal-content">
@@ -210,9 +208,8 @@ to a web browser -->
                                        </div>
                                     </div>
                                  </div>
-
                               </div> <!-- end of lesson-outro-modal div -->
-                           </div>  <!-- end of btn-group div -->      
+                          <button type="button" class="btn btn-primary pull-right" href="#unit{$unitNumber}">Next Unit</button>
                         </div>  <!-- end of outro div -->
                   </div> <!-- end of the well inside page content wrapper -->                    
                 </xsl:for-each> <!-- end of page content wrapper for each selecting lessonset/lesson (line 65)-->

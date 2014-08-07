@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="NewXSLTestScript.xsl"?>
-<?xml-stylesheet type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"?>
+<?xml-stylesheet type="text/xsl" href="NewXSLTestScript-Lesson.xsl"?>
+<?xml-stylesheet type="text/css" href="bootstrap.min.css"?>
 <lessonset>
    <generalintro>
       <genintrotitle>How to use this course</genintrotitle>
@@ -8,10 +8,12 @@
    </generalintro>
    <section>
       <sectiontitle>Section 1</sectiontitle>
+      <sectionintro>This section is to blah blah</sectionintro>
       <subsection>
          <subsectitle>Subsection 1.1</subsectitle>
          <lesson>
             <lessontitle>Lesson 1. Introducing yourself and your parents</lessontitle>
+            <lessonintro>This is lesson intro blah blah blah</lessonintro>
             <unit>
                <unittitle>Unit 1. What is your name and where are you from?</unittitle>
                <unitintro>The first thing you’ll need to be able to say in Mi’gmaq is who you are! In this lesson we’ll show you how to say who you are, where you are from and where you live (as well as who your parents are, where they are from and where they live).</unitintro>
@@ -234,6 +236,7 @@
          </lesson>
          <lesson>
             <lessontitle>(1.1.2) Learning IN the language</lessontitle>
+            <lessonintro>This is lesson intro blah blah blah</lessonintro>
             <unit>
                <unittitle>(1.1.2.1) Unit 1. Lesson 2 Unit 1 Title here</unittitle>
                <unitintro>Lesson 2 Unit 1 Intro here</unitintro>
@@ -275,6 +278,7 @@
          </lesson>
          <lesson>
             <lessontitle>(1.1.3) Lesson 3 Title</lessontitle>
+            <lessonintro>This is lesson intro blah blah blah</lessonintro>
             <unit>
                <unittitle>(1.1.3.1) Unit 1. Lesson 3 Unit 1 Title here</unittitle>
                <unitintro>Lesson 3 Unit 1 Intro here</unitintro>
@@ -319,6 +323,7 @@
          <subsectitle>Subsection 1.2</subsectitle>
          <lesson>
             <lessontitle>(1.2.1) Lesson 1 Title</lessontitle>
+            <lessonintro>This is lesson intro blah blah blah</lessonintro>
             <unit>
                <unittitle>(1.2.1.1) Unit 1. Title</unittitle>
                <unitintro>(1.2.1.1) Unit 1 Intro</unitintro>
@@ -360,6 +365,7 @@
          </lesson>
          <lesson>
             <lessontitle>(1.2.2) Lesson 2 Title</lessontitle>
+            <lessonintro>This is lesson intro blah blah blah</lessonintro>
             <unit>
                <unittitle>(1.2.2.1) Unit 1 Title</unittitle>
                <unitintro>(1.2.2.1) Unit 1 Intro</unitintro>
@@ -403,10 +409,12 @@
    </section>
    <section>
       <sectiontitle>Section 2</sectiontitle>
+      <sectionintro>This section is to blah blah</sectionintro>
       <subsection>
          <subsectitle>Subsection 2.1 Title</subsectitle>
          <lesson>
             <lessontitle>(2.1.1) Lesson 1 Title</lessontitle>
+            <lessonintro>This is lesson intro blah blah blah</lessonintro>
             <unit>
                <unittitle>(2.1.1.1) Unit 1 Title</unittitle>
                <unitintro>(2.1.1.1) Unit 1 Intro</unitintro>
@@ -448,6 +456,7 @@
          </lesson>
          <lesson>
             <lessontitle>(2.1.2) Lesson 2 Title</lessontitle>
+            <lessonintro>This is lesson intro blah blah blah</lessonintro>
             <unit>
                <unittitle>(2.1.2.1) Unit 1 Title</unittitle>
                <unitintro>(2.1.2.1) Unit 1 Intro</unitintro>
@@ -492,6 +501,7 @@
          <subsectitle>Subsection 2.2 Title</subsectitle>
          <lesson>
             <lessontitle>(2.2.1) Lesson 1 Title</lessontitle>
+            <lessonintro>This is lesson intro blah blah blah</lessonintro>
             <unit>
                <unittitle>(2.2.1.1) Unit 1 Title</unittitle>
                <unitintro>(2.2.1.1) Unit 1 Intro</unitintro>
@@ -533,6 +543,7 @@
          </lesson>
          <lesson>
             <lessontitle>(2.2.2) Lesson 2 Title</lessontitle>
+            <lessonintro>This is lesson intro blah blah blah</lessonintro>
             <unit>
                <unittitle>(2.2.2.1) Unit 1 Title</unittitle>
                <unitintro>(2.2.2.1) Unit 1 Intro</unitintro>
@@ -576,10 +587,12 @@
    </section>
    <section>
       <sectiontitle>Section 3</sectiontitle>
+      <sectionintro>This section is to blah blah</sectionintro>
       <subsection>
          <subsectitle>Subsection 3.1</subsectitle>
          <lesson>
             <lessontitle>(3.1.1) Lesson 1 Titile</lessontitle>
+            <lessonintro>This is lesson intro blah blah blah</lessonintro>
             <unit>
                <unittitle>(3.1.1.1) Unit 1 Title</unittitle>
                <dialog>
