@@ -59,27 +59,21 @@ to a web browser -->
             <div class="col-md-4" id="sidebar-wrapper">
               <xsl:for-each select="lessonset">
               <ul class="list-unstyled"> <!-- section list -->
-                   <xsl:for-each select="section">
+                   <xsl:for-each select="chapter">
                      <!-- get the list of lesson titles linked to the correct lesson. the link refers to n-th position of <lesson> tag, and takes the title of the n-th lesson. on .position() see http://api.jquery.com/position/  --> 
-                      <li class="" ><a href="#section{position()}"><xsl:value-of select="sectiontitle" /></a></li>
-                      <ul class=""> <!-- subsection list -->
-                        <xsl:for-each select="subsection"> 
-                        <!-- get the list of lesson titles linked to the correct lesson. the link refers to n-th position of <lesson> tag, and takes the title of the n-th lesson. on .position() see http://api.jquery.com/position/  --> 
-                        <li class=""><a href="#subsection{position()}"><xsl:value-of select="subsectitle" /></a></li> 
-                            <ul class=""> <!-- lesson list -->
-                              <xsl:for-each select="lesson"> 
+                      <li class="" ><a href="#chapter{position()}"><xsl:value-of select="chaptertitle" /></a></li>
+                      <ul class=""> <!-- lesson list -->
+                        <xsl:for-each select="lesson"> 
+                          <!-- get the list of lesson titles linked to the correct lesson. the link refers to n-th position of <lesson> tag, and takes the title of the n-th lesson. on .position() see http://api.jquery.com/position/  --> 
+                          <li class=""><a href="#lesson{position()}"><xsl:value-of select="lessontitle" /></a></li> 
+                          <ul class=""> <!-- unit list -->
+                            <xsl:for-each select="unit"> 
                               <!-- get the list of lesson titles linked to the correct lesson. the link refers to n-th position of <lesson> tag, and takes the title of the n-th lesson. on .position() see http://api.jquery.com/position/  --> 
-                              <li class=""><a href="#lesson{position()}"><xsl:value-of select="lessontitle" /></a></li> 
-                                <ul class=""> <!-- unit list -->
-                                  <xsl:for-each select="unit"> 
-                                  <!-- get the list of lesson titles linked to the correct lesson. the link refers to n-th position of <lesson> tag, and takes the title of the n-th lesson. on .position() see http://api.jquery.com/position/  --> 
-                                  <li class=""><a href="#unit{position()}"><xsl:value-of select="unittitle" /></a></li> 
-                                  </xsl:for-each> <!-- select unit -->
-                                </ul>
-                              </xsl:for-each> <!-- select lesson -->
-                            </ul>
-                        </xsl:for-each> <!-- select subsection -->
-                      </ul>
+                              <li class=""><a href="#unit{position()}"><xsl:value-of select="unittitle" /></a></li> 
+                            </xsl:for-each> <!-- select unit -->
+                          </ul>
+                        </xsl:for-each> <!-- select lesson -->
+                      </ul>                    
                   </xsl:for-each> <!-- select section -->
               </ul>
                   <!-- show hide nested list  http://stackoverflow.com/questions/9286967/hide-toggle-nested-list-using-jquery --> 
@@ -93,7 +87,7 @@ to a web browser -->
 
         <!-- Begin Lesson page content wrapper. define a variable lessonNumber that takes the n-th position of the lesson tag in xml as its value. this allows to refer to e.g. Lesson n, dialog 1, 2, 3 etc. later in the pagination and modal -->
             <div class="col-md-8" id="page-content-wrapper">
-                <xsl:for-each select="lessonset/section/subsection/lesson/unit">
+                <xsl:for-each select="lessonset/chapter/lesson/unit">
                 <xsl:variable name="unitNumber" select="position()"/>
                  <div class="well">
                   <!-- clickable lesson title that opens/hides (uncollapse/collapse) lesson intro explanation. use {position()} for id to make it unique   http://getbootstrap.com/javascript/#collapse -->
@@ -115,7 +109,7 @@ to a web browser -->
                      </div> <!-- end of panel default div -->
                   </div> <!-- end of panel group accordion div -->
               
-              <!-- paginate a lesson into dialog|vocab. show each dialog|vocab as n-th position in the lesson. click the number to open a modal containing the dialog|vocab with picture and audio. id refers to the modal content, see the next set of code lines. indicate the current dialog|vocab number/position.  http://getbootstrap.com/components/#pagination-pager -->  
+              <!-- paginate a unit into dialog|vocab. show each dialog|vocab as n-th position in the lesson. click the number to open a modal containing the dialog|vocab with picture and audio. id refers to the modal content, see the next set of code lines. indicate the current dialog|vocab number/position.  http://getbootstrap.com/components/#pagination-pager -->  
                   <ul class="pagination">
                     <!-- <li><a href="#">«</a></li> previous button, we probably don't need this --> 
                       <xsl:for-each select="dialog">
@@ -149,9 +143,12 @@ to a web browser -->
                                           </xsl:for-each> 
                                       </div> <!-- end picture div inside modal -->                                  
 
-                                      <div class="col-md-12"> 
+                                      <div class="col-md-6"> 
                                             <p><b><xsl:value-of select="migmaq"/></b></p>
+                                      </div>
+                                      <div class="colmd-6">
                                             <p><i><xsl:value-of select="english"/></i></p>
+                                      </div>
                                         <!-- insert sound file with sound player  http://williamrandol.github.io/bootstrap-player/demo/ 
                                         "You need to add the ="true" part to the controls in the video tag" 
                                         http://www.experts-exchange.com/Web_Development/Web_Languages-Standards/HTML/Q_27706079.html
@@ -166,7 +163,6 @@ to a web browser -->
                                                 <source src="{.}.mp4" type="video/mp4" ></source>   
                                               </video> --> 
                                             </xsl:for-each>
-                                      </div> 
                                      </xsl:for-each>
 
                                     </div> <!-- end of container fluid -->
