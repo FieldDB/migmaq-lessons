@@ -7,9 +7,9 @@ to a web browser -->
   <xsl:template match="/">
     <html>
       <head>
-        <script src="jquery-2.1.1.min.js"/>
-        <script src="bootstrap.min.js"/> 
-        <link rel="stylesheet" type="text/css"  href="bootstrap.min.css"/>
+        <script src="/libs/jquery-2.1.1.min.js"/>
+        <script src="/libs/bootstrap.min.js"/> 
+        <link rel="stylesheet" type="text/css"  href="/libs/bootstrap.min.css"/>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
       </head>
 

@@ -9,14 +9,14 @@ to a web browser -->
       <head>
         <!-- jQuery library (served from Google) -->
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" />
-        <script src="jquery-2.1.1.min.js"/>
-        <script src="bootstrap.min.js"/>
+        <script src="/libs/jquery-2.1.1.min.js"/>
+        <script src="/libs/bootstrap.min.js"/>
         <!-- bxSlider Javascript file -->
-        <script src="jquery.bxslider.js" />
-        <link rel="stylesheet" type="text/css" href="bootstrap.min.css"/>
-        <link rel="stylesheet" type="text/css" href="simple-sidebar.css"/>
+        <script src="/libs/jquery.bxslider.js" />
+        <link rel="stylesheet" type="text/css" href="/libs/bootstrap.min.css"/>
+        <link rel="stylesheet" type="text/css" href="/libs/simple-sidebar.css"/>
         <!-- bxSlider CSS file -->
-        <link href="jquery.bxslider.css" rel="stylesheet" />
+        <link href="/libs/jquery.bxslider.css" rel="stylesheet" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
       </head>
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="NewXSLTestScript-Lesson.xsl"?>
-<?xml-stylesheet type="text/css" href="bootstrap.min.css"?>
-<?xml-stylesheet type="text/css" href="simple-sidebar.css"?>
+<?xml-stylesheet type="text/xsl" href="NewXSLTestScript-douglas.xsl"?>
+<?xml-stylesheet type="text/css" href="/libs/bootstrap.min.css"?>
+<?xml-stylesheet type="text/css" href="/libs/simple-sidebar.css"?>
 <lessonset>
    <generalintro>
       <genintrotitle>How to use this course</genintrotitle>

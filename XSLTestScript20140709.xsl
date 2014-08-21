@@ -9,8 +9,8 @@ to a web browser -->
 			<head>
         <script src="jquery-2.1.1.min.js"/>
         <!-- script src="https://code.jquery.com/jquery-2.1.1.min.js"/ -->
-        <script src="bootstrap.min.js"/> 
-        <link rel="stylesheet" type="text/css"  href="bootstrap.min.css"/>
+        <script src="/libs/bootstrap.min.js"/> 
+        <link rel="stylesheet" type="text/css"  href="/libs/bootstrap.min.css"/>
         <!-- <xsl:for-each select="lessonset">
          <title>
           <xsl:value-of select="title"/>
