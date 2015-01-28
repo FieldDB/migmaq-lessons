@@ -1,0 +1,75 @@
+html{
+	 height: 100%;
+}
+
+body {
+    height: 100%;
+	font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial;
+	padding-left: 10px;
+}
+
+
+.wrap {min-height: 100%;
+}
+
+.main {overflow: auto;
+	padding-bottom: 10px;
+	}  /* must be same height as the footer */
+
+.footer {position: absolute;
+	margin-top: -10px; /* negative value of footer height */
+	height: 10px;
+	padding-top: 100px;
+	clear:both;
+    font-size: 15px;
+    transition: .5s ease;
+    top: 80%;
+    left: 13%;
+} 
+
+
+.title{
+	padding-bottom: 15px;
+	color: #551111;
+}
+
+.title h1 img {
+	height: 110px;
+	position: relative;
+	left: 0px;
+}
+
+.title h2 img{
+	height: 85px;
+	position: relative;
+	right: 0px;
+}
+
+.sound img{
+	height: 70px;
+	width: 70px;
+	
+}
+
+.sound button{
+
+    background-color: white;
+    cursor: pointer;
+    border:none;
+    position:absolute;
+    top: 65%;
+    left: 50%;
+    outline-width: 0px;
+    outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+

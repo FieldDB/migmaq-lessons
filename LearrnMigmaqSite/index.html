@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<link href="font.css" rel="stylesheet">
+  	<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="main.css" rel="stylesheet">
+	<title>Learn Mi'gmaq</title>
+
+  <style type="text/css">
+	.nav ul{ list-style-type: none;
+	   margin: 0;
+	   padding: 0;}
+	.nav li{ display: inline-block;
+	   margin: 5px;
+	   vertical-align: top;
+	   float: right;
+	  }
+	html, body, #container #bottomNavBar #footer { height: 100%; margin: 0; padding: 0;}
+	body > #container { height: auto; min-height: 100%; }
+	#navcontainer{height: 5em; position: top;}
+	#content { padding-bottom: 5em; position: center;}
+	#bottomNavBar{ display: inline; position: relative; text-align: center; width: 50%; }	
+	#footer { clear: both; position: relative; text-align: left; z-index: 10; height: 3em; margin-top: -5em; }
+	.sound {
+		width: 10%;
+		height: 0;
+		padding-bottom: 10%;
+		border-radius: 75%;
+		overflow: hidden;
+		background: #FFFFFF;
+	}
+
+	.sound:hover {
+		background: #FFFFFF;	
+	}
+	
+	.sound img{
+		display: block;
+		width: 76%;
+		padding 12%;
+		height: auto;
+	} 
+
+  </style>
+  
+  <script src="jquery.js"></script>	
+
+  </head>
+
+  <body>
+
+
+    <header>
+        <!--<div class="title">
+          <div class="container">-->
+        	<div id="navcontainer" class="upper">
+	    		<h1 id="Home">
+				<a class="upper" href="index.html"><img src="sitelogo.png" alt="Learn Mi'gmaq" class="img-circle" align="left" width="200" height="200"></a>
+			</h1>
+			<nav class="nav">
+				<ul>
+               
+					<li class="nav wordpress"><a href="http://www.migmaq.org" target="_blank"><img src="wordpressimage.png" alt="Migmaq.org" class="img-rounded" width="40" height="40"></a>
+					</li>
+					<li class="nav wikipedia"><a href="http://www.wiki.migmaq.org" target="_blank"><img src="wikiimage.png" alt="Migmaq Wikipedia" class="img-rounded" width="40" height="40"></a>
+					</li>
+					<li class="nav quizlet"><a href="http://www.quizlet.com/learnmigmaq" target="_blank"><img src="quizlet.png" alt="Quizlet" class="img-rounded" width="40" height="40"></a>
+					</li>
+					<li class="nav tumblr"><a href="http://www.learnmigmaq.tumblr.com" target="_blank"><img src="tumblrimage.png" alt="Tumblr" class="img-rounded" width="40" height="40"></a>
+					</li>
+					<li class="nav instagram"><a href="http://www.instagram.com/learnmigmaq" target="_blank"><img src="instagramimage.png" alt="Instagram" class="img-rounded" width="40" height="40"></a>
+					</li>
+					<li class="nav twitter"><a href="http://www.twitter.com/learnmigmaq" target="_blank"><img src="twitterimage.png" alt="Twitter" class="img-rounded" width="40" height="40"></a>
+					</li>
+					<li class="nav facebook"><a href="http://www.facebook.com/groups/learnmigmaq" target="_blank"><img src="facebookimage.png" alt="Facebook" width="40" height="40" class="img-rounded"></a>
+					</li>
+					
+				</ul>
+			</nav>
+		</div>
+    </header>
+<!--Vertical Sidebar-->
+<!--    <div id="vertical-collapible-nav">
+
+
+    </div>
+-->
+    <!--main contents here-->
+    <script>
+	function play(){
+		var audio=document.getElementById("audio");
+		audio.play();
+	}
+	
+    </script>
+
+    <div id="container">
+	<div id="content">
+
+<!--		<form method="get" id="enterText" align="middle">
+			<input type="text" name="enterText" id="get_text" placeholder="enter your response"/>
+		</form>
+-->
+		<div class="sound">
+     		  	<button type="button" value="PLAY" onclick="play()"><img src="soundbutton.png" alt="Click for Sound" align="middle"></button>   
+			<audio id="audio" src="taluisin.mp3"></audio>
+		</div>
+		<div>	
+		<form method="get" id="enterText">
+			<input type="text" name="enterText" id="get_text" placeholder="enter your response"/>
+		</form>
+		</div>
+ 	</div>  
+    </div>
+    <script>
+	$("#enterText").on("submit", function(event){
+		
+		event.preventDefault();
+		
+		name=$("#get_text").val();
+		console.log('the name is ', name)
+		console.log('the name equals hello? ', name.toLowerCase() === "teluisi mali")
+		if(name.toLowerCase() === "teluisi mali"){
+			alert("Correct!");
+		} else{
+			alert("Sorry '" + name + "' is the wrong answer, try again!");
+		}
+	});
+    </script>
+
+   <!--bottom nav bar-->
+
+   <div id="bottomNavBar">
+		<a href="index.html"><img src="back.png" alt="back" align="center" width="200" height="70"></a>
+		&nbsp; Chapter 1 &gt; Lesson 3 &gt; Unit 3 &gt; Example 3 &nbsp;
+		<a href="index.html"><img src="continue.png" alt="continue" align="center" width="200" height="70"></a>
+   </div>
+<!-- should specify the percentage from each side for the back and continue buttons-->
+
+
+
+    <br><br>
+    <div class="footer">
+    	<div class="container">
+    	  <footer id="site footer">&#169;2014 Mi'gmaq Research Partnership</footer>
+    	</div>
+    </div>
+
+
+
+
+
+  </body>
+</html>
+
