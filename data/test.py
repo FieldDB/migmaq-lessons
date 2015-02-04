@@ -1,4 +1,4 @@
-import xml.etree.ElementTree as etree
+from lxml import etree
 top = etree.parse('html_test.html')
 rtop = top.getroot()
 body = etree.parse('short_test.xml')
