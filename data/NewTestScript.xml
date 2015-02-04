@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="NewXSLTestScript.xsl"?>
+<?xml-stylesheet type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"?>
+<lessonset>
+   <generalintro>
+      <genintrotitle>How to use this course</genintrotitle>
+      <genintrotext>Goal, structure of the course, etc.</genintrotext>
+   </generalintro>
+   <section>
+      <sectiontitle>Section 1</sectiontitle>
+      <subsection>
+         <subsectitle>Subsection 1.1</subsectitle>
+         <lesson>
+            <lessontitle>Lesson 1. Introducing yourself and your parents</lessontitle>
+            <unit>
+               <unittitle>Unit 1. What is your name and where are you from?</unittitle>
+               <unitintro>The first thing you’ll need to be able to say in Mi’gmaq is who you are! In this lesson we’ll show you how to say who you are, where you are from and where you live (as well as who your parents are, where they are from and where they live).</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>Taluisin?</migmaq>
+                     <english>What's your name?</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>Teluisi Joseph Noel.</migmaq>
+                     <english>My name is Joseph Noel.</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <dialog>
+                  <line>
+                     <migmaq>Tami tett tleiawin?</migmaq>
+                     <english>Where are you from?</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>Listugujig tleiawi.</migmaq>
+                     <english>I am from Listuguj.</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <dialog>
+                  <line>
+                     <migmaq>Taluisin?</migmaq>
+                     <english>(Give an answer to the question)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>Tleiawin?</migmaq>
+                     <english>(Give an answer to the question)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>some info</info>
+            </unit>
+            <unit>
+               <unittitle>Unit 2. Who are your parents?</unittitle>
+               <unitintro>Did you notice the pattern? When you are talking about yourself (I / me) there is no ending on the verb teluisi but when are talking about what someone else (you) are doing teluisi needs an n at the end - teluisin.</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>Wen gujj?</migmaq>
+                     <english>Who is your father?</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>Nujj teluisit Peter Noel.</migmaq>
+                     <english>My father's name is Peter Noel.</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <dialog>
+                  <line>
+                     <migmaq>Wen 'ggij?</migmaq>
+                     <english>Who is your mother?</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>'Ngij teluisit Susan Noel.</migmaq>
+                     <english>My mother is called Susan Noel.</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <dialog>
+                  <line>
+                     <migmaq>'ngij teluisi__ Susan Noel.</migmaq>
+                     <english>(Fill in the blank)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>__ujj teluisit Peter Noel.</migmaq>
+                     <english>(Fill in the blank)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+            </unit>
+            <unit>
+               <unittitle>Unit 3. Where do you and your parents live?</unittitle>
+               <unitintro>Did you notice the pattern? When you are talking about someone else (he / she) the verb teluisi ends in a t - teluisit. ALSO, When talking about your own family members the person begins in an n but when talking about someone else’s (your) family members the person begins in g - (e.g. nujj vs. gujj).</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>Tami tett wigin?</migmaq>
+                     <english>Where do you live?</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>Listugujg wigi.</migmaq>
+                     <english>I live in Listuguj.</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <dialog>
+                  <line>
+                     <migmaq>Tami tett 'ggij wigit?</migmaq>
+                     <english>Where does your mother live?</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>'ngij wigit Listugujg.</migmaq>
+                     <english>My mother lives in Listuguj.</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <dialog>
+                  <line>
+                     <migmaq>Tami tett gujj wigit?</migmaq>
+                     <english>(Give an answer to the question.)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>'ggij wigin Listugujg.</migmaq>
+                     <english>(Rewrite the sentence without the error.)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+            </unit>
+            <unit>
+               <unittitle>Unit 4. Dialogue</unittitle>
+               <unitintro>In the last unit you should have recognized the pattern that we showed you in the previous two units: verbs about I/me have no ending, verbs about you end in n, verbs about he/she end in t. Also remember that family members belonging to I/me begin with n and that family members belonging to you begin with g.</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>Migmaq transcription</migmaq>
+                     <english>A: Hi, what's your name?</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>Migmaq transcription</migmaq>
+                     <english>B: Joseph Noel. I am from Listuguj.</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>Migmaq transcription</migmaq>
+                     <english>A: Really? Do you live in Listuguj?</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>Migmaq transcription</migmaq>
+                     <english>B: No, but my mother lives in Listuguj.</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>Migmaq transcription</migmaq>
+                     <english>A: What is your mother's name?</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>Migmaq transcription</migmaq>
+                     <english>B: Susan Noel. My father's name is Peter Noel.</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>Don’t worry if you didn’t understand every word in the dialogue, just make sure that you understand the verb patterns we went over in the previous units.</info>
+            </unit>
+            <unit>
+               <unittitle>Unit 5. Exercises</unittitle>
+               <unitintro>some intro</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>Tami tett '__gij wigi__ ?</migmaq>
+                     <english>Where does your mother live? (Fill in the blank.)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>__ujj tleiawi__ Listugujg.</migmaq>
+                     <english>My father is from Listuguj. (Fill in the blank.)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>_______ John.</migmaq>
+                     <english>Your name is John. (Fill in the blank.)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>________ Listugujg.</migmaq>
+                     <english>I am from Listuguj. (Fill in the blank.)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>_________ Listugujg.</migmaq>
+                     <english>You live in Listuguj. (Fill in the blank.)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>Congratulations, you have finished your first Mi’gmaq lesson! If you are still unclear on some of the material you have learned, feel free to go back through it. Otherwise click the next button below to continue to Lesson 2: Learning IN the language.</info>
+            </unit>
+         </lesson>
+         <lesson>
+            <lessontitle>(1.1.2) Learning IN the language</lessontitle>
+            <unit>
+               <unittitle>(1.1.2.1) Unit 1. Lesson 2 Unit 1 Title here</unittitle>
+               <unitintro>Lesson 2 Unit 1 Intro here</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 1</migmaq>
+                     <english>translation 1</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 2</migmaq>
+                     <english>translation 2</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(1.1.2.1) Info for Lesson 2 Unit 1</info>
+            </unit>
+            <unit>
+               <unittitle>(1.1.2.2) Unit 2. Lesson 2 Unit 2 Title here</unittitle>
+               <unitintro>Lesson 2 Unit 2 Intro here</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 3</migmaq>
+                     <english>translation 3</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 4</migmaq>
+                     <english>translation 4</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(1.1.2.2) Info for Lesson 2 Unit 2</info>
+            </unit>
+         </lesson>
+         <lesson>
+            <lessontitle>(1.1.3) Lesson 3 Title</lessontitle>
+            <unit>
+               <unittitle>(1.1.3.1) Unit 1. Lesson 3 Unit 1 Title here</unittitle>
+               <unitintro>Lesson 3 Unit 1 Intro here</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 5</migmaq>
+                     <english>translation 5</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 6</migmaq>
+                     <english>translation 6</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(1.1.3.1) Info for Lesson 2 Unit 1</info>
+            </unit>
+            <unit>
+               <unittitle>(1.1.3.2) Unit 2. Lesson 3 Unit 2 Title here</unittitle>
+               <unitintro>Lesson 3 Unit 2 Intro here</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 7</migmaq>
+                     <english>translation 7</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 8</migmaq>
+                     <english>translation 8</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(1.1.3.2) Info for Lesson 3 Unit 2</info>
+            </unit>
+         </lesson>
+      </subsection>
+      <subsection>
+         <subsectitle>Subsection 1.2</subsectitle>
+         <lesson>
+            <lessontitle>(1.2.1) Lesson 1 Title</lessontitle>
+            <unit>
+               <unittitle>(1.2.1.1) Unit 1. Title</unittitle>
+               <unitintro>(1.2.1.1) Unit 1 Intro</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 11</migmaq>
+                     <english>translation 11</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 12</migmaq>
+                     <english>translation 12</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(1.2.1.1) Unit 1 Info</info>
+            </unit>
+            <unit>
+               <unittitle>(1.2.1.2) Unit 2 Title</unittitle>
+               <unitintro>(1.2.1.2) Unit 2 Intro</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 13</migmaq>
+                     <english>translation 13</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 14</migmaq>
+                     <english>translation 14</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(1.2.1.2) Unit 2 Info</info>
+            </unit>
+         </lesson>
+         <lesson>
+            <lessontitle>(1.2.2) Lesson 2 Title</lessontitle>
+            <unit>
+               <unittitle>(1.2.2.1) Unit 1 Title</unittitle>
+               <unitintro>(1.2.2.1) Unit 1 Intro</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 15</migmaq>
+                     <english>translation 15</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 16</migmaq>
+                     <english>translation 16</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(1.2.2.1) Unit 1 Info</info>
+            </unit>
+            <unit>
+               <unittitle>(1.2.2.2) Unit 2 Title</unittitle>
+               <unitintro>(1.2.2.2) Unit 2 Intro</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 17</migmaq>
+                     <english>translation 17</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 18</migmaq>
+                     <english>translation 18</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(1.2.2.2) Unit 2 Info</info>
+            </unit>
+         </lesson>
+      </subsection>
+   </section>
+   <section>
+      <sectiontitle>Section 2</sectiontitle>
+      <subsection>
+         <subsectitle>Subsection 2.1 Title</subsectitle>
+         <lesson>
+            <lessontitle>(2.1.1) Lesson 1 Title</lessontitle>
+            <unit>
+               <unittitle>(2.1.1.1) Unit 1 Title</unittitle>
+               <unitintro>(2.1.1.1) Unit 1 Intro</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 19</migmaq>
+                     <english>translation 19</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 20</migmaq>
+                     <english>translation 20</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(2.1.1.1) Unit 1 Info</info>
+            </unit>
+            <unit>
+               <unittitle>(2.1.1.2) Unit 2 Title</unittitle>
+               <unitintro>(2.1.1.2) Unit 2 Intro</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 21</migmaq>
+                     <english>translation 21</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 22</migmaq>
+                     <english>translation 22</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(2.1.1.2) Unit 2 Info</info>
+            </unit>
+         </lesson>
+         <lesson>
+            <lessontitle>(2.1.2) Lesson 2 Title</lessontitle>
+            <unit>
+               <unittitle>(2.1.2.1) Unit 1 Title</unittitle>
+               <unitintro>(2.1.2.1) Unit 1 Intro</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 23</migmaq>
+                     <english>translation 23</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 24</migmaq>
+                     <english>translation 24</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(2.1.2.1) Unit 1 Info</info>
+            </unit>
+            <unit>
+               <unittitle>(2.1.2.2) Unit 2 Title</unittitle>
+               <unitintro>(2.1.2.2) Unit 2 Intro</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 25</migmaq>
+                     <english>translation 25</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 26</migmaq>
+                     <english>translation 26</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(2.1.2.2) Unit 2 Info</info>
+            </unit>
+         </lesson>
+      </subsection>
+      <subsection>
+         <subsectitle>Subsection 2.2 Title</subsectitle>
+         <lesson>
+            <lessontitle>(2.2.1) Lesson 1 Title</lessontitle>
+            <unit>
+               <unittitle>(2.2.1.1) Unit 1 Title</unittitle>
+               <unitintro>(2.2.1.1) Unit 1 Intro</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 27</migmaq>
+                     <english>translation 27</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 28</migmaq>
+                     <english>translation 28</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(2.2.1.1) Unit 1 Info</info>
+            </unit>
+            <unit>
+               <unittitle>(2.2.1.2) Unit 2 Title</unittitle>
+               <unitintro>(2.2.1.2) Unit 2 Intro</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 29</migmaq>
+                     <english>translation 29</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 30</migmaq>
+                     <english>translation 30</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(2.2.1.2) Unit 2 Info</info>
+            </unit>
+         </lesson>
+         <lesson>
+            <lessontitle>(2.2.2) Lesson 2 Title</lessontitle>
+            <unit>
+               <unittitle>(2.2.2.1) Unit 1 Title</unittitle>
+               <unitintro>(2.2.2.1) Unit 1 Intro</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 31</migmaq>
+                     <english>translation 31</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 32</migmaq>
+                     <english>translation 32</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(2.2.2.1) Unit 1 Info</info>
+            </unit>
+            <unit>
+               <unittitle>(2.2.2.2) Unit 2 Title</unittitle>
+               <unitintro>(2.2.2.2) Unit 2 Intro</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 33</migmaq>
+                     <english>translation 33</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 34</migmaq>
+                     <english>translation 34</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(2.2.2.2) Unit 2 Info</info>
+            </unit>
+         </lesson>
+      </subsection>
+   </section>
+   <section>
+      <sectiontitle>Section 3</sectiontitle>
+      <subsection>
+         <subsectitle>Subsection 3.1</subsectitle>
+         <lesson>
+            <lessontitle>(3.1.1) Lesson 1 Titile</lessontitle>
+            <unit>
+               <unittitle>(3.1.1.1) Unit 1 Title</unittitle>
+               <dialog>
+                  <line>
+                     <migmaq>sentence 35</migmaq>
+                     <english>translation 35</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>sentence 36</migmaq>
+                     <english>translation 36</english>
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>(3.1.1.1) Unit 1 Info</info>
+            </unit>
+         </lesson>
+      </subsection>
+   </section>
+</lessonset>

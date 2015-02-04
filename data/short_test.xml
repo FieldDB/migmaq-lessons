@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="NewXSLTestScript.xsl"?>
+<?xml-stylesheet type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"?>
+<lessonset>
+   <generalintro>
+      <genintrotitle>How to use this course</genintrotitle>
+      <genintrotext>Goal, structure of the course, etc.</genintrotext>
+   </generalintro>
+   <section>
+      <sectiontitle>Section 1</sectiontitle>
+      <subsection>
+         <subsectitle>Subsection 1.1</subsectitle>
+         <lesson>
+            <lessontitle>Lesson 1. Introducing yourself and your parents</lessontitle>
+            <unit>
+               <unittitle>Unit 1. What is your name and where are you from?</unittitle>
+               <unitintro>The first thing you’ll need to be able to say in Mi’gmaq is who you are! In this lesson we’ll show you how to say who you are, where you are from and where you live (as well as who your parents are, where they are from and where they live).</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>Taluisin?</migmaq>
+                     <english>(Give an answer to the question)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>Tleiawin?</migmaq>
+                     <english>(Give an answer to the question)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>some info</info>
+            </unit>
+            <unit>
+               <unittitle>Unit 2. Who are your parents?</unittitle>
+               <unitintro>Did you notice the pattern? When you are talking about yourself (I / me) there is no ending on the verb teluisi but when are talking about what someone else (you) are doing teluisi needs an n at the end - teluisin.</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>'ngij teluisi__ Susan Noel.</migmaq>
+                     <english>(Fill in the blank)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>__ujj teluisit Peter Noel.</migmaq>
+                     <english>(Fill in the blank)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+            </unit>
+            <unit>
+               <unittitle>Unit 3. Where do you and your parents live?</unittitle>
+               <unitintro>Did you notice the pattern? When you are talking about someone else (he / she) the verb teluisi ends in a t - teluisit. ALSO, When talking about your own family members the person begins in an n but when talking about someone else’s (your) family members the person begins in g - (e.g. nujj vs. gujj).</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>Tami tett gujj wigit?</migmaq>
+                     <english>(Give an answer to the question.)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+                  <line>
+                     <migmaq>'ggij wigin Listugujg.</migmaq>
+                     <english>(Rewrite the sentence without the error.)</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+            </unit>
+            <unit>
+               <unittitle>Unit 4. Dialogue</unittitle>
+               <unitintro>In the last unit you should have recognized the pattern that we showed you in the previous two units: verbs about I/me have no ending, verbs about you end in n, verbs about he/she end in t. Also remember that family members belonging to I/me begin with n and that family members belonging to you begin with g.</unitintro>
+               <dialog>
+                  <line>
+                     <migmaq>Migmaq transcription</migmaq>
+                     <english>A: Hi, what's your name?</english>
+                     <!-- </sound> -->
+                     <!-- </picture> -->
+                  </line>
+               </dialog>
+               <info>Don’t worry if you didn’t understand every word in the dialogue, just make sure that you understand the verb patterns we went over in the previous units.</info>
+            </unit>
+         </lesson>
+      </subsection>
+   </section>
+</lessonset>
