@@ -39,8 +39,8 @@ def getAttrV(r, keyword, k):
 def makeText(r, k):
     l = getElements(r, k)
     for node in l:
+        t = etree.SubElement(node.getparent(), "h1")
         t.text = node.text
-        SubElement(node, "h1")
 
 #####################################################################
 addAttr(rbody, 'unit', 'href', "http://example.com/")
@@ -48,7 +48,10 @@ hrefs = getAttrV(rbody, 'unit', 'href')
 #printLeaves(rtop) 
 blist = getElements(rtop, 'body')
 blist[0].append(rbody)
-
+makeText(rtop, "genintrotitle")
 top.write('root.html', method="html")
-r = etree.parse('root.html')
+r = etree.HTML('root.html')
+print(r)
+for x in r.iter():
+    print x
 printLeaves(r)
