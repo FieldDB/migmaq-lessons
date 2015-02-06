@@ -7,6 +7,7 @@ def processUnit(sectionTitle, subsectionTitle, lessonTitle, unit):
   unitTitle = unit.xpath("unittitle/text()")[0]
   filename = "%s-%s-%s-%s.html" % (sectionTitle, subsectionTitle, lessonTitle, unitTitle)
   f = open(filename, "w")
+  f.write("---")
   f.write(str(unit_xsl(unit)))
   f.close()
 
