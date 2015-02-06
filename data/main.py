@@ -25,6 +25,12 @@ def processLesson(sectionTitle, subsectionTitle, lesson, which):
   units = lesson.xpath("unit")  #get units
   for unit in units: #call unit processing function on all units
     which = processUnit(sectionTitle, subsectionTitle, title, unit, which)
+  filename = "../%s.%s.%s.html" % (which[0][0], which[1][0], which[2][0])
+  which[2][2] = filename
+  f = open(filename, "w") #create new file
+  f.write("---\nlayout: blank\nsection: %s\nsubsection: %s\nlesson: %s\n---\n" % (sectionTitle, subsectionTitle, title)) #write jekyll layout markup
+  f.write("<h1>%s</h1>" % (which[2])) #write index of lesson to file
+  f.close()
   return which
 
 def processSubsection(sectionTitle, subsection, which):
@@ -34,6 +40,12 @@ def processSubsection(sectionTitle, subsection, which):
   lessons = subsection.xpath("lesson")  #get lessons
   for lesson in lessons: #call lesson processing function on all lessons
     which = processLesson(sectionTitle, title, lesson, which)
+  filename = "../%s.%s.html" % (which[0][0], which[1][0])
+  which[1][2] = filename
+  f = open(filename, "w") #create new file
+  f.write("---\nlayout: blank\nsection: %s\nsubsection: %s\n---\n" % (sectionTitle, title)) #write jekyll layout markup
+  f.write("<h1>%s</h1>" % (which[1])) #write index of subsection to file
+  f.close()
   return which
 
 def processSection(section, which):
@@ -44,7 +56,14 @@ def processSection(section, which):
   subsections = section.xpath("subsection") #get subsections
   for subsection in subsections: #call subsection processing function on all sections
     which = processSubsection(title, subsection, which)
+  filename = "../%s.html" % (which[0][0])
+  which[0][2] = filename
+  f = open(filename, "w") #create new file
+  f.write("---\nlayout: blank\nsection: %s\n---\n" % (title)) #write jekyll layout markup
+  f.write("<h1>%s</h1>" % (which[0])) #write index of lesson to file
+  f.close()
   return which
+
 
 doc = etree.parse("short_test.xml") #parse the xml doc
 sections = doc.xpath("/lessonset/section")  #get sections
