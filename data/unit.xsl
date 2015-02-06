@@ -6,11 +6,21 @@
         <TITLE><xsl:value-of select="unittitle"/></TITLE>
       </HEAD>
       <BODY>
-        <img class="img-responsive thumbnail" src="../img/Swarthmore%20134.JPG" alt="Trees" style="max-width: 75%"></img>
+      	<h1><xsl:value-of select="unittitle"/></h1>
+        <img class="img-responsive thumbnail" src="../img/wikiimage.png" alt="Trees" style="max-width: 75%"></img>
         <P><xsl:value-of select="unitintro"/></P>
+        <xsl:for-each select="dialog">
+        	<p>
+        		<xsl:for-each select="line">
+        			<h2><xsl:value-of select="migmaq"/></h2>  
+        			<h2><xsl:value-of select="english"/></h2>
+        		</xsl:for-each>    		
+        	</p>  	
+        </xsl:for-each>
+        <p>
+        	<xsl:value-of select="info"/>
+        </p>
       </BODY>
     </HTML>
-  </xsl:template>
-  <xsl:template match="/dialog">
   </xsl:template>
 </xsl:stylesheet>
