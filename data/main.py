@@ -59,9 +59,10 @@ def createIndexFile(which, level, levelList):
   markup = markup + "---\n"
   filename = filename + "html"
   which[level-1][2] = filename
+  text = "<p><h3><a href=%s><h3>%s</h3></a></h3></p>" % (which[level-1][2], which[level-1][1])
   f = open(filename, "w") #create new file
   f.write(markup) #write jekyll layout markup
-  f.write("<h1>%s</h1>" % (which[level-1])) #write index of level to file
+  f.write(text) #write index of level to file
   f.close()
 
 doc = etree.parse("short_test.xml") #parse the xml doc
