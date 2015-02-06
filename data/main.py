@@ -5,9 +5,10 @@ unit_xsl = etree.XSLT(unit_xsl_raw)
 
 def processUnit(sectionTitle, subsectionTitle, lessonTitle, unit):
   unitTitle = unit.xpath("unittitle/text()")[0]
-  filename = "%s-%s-%s-%s.html" % (sectionTitle, subsectionTitle, lessonTitle, unitTitle)
+  filename = "%s.html" % (unitTitle)
   f = open(filename, "w")
   f.write("---")
+  f.write("\nlayout: blank\nsection: %s\nsubsection: %s\nlesson: %s\nunit: %s\n---\n" % (sectionTitle, subsectionTitle, lessonTitle, unitTitle))
   f.write(str(unit_xsl(unit)))
   f.close()
 
