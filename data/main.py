@@ -10,7 +10,7 @@ def processUnit(sectionTitle, subsectionTitle, lessonTitle, unit, which):
   which[3][0] +=1
   title = unit.xpath("unittitle/text()")[0]
   which[3][1] = title
-  filename = "%s.%s.%s.%s.html" % (which[0][0], which[1][0], which[2][0], which[3][0])
+  filename = "../%s.%s.%s.%s.html" % (which[0][0], which[1][0], which[2][0], which[3][0])
   which[3][2] = filename
   f = open(filename, "w") #create new file
   f.write("---\nlayout: blank\nsection: %s\nsubsection: %s\nlesson: %s\nunit: %s\n---\n" % (sectionTitle, subsectionTitle, lessonTitle, title)) #write jekyll layout markup
