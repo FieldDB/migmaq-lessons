@@ -22,59 +22,35 @@ def trackLevel(title, filename, which):
   return children[len(children)-1]
 
 def processUnit(levels, level, unit):
-  title = unit.xpath("unittitle/text()")[0]
-  l = levels[level]
-  parent = l[unit][0][0]
-  number = l[unit][0][1]
-  lesson = unit.xpath("..")[0]
-  lesson_title = lesson.xpath("lessontitle/text()")[0]
-  subsection = lesson.xpath("..")[0]
-  subsection_title = subsection.xpath("subsectitle/text()")[0]
-  section = subsection.xpath("..")[0]
-  section_title = section.xpath("sectiontitle/text()")[0]
-  lessonset = section.xpath("..")[0]
-  section_num = getIndex(lessonset, "section", section)
-  subsection_num = getIndex(section, "subsection", subsection)
-  lesson_num = getIndex(subsection, "lesson", lesson)
-  unit_num = getIndex(lesson, "unit", unit)
-  filename = "../%s.%s.%s.%s.html" % (1, subsection_num, lesson_num, unit_num)
-  l[unit] = [(parent, filename, title)]
+  filename = createFilename(unit, level)
+  plist = getParentTitlesFiles(unit, level)
+  plist.reverse()
+  titles, files = zip(*plist)
   f = open(filename, "w") #create new file
-  f.write("---\nlayout: blank\nsection: %s\nsubsection: %s\nlesson: %s\nunit: %s\n---\n" % (section_title, subsection_title, lesson_title, title)) #(sectionTitle, subsectionTitle, lessonTitle, title)) #write jekyll layout markup
+  f.write("---\nlayout: blank\nsection: %s\nsubsection: %s\nlesson: %s\nunit: %s\n---\n" % titles) #(sectionTitle, subsectionTitle, lessonTitle, title)) #write jekyll layout markup
   f.write(str(unit_xsl(unit))) #apply xslt transformation to unit data and write to file
   f.close()
 
 def processLesson(levels, level, lesson):
   title = lesson.xpath("lessontitle/text()")[0] #get lesson title
-  l = levels[level]
-  parent = l[lesson][0][0]
-  l[lesson] = [(parent, "", title)]
+  filename = createFilename(lesson, level)
   units = lesson.xpath("unit")  #get units
   for unit in units: #call unit processing function on all units
-    l[lesson].append(unit)
-    levels[level+1][unit] = [(lesson, len(l[lesson])-1, "", "")]
-    processUnit(levels, level+1, unit)
+      processUnit(levels, level+1, unit)
 
 def processSubsection(levels, level, subsection):
   title = subsection.xpath("subsectitle/text()")[0] #get subsection title
-  l = levels[level]
-  parent = l[subsection][0][0]
-  l[subsection] = [(parent, "", title)]
+  filename = createFilename(subsection, level)
   lessons = subsection.xpath("lesson")  #get lessons
   for lesson in lessons: #call lesson processing function on all lessons
-    l[subsection].append(lesson)
-    levels[level+1][lesson] = [(subsection, len(l[subsection])-1, "", "")]
     processLesson(levels, level+1, lesson)
 
 def processSection(levels, level, section):
   # xpath always returns a collection, even when it is singleton, thus the [0]
   title = section.xpath("sectiontitle/text()")[0] #get section title
-  l = levels[level]
-  l[section] = [("", title)]
+  filename = createFilename(section, level)
   subsections = section.xpath("subsection") #get subsections
   for subsection in subsections: #call subsection processing function on all sections
-    l[section].append(subsection)
-    levels[level+1][subsection] = [(section, len(l[section])-1, "", "")]
     processSubsection(levels, level+1, subsection)
 
 def createIndexFile(which, level, levelList):
@@ -92,12 +68,32 @@ def createIndexFile(which, level, levelList):
   filename = filename + "html"
   i = len(which[level])-1
   which[level][i][1] = filename
-  print filename
   f = open(filename, "w") #create new file
   f.write(markup) #write jekyll layout markup
   f.write(text) #write index of level to file
   f.close()
   return which
+
+def createFilename(current, level):
+  levelList = ["section", "subsection", "lesson", "unit"]
+  filename = ""
+  for i in range(level, 0, -1):
+    parent = current.xpath("..")[0]
+    index = getIndex(parent, levelList[i-1], current)
+    filename = str(index) + "." + filename
+    current = parent
+  filename = "../" + filename + "html"
+  return filename
+
+def getParentTitlesFiles(current, level):
+  parentInfo = []
+  for i in range(level, 0, -1):
+    parent = current.xpath("..")[0]
+    title = current.xpath("*/text()")[0]
+    filename = createFilename(current, i)
+    current = parent
+    parentInfo.append((title,filename))
+  return parentInfo
 
 def getIndex(parent, childTag, child):
   count = 0
@@ -111,5 +107,4 @@ doc = etree.parse("short_test.xml") #parse the xml doc
 sections = doc.xpath("/lessonset/section")  #get sections
 for section in sections: #call section processing function on all units
   w = processSection(levels, 1, section)
-pprint.pprint(levels)
 
