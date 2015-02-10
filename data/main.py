@@ -32,7 +32,12 @@ def processUnit(levels, level, unit):
   subsection_title = subsection.xpath("subsectitle/text()")[0]
   section = subsection.xpath("..")[0]
   section_title = section.xpath("sectiontitle/text()")[0]
-  filename = "../%s.%s.%s.%s.html" % (1, 2, 3, number)
+  lessonset = section.xpath("..")[0]
+  section_num = getIndex(lessonset, "section", section)
+  subsection_num = getIndex(section, "subsection", subsection)
+  lesson_num = getIndex(subsection, "lesson", lesson)
+  unit_num = getIndex(lesson, "unit", unit)
+  filename = "../%s.%s.%s.%s.html" % (1, subsection_num, lesson_num, unit_num)
   l[unit] = [(parent, filename, title)]
   f = open(filename, "w") #create new file
   f.write("---\nlayout: blank\nsection: %s\nsubsection: %s\nlesson: %s\nunit: %s\n---\n" % (section_title, subsection_title, lesson_title, title)) #(sectionTitle, subsectionTitle, lessonTitle, title)) #write jekyll layout markup
@@ -42,7 +47,7 @@ def processUnit(levels, level, unit):
 def processLesson(levels, level, lesson):
   title = lesson.xpath("lessontitle/text()")[0] #get lesson title
   l = levels[level]
-  parent = l[lesson][0]
+  parent = l[lesson][0][0]
   l[lesson] = [(parent, "", title)]
   units = lesson.xpath("unit")  #get units
   for unit in units: #call unit processing function on all units
@@ -53,7 +58,7 @@ def processLesson(levels, level, lesson):
 def processSubsection(levels, level, subsection):
   title = subsection.xpath("subsectitle/text()")[0] #get subsection title
   l = levels[level]
-  parent = l[subsection][0]
+  parent = l[subsection][0][0]
   l[subsection] = [(parent, "", title)]
   lessons = subsection.xpath("lesson")  #get lessons
   for lesson in lessons: #call lesson processing function on all lessons
@@ -93,6 +98,14 @@ def createIndexFile(which, level, levelList):
   f.write(text) #write index of level to file
   f.close()
   return which
+
+def getIndex(parent, childTag, child):
+  count = 0
+  for c in parent.xpath(childTag):
+    count +=1
+    if c == child:
+      return count
+  return -1
 
 doc = etree.parse("short_test.xml") #parse the xml doc
 sections = doc.xpath("/lessonset/section")  #get sections
