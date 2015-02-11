@@ -52,8 +52,7 @@ def processSection(levels, level, section):
   for subsection in subsections: #call subsection processing function on all sections
     processSubsection(levels, level+1, subsection)
 
-def createIndexFile(which, level, levelList):
-  filename = "../"
+def createIndexFile(filename, childrenInfo, parentInfo, level, levelList):
   markup = "---\nlayout: blank\n"
   for i in range(level+1):
     filename = filename + "%s." % (len(which[i])-1)
@@ -71,7 +70,6 @@ def createIndexFile(which, level, levelList):
   f.write(markup) #write jekyll layout markup
   f.write(text) #write index of level to file
   f.close()
-  return which
 
 def createFilename(current, level):
   levelList = ["section", "subsection", "lesson", "unit"]
@@ -107,8 +105,6 @@ def getChildrenTitlesFiles(current, level):
       childInfo.append((title,filename))
   childInfo.reverse()
   return childInfo
-
-
 
 def getIndex(parent, childTag, child):
   count = 0
