@@ -24,7 +24,6 @@ def trackLevel(title, filename, which):
 def processUnit(levels, level, unit):
   filename = createFilename(unit, level)
   plist = getParentTitlesFiles(unit, level)
-  plist.reverse()
   titles, files = zip(*plist)
   f = open(filename, "w") #create new file
   f.write("---\nlayout: blank\nsection: %s\nsubsection: %s\nlesson: %s\nunit: %s\n---\n" % titles) #(sectionTitle, subsectionTitle, lessonTitle, title)) #write jekyll layout markup
@@ -93,7 +92,23 @@ def getParentTitlesFiles(current, level):
     filename = createFilename(current, i)
     current = parent
     parentInfo.append((title,filename))
+    parentInfo.reverse()
   return parentInfo
+
+def getChildrenTitlesFiles(current, level):
+  levelList = ["section", "subsection", "lesson", "unit"]
+  childInfo = []
+  for l in range(len(levelList[level:])+1, 0, -1):
+    tag = levelList[l-1]
+    children = current.xpath("//"+tag)
+    for c in children:
+      title = c.xpath("*/text()")[0]
+      filename = createFilename(c, l)
+      childInfo.append((title,filename))
+  childInfo.reverse()
+  return childInfo
+
+
 
 def getIndex(parent, childTag, child):
   count = 0
@@ -107,4 +122,5 @@ doc = etree.parse("short_test.xml") #parse the xml doc
 sections = doc.xpath("/lessonset/section")  #get sections
 for section in sections: #call section processing function on all units
   w = processSection(levels, 1, section)
+  print getChildrenTitlesFiles(section, 1)
 
