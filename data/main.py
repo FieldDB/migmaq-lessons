@@ -1,12 +1,12 @@
 from lxml import etree
 import pprint
 
-levelList = ["section", "subsection", "lesson", "unit"]
+levelList = ["lessonset", "section", "subsection", "lesson", "unit"]
 unit_xsl_raw = etree.parse("unit.xsl")  #parse xsl document
 unit_xsl = etree.XSLT(unit_xsl_raw) #create an xslt transformation function
 levels = {1:{}, 2:{}, 3:{}, 4:{}} #list of lists that associate each section with its title and page
 
-def processUnit(levels, level, unit):
+def processUnit(level, unit):
   filename = createFilename(unit, level)
   plist = getParentTitlesFiles(unit, level)
   titles, files = zip(*plist)
@@ -15,38 +15,42 @@ def processUnit(levels, level, unit):
   f.write(str(unit_xsl(unit))) #apply xslt transformation to unit data and write to file
   f.close()
 
-def processLesson(levels, level, lesson):
-  title = lesson.xpath("lessontitle/text()")[0] #get lesson title
+def processLesson(level, lesson):
   filename = createFilename(lesson, level)
   createIndexFile(filename, getChildrenTitlesFiles(lesson, level), getParentTitlesFiles(lesson, level), level)
   units = lesson.xpath("unit")  #get units
   for unit in units: #call unit processing function on all units
-      processUnit(levels, level+1, unit)
+      processUnit(level+1, unit)
 
-def processSubsection(levels, level, subsection):
-  title = subsection.xpath("subsectitle/text()")[0] #get subsection title
+def processSubsection(level, subsection):
   filename = createFilename(subsection, level)
   createIndexFile(filename, getChildrenTitlesFiles(subsection, level), getParentTitlesFiles(subsection, level), level)
   lessons = subsection.xpath("lesson")  #get lessons
   for lesson in lessons: #call lesson processing function on all lessons
-    processLesson(levels, level+1, lesson)
+    processLesson(level+1, lesson)
 
-def processSection(levels, level, section):
-  # xpath always returns a collection, even when it is singleton, thus the [0]
-  title = section.xpath("sectiontitle/text()")[0] #get section title
+def processSection(level, section):
   filename = createFilename(section, level)
   createIndexFile(filename, getChildrenTitlesFiles(section, level), getParentTitlesFiles(section, level), level)
   subsections = section.xpath("subsection") #get subsections
   for subsection in subsections: #call subsection processing function on all sections
-    processSubsection(levels, level+1, subsection)
+    processSubsection(level+1, subsection)
+
+def processLessonSet(level, lessonset):
+  #filename = createFilename(lessonset, level)
+  #createIndexFile(filename, getChildrenTitlesFiles(lessonset, level), getParentTitlesFiles(lessonset, level), level)
+  sections = lessonset.xpath("section")  #get sections
+  for section in sections: #call section processing function on all units
+    processSection(level+1, section)
 
 def createIndexFile(filename, childrenInfo, parentInfo, level):
   text = ""
   for i in range(len(childrenInfo)):
+    print childrenInfo[i]
     text = text + "<a href=%s><h2>%s</h2></a>" % (childrenInfo[i][1], childrenInfo[i][0])#fix
   text = "<p>" + text + "</p>"
   markup = ""
-  for i in range(len(levelList[:level])):
+  for i in range(1, len(levelList[0:level])):
     markup = markup + "%s: %s\n" % (levelList[i], parentInfo[i][0])
   markup = "---\nlayout: blank\n" + markup + "---\n"
   f = open(filename, "w") #create new file
@@ -55,11 +59,10 @@ def createIndexFile(filename, childrenInfo, parentInfo, level):
   f.close()
 
 def createFilename(current, level):
-  levelList = ["section", "subsection", "lesson", "unit"]
   filename = ""
-  for i in range(level, 0, -1):
+  for i in range(0,level):
     parent = current.xpath("..")[0]
-    index = getIndex(parent, levelList[i-1], current)
+    index = getIndex(parent, levelList[level-i], current)
     filename = str(index) + "." + filename
     current = parent
   filename = "../" + filename + "html"
@@ -78,8 +81,8 @@ def getParentTitlesFiles(current, level):
 
 def getChildrenTitlesFiles(current, level):
   childInfo = []
-  for l in range(len(levelList[level:])+1, 0, -1):
-    tag = levelList[l-1]
+  for l in range(len(levelList)-1, (level-1), -1):
+    tag = levelList[l]
     children = current.xpath("//"+tag)
     children.reverse()
     for c in children:
@@ -97,8 +100,8 @@ def getIndex(parent, childTag, child):
       return count
   return -1
 
-doc = etree.parse("NewTestScript.xml") #parse the xml doc
-sections = doc.xpath("/lessonset/section")  #get sections
-for section in sections: #call section processing function on all units
-  w = processSection(levels, 1, section)
+doc = etree.parse("short_test.xml") #parse the xml doc
+lessonset = doc.xpath("/lessonset")[0]
+# xpath always returns a collection, even when it is singleton, thus the [0]
+processLessonSet(0, lessonset)
 
