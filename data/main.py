@@ -97,7 +97,7 @@ def getIndex(parent, childTag, child):
       return count
   return -1
 
-doc = etree.parse("short_test.xml") #parse the xml doc
+doc = etree.parse("NewTestScript.xml") #parse the xml doc
 sections = doc.xpath("/lessonset/section")  #get sections
 for section in sections: #call section processing function on all units
   w = processSection(levels, 1, section)
