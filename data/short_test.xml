@@ -2,6 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="NewXSLTestScript.xsl"?>
 <?xml-stylesheet type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"?>
 <lessonset>
+   <lessonsettitle>Hello!</lessonsettitle>
    <generalintro>
       <genintrotitle>How to use this course</genintrotitle>
       <genintrotext>Goal, structure of the course, etc.</genintrotext>

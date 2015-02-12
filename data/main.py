@@ -4,6 +4,10 @@ import pprint
 levelList = ["lessonset", "section", "subsection", "lesson", "unit"]
 unit_xsl_raw = etree.parse("unit.xsl")  #parse xsl document
 unit_xsl = etree.XSLT(unit_xsl_raw) #create an xslt transformation function
+index_xsl_raw = etree.parse("index.xsl")  #parse xsl document
+index_xsl = etree.XSLT(index_xsl_raw) #create an xslt transformation function
+intro_xsl_raw = etree.parse("intro.xsl")  #parse xsl document
+intro_xsl = etree.XSLT(intro_xsl_raw) #create an xslt transformation function
 levels = {1:{}, 2:{}, 3:{}, 4:{}} #list of lists that associate each section with its title and page
 
 def processUnit(level, unit):
@@ -11,11 +15,17 @@ def processUnit(level, unit):
   plist = getParentTitlesFiles(unit, level)
   titles, files = zip(*plist)
   f = open(filename, "w") #create new file
-  f.write("---\nlayout: blank\nsection: %s\nsubsection: %s\nlesson: %s\nunit: %s\n---\n" % titles) #(sectionTitle, subsectionTitle, lessonTitle, title)) #write jekyll layout markup
+  f.write("---\nlayout: blank\nsection: %s\nsubsection: %s\nlesson: %s\nunit: %s\n---\n" % titles) #write jekyll layout markup
   f.write(str(unit_xsl(unit))) #apply xslt transformation to unit data and write to file
   f.close()
 
 def processLesson(level, lesson):
+  filename = "text_lesson"
+  f = open(filename, "w") #create new file
+  towrite = str(index_xsl(lesson))
+  print towrite
+  f.write(towrite) #apply xslt transformation to unit data and write to file
+  f.close()
   filename = createFilename(lesson, level)
   createIndexFile(filename, getChildrenTitlesFiles(lesson, level), getParentTitlesFiles(lesson, level), level)
   units = lesson.xpath("unit")  #get units
@@ -23,6 +33,12 @@ def processLesson(level, lesson):
       processUnit(level+1, unit)
 
 def processSubsection(level, subsection):
+  filename = "text_subsection"
+  f = open(filename, "w") #create new file
+  towrite = str(index_xsl(subsection))
+  print towrite
+  f.write(towrite) #apply xslt transformation to unit data and write to file
+  f.close()
   filename = createFilename(subsection, level)
   createIndexFile(filename, getChildrenTitlesFiles(subsection, level), getParentTitlesFiles(subsection, level), level)
   lessons = subsection.xpath("lesson")  #get lessons
@@ -30,6 +46,12 @@ def processSubsection(level, subsection):
     processLesson(level+1, lesson)
 
 def processSection(level, section):
+  filename = "text_section"
+  f = open(filename, "w") #create new file
+  towrite = str(index_xsl(section))
+  print towrite
+  f.write(towrite) #apply xslt transformation to unit data and write to file
+  f.close()
   filename = createFilename(section, level)
   createIndexFile(filename, getChildrenTitlesFiles(section, level), getParentTitlesFiles(section, level), level)
   subsections = section.xpath("subsection") #get subsections
@@ -37,7 +59,12 @@ def processSection(level, section):
     processSubsection(level+1, subsection)
 
 def processLessonSet(level, lessonset):
-  #filename = createFilename(lessonset, level)
+  filename = "../intro.html"
+  f = open(filename, "w") #create new file
+  towrite = str(intro_xsl(lessonset))
+  #print towrite
+  f.write(towrite) #apply xslt transformation to unit data and write to file
+  f.close()
   #createIndexFile(filename, getChildrenTitlesFiles(lessonset, level), getParentTitlesFiles(lessonset, level), level)
   sections = lessonset.xpath("section")  #get sections
   for section in sections: #call section processing function on all units
@@ -46,12 +73,11 @@ def processLessonSet(level, lessonset):
 def createIndexFile(filename, childrenInfo, parentInfo, level):
   text = ""
   for i in range(len(childrenInfo)):
-    print childrenInfo[i]
     text = text + "<a href=%s><h2>%s</h2></a>" % (childrenInfo[i][1], childrenInfo[i][0])#fix
   text = "<p>" + text + "</p>"
   markup = ""
-  for i in range(1, len(levelList[0:level])):
-    markup = markup + "%s: %s\n" % (levelList[i], parentInfo[i][0])
+  for i in range(0, len(levelList[0:level])):
+    markup = markup + "%s: %s\n" % (levelList[i+1], parentInfo[i][0])
   markup = "---\nlayout: blank\n" + markup + "---\n"
   f = open(filename, "w") #create new file
   f.write(markup) #write jekyll layout markup
@@ -76,7 +102,7 @@ def getParentTitlesFiles(current, level):
     filename = createFilename(current, i)
     current = parent
     parentInfo.append((title,filename))
-    parentInfo.reverse()
+  parentInfo.reverse()
   return parentInfo
 
 def getChildrenTitlesFiles(current, level):
