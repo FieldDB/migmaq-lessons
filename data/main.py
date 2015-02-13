@@ -1,130 +1,85 @@
 from lxml import etree
-import pprint
 
-levelList = ["lessonset", "section", "subsection", "lesson", "unit"]
 unit_xsl_raw = etree.parse("unit.xsl")  #parse xsl document
 unit_xsl = etree.XSLT(unit_xsl_raw) #create an xslt transformation function
 index_xsl_raw = etree.parse("index.xsl")  #parse xsl document
 index_xsl = etree.XSLT(index_xsl_raw) #create an xslt transformation function
 intro_xsl_raw = etree.parse("intro.xsl")  #parse xsl document
 intro_xsl = etree.XSLT(intro_xsl_raw) #create an xslt transformation function
-levels = {1:{}, 2:{}, 3:{}, 4:{}} #list of lists that associate each section with its title and page
 
 def processUnit(level, unit):
-  filename = createFilename(unit, level)
-  plist = getParentTitlesFiles(unit, level)
-  titles, files = zip(*plist)
+  filename = createFilename(unit, level)#create filename
   f = open(filename, "w") #create new file
-  f.write("---\nlayout: blank\nsection: %s\nsubsection: %s\nlesson: %s\nunit: %s\n---\n" % titles) #write jekyll layout markup
+  f.write(getMarkup(unit, level)) #write Jekyll markup to top
   f.write(str(unit_xsl(unit))) #apply xslt transformation to unit data and write to file
   f.close()
 
 def processLesson(level, lesson):
-  filename = "text_lesson"
-  f = open(filename, "w") #create new file
-  towrite = str(index_xsl(lesson))
-  print towrite
-  f.write(towrite) #apply xslt transformation to unit data and write to file
-  f.close()
-  filename = createFilename(lesson, level)
-  createIndexFile(filename, getChildrenTitlesFiles(lesson, level), getParentTitlesFiles(lesson, level), level)
+  createIndexFile(lesson, level)
   units = lesson.xpath("unit")  #get units
   for unit in units: #call unit processing function on all units
       processUnit(level+1, unit)
 
 def processSubsection(level, subsection):
-  filename = "text_subsection"
-  f = open(filename, "w") #create new file
-  towrite = str(index_xsl(subsection))
-  print towrite
-  f.write(towrite) #apply xslt transformation to unit data and write to file
-  f.close()
-  filename = createFilename(subsection, level)
-  createIndexFile(filename, getChildrenTitlesFiles(subsection, level), getParentTitlesFiles(subsection, level), level)
+  createIndexFile(subsection, level)
   lessons = subsection.xpath("lesson")  #get lessons
   for lesson in lessons: #call lesson processing function on all lessons
     processLesson(level+1, lesson)
 
-def processSection(level, section):
-  filename = "text_section"
-  f = open(filename, "w") #create new file
-  towrite = str(index_xsl(section))
-  print towrite
-  f.write(towrite) #apply xslt transformation to unit data and write to file
-  f.close()
-  filename = createFilename(section, level)
-  createIndexFile(filename, getChildrenTitlesFiles(section, level), getParentTitlesFiles(section, level), level)
+def processSection(level, section):  
+  createIndexFile(section, level)
   subsections = section.xpath("subsection") #get subsections
   for subsection in subsections: #call subsection processing function on all sections
     processSubsection(level+1, subsection)
 
 def processLessonSet(level, lessonset):
-  filename = "../intro.html"
-  f = open(filename, "w") #create new file
-  towrite = str(intro_xsl(lessonset))
-  #print towrite
-  f.write(towrite) #apply xslt transformation to unit data and write to file
+  f = open("../intro.html", "w") #create new file
+  f.write(getMarkup(lessonset, level))#write Jekyll markup to top
+  f.write(str(intro_xsl(lessonset))) #apply xslt transformation to unit data and write to file
   f.close()
-  #createIndexFile(filename, getChildrenTitlesFiles(lessonset, level), getParentTitlesFiles(lessonset, level), level)
   sections = lessonset.xpath("section")  #get sections
   for section in sections: #call section processing function on all units
     processSection(level+1, section)
 
-def createIndexFile(filename, childrenInfo, parentInfo, level):
-  text = ""
-  for i in range(len(childrenInfo)):
-    text = text + "<a href=%s><h2>%s</h2></a>" % (childrenInfo[i][1], childrenInfo[i][0])#fix
-  text = "<p>" + text + "</p>"
-  markup = ""
-  for i in range(0, len(levelList[0:level])):
-    markup = markup + "%s: %s\n" % (levelList[i+1], parentInfo[i][0])
-  markup = "---\nlayout: blank\n" + markup + "---\n"
+def createIndexFile(current, level):
+  filename = createFilename(current,level)#create filename
   f = open(filename, "w") #create new file
-  f.write(markup) #write jekyll layout markup
-  f.write(text) #write index of level to file
+  f.write(getMarkup(current, level))#write Jekyll markup to top
+  f.write(str(index_xsl(current))) #apply xslt transformation to generate an index and write to file
   f.close()
+
+def getMarkup(current, level):
+  markup = ""
+  pt = getParentTitles(current, level)#get list of titles of parent sections
+  for i in range(len(pt)):
+    markup = markup + "%s: %s\n" % (pt[i]) #Jekyll markup for each parent
+  markup = "---\nlayout: blank\n" + markup + "---\n" #layout markup
+  return markup
+
+def getParentTitles(current, level):
+  titles = []
+  for i in range(level, 0, -1): #search back through levels
+    parent = current.xpath("..")[0]#get parent
+    title = current.xpath("*/text()")[0]#get title of each parent
+    name = current.xpath("name()")#get name of each parent
+    current = parent #set new current node
+    titles.append((name,title)) #append parent title to list
+  titles.reverse() #print in top-to-bottom order
+  return titles
 
 def createFilename(current, level):
   filename = ""
-  for i in range(0,level):
-    parent = current.xpath("..")[0]
-    index = getIndex(parent, levelList[level-i], current)
-    filename = str(index) + "." + filename
-    current = parent
+  for i in range(0,level): #iterate through tree hierarchy to current level
+    parent = current.xpath("..")[0] #get parent node
+    index = getIndex(current) #get index of parent node
+    filename = str(index) + "." + filename #add parent node index to filename
+    current = parent #set current node to parent to move up a level
   filename = "../" + filename + "html"
   return filename
 
-def getParentTitlesFiles(current, level):
-  parentInfo = []
-  for i in range(level, 0, -1):
-    parent = current.xpath("..")[0]
-    title = current.xpath("*/text()")[0]
-    filename = createFilename(current, i)
-    current = parent
-    parentInfo.append((title,filename))
-  parentInfo.reverse()
-  return parentInfo
-
-def getChildrenTitlesFiles(current, level):
-  childInfo = []
-  for l in range(len(levelList)-1, (level-1), -1):
-    tag = levelList[l]
-    children = current.xpath("//"+tag)
-    children.reverse()
-    for c in children:
-      title = c.xpath("*/text()")[0]
-      filename = createFilename(c, l)
-      childInfo.append((title,filename))
-  childInfo.reverse()
-  return childInfo
-
-def getIndex(parent, childTag, child):
-  count = 0
-  for c in parent.xpath(childTag):
-    count +=1
-    if c == child:
-      return count
-  return -1
+def getIndex(child):
+  name = child.xpath("name()")
+  return int(child.xpath("count(preceding-sibling::"+name+")+1")) #get index of current node by counting previous siblings
 
 doc = etree.parse("short_test.xml") #parse the xml doc
 lessonset = doc.xpath("/lessonset")[0]

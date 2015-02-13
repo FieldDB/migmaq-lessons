@@ -1,10 +1,10 @@
-<HTML>
-<HEAD>
+<html>
+<head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<TITLE>Section 1</TITLE>
-</HEAD>
-<BODY>
+<title>Section 1</title>
+</head>
+<body>
 <h1>Outline:</h1>
-<a href="../0.0.html"><h2>Subsection 1.1</h2></a><a href="../0.0.0.html"><h3>Lesson 1. Introducing yourself and your parents</h3></a><a href="../0.1.0.0.html"><h4>Unit 1. What is your name and where are you from?</h4></a><a href="../0.1.0.1.html"><h4>Unit 2. Who are your parents?</h4></a><a href="../0.1.0.2.html"><h4>Unit 3. Where do you and your parents live?</h4></a><a href="../0.1.0.3.html"><h4>Unit 4. Dialogue</h4></a>
-</BODY>
-</HTML>
+<a href="../1.1.html"><h2>Subsection 1.1</h2></a><a href="../1.1.1.html"><h3>Lesson 1. Introducing yourself and your parents</h3></a><a href="../1.1.1.1.html"><h4>Unit 1. What is your name and where are you from?</h4></a><a href="../1.1.1.2.html"><h4>Unit 2. Who are your parents?</h4></a><a href="../1.1.1.3.html"><h4>Unit 3. Where do you and your parents live?</h4></a><a href="../1.1.1.4.html"><h4>Unit 4. Dialogue</h4></a>
+</body>
+</html>
