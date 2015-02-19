@@ -44,26 +44,32 @@
         .navbar-right,
         .navbar-header
         {float:none !important;}
-        .navbar-horizontal .navbar-fixed-top .navbar-links ul{
-          list-style-type: none;
-          margin: 0;
-          padding: 0;
-        }
-        .navbar-horizontal .navbar-fixed-top .navbar-links li{
-          display: inline-block;
-          margin: 5px;
-          vertical-align: top;
-          float: right;
-        }
-
+        
         .navbar-right .dropdown-menu {left:0;right:auto;}
         .navbar-collapse .navbar-nav.navbar-right:last-child {
           margin-right: 0;
         }
 
+        .list-inline li{
+          display: inline !important;
+          margin: 5px;
+          float: right;
+          padding: 0;
+        }
+      }
+      body{
+          padding-top: 250px;
+          padding-bottom: 80px;
+      }
+      footer{
+        padding-left: 5em;
+      }
+      header{
       }
     </style>
 
+
+    <!--.navbar-horizontal .navbar-fixed-top .navbar-links li{ -->
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -76,50 +82,56 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
   </head>
+
   <body>
-    
-    <nav class ="navbar navbar-horizontal navbar-fixed-top" role="navigation">
-      <div class = "navbar-header">
-        <a class = "navbar-brand" href="frame.html"><img src="img/sitelogo.png" alt="Learn Mi'gmaq" class="img-circle" align="left" width="200" height="200"></a>
-      </div>
-      <div>
-          <ul class = "nav navbar-links" align="right">
-            <li class = "nav wordpress"><a href="http://www.migmaq.org" target="_blank"><img src="img/wordpressimage.png" alt="Migmaq.org" class="img-rounded" width="40" height="40"></a>
-            </li>
-            <li class="nav wikipedia"><a href="http://www.wiki.migmaq.org" target="_blank"><img src="img/wikiimage.png" alt="Migmaq Wikipedia" class="img-rounded" width="40" height="40"></a>
-            </li>
-            <li class="nav quizlet"><a href="http://www.quizlet.com/learnmigmaq" target="_blank"><img src="img/quizlet.png" alt="Quizlet" class="img-rounded" width="40" height="40"></a>
-            </li>
-            <li class="nav tumblr"><a href="http://www.learnmigmaq.tumblr.com" target="_blank"><img src="img/tumblrimage.png" alt="Tumblr" class="img-rounded" width="40" height="40"></a>
-            </li>
-            <li class="nav instagram"><a href="http://www.instagram.com/learnmigmaq" target="_blank"><img src="img/instagramimage.png" alt="Instagram" class="img-rounded" width="40" height="40"></a>
-            </li>
-            <li class="nav twitter"><a href="http://www.twitter.com/learnmigmaq" target="_blank"><img src="img/twitterimage.png" alt="Twitter" class="img-rounded" width="40" height="40"></a>
-            </li>
-            <li class="nav facebook"><a href="http://www.facebook.com/groups/learnmigmaq" target="_blank"><img src="img/facebookimage.png" alt="Facebook" width="40" height="40" class="img-rounded"></a>
-            </li>
-          </ul>
-      </div>
-    </nav>
-    
+    <header>
+      <div class="container">
+      <nav class ="navbar navbar-horizontal navbar-fixed-top" role="navigation">
+        <div class = "navbar-header">
+          <a class = "navbar-brand" href="frame.html"><img src="img/sitelogo.png" alt="Learn Mi'gmaq" class="img-circle" align="left" width="200" height="200"></a>
+        </div>
+        <!--<div class = "row-fluid">
+           <div class = "span5 offset6">-->
+        <div class="row">
+            <!-- <ul class = "nav navbar-nav navbar-fixed-top" align="right">-->
+            <ul class = "list-inline" align="right">
+              <li><a href="http://www.migmaq.org" target="_blank"><img src="img/wordpressimage.png" alt="Migmaq.org" class="img-rounded" width="40" height="40"></a>
+              </li>
+              <li><a href="http://www.wiki.migmaq.org" target="_blank"><img src="img/wikiimage.png" alt="Migmaq Wikipedia" class="img-rounded" width="40" height="40"></a>
+              </li>
+              <li><a href="http://www.quizlet.com/learnmigmaq" target="_blank"><img src="img/quizlet.png" alt="Quizlet" class="img-rounded" width="40" height="40"></a>
+              </li>
+              <li><a href="http://www.learnmigmaq.tumblr.com" target="_blank"><img src="img/tumblrimage.png" alt="Tumblr" class="img-rounded" width="40" height="40"></a>
+              </li>
+              <li><a href="http://www.instagram.com/learnmigmaq" target="_blank"><img src="img/instagramimage.png" alt="Instagram" class="img-rounded" width="40" height="40"></a>
+              </li>
+              <li><a href="http://www.twitter.com/learnmigmaq" target="_blank"><img src="img/twitterimage.png" alt="Twitter" class="img-rounded" width="40" height="40"></a>
+              </li>
+              <li><a href="http://www.facebook.com/groups/learnmigmaq" target="_blank"><img src="img/facebookimage.png" alt="Facebook" width="40" height="40" class="img-rounded"></a>
+              </li>
+             </ul>
+           <!--</div>-->
+        </div>
+      </nav>
+    </div>
+    </header>
 
 
   <!--THE FOLLOWING CODE ADDS A VERTICAL NAV BAR-->
-  <!--THIS CODE WAS FOUND ON FIDDLE-->
-    <nav class="navbar navbar-vertical" role="navigation">
-      <!--Brand and toggle get grouped for better mobile display-->
-      <div class = "navbar-header">
-        <button type = "button" class = "navbar-toggle" data-toggle="collapse" data target = ".navbar-ex1-collapse">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-      <!--<a class="navbar-brand" href="#">Brand</a>-->
+  <nav class="navbar navbar-vertical" role="navigation">
+    <!--Brand and toggle get grouped for better mobile display-->
+     <div class = "navbar-header">
+       <button type = "button" class = "navbar-toggle" data-toggle="collapse" data target = ".navbar-ex1-collapse">
+         <span class="sr-only">Toggle navigation</span>
+         <span class="icon-bar"></span>
+         <span class="icon-bar"></span>
+         <span class="icon-bar"></span>
+       </button>
+     <!--<a class="navbar-brand" href="#">Brand</a>-->
        <!--<a class = "navbar-brand" href="frame.html"><img src="img/sitelogo.png" alt="Learn Mi'gmaq" class="img-circle" align="left" width="200" height="200"></a>
         -->
-      <!--</div>-->
-      <!--<div>
+     <!--</div>-->
+     <!--<div>
           <ul class = "nav navbar-links" align="right">
             <li class = "nav wordpress"><a href="http://www.migmaq.org" target="_blank"><img src="img/wordpressimage.png" alt="Migmaq.org" class="img-rounded" width="40" height="40"></a>
             </li>
@@ -136,7 +148,7 @@
             <li class="nav facebook"><a href="http://www.facebook.com/groups/learnmigmaq" target="_blank"><img src="img/facebookimage.png" alt="Facebook" width="40" height="40" class="img-rounded"></a>
             </li>
           </ul>
-        -->
+       -->
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -178,20 +190,26 @@
   <!--END VERTICAL NAV BAR CODE-->
 
     <h1>Testing setting up the frame here</h1>
-
+  <!--this bit goes at the bottom of the content loaded, so we can navigate between different exercises -->
+  <div class = "container">
+    <ul class="pager">
+      <!--need to chage these links to refer to the previous and next pages-->
+      <li class = "previous"><a href="#"><span aria-hidden="true">&larr;</span> Previous</a></li>
+      <li class = "next"><a href = "#">Next <span aria-hidden="true">&rarr;</span></a></li>
+    </ul>
+  </div>
 
 
 
     
-
-  <nav>
-    <ul class="pager">
-      <!--need to chage these links to refer to the previous and next pages-->
-      <li class = "previous"><a href="#"><span aria-hidden="true">&larr;</span>Previous</a></li>
-      <li class = "next"><a href = "#">Next <span aria-hidden="true">&rarr;</span></a></li>
-    </ul>
-  </nav>
-
+  <footer>
+    <nav class = "navbar navbar-footer navbar-fixed-bottom" role="navigation">
+      <div class = "container">
+        <footer id="site footer" align="left">&#169;2015 Mi'gmaq Research Partnership</footer>
+      </div>
+      </div>
+    </nav>
+  </footer>
 
 
   </body>
