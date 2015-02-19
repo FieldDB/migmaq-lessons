@@ -42,8 +42,12 @@
         .navbar-nav > li,
         .navbar-left,
         .navbar-right,
-        .navbar-header
+        .navbar-header .navbar-horizontal .navbar-fixed-top
         {float:none !important;}
+        .navbar-header{
+          padding-right: 5px;
+          padding-top: 3px;
+        }
         
         .navbar-right .dropdown-menu {left:0;right:auto;}
         .navbar-collapse .navbar-nav.navbar-right:last-child {
@@ -86,7 +90,7 @@
   <body>
     <header>
       <div class="container">
-      <nav class ="navbar navbar-horizontal navbar-fixed-top" role="navigation">
+      <nav class ="navbar-header navbar-horizontal navbar-fixed-top" role="navigation">
         <div class = "navbar-header">
           <a class = "navbar-brand" href="frame.html"><img src="img/sitelogo.png" alt="Learn Mi'gmaq" class="img-circle" align="left" width="200" height="200"></a>
         </div>
