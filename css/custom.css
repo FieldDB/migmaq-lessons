@@ -1,61 +1,66 @@
 
-    header {
-  border-top: 5px solid #333;
-  border-bottom: 1px solid #e8e8e8;
-  min-height: 56px;
+header {
+  min-height: 120px; /*Keeps logo from overflowing header*/
+  margin-bottom: 15px; /*Margin to add space before content of page */
 }
 
-      @media (min-width: 768px){
-        .navbar-fixed-top{
-          padding-bottom: 200px;
-        }
-        .navbar-collapse{
-          height: auto;
-          border-top: 0;
-          box-shadow: none;
-          max-height: none;
-          padding-left: 0;
-          padding-right: 0;
-        }
-        .navbar-collapse.collapse {
-          display: block !important;
-          width: auto !important;
-          padding-bottom: 0;
-          overflow: visible !important;
-        }
-        .navbar-collapse.in {
-          overflow-x: visible;
-        }
+.icon-bar{
+  margin: 5px;
+  padding-top: 15px; /*Add some white space around icons*/
+}
+/*@media (min-width: 768px){*/ 
+  /*Do you just want these styles to apply to screensizes that are 768 or less? 
+    Most should probably apply to any screen size.*/
+  .navbar-fixed-top{
+    adding-bottom: 200px;
+  }
+  .navbar-collapse{
+    height: auto;
+    border-top: 0;
+    box-shadow: none;
+    max-height: none;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .navbar-collapse.collapse {
+    display: block !important;
+    width: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+  }
+  .navbar-collapse.in {
+    overflow-x: visible;
+  }
+  .navbar {
+    max-width:300px;
+    margin-right: 0;
+    margin-left: 0;
+  } 
 
-        .navbar {
-          max-width:300px;
-          margin-right: 0;
-          margin-left: 0;
-        } 
-
-        .navbar-nav,
-        .navbar-nav > li,
-        .navbar-left,
-        .navbar-right,
-        .navbar-header .navbar-horizontal .navbar-fixed-top
-        {float:none !important;}
-        .navbar-header{
-          padding-right: 5px;
-          padding-top: 3px;
-        }
+  .navbar-nav,
+  .navbar-nav > li,
+  .navbar-left,
+  .navbar-right,
+  .navbar-header .navbar-horizontal .navbar-fixed-top{
+    float:none !important;
+  }
+  .navbar-header{
+    padding-right: 5px;
+    padding-top: 3px;
+   }
         
-        .navbar-right .dropdown-menu {left:0;right:auto;}
-        .navbar-collapse .navbar-nav.navbar-right:last-child {
-          margin-right: 0;
-        }
+  .navbar-right .dropdown-menu {left:0;right:auto;}
+  .navbar-collapse .navbar-nav.navbar-right:last-child {
+    margin-right: 0;
+  }
 
-        .list-inline li{
-          display: inline !important;
-          margin: 5px;
-          float: right;
-          padding: 0;
-        }
-      }
+  .list-inline li{
+    display: inline !important;
+    margin: 5px;
+    float: right;
+    padding: 0;
+  }
+      /*}*/
       /*body{
           padding-top: 250px;
           padding-bottom: 80px;
@@ -66,8 +71,6 @@
         Another useful thing to note is that instead of using fixed numbers of pixels,
         it's often better to use percentages, because it helps adjust for different screen sizes. 
        */
-      footer{
-        padding-left: 5em;
-      }
-      header{
-      }
+  footer{
+    padding-left: 5em;
+  }
