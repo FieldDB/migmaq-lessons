@@ -1,4 +1,10 @@
 
+    header {
+  border-top: 5px solid #333;
+  border-bottom: 1px solid #e8e8e8;
+  min-height: 56px;
+}
+
       @media (min-width: 768px){
         .navbar-fixed-top{
           padding-bottom: 200px;
@@ -50,10 +56,16 @@
           padding: 0;
         }
       }
-      body{
+      /*body{
           padding-top: 250px;
           padding-bottom: 80px;
-      }
+      }*/ 
+      /*This is what was causing the weird spacing with the heading once fixed properties were removed. 
+        One of the tricky things about CSS is the difference between padding and margins. What we want 
+        is a margin around the header, not padding in the body).
+        Another useful thing to note is that instead of using fixed numbers of pixels,
+        it's often better to use percentages, because it helps adjust for different screen sizes. 
+       */
       footer{
         padding-left: 5em;
       }
