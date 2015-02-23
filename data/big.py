@@ -17,7 +17,7 @@ Author: Carolyn Anderson          Last Modified: 2/13/2015
 """
 
 #Create xsl transformation functions
-unit_xsl_raw = etree.parse("unit.xsl")  #Displays data from Unit down
+unit_xsl_raw = etree.parse("lesson_big.xsl")  #Displays data from Unit down
 unit_xsl = etree.XSLT(unit_xsl_raw) 
 index_xsl_raw = etree.parse("index.xsl")  #Makes an index of child files
 index_xsl = etree.XSLT(index_xsl_raw) 
@@ -59,9 +59,9 @@ def processLessonSet(level, lessonset):
   f.write(getMarkup(lessonset, level))#write Jekyll markup to top
   f.write(str(intro_xsl(lessonset))) #apply xslt transformation to unit data and write to file
   f.close()
-  sections = lessonset.xpath("section")  #get sections
+  sections = lessonset.xpath("lesson")  #get sections
   for section in sections: #call section processing function on all units
-    processSection(level+1, section)
+    processUnit(level+1, section)
 
 def createIndexFile(current, level):
   #Creates an index file displaying titles of all child files and linking to them
