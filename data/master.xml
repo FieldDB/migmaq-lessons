@@ -670,7 +670,7 @@
 		</dialog>
 	</lesson>
 
-	<lesson>
+	<!-- <lesson>
 		<title>11. Afraid to speak Native</title>
 
 		<designnote>Building on the preceding lesson, but now to address the			most common problem faced by learners: embarrassment or fear of being			laughed at. Also introduces 'everybody' and some basic terms for			feelings; these will all be taught again in more detail in later			lessons.		</designnote>
@@ -1107,7 +1107,7 @@
 		<lesson>
 			<title>18. I see [a person] in the road</title>
 
-			<designnote>This begins a series of lessons that use the key idea of			'see' to introduce the four-way pattern of 'see [{animate, inanimate}			{singular, plural}]'.			This lesson starts with nemi'g 'I see him/her [= animate singular]'; the			later ones will work through the other three possibilities.			This lesson also introduces the ending -igtug, added to mark a word as a			location. Armed with these three basic components (noun, verb,			location), the lesson---perhaps most importantly of all---shows			learners that even this early on, they can already make their own			full, complete, and real-world-useful sentences. This will be a theme			in the course overall.			For visuals, the original singular person images are put together with			the "see" image.		</designnote>
+			<designnote>This begins a series of lessons that use the key idea of			'see' to introduce the four-way pattern of 'see [{animate, inanimate}			{singular, plural}]'.			This lesson starts with nemi'g 'I see him/her [= animate singular]'; the			later ones will work through the other three possibilities.			This lesson also introduces the ending -igtug, added to mark a word as a			location. Armed with these three basic components (noun, verb,			location), the lesson (perhaps most importantly of all) shows			learners that even this early on, they can already make their own			full, complete, and real-world-useful sentences. This will be a theme			in the course overall.			For visuals, the original singular person images are put together with			the "see" image.		</designnote>
 			<explnote>In this lesson we learn two new things. The word nemi'g			means 'I see him/her', and can be used with any of the words for			people we have learned before.				The ending -igtug marks a word as a place or location, just like			English words like 'in', 'on', or 'at'. Mi'gmaq has ways of showing			those exact different kinds of places, but -igtug on th end of the			word is usually enough. So for example, putting it on awti 'road' gets			you 'in the road' or 'on the road'.			Now you can make complete full sentences on your own! Mix and match the			words you know, using these patterns, and try them out with speakers!		</explnote>
 			<timesig>@20120723-JW-RM-1thru25.wav@7:27-7:38</timesig>
 			<vocab>
@@ -1162,7 +1162,7 @@
 			<title>20. I see [a thing] in the road</title>
 
 			<designnote>Continuing the lesson series using 'see' to introduce the			four-way pattern of 'see [{animate, inanimate} {singular, plural}]':			now doing so for inanimate singular by bringing the original singular			thing images together with the "see" image.		</designnote>
-			<explnote>Before we learned the word nemi'g 'I see him/her', for					talking about people. Now we learn the word nemitu 'I see it', for					talking about things.		Again, this is the Mi'gmaq language showing how one word is related to		another. In this case, showing that 'see' is related to 'it'---since		'it' is the thing that is 'seen'.		Using the words for (single!) things you have learned, try to mix and match		again to make new sentences like the ones in this lesson.	</explnote>
+			<explnote>Before we learned the word nemi'g 'I see him/her', for					talking about people. Now we learn the word nemitu 'I see it', for					talking about things.		Again, this is the Mi'gmaq language showing how one word is related to		another. In this case, showing that 'see' is related to 'it' (since		'it' is the thing that is 'seen').		Using the words for (single!) things you have learned, try to mix and match		again to make new sentences like the ones in this lesson.	</explnote>
 			<timesig>@20120723-JW-RM-1thru25.wav@7:50-7:59.5</timesig>
 			<vocab>
 				<line>
@@ -2614,7 +2614,7 @@
 			<title>44. When will your birthday be?</title>
 
 			<designnote>			Again use the exact calendar date picture, with an arrow indicating ahead,			or some other indicator of the future.		</designnote>
-			<explnote>A few lessons back we saw "ta'n" used to ask "when...?"					about the past. Here we see "ta'nug", which is used to ask					"when...?" about the future.		And yes, you guessed right: the endings for talking about "me" and		"you" in the future are---for many speakers, at least---the same. The		context of the conversation usually makes clear which one you mean,		and you can always add in ni'n 'me' or gi'l 'you' if you need.		</explnote>
+			<explnote>A few lessons back we saw "ta'n" used to ask "when...?"					about the past. Here we see "ta'nug", which is used to ask					"when...?" about the future.		And yes, you guessed right: the endings for talking about "me" and		"you" in the future are (for many speakers, at least) the same. The		context of the conversation usually makes clear which one you mean,		and you can always add in ni'n 'me' or gi'l 'you' if you need.		</explnote>
 			<timesig>@20120730-JV-MAM-41thru43.wav@0:21-0:49</timesig>		
 			<dialog>
 				<line>
@@ -6070,11 +6070,11 @@
 		<lesson>
 			<title>87. Understanding 'my..., your..., his/her...'</title>
 			<timesig>@20120801-JV-MAM-UnderstandingMyYourHHer.wav@0:06.5-0.34.5-		</timesig>
-			<designnote>good to follow body parts, as reinforcing possession			morphosyntax. This lesson introduces the three basic patterns of			possession marking (n-V-, 'nt-V-, and n-C-). It starts with the			rarest case---the n-V- pattern of nujj 'my father' rather than the			broadest case ('n-C-) for two reasons. First is that nujj 'my father'			and similar family relationship terms are ones learners are likely to			already be somewhat familiar with. Second is that they are somewhat			exceptional, and introducing the exceptions before the broad pattern			helps prevent learners from overusing the broad pattern.		</designnote>
+			<designnote>good to follow body parts, as reinforcing possession			morphosyntax. This lesson introduces the three basic patterns of			possession marking (n-V-, 'nt-V-, and n-C-). It starts with the			rarest case: the n-V- pattern of nujj 'my father' rather than the			broadest case ('n-C-) for two reasons. First is that nujj 'my father'			and similar family relationship terms are ones learners are likely to			already be somewhat familiar with. Second is that they are somewhat			exceptional, and introducing the exceptions before the broad pattern			helps prevent learners from overusing the broad pattern.		</designnote>
 
 			<vocab>
 
-				<expltext>You probably already know how to say 'my...' and 'your...' in Mi'gmaq: you just add the first letter of ni'n 'me' or of gi'l you---that is, just n- and g-. For example:</expltext>
+				<expltext>You probably already know how to say 'my...' and 'your...' in Mi'gmaq: you just add the first letter of ni'n 'me' or of gi'l you, that is, just n- and g-. For example:</expltext>
 
 				<line>
 					<migmaq>n-ujj</migmaq>
@@ -6209,7 +6209,7 @@
 					<soundfile>S3U2/87_UnderstandingH_Her_SoundAdjustments/04-Ugpaqam</soundfile>
 				</line>
 
-				<expltext>Try saying "wpaqam"---especially with that noticeable "stopped" sound---and you'll see how "ugpaqam" is a much easier and more natural way to get the sound across.</expltext>
+				<expltext>Try saying "wpaqam" (especially with that noticeable "stopped" sound) and you'll see how "ugpaqam" is a much easier and more natural way to get the sound across.</expltext>
 
 			</vocab>
 
@@ -8059,7 +8059,7 @@
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>
 			<title>128.	Gesalul: a Can-8 drama in 6 acts!</title>
 			<note>This is mean to tie into and follow from the "give me..." series			in introducing how participants in the verbal action change the form			of the verb.</note>
-			<note>Basically we want to encourage learners to go over this drama			many, many times---act it, memorize it as lines in a play. So that			instead of having to refer to mental grammar chart in their heads			(never fun or effective), they simply have to remember the scene in			the play, and what was said, and---roughly speaking---just try to			make their current verb match the ending used with "love" in that			specific situation.</note>
+			<note>Basically we want to encourage learners to go over this drama			many, many times: act it, memorize it as lines in a play. So that			instead of having to refer to mental grammar chart in their heads			(never fun or effective), they simply have to remember the scene in			the play, and what was said, and, roughly speaking, just try to			make their current verb match the ending used with "love" in that			specific situation.</note>
 		</lesson>
 
 		<lesson>
@@ -9204,5 +9204,5 @@
 					</soundfile>
 				</line>
 			</dialog>
-		</lesson>
+		</lesson>-->
 	</lessonset>
