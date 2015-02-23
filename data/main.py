@@ -76,7 +76,10 @@ def getMarkup(current, level):
   pt = getParentTitles(current, level)#get list of titles of ancestor sections
   for i in range(len(pt)):
     markup = markup + "%s: %s\n" % (pt[i]) #Jekyll markup for each ancestor
-  markup = "---\nlayout: blank\n" + markup + "---\n" #layout markup
+  if level == 4:
+    markup = "---\nlayout: unit\n" + markup + "---\n" #layout markup
+  else:
+    markup = "---\nlayout: blank\n" + markup + "---\n" #layout markup
   return markup
 
 def getParentTitles(current, level):
