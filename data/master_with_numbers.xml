@@ -14,7 +14,7 @@
    		<unit>
    			<title>Introductions, Lang-learning, Family, Speaking the Language</title>
 	<lesson>
-		<title>Introductions</title>
+		<title>1. Introductions</title>
 
 		<designnote>This lesson starts learners out in the language with the			main ways they can describe themselves and their relations:			their name, their parents, and where they come from, where they live, and			where they work.			Being about to name their parents (and where they come from) right off is			a particularly important part of self-introduction for learners,			since this allows older speakers from their community to place them			among the people they know.		</designnote>
 		<timesig>@20120723-JW-RM-1thru25.wav@0:01.5-0:39.5</timesig>		
@@ -125,7 +125,7 @@
 	</lesson>
 
 	<lesson>
-		<title>Coping: how to do your language-learning IN the language		</title>
+		<title>2. Coping: how to do your language-learning IN the language		</title>
 
 		<designnote>This particular lesson is offered right from the start,			because it is most effective for learners to learn the language			THROUGH the language. By giving them the crucial phrases for this			early on, we aim to encourage doing this as much as possible from the			getgo, instead of dropping back to English. Learners of course			naturally drop back to English, but so do speakers, since it is the			language they have used with non-speakers for years. A successful			learner has to overcome not only their own lifelong habits of using			English, but also has to find polite, respectful ways of turning the			conversation from English back to Mi'gmaq wherever reasonably			possible. These phrases are one of the key ways they can do this.		</designnote>
 		<note> @20120731-JV-2redux.wav is the complete and revised version of			all of this section. There is also			@20120723-JW-RM-1thru25.wav@0:39.5-1:54, as an early draft that would			need a redo @0:44, but is otherwise good for voice variation. Note			also that there are revised versions of the "fill in the blank"			forms, as actual blank-fillers are much better.</note>
@@ -296,7 +296,7 @@
 	</lesson>
 
 	<lesson>
-		<title>Identifying people</title>
+		<title>3. Identifying people</title>
 
 		<designnote>This lesson teaches the 'this' and 'that' words of			Mi'gmaq, as well as the important question 'who?', and the important			/X na Y/ pattern, which acts as an effective equivalent to English 'X			is Y, X = Y'. It grounds this in an introduction to part of the			four-way system of [older/younger brother/sister] vs. the English			two-way system of [brother/sister]. It requires pictures---and would			be even better if video---to see the near (ula) and far (ala), and			which people the speakers are looking at.		</designnote>
 		<explnote>There is one special way these basic 'who...?' phrases can			help you learn Mi'gmaq by speaking Mi'gmaq. In English we usually			ask 'What is that?' to ask someone to tell us what kind of animal			we are looking at. But in Mi'gmaq, it is natural to ask "Who is			this/that?"---exactly the same as for people. This is one way you			can learn new words without having to speak any English at all.		</explnote>
@@ -360,7 +360,7 @@
 	</lesson>
 
 	<lesson>
-		<title>Identifying things</title>
+		<title>3. Identifying things</title>
 
 		<designnote>This lesson introduces the fundamental 'what is			this/that?' question so basic to learning a language THROUGH the			language. It also reinforces the previously introduced /X na Y/			pattern as an effective equivalent to English 'X is Y, X = Y'.			It requires pictures, better if video, to see the near (ula) and far			(ala), and which people the speakers are looking at.		</designnote>
 		<explnote>These phrases are again very good for learning Mi'gmaq by			speaking Mi'gmaq. With them, you can point to something (some			thing) and learn the word for it without having to speak any			English at all.		</explnote>
@@ -394,7 +394,7 @@
 	</lesson>
 
 	<lesson>
-		<title>Identifying siblings overall</title>
+		<title>4. Identifying siblings overall</title>
 
 		<designnote>This lesson introduces plural 'who' (not found directly in			English), and presents wijigumjig as an unexplained 'your			siblings/brothers and sisters'. An expanded version of this lesson			might have an answer using wijigumgig 'my..., those who I...'. This			would at least introduce that basic 'I ... them', 'you ... them'			pattern. Here however, drawing too much attention to this pattern			might overload learners.		</designnote>
 		<explnote>Wen means 'who?' asking about one person. Wenig means			'who?' asking about more than one person.		</explnote>
@@ -416,7 +416,7 @@
 	</lesson>
 
 	<lesson>
-		<title>Identifying siblings by relation</title>
+		<title>5. Identifying siblings by relation</title>
 
 		<designnote> Here the 'what is my/your name?' pattern is extended to			show the important 's/he...' ending. At the same time, the full			four-way system of [older/younger brother/sister] vs. the English			two-way system of [brother/sister] is now laid out directly and			completely.			In the background here is also the use of word order to highlight			relative importance of information: the repeated information is			first, and then the key new information (the name asked for) comes			right before the verb.		</designnote>
 		<explnote>You have learned the question taluisin? 'what is your			name?', and the answer, teluisi 'my name is...'. And here again we			see tal- for the question and tel- for the answer. Can you work out			who we are talking about when we use this new -t ending? (Hint:			it's not you, and it's not me).		</explnote>
@@ -484,7 +484,7 @@
 	</lesson>
 
 	<lesson>
-		<title>Identifying uncle, aunt, cousins</title>
+		<title>6. Identifying uncle, aunt, cousins</title>
 
 		<designnote>Three related kinship terms---uncle, aunt, and			cousin---are introduced, plus a minimal introduction to 'many' and			'one'. Word order for informational importance/prominence is again			demonstrated.		</designnote>
 		<timesig>@20120723-JW-RM-1thru25.wav</timesig>		
@@ -536,7 +536,7 @@
 	</lesson>
 
 	<lesson>
-		<title>Identifying grandparents</title>
+		<title>7. Identifying grandparents</title>
 
 		<designnote>Introducing grandparents, reinforcing earlier-introduced			patterns.		</designnote>
 		<timesig>@20120723-JW-RM-1thru25.wav</timesig>		
@@ -573,7 +573,7 @@
 	</lesson>
 
 	<lesson>
-		<title>Identifying deceased relatives</title>
+		<title>8. Identifying deceased relatives</title>
 
 		<designnote>Based on previous lessons' kinship terms, we introduce the			absentative (= deceased, no longer present) for people/animates: -aq.			The P-past -p(n)- and the S-past -s(n)- both naturally come together			with the absentative in this context. Not necessary to go into			details on this for now with learners. But it is worth being prepared			to explain that the P-past is used for a direct perspective on the			past (the usual, "I saw it happen myself, or know it for sure"), and			the S-past tends to be used for indirect perspective on the past, and			in particular, for most questions about the past, as here.		</designnote>
 		<explnote>The ending -aq added here is mainly used to refer to the			deceased. Sometimes you will also hear it used just for someone who			has just gone away or even is just asleep (gone off to dreamland).			The -sn- and -pn- are both endings used to talk about the past. We			will learn more about them later: for now, we can roughly say that the			P-past is the main, plain, usual way of talking about the past. The			S-past has more special uses: in particular, it is what we usually use			to ask questions about the past, like we do here.			(You can try thinking about it as the "supposedly" past, since you usually			use it when you don't have proof of what happened.		</explnote>
@@ -609,7 +609,7 @@
 	</lesson>
 
 	<lesson>
-		<title>Work/study</title>
+		<title>9. Work/study</title>
 
 		<designnote>Reviewing /tami (tett).../ 'where...' pattern, reviewing			endings for 'me' and 'you', introducing 'work' and 'study/learn', and			briefly, several other important patterns: mu ...-w 'I ... not ...',			etl- 'be doing...'		</designnote>
 		<explnote>You now know enough that you can try to work out on your			own the meanings of as many words as possible---by starting with			the ones you already know.			One hint: who are we talking about when the same word has an -n on the			end, and when it doesn't? It will help to think about 'what is your			name' and 'my name is' phrases we've learned.			Another hint: etl- can be used to show the meaning 'doING', rather than 'did'			or 'done'. It can also help emphasize that someone is in the process of 			doing something in a particular place.			Once you've worked out as much as you can on your own, try asking speakers			and other learners for help, too!		</explnote>
@@ -644,7 +644,7 @@
 	</lesson>
 
 	<lesson>
-		<title>Speaking Native</title>
+		<title>10. Speaking Native</title>
 
 		<designnote>Introducing 'speak ...' verb in the form of 'speak			Native'. Pointing out that 'speak Native' is the more common/natural			way for Mi'gmaq speaks to convey what would usually be said in			English as 'speak Mi'gmaq'.			Also briefly introducing nige' 'now' and getu'- 'want to, going to', and			the -nej 'let's...' patterns.		</designnote>
 		<explnote>Mi'gmaq is a language where speakers often draw on the			knowledge that they share as members of the same (or a closely			related) community. For this reason, some normal ways of talking in			Mi'gmaq can seem not as specific as what English speakers are used			to. In Listuguj, for example, qame'g 'across (the river)' can often			specifically mean Campbellton, and gm'tnigtug 'at the mountain' can			often specifically mean the Sugarloaf.				This way of talking is effective because speakers draw on their common			understanding of where they are and which specific places would			naturally tie to those words.			For the same reason, it is normal and in fact more natural in Mi'gmaq to			say 'speak Native' when talking about speaking the Mi'gmaq language.			More specific expressions are possible, but are usually only used when			really needed, say, to talk about speaking different kinds of Native			languages.		</explnote>
@@ -679,7 +679,7 @@
 	</lesson>
 
 	<lesson>
-		<title>Afraid to speak Native</title>
+		<title>11. Afraid to speak Native</title>
 
 		<designnote>Building on the preceding lesson, but now to address the			most common problem faced by learners: embarrassment or fear of being			laughed at. Also introduces 'everybody' and some basic terms for			feelings; these will all be taught again in more detail in later			lessons.		</designnote>
 		<timesig>@20120723-JW-RM-1thru25.wav@4:40-4:59</timesig>		
@@ -721,7 +721,7 @@
 <unit>
 	<title>People, Things, "I See...", At a Location</title>
 	<lesson>
-		<title>Person Vocab</title>
+		<title>12. Person Vocab</title>
 
 		<designnote>Introduces a core set of animate nouns starting from			people, going through primary gender + stage of life. This is more			than just simple vocabulary. These words will be the anchors for			demonstrating many other patterns in later lessons, which is one			reason why they are kept to this bare but still useful minimum. It is			also why the introduction of these words is slow and repetitive over			this and the next two lessons, which give the plural, then the			singular and plural together.			The images for each noun are crucial to making the set easy to learn and			remember. They are given together as a single row, and if possible,			it would help to highlight each image as its sound is read through.		</designnote>
 		<timesig>@20120723-JW-RM-1thru25.wav@5:20-5:34</timesig>
@@ -791,7 +791,7 @@
 		</vocab>		`	</lesson>
 
 		<lesson>
-			<title>People Vocab</title>
+			<title>13. People Vocab</title>
 
 			<designnote>Introducing the animal plural pattern through the plural			forms of the preceding set of words. This may work best if the exact			same pattern of introduction used for the singulars is repeated here,			including the use of images described above.</designnote>
 			<explnote>To talk about more than one of a person (rather than a thing),			you add the ending -g.			(Sometimes, the -g needs a vowel in front of it, making it -ug or -ig.)			(When it comes after a -a or a -q, the ending is always -q, never -g.)			And if the ending is added to -i or -u, those sounds come out as -i'			and -u', as in gisigu'g.		</explnote>
@@ -860,7 +860,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Person... ... People Vocab</title>
+			<title>14. Person... ... People Vocab</title>
 
 			<designnote>This is the third of a three-part lesson set: here we			repeat the singular and plural together to highlight and underline			the singular vs. plural pattern. Using rows of images lined up			together, singular on top of plural, is one way to reinforce this			visually.</designnote>
 			<timesig>@20120723-JW-RM-1thru25.wav@5:55-6:25.5</timesig>
@@ -928,7 +928,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Thing Vocab</title>
+			<title>15. Thing Vocab</title>
 
 			<designnote>This lesson and the next two follow the same pattern as			before, used to introduce the following words as the core set of			inanimates, again as an anchor for many later lessons' material.		</designnote>
 			<timesig>@20120723-JW-RM-1thru25.wav@6:29-6:44</timesig>
@@ -990,7 +990,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Things Vocab</title>
+			<title>16. Things Vocab</title>
 
 			<designnote>Same pattern as used for animate plurals, for inanimate			plurals.</designnote>
 			<explnote>To mark more than one of a thing (rather than a person),				for most (but definitely not all) words the ending is -l. This				comes out as -n if the word already ends in -n. This double -nn at				the end of a word can be hard to hear at first, so it is a good				idea to practice both saying it and listening for it.				Like with people, if the ending is added to -i or -u, those sounds come out as -i'				and -u', as in awti'l.			</explnote>
@@ -1053,7 +1053,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Thing... ...Things Vocab</title>
+			<title>17. Thing... ...Things Vocab</title>
 
 			<designnote>Same pattern as used for animate singular vs. plural			pattern, now for inanimate singular vs. plural pattern.</designnote>
 			<timesig>@20120723-JW-RM-1thru25.wav@7:00-7:27</timesig>
@@ -1115,7 +1115,7 @@
 		</lesson>
 
 		<lesson>
-			<title>I see [a person] in the road</title>
+			<title>18. I see [a person] in the road</title>
 
 			<designnote>This begins a series of lessons that use the key idea of			'see' to introduce the four-way pattern of 'see [{animate, inanimate}			{singular, plural}]'.			This lesson starts with nemi'g 'I see him/her [= animate singular]'; the			later ones will work through the other three possibilities.			This lesson also introduces the ending -igtug, added to mark a word as a			location. Armed with these three basic components (noun, verb,			location), the lesson (perhaps most importantly of all) shows			learners that even this early on, they can already make their own			full, complete, and real-world-useful sentences. This will be a theme			in the course overall.			For visuals, the original singular person images are put together with			the "see" image.		</designnote>
 			<explnote>In this lesson we learn two new things. The word nemi'g			means 'I see him/her', and can be used with any of the words for			people we have learned before.				The ending -igtug marks a word as a place or location, just like			English words like 'in', 'on', or 'at'. Mi'gmaq has ways of showing			those exact different kinds of places, but -igtug on th end of the			word is usually enough. So for example, putting it on awti 'road' gets			you 'in the road' or 'on the road'.			Now you can make complete full sentences on your own! Mix and match the			words you know, using these patterns, and try them out with speakers!		</explnote>
@@ -1142,7 +1142,7 @@
 		</lesson>
 
 		<lesson>
-			<title>I see [people] in the road</title>
+			<title>19. I see [people] in the road</title>
 
 			<designnote>Continuing the lesson series using 'see' to introduce the			four-way pattern of 'see [{animate, inanimate} {singular, plural}]':			now doing so for animate plural by bringing the original plural			people images together with the "see" image.		</designnote>
 			<explnote>Starting from the word nemi'g 'I see him/her', we can					expand to nemi'gig 'I see them'. You can use this word with any					pair or group of people. Notice that the endings sound very close					to each other. This is a basic pattern of Mi'gmaq: words that are					related to each other often share the same (or very similar)					endings to show that relationship. Now using the words for (groups					of!) people, try to mix and match again with the words you know.	</explnote>
@@ -1169,7 +1169,7 @@
 		</lesson>
 
 		<lesson>
-			<title>I see [a thing] in the road</title>
+			<title>20. I see [a thing] in the road</title>
 
 			<designnote>Continuing the lesson series using 'see' to introduce the			four-way pattern of 'see [{animate, inanimate} {singular, plural}]':			now doing so for inanimate singular by bringing the original singular			thing images together with the "see" image.		</designnote>
 			<explnote>Before we learned the word nemi'g 'I see him/her', for					talking about people. Now we learn the word nemitu 'I see it', for					talking about things.		Again, this is the Mi'gmaq language showing how one word is related to		another. In this case, showing that 'see' is related to 'it' (since		'it' is the thing that is 'seen').		Using the words for (single!) things you have learned, try to mix and match		again to make new sentences like the ones in this lesson.	</explnote>
@@ -1196,7 +1196,7 @@
 		</lesson>
 
 		<lesson>
-			<title>I see [things] in the road</title>
+			<title>21. I see [things] in the road</title>
 
 			<designnote>Continuing the lesson series using 'see' to introduce the			four-way pattern of 'see [{animate, inanimate} {singular, plural}]':			now doing so for inanimate plural by bringing the original plural			thing images together with the "see" image.		</designnote>
 			<explnote>From nemitu 'I see it', we can now expand to nemituann 'I					see them [things]'. You can use this word for any pair or group of					things. And in fact, the extra -n on the end is the same ending you					have seen in a'sunn 'blankets' and so on. Once again, Mi'gmaq is					giving each word matching endings to show how they are related to					each other.		Again, using the words for (groups of!) things you have learned, try		to mix and match again to make new sentences like the ones in this		lesson.	</explnote>
@@ -1223,7 +1223,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Consolidation [4-way chart]</title>
+			<title>22. Consolidation [4-way chart]</title>
 
 			<designnote>4-way chart, demonstrating the 4-way contrast in review.			Again, images and text are drawn directly from the above examples to			make the review explicit and help learners confirm that their			understanding is correct.</designnote>
 			<explnote>In this lesson, we are just going back over the four new					words/patterns you have learned: nemi'g, nemi'gig, nemitu, and					nemituann.	</explnote>
@@ -1256,7 +1256,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Who is that woman standing at the rock?</title>
+			<title>23. Who is that woman standing at the rock?</title>
 			<timesig>@20120814-JM-JV-Corrections21b_24_27b.wav</timesig>		
 			<dialog>
 				<line>
@@ -1303,7 +1303,7 @@
 		<title>Numbers and Counting</title>
 
 		<lesson>
-			<title>How many people? 1-3, many.</title>
+			<title>24. How many people? 1-3, many.</title>
 
 			<designnote>This lesson introduces counting (of people), using only			the minimum numbers/amounts (1, 2, 3, many) needed to show the basics			of the system.			Image files simply show these numbers: X number of countables together,			either as a natural picture or a photoshopping of X number of			identical images.		</designnote>
 			<explnote>In this lesson, we learn to count people: asking how many,					and giving answers.	</explnote>
@@ -1367,7 +1367,7 @@
 		</lesson>
 
 		<lesson>
-			<title>How many things? 1-3, many.</title>
+			<title>25. How many things? 1-3, many.</title>
 
 			<designnote>This lesson continues with the counting of things, again			using only the minimum numbers/amounts (1, 2, 3, many) needed to show			the basics of the system. Keeping the presentation identical to the			preceding one should help confirm the pattern for learners.			Image files again simply show these numbers: X number of countables			together, either as a natural picture or a photoshopping of X number			of identical images.		</designnote>
 			<explnote>In this lesson, we learn to count things: asking how many,					and giving answers.					</explnote>
@@ -1431,7 +1431,7 @@
 		</lesson>
 
 		<lesson>
-			<title>How many people do you see?</title>
+			<title>26. How many people do you see?</title>
 
 			<designnote>This lesson combines the earlier nemi'g(ig)/nemitu(ann)			pattern with the 'how many ...?' patterns just shown. As in earlier			lessons, the main aim is helping learners see how they can now build			more complex sentences.			Image files again simply show these numbers: X number of countables			together, either as a natural picture or a photoshopping of X number			of identical images.		</designnote>
 			<timesig>@20120814-JM-JV-Corrections21b_24_27b</timesig>		
@@ -1494,7 +1494,7 @@
 		</lesson>
 
 		<lesson>
-			<title>How many things do you see?</title>
+			<title>27. How many things do you see?</title>
 
 			<designnote>This lesson combines the earlier nemi'g(ig)/nemitu(ann)			pattern with the 'how many ...?' patterns just learned, helping			learners see how they can now build more complex sentences.			Image files again simply show these numbers: X number of countables			together, either as a natural picture or a photoshopping of X number			of identical images.		</designnote>
 			<timesig>@20120723-JW-RM-1thru25.wav@9:54-10:20</timesig>		
@@ -1557,7 +1557,7 @@
 		</lesson>
 
 		<lesson>
-			<title>One, two, three...</title>
+			<title>28. One, two, three...</title>
 
 			<designnote>A 10x10 chart of the numbers 1 to 100 is used here and in			upcoming lessons, highlighting the number or numbers that match the			sound recording. Keeping consistently to this single chart helps			visually underline the patterns being learned.		</designnote>
 			<timesig>@20120723-JW-RM-26thru40.wav@0:01.5-0:12.5</timesig>
@@ -1577,7 +1577,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Ten, twenty, thirty...</title>
+			<title>29. Ten, twenty, thirty...</title>
 
 			<designnote>The 10x10 chart of the numbers 1 to 100 is used again,			highlighting the number or numbers that match the sound recording.			This is also the first less on to introduce pattern whereby [6, 7, 8,			9] usually cannot combine directly with a word/ending, and so use a			following te's- as a stand-in.		</designnote>
 			<explnote>This lesson shows how the ending -sga'q gives you 10, 20,					30 and so on. Notice that numbers 'six' through 'nine' can't					combine directly with endings. Instead they use te's- after them as					a stand-in. We will see this again and again in other patterns					using numbers.		</explnote>
@@ -1598,7 +1598,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Ten plus #... Twenty plus #... Thirty plus #...</title>
+			<title>30. Ten plus #... Twenty plus #... Thirty plus #...</title>
 
 			<designnote>Demonstrating the use of "jel" in naming more complex			numbers, we return to the 10x10 chart of the numbers 1 to 100, now			highlighting the "in between" number/numbers that match the sound			recording. Notice that these numbers are taught AFTER the [10, 20,			30...] progression.		</designnote>
 			<explnote>The word jel basically means 'plus': so in Mi'gmaq,					'eleven' is really 'ten+one', 'twelve' is 'ten+two', and so on.					Same again for 'twenty-one', and so on.	</explnote>
@@ -1649,7 +1649,7 @@
 		</lesson>
 
 		<lesson>
-			<title>One hundred, two hundred, three hundred...</title>
+			<title>31. One hundred, two hundred, three hundred...</title>
 
 			<designnote>Same highlighting system as above, with hundreds.		</designnote>
 			<explnote>Counting hundreds is easy: you just put the numbers next					to each other, and do not need to worry about special combination					patterns.	</explnote>
@@ -1670,7 +1670,7 @@
 		</lesson>
 
 		<lesson>
-			<title>One thousand, two thousand, three thousand...</title>
+			<title>32. One thousand, two thousand, three thousand...</title>
 
 			<designnote>Same highlighting system as above, with thousands.		</designnote>
 			<explnote>Counting thousands is the same as hundreds: you just put					the numbers next to each other, and do not need to worry about					special combination patterns.	</explnote>
@@ -1691,7 +1691,7 @@
 		</lesson>
 
 		<lesson>
-			<title>How many people? 1-12.</title>
+			<title>33. How many people? 1-12.</title>
 
 			<designnote>This lesson combines the patterns of the original minimal			[1, 2, 3, many] people-counting system with the above higher number			patterns to show learners how to count up to ninety-nine people.		</designnote>
 			<explnote>Here we go back to the patterns we learned for counting					people, bringing in the higher numbers we have now learned. Pay					special attention to te's- again being used with [6, 7, 8, 9], and					the usual use of jel. Notice also that the ending you learned on					its own as -sga'q comes out here as -sgeg-.	</explnote>
@@ -1857,7 +1857,7 @@
 		</lesson>
 
 		<lesson>
-			<title>How many things? 1-12. </title>
+			<title>34. How many things? 1-12. </title>
 			<explnote>Here we go back to the patterns we learned for counting			things, bringing in the higher numbers we have now learned. Pay			special attention to te's- again being used with [6, 7, 8, 9], and			the usual use of jel. Notice also that the ending you learned on			its own as -sga'q stays as -sga'q-, but will add the matching -l.			The combination can also be said and written as -sqa'qal.		</explnote>
 			<timesig>@20120723-JW-RM-26thru40.wav@4:14.5-5:33.5</timesig>		
 			<dialog>
@@ -2020,7 +2020,7 @@
 		</lesson>
 
 		<lesson>
-			<title>How many people do you see? Large numbers. </title>
+			<title>35. How many people do you see? Large numbers. </title>
 
 			<designnote>Here we combine the 'see' patterns with the larger numbers			for counting people (and similarly-treated words like 'star'). The			larger numbers have been intentionally selected for easy visual/image			presentation. Hence "25" as editing a single image of a child into a			5x5 configuration.</designnote>
 			<timesig>@20120730-JV-MAM-34-TasijigNemijig.wav; see end for			corrections</timesig>		
@@ -2097,7 +2097,7 @@
 		</lesson>
 
 		<lesson>
-			<title>How many things do you see? Large numbers. </title>
+			<title>36. How many things do you see? Large numbers. </title>
 
 			<designnote>Here we combine the 'see' patterns with the larger numbers			for counting things. The larger numbers have been intentionally			selected for easy visual/image presentation. Hence "36" as editing a			single image of a rock into a 6x6 configuration.  </designnote>
 			<timesig>@20120730-JV-MAM-35-TasglNemitunn.wav; see end for			corrections</timesig>		
@@ -2178,7 +2178,7 @@
 		<title>Ages, Months, Dates, and Times</title>
 
 		<lesson>
-			<title>How old are you?</title>
+			<title>37. How old are you?</title>
 
 			<designnote>Introducing another ta's- 'how many...?' pattern with			-puna' 'be ... years old' to show learners how to ask and give ages.			Reinforces the 'me' and 'you' endings, as well as all the number			patterns, including the older, now idiomatic element metla's- for			'ten'.			Images use photos of people matching the age said: baby-toddler-kid-older			kid-young adult-adult-older adult		</designnote>
 			<explnote>In this lesson, as you learn how to say how old you are,					notice one thing: the word you might expect for 'ten' has been					replaced with an older one with the same meaning. Keep an eye out					for this older word: you will see it pop up in a few other places					in Mi'gmaq.	</explnote>
@@ -2302,7 +2302,7 @@
 		</lesson>
 
 		<lesson>
-			<title>How old is your mother?</title>
+			<title>38. How old is your mother?</title>
 
 			<designnote>Same as above, but reviewing the -t ending for 's/he'.			The final dialogue is just gives a few naturally related expressions			as is, and brings another brief and simple introduction to the P-past			endings.		</designnote>
 			<explnote>Here is a short conversation we can have about ages. Two important points:		- The word me' is used a lot in Mi'gmaq. Here it means 'still...'. You		will see it later on also meaning 'more..., ...-er'.		- Look at the last word, "tapuisgegi-puna'p". When you replace the		usual -t for 's/he' with -p, it changes the meaning from 'she IS		twenty years old' to 'she WAS twenty years old'.		</explnote>
@@ -2349,7 +2349,7 @@
 		</lesson>
 
 		<lesson>
-			<title>How old are you? (Conversation)</title>
+			<title>39. How old are you? (Conversation)</title>
 
 			<designnote>Taking the form of a single unbroken conversation, this			lesson starts from the basic opposites gisigui- 'be old' and			maljewejui- 'be young', and uses them to introduces two ways to say			'(more)...than...':			- me' ... aq ...			- me' ... jemu ...			It also introduces the related idea of 'so (much)...', expressed by			te'uji- / tew'ji-. And also the very different sense of 'so, then			...' that the word na is used for.		</designnote>
 			<explnote>In this lesson we will again talk about two ideas: young,					and old. Try to work out from the dialogue which words each mean					which. Remember that their endings will tell you WHO is young, and					WHO is old.		Once you have worked that out, you can see two common ways to say		'(more)...than...'. Both of them start with me', which here means		'more..., ...-er'. Then you can use either aq (which also you know as		'and') or jemu for the idea of 'than...'. So the patterns for 'more		... than ...' are:		- me' ... aq ...		- me' ... jemu ...	</explnote>
@@ -2399,7 +2399,7 @@
 		</lesson>
 
 		<lesson>
-			<title>When were you born?</title>
+			<title>40. When were you born?</title>
 
 			<designnote>Reviewing 'me' and 'you' past forms, through their natural			conversational use around asking the month of someone's birth.		</designnote>
 			<explnote>In this lesson, we see the S- and P-pasts again. And like					before, the S-past is used here to ask a question, and the P-past					is used to give a direct statement: the answer to that question.		So here we see -'s'p to ask a question about 'you' in the past. And		then we see -ap to give the answer (or just make a statement) about		'me' in the past.		Pay close attention to the word "ta'n". It has many uses; here we see it		used to ask 'when...?' about the past.	</explnote>
@@ -2427,7 +2427,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Months</title>
+			<title>41. Months</title>
 			<vocab>
 				<line>
 					<migmaq>Pnamujuigu's</migmaq>				
@@ -2505,7 +2505,7 @@
 		</lesson>
 
 		<lesson>
-			<title>What's the date today?</title>
+			<title>42. What's the date today?</title>
 
 			<designnote>Introducing the -uguni-t ending for 'Xth date of the			month', building again on number system. Also introducing amgwesewei			'first', na'gweg 'day', and especially, gisgug 'today'. An improved			version might take the opportunity to introduce ugtejgewei 'last' in			contrast to amgwesewei 'first', if it is in fact natural to say			things like ugtejgewei na'gweg 'the last day'.			For each, the image is a calendar with the actual date marked on it.		</designnote>
 			<explnote>In this lesson we learn the ending for what day of the					month (what date it is) it is today. It should be easy to work out					which word means 'today'; try to figure out also the words for					'first' and 'day'.		</explnote>
@@ -2598,7 +2598,7 @@
 		</lesson>
 
 		<lesson>
-			<title>What date is your birthday?</title>
+			<title>43. What date is your birthday?</title>
 
 			<designnote>This is a simple review lesson, combining talking about			birthdays with the naming of dates. In particular, it reworks the			previous lesson's list-based material in the form of an actual simple			conversation. It also brings to the front the use of gatu 'but,			however; as for...' in its 'as for...' topic-shifting sense.			Again use the exact calendar date pictures for each speaker.		</designnote>
 			<explnote>Now that you know how to talk about your birthday and					about specific dates, this conversation will show you how to put					those together naturally.			Notice also the word gatu, which can mean 'but..., however...' but is		also used to shift the topic of the conversation from one person/thing		to another.	</explnote>
@@ -2627,7 +2627,7 @@
 		</lesson>
 
 		<lesson>
-			<title>When will your birthday be?</title>
+			<title>44. When will your birthday be?</title>
 
 			<designnote>			Again use the exact calendar date picture, with an arrow indicating ahead,			or some other indicator of the future.		</designnote>
 			<explnote>A few lessons back we saw "ta'n" used to ask "when...?"					about the past. Here we see "ta'nug", which is used to ask					"when...?" about the future.		And yes, you guessed right: the endings for talking about "me" and		"you" in the future are (for many speakers, at least) the same. The		context of the conversation usually makes clear which one you mean,		and you can always add in ni'n 'me' or gi'l 'you' if you need.		</explnote>
@@ -2678,7 +2678,7 @@
 		</lesson>
 
 		<lesson>
-			<title>What time is it now?</title>
+			<title>45. What time is it now?</title>
 
 			<designnote>Introducing basic expressions for time. "Asugom ajiet" is			specifically chosen as the main example to confirm that (at least for			some speakers) that the placeholdern(/classifier?) te's- is not needed in this			pattern.			Learners are encouraged to start working out some of the new patterns			involved on their own, but the focus remains on the key ajie-			element.			Images: show clock faces with the time.		</designnote>
 			<explnote>Some hints for this lesson:		- geget = 'almost [for something that will happen]'		- mejit = '...more [until something happens]'		- ga'l = 'quarter'		Notice that end of the basic word ajiet changes a bit: in one case to match		the word mu 'not yet/before', in another to show the future. Can you		find both of these?		</explnote>
@@ -2844,7 +2844,7 @@
 		</lesson>
 
 		<lesson>
-			<title>What time will it be?</title>
+			<title>46. What time will it be?</title>
 
 			<designnote>This lesson focuses on using 'o'clock' expressions in the			future: 'what time will it be?'. It introduces a number of future			forms, but puts off explicit explanations for a future lessons: the			goal here is to make those forms already somewhat familiar when the			specific lesson on future endings is reached.		</designnote>
 			<explnote>In this lesson we will learn to ask about times in the					future. Look for how the endings change for this meaning, and also					especially for expressing '[at the time] when...'		</explnote>
@@ -2906,7 +2906,7 @@
 		<title>Review</title>
 
 		<lesson>
-			<title>Exit interview</title>
+			<title>47. Exit interview</title>
 
 			<designnote>This lesson gives learners the chance to see how much they
 				have learned as the unit has progressed.		</designnote>		
@@ -3045,7 +3045,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Who is that?</title>		
+				<title>48. Who is that?</title>		
 				<dialog>
 					<line>
 						<migmaq>Wen na ala ji'nm gaqamit awtigtug?</migmaq>				
@@ -3095,7 +3095,7 @@
 		<unit>
 			<title>Animals</title>
 			<lesson>
-				<title>One animal</title>
+				<title>49. One animal</title>
 				<note>Animal images from Mary-Ann: singular.</note>
 				<vocab>
 					<line>
@@ -3215,7 +3215,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Many animals</title>
+				<title>50. Many animals</title>
 				<note>Animal images from Mary-Ann: plural.</note>
 				<vocab>
 					<line>
@@ -3335,7 +3335,7 @@
 			</lesson>
 
 			<lesson>
-				<title>I see/hear an animal...</title>
+				<title>51. I see/hear an animal...</title>
 
 				<designnote>These collate the animal images with the "see" and "hear"			images.</designnote>
 				<timesig>@20120730-JV-NemigWisis1-2-3pluscorrections.wav@0:00-1:45;			see other corrections @6:29</timesig>
@@ -3457,7 +3457,7 @@
 			</lesson>
 
 			<lesson>
-				<title>I see/hear two animals...</title>
+				<title>52. I see/hear two animals...</title>
 				<note>These collate the animal images with the "see" and "hear"			images.</note>
 				<timesig>@20120730-JV-NemigWisis1-2-3pluscorrections.wav@1:50-4:14;			see other corrections @6:29</timesig>
 				<vocab>
@@ -3580,7 +3580,7 @@
 			</lesson>
 
 			<lesson>
-				<title>I see/hear many animals...</title>
+				<title>53. I see/hear many animals...</title>
 				<note>These collate the animal images with the "see" and "hear"			images.</note>
 				<timesig>@20120730-JV-NemigWisis1-2-3pluscorrections.wav@4:21-; see			other corrections @6:29</timesig>
 				<vocab>
@@ -3703,7 +3703,7 @@
 		<unit>
 			<title>Food, wanting and liking to eat</title>
 			<lesson>
-				<title>Food-1a</title>
+				<title>54. Food-1a</title>
 				<note>Food images from Mary-Ann: AN singular. Given together as a			single row [and then if possible, highlight each image as it is read			through].</note>
 				<timesig>@20120730-JV-Mijipjewei.wav@0:05-0:34.5</timesig>
 				<explnote>This lesson is a set of vocabulary words about a very				useful subject: food!			You will read and hear the words for each kind of food in the			singular and plural forms (for example, how to say "potato" and how			to say "potatoes").			Some words will become plural when you add a "-l" on the end,			like "switis" (candy) becoming "switisl" (candies).*			Some words will become plural when you add a "-g" on the end,			like "tap'tan" (potato) becoming "tap'tang" (potatoes).			* yes, "switis" probably comes from the English word "sweets" or			"sweeties". You'll			notice a few words in this section that sound fairly similar to English or			French.			Why do you think that might be the case?		</explnote>
@@ -3765,7 +3765,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Food-1b</title>
+				<title>55. Food-1b</title>
 				<note>Food images from Mary-Ann: AN plural. Given together as a single			row [and then if possible, highlight each image as it is read			through].</note>
 				<timesig>@20120730-JV-Mijipjewei.wav@0:37-</timesig>
 				<vocab>
@@ -3832,7 +3832,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Food-1c</title>
+				<title>56. Food-1c</title>
 				<note>Singular and plural rows of images lined up together, singular			on top of plural</note>
 				<linetimsig> @20120730-JV-Mijipjewei.wav@1:33-2:21</linetimsig>
 				<vocab>
@@ -3899,7 +3899,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Food-2a</title>
+				<title>57. Food-2a</title>
 				<note>Food images from Mary-Ann: IN singular. Given together as a			single row [and then if possible, highlight each image as it is read			through].</note>
 				<timesig>@20120730-JV-Mijipjewei.wav@2:25-3:04</timesig>
 				<vocab>
@@ -3984,7 +3984,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Food-2b</title>
+				<title>58. Food-2b</title>
 				<note>Food images from Mary-Ann: IN plural. Given together as a single			row [and then if possible, highlight each image as it is read			through].</note>
 				<timesig>@20120730-JV-Mijipjewei.wav@3:06-3:31+corrections@6:06-6:22		</timesig>
 				<vocab>
@@ -4069,7 +4069,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Food-2c</title>
+				<title>59. Food-2c</title>
 				<note>Singular and plural rows of images lined up together, singular			on top of plural</note>
 				<timesig>@20120730-JV-Mijipjewei.wav@3:35-4:40</timesig>
 				<vocab>
@@ -4154,7 +4154,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Food-2d</title>
+				<title>60. Food-2d</title>
 				<note>Food images from Mary-Ann: IN mass nouns, not commonly used in			plural. Given together as a single row [and then if possible,			highlight each image as it is read through].</note>
 				<note>All of the images are given as a single row [and then if			possible, highlight each image as it is read through].</note>
 				<timesig>@20120730-JV-Mijipjewei.wav@4:43-5:22 plus			corrections@6:26-6:39</timesig>
@@ -4231,7 +4231,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Taste good to you?(animate)</title>
+				<title>61. Taste good to you?(animate)</title>
 				<timesig>@20120731-JV-MAM-Wigpt2Getupt@0:02-0:21</timesig>		
 				<dialog>
 					<line>
@@ -4292,7 +4292,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Taste good to you? (inanimate)</title>
+				<title>62. Taste good to you? (inanimate)</title>
 				<timesig>@20120731-JV-MAM-Wigpt2Getupt@0:21-41.5</timesig>		
 				<dialog>
 					<line>
@@ -4353,7 +4353,7 @@
 			</lesson>
 
 			<lesson>
-				<title>What do you want to eat? (animate)</title>
+				<title>63. What do you want to eat? (animate)</title>
 				<timesig>@20120731-JV-MAM-Wigpt2Getupt@0:42.5-1:01</timesig>		
 				<dialog>
 					<line>
@@ -4472,7 +4472,7 @@
 		<unit>
 			<title>Household items and clothing; wanting and having</title>
 			<lesson>
-				<title>[Household items, clothing]-1a</title>
+				<title>64. [Household items, clothing]-1a</title>
 				<note>All of the images are given as a single row [and then if			possible, highlight each image as it is read through].</note>
 				<timesig>@20120731-JV-MAM-HouseholdItemsAnimInanim.wav@0:11-0:36		</timesig>
 				<vocab>
@@ -4521,7 +4521,7 @@
 			</lesson>
 
 			<lesson>
-				<title>[Household items, clothing]-1b</title>
+				<title>65. [Household items, clothing]-1b</title>
 				<note>All of the images are given as a single row [and then if			possible, highlight each image as it is read through].</note>
 				<timesig>@20120731-JV-MAM-HouseholdItemsAnimInanim.wav@0:38.5-1:00		</timesig>
 				<vocab>
@@ -4570,7 +4570,7 @@
 			</lesson>
 
 			<lesson>
-				<title>[Household items, clothing]-1c</title>
+				<title>66. [Household items, clothing]-1c</title>
 				<note>Singular and plural rows of images lined up together, singular			on top of plural</note>
 				<linetimsig> @20120731-JV-MAM-HouseholdItemsAnimInanim.wav@1:03-1:43		</linetimsig>
 				<vocab>
@@ -4619,7 +4619,7 @@
 			</lesson>
 
 			<lesson>
-				<title>[Household items, clothing]-2a</title>
+				<title>67. [Household items, clothing]-2a</title>
 				<note>Intentionally a much smaller set than easily imaginable. These			are selected for basic utility in demonstrating language patterns,			also with the understanding and expectation that the course teaches			students how to find out more of this kind of vocabulary with regular			speakers. Household items are particularly easy to learn this way,			and hence we keep the set introduced here small.</note>
 				<note>All of the images are given as a single row [and then if			possible, highlight each image as it is read through].</note>
 				<timesig>@20120731-JV-MAM-HouseholdItemsAnimInanim.wav@1:46-1:59		</timesig>		
@@ -4651,7 +4651,7 @@
 			</lesson>
 
 			<lesson>
-				<title>[Household items, clothing]-2b</title>
+				<title>68. [Household items, clothing]-2b</title>
 				<note>All of the images are given as a single row [and then if			possible, highlight each image as it is read through].</note>
 				<timesig>@20120731-JV-MAM-HouseholdItemsAnimInanim.wav@2:02-2:14.5		</timesig>
 				<vocab>
@@ -4682,7 +4682,7 @@
 			</lesson>
 
 			<lesson>
-				<title>[Household items, clothing]-2c</title>
+				<title>69. [Household items, clothing]-2c</title>
 				<note>Singular and plural rows of images lined up together, singular			on top of plural</note>
 				<timesig>@20120731-JV-MAM-HouseholdItemsAnimInanim.wav@2:16-2:35.5		</timesig>
 				<vocab>
@@ -4713,7 +4713,7 @@
 			</lesson>
 
 			<lesson>
-				<title>What do you want?</title>
+				<title>70. What do you want?</title>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@0:06-0:19.5</timesig>		
 				<dialog>
 					<linetimsig>[@0:06-0:9.5]</linetimsig>
@@ -4748,7 +4748,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Do you want a [thing]?</title>
+				<title>71. Do you want a [thing]?</title>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@0:31-43.5</timesig>		
 				<dialog>
 					<line>
@@ -4795,7 +4795,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Do you want [things]?</title>
+				<title>72. Do you want [things]?</title>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@0:44-1:04.5</timesig>		
 				<dialog>
 					<linetimsig>[@0:44-0:49]</linetimsig>
@@ -4844,7 +4844,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Do you want a [thing]? (inanimate)</title>
+				<title>73. Do you want a [thing]? (inanimate)</title>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@1:05-1:19.5</timesig>		
 				<dialog>
 					<line>
@@ -4891,7 +4891,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Do you want [things]? (inanimate)</title>
+				<title>74. Do you want [things]? (inanimate)</title>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@1:26.5-1:44.5</timesig>		
 				<dialog>
 					<line>
@@ -4938,7 +4938,7 @@
 			</lesson>
 
 			<lesson>
-				<title>What do you have?</title>
+				<title>75. What do you have?</title>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@1:45-1:54.5</timesig>		
 				<dialog>
 					<line>
@@ -4971,7 +4971,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Do you have a [thing]? (animate) </title>
+				<title>76. Do you have a [thing]? (animate) </title>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@2:10-2:27</timesig>		
 				<dialog>
 					<line>
@@ -5018,7 +5018,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Do you have [things]? (animate) </title>
+				<title>77. Do you have [things]? (animate) </title>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@2:28-2:46</timesig>		
 				<dialog>
 					<line>
@@ -5065,7 +5065,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Do you have a [thing]? (inanimate)</title>
+				<title>78. Do you have a [thing]? (inanimate)</title>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@2:46.5-3:01</timesig>		
 				<dialog>
 					<line>
@@ -5112,7 +5112,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Do you have [things]? (inanimate)</title>
+				<title>79. Do you have [things]? (inanimate)</title>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@3:02</timesig>		
 				<dialog>
 					<line>
@@ -5160,7 +5160,7 @@
 			</lesson>
 
 			<lesson>
-				<title>Let's go shopping!</title>
+				<title>80. Let's go shopping!</title>
 				<timesig>@20121003-LM-RM-lets go shopping.wav</timesig>		
 				<dialog>
 					<line>
@@ -5259,7 +5259,7 @@
 	<unit>
 		<title>Child care, daily routine, house-care, and commands</title>
 		<lesson>
-			<title>Every day...</title>
+			<title>81. Every day...</title>
 			<timesig>@20120801-JV-MAM-Tesigisgg1.wav@0:01-1:57</timesig>		
 			<dialog>
 				<line>
@@ -5604,7 +5604,7 @@
 	<unit>
 		<title>Body parts, how they hurt, and possession</title>
 		<lesson>
-			<title>My body parts</title>
+			<title>82. My body parts</title>
 			<note>Words are given in singular, plural, or both, depending on how			commonly each is used.</note>
 			<timesig>@20120801-JV-MAM-Gtinin.wav@0:02-2:21</timesig>
 			<vocab>
@@ -5809,7 +5809,7 @@
 		</lesson>
 
 		<lesson>
-			<title>My [body part] hurts. (animate) </title>
+			<title>83. My [body part] hurts. (animate) </title>
 			<timesig>@20120801-JV-MAM-Gesnuguit.wav@0:05-0:37</timesig>
 			<vocab>
 				<line>
@@ -5851,7 +5851,7 @@
 		</lesson>
 
 		<lesson>
-			<title>My [body parts] hurt. (animate) </title>
+			<title>84. My [body parts] hurt. (animate) </title>
 			<timesig>@20120801-JV-MAM-Gesnuguit.wav@0:40-0:53</timesig>
 			<vocab>
 				<line>
@@ -5881,7 +5881,7 @@
 		</lesson>
 
 		<lesson>
-			<title>My [body part] hurts. (inanimate) </title>
+			<title>85. My [body part] hurts. (inanimate) </title>
 			<timesig>@20120801-JV-MAM-Gesnuguit.wav@0:55-2:41.5</timesig>
 			<vocab>
 				<line>
@@ -6025,7 +6025,7 @@
 		</lesson>
 
 		<lesson>
-			<title>My [body parts] hurt. (inanimate) </title>
+			<title>86. My [body parts] hurt. (inanimate) </title>
 			<timesig>@20120801-JV-MAM-Gesnuguit.wav@2:43.5-3:48</timesig>
 			<vocab>
 				<line>
@@ -6103,7 +6103,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Understanding 'my..., your..., his/her...'</title>
+			<title>87. Understanding 'my..., your..., his/her...'</title>
 			<timesig>@20120801-JV-MAM-UnderstandingMyYourHHer.wav@0:06.5-0.34.5-		</timesig>
 			<designnote>good to follow body parts, as reinforcing possession			morphosyntax. This lesson introduces the three basic patterns of			possession marking (n-V-, 'nt-V-, and n-C-). It starts with the			rarest case: the n-V- pattern of nujj 'my father' rather than the			broadest case ('n-C-) for two reasons. First is that nujj 'my father'			and similar family relationship terms are ones learners are likely to			already be somewhat familiar with. Second is that they are somewhat			exceptional, and introducing the exceptions before the broad pattern			helps prevent learners from overusing the broad pattern.		</designnote>
 
@@ -6183,7 +6183,7 @@
 		</lesson>
 
 		<lesson>
-			<title>The -m</title>
+			<title>88.The -m</title>
 			<timesig>@20120801-JV-MAM-UnderstandingMyYourHHer.wav@0:36-0:42.5		</timesig>
 
 			<vocab>
@@ -6213,7 +6213,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Understanding 'his/her...': sound adjustments</title>
+			<title>89.Understanding 'his/her...': sound adjustments</title>
 			<timesig>@20120801-JV-MAM-UnderstandingMyYourHHer.wav@0:47.5-0:57.5		</timesig>
 
 			<vocab>
@@ -6251,7 +6251,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Understanding 'his/her...': the mystery -l</title>
+			<title>90. Understanding 'his/her...': the mystery -l</title>
 			<timesig>@20120801-JV-MAM-UnderstandingMyYourHHer.wav@0:59.5-1:35		</timesig>
 
 			<vocab>
@@ -6357,7 +6357,7 @@
 	<unit>
 		<title>Motion and position</title>
 		<lesson>
-			<title>Where are you?</title>
+			<title>91. Where are you?</title>
 			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@0:01.5-0:9.5</timesig>		
 			<dialog>
 				<line>
@@ -6412,7 +6412,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Where is she? (1)</title>
+			<title>92. Where is she? (1)</title>
 			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@0:33-0:39.5</timesig>		
 			<dialog>
 				<line>
@@ -6445,7 +6445,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Where is she? (2)</title>
+			<title>93. Where is she? (2)</title>
 			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@0:40-0:</timesig>		
 			<dialog>
 				<line>
@@ -6492,7 +6492,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Is your mom here?</title>
+			<title>94. Is your mom here?</title>
 			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@0:58.5-1 :07.5		</timesig>		
 			<dialog>
 				<line>
@@ -6525,7 +6525,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Positionals (1)</title>
+			<title>95. Positionals (1)</title>
 			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@1:12-1:37</timesig>		
 			<dialog>
 				<line>
@@ -6555,7 +6555,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Positionals (2)</title>
+			<title>96. Positionals (2)</title>
 			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@1:41-1:55</timesig>		
 			<dialog>
 				<line>
@@ -6585,7 +6585,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Where are you going? (1)</title>
+			<title>97. Where are you going? (1)</title>
 			<timesig>@20120731-JV-MAM-TamiElien@0:9.5-0:34</timesig>		
 			<dialog>
 				<line>
@@ -6604,7 +6604,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Tami elien? (2)</title>
+			<title>98. Tami elien? (2)</title>
 			<timesig>@20120731-JV-MAM-TamiElien@0:9.5-0:34</timesig>		
 			<dialog>
 				<line>
@@ -6623,7 +6623,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Tami elien? (3)</title>
+			<title>99. Tami elien? (3)</title>
 			<timesig>@20120731-JV-MAM-TamiElien@0:9.5-0:34</timesig>		
 			<dialog>
 				<line>
@@ -6642,7 +6642,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Who's that wandering around?</title>
+			<title>100. Who's that wandering around?</title>
 			<timesig>@20120731-JV-MAM-TamiElien@0:9.5-0:34</timesig>		
 			<dialog>
 				<line>
@@ -6661,7 +6661,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Who's that coming this way?</title>
+			<title>101. Who's that coming this way?</title>
 			<timesig>@20120731-JV-MAM-TamiElien@0:34-0:56</timesig>		
 			<dialog>
 				<line>
@@ -6708,7 +6708,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Where are you going/did you come from?</title>
+			<title>102. Where are you going/did you come from?</title>
 			<timesig>@20120731-JV-MAM-TamiElien@0:56-1:09</timesig>		
 			<dialog>
 				<line>
@@ -6741,7 +6741,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Two people are going...</title>
+			<title>103. Two people are going...</title>
 			<timesig>@20120731-JV-MAM-TamiElien@1:44-2:04</timesig>		
 			<dialog>
 				<line>
@@ -6788,7 +6788,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Two people are coming back...</title>
+			<title>104. Two people are coming back...</title>
 			<timesig>@20120731-JV-MAM-TamiElien@2:23-2:40</timesig>		
 			<dialog>
 				<line>
@@ -6835,7 +6835,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Even more are going...</title>
+			<title>105. Even more are going...</title>
 			<timesig>@20120731-JV-MAM-TamiElien@2:47-3:14</timesig>		
 			<dialog>
 				<line>
@@ -6883,7 +6883,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Even more are coming back...</title>
+			<title>106. Even more are coming back...</title>
 			<timesig>@20120731-JV-MAM-TamiElien@3:15-3:47</timesig>		
 			<dialog>
 				<linetimsig>[@3:15-3:21]</linetimsig>
@@ -6933,7 +6933,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Have you ever been to Gesgapegiaq?</title>
+			<title>105. Have you ever been to Gesgapegiaq?</title>
 			<timesig>@20120731-JV-MAM-TamiElien@4:13-4:41</timesig>
 			<timesig>@20120731-JV-MAM-GisGilWejien.wav@0:08-2:42</timesig>		
 			<dialog>
@@ -7139,7 +7139,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Did you just come from the woods?</title>
+			<title>108. Did you just come from the woods?</title>
 			<timesig>@20120731-JV-MAM-Atel.wav</timesig>		
 			<dialog>
 				<line>
@@ -7244,7 +7244,7 @@
 	<unit>
 		<title>Exit Conversation</title>
 		<lesson>
-			<title>Let's go to the lake!</title>
+			<title>109. Let's go to the lake!</title>
 			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:02-0:017		</timesig>
 			<note>At som point discuss 'swimming to play around' vs. 'swimming to go somewhere 				specific'.</note>		
 			<dialog>
@@ -7283,7 +7283,7 @@
 	<unit>
 		<title>Wants and Needs</title>
 		<lesson>
-			<title>Have to... (1)</title>
+			<title>110. Have to... (1)</title>
 			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:19-0:36		</timesig>
 			<vocab>
 				<line>
@@ -7325,7 +7325,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Have to... (2)</title>
+			<title>111. Have to... (2)</title>
 			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:40-1:14		</timesig>		
 			<dialog>
 				<linetimsig>[@0:40-0:48]</linetimsig>
@@ -7345,7 +7345,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Have to... (3)</title>
+			<title>112. Have to... (3)</title>
 			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:40-1:14		</timesig>		
 			<dialog>
 				<linetimsig>[@0:48-0:55]</linetimsig>
@@ -7365,7 +7365,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Have to... (4)</title>
+			<title>113. Have to... (4)</title>
 			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:40-1:14		</timesig>		
 			<dialog>
 				<linetimsig>[@0:57-1:14]</linetimsig>
@@ -7391,7 +7391,7 @@
 			</dialog>
 		</lesson>
 		<lesson>
-			<title>Want to... (1)</title>
+			<title>114. Want to... (1)</title>
 			<explnote>Depending on the context where you say it, the word getu' can mean 		 either 'going to do...' or 'want to do...'. In these dialogues, we'll be 		 using contexts that suggest getu' = 'want to do...', and some other contexts 		 that suggest getu' = 'going to do...'. Keep your eye out for which translation goes where!</explnote>
 			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@1:20-1:45.5		</timesig>		
 			<dialog>
@@ -7453,7 +7453,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Want to... (2)</title>
+			<title>115. Want to... (2)</title>
 			<note>These highlight the few words that idiomatically have getu'-			built into them, both to help students see the connection and not be			confused by it.</note>
 			<explnote>This dialogue shows a couple words that have getu' built right into them! 		Can you figure out why getu' might always be a part of those words?</explnote>
 			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@1:20-1:45.5		</timesig>		
@@ -7482,7 +7482,7 @@
 		</lesson>
 		<title>Tense</title>
 		<lesson>
-			<title>I've done...</title>
+			<title>116. I've done...</title>
 			<note>Should have explicit note that this can mean either 'have			done...' or 'can do..., be able to do...', depending on context.		</note>
 			<explnote>The expression 'gi's' or 'gisi' is another word like getu' that can 		change its meaning a little depending on context. This dialog shows that gi's/gisi		can mean 'have done...' OR 'can do.../be able to do...', just by changing what it is 		you're talking about.</explnote>
 			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@2:05-2:23		</timesig>		
@@ -7526,7 +7526,7 @@
 	<unit>
 		<title>Verbing with different people; Tense</title>
 		<lesson>
-			<title>We (inclusive) vs. We (exclusive)</title>
+			<title>117. We (inclusive) vs. We (exclusive)</title>
 			<note>Recording this properly requires at least two female, two male			voices; two older and two younger: possibly JV+MAM, VM+JM, and JW+RM]		</note>		
 			<dialog>
 				<line>
@@ -7582,7 +7582,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Weather and tense</title>
+			<title>118. Weather and tense</title>
 			<note>Already added into CAN8. May want to add 'it is/was/will be			hot', to match the 'cold' series</note>=		<explnote>In this lesson, we show how to talk about the weather in		the past, present, and future.		Taking the present tense as the default, the past and future show up		as different endings on the verb.		In general, past = -p  and  future = -tew (sometimes, you see other letters		hanging on to these ones to make them easier to pronouce)		For example, to talk about rainy weather...		yesterday, you say: 		<migmaq>ulagu, gigpesaqap</migmaq>		
 			<english>yesterday, it rained</english>		today, you say: 		<migmaq>gisgug, gigpesaq</migmaq>		
 			<english>today, it's raining</english>		tomorrow, you say: 		<migmaq>sapo'nug, gigpesatew</migmaq>		
@@ -7768,7 +7768,7 @@
 			</vocab>
 		</lesson>
 		<lesson>
-			<title>Give me an apple! </title>
+			<title>119. Give me an apple! </title>
 			<timesig>@20120705_JW_AV_ignmui1.wav</timesig>		
 			<dialog>
 				<line>
@@ -7796,7 +7796,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Give me a lobster!</title>
+			<title>120. Give me a lobster!</title>
 			<timesig>@20120705_JW_AV_ignmui2.wav</timesig>		
 			<dialog>
 				<line>
@@ -7830,7 +7830,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Give her an apple!</title>
+			<title>121. Give her an apple!</title>
 			<timesig>@20120705_JW_AV_ignmu1.wav</timesig>		
 			<dialog>
 				<line>
@@ -7857,7 +7857,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Give her a lobster!</title>
+			<title>122. Give her a lobster!</title>
 			<timesig>@20120705_JW_AV_ignmu2.wav</timesig>		
 			<dialog>
 				<line>
@@ -7897,7 +7897,7 @@
 			</dialog>
 		</lesson>
 		<lesson>
-			<title>I give you an egg...</title>
+			<title>123. I give you an egg...</title>
 			<timesig>@20120705_JW_AV_wa'w_ignmul.wav</timesig>		
 			<dialog>
 				<line>
@@ -7952,7 +7952,7 @@
 		</lesson>
 
 		<lesson>
-			<title>I give him one lobster...</title>
+			<title>124. I give him one lobster...</title>
 			<timesig>@20120705_JW_ignmaql.wav</timesig>		
 			<dialog>
 				<line>
@@ -8000,7 +8000,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Let me give you socks!</title>
+			<title>125. Let me give you socks!</title>
 			<note>phonological highlighting of easy-to-miss contrast between -n and -nn</note>
 			<timesig>@20120705_JW_AV_ignmulann.wav</timesig>		
 			<dialog>
@@ -8035,7 +8035,7 @@
 		</lesson>
 
 		<lesson>
-			<title>My sister gives me socks.</title>
+			<title>126. My sister gives me socks.</title>
 			<timesig>@20120705_JW_AV_ignmuitl.wav</timesig>		
 			<dialog>
 				<line>
@@ -8069,7 +8069,7 @@
 		</lesson>
 
 		<lesson>
-			<title>My brother gives me potatoes.</title>
+			<title>127. My brother gives me potatoes.</title>
 			<timesig>@20120705_JW_EM_ignmuiji.wav</timesig>		
 			<dialog>
 				<line>
@@ -8099,13 +8099,13 @@
 		<title>Practice Drama</title>
 		<lesson>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>
-			<title>	Gesalul: a Can-8 drama in 6 acts!</title>
+			<title>128.	Gesalul: a Can-8 drama in 6 acts!</title>
 			<note>This is mean to tie into and follow from the "give me..." series			in introducing how participants in the verbal action change the form			of the verb.</note>
 			<note>Basically we want to encourage learners to go over this drama			many, many times: act it, memorize it as lines in a play. So that			instead of having to refer to mental grammar chart in their heads			(never fun or effective), they simply have to remember the scene in			the play, and what was said, and, roughly speaking, just try to			make their current verb match the ending used with "love" in that			specific situation.</note>
 		</lesson>
 
 		<lesson>
-			<title>Opening scene</title>
+			<title>128a.	0. Opening scene</title>
 			<note>0.1 [lovelorn boy in a field, with a flower, pulling petals		</note>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
 			<dialog>
@@ -8119,7 +8119,7 @@
 		</lesson>
 
 		<lesson>
-			<title>First act: first attempt</title>
+			<title>128b. 1. First act: first attempt</title>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
 			<dialog>
 				<note>1.1 [lovelorn boy to a somewhat uninterested girl]</note>
@@ -8161,7 +8161,7 @@
 
 		<lesson>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>
-			<title>Second act: second attempt</title>		
+			<title>128c. 2. Second act: second attempt</title>		
 			<dialog>
 				<note>2.1 [the boy, offering flowers]</note>
 				<line>
@@ -8184,7 +8184,7 @@
 
 		<lesson>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>
-			<title>Third act: with a friend</title>		
+			<title>128d. 3. Third act: with a friend</title>		
 			<dialog>
 				<note>3.1 [the boy, to a sympathetic friend]</note>
 				<line>
@@ -8233,7 +8233,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Fourth act: other people's perspectives</title>
+			<title>128e. 4. Fourth act: other people's perspectives</title>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
 			<dialog>
 				<note>4.1 [the girl, to us, gesturing back to the boy]</note>
@@ -8262,7 +8262,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Fifth act: a final attempt, and success!!!</title>
+			<title>128f. 5. Fifth act: a final attempt, and success!!!</title>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
 			<dialog>
 				<note>5.1 [the boy, after many repetitions]</note>
@@ -8290,7 +8290,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Final act: the friend concludes it for us</title>
+			<title>128g. 6. Final act: the friend concludes it for us</title>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
 			<dialog>
 				<note>6.1 [the friend, to us, after love is won</note>
@@ -8318,7 +8318,7 @@
 		</lesson>
 
 		<lesson>
-			<title>- Some dramatic up and down options, if we want to keep			this soap opera going: </title>		
+			<title>128h. - Some dramatic up and down options, if we want to keep			this soap opera going: </title>		
 			<dialog>
 				<line>
 					<migmaq>Welamul, gatu mu gesalulnu.</migmaq>				
@@ -8423,7 +8423,7 @@
 	<unit>
 		<title>Daily conversation</title>
 		<lesson>
-			<title>Warnings and Requests</title>
+			<title>129. Warnings and Requests</title>
 
 			<designnote>
 			</designnote>
@@ -8605,7 +8605,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Getting up</title>		
+			<title>130. Getting up</title>		
 			<dialog>
 				<line>
 					<migmaq>Mn'ja'si! Amuj pa naji-sgu'lewin.</migmaq>				
@@ -8674,7 +8674,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Using bathroom, taking baths, brushing teeth</title>
+			<title>131. Using bathroom, taking baths, brushing teeth</title>
 			<vocab>
 				<line>
 					<migmaq>Maja'si, naji-sgi.</migmaq>				
@@ -8929,7 +8929,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Getting dressed</title>
+			<title>132. Getting dressed</title>
 			<vocab>
 				<line>
 					<migmaq>Ilaji nige'.</migmaq>				
@@ -9205,7 +9205,7 @@
 <unit>
 	<title>Bonus dialog</title>
 		<lesson>
-			<title>	Did you have pets?</title>
+			<title>133.	Did you have pets?</title>
 			<explnote>This lesson features a dialogue between a man and a woman. Their voices might be slightly hard for you to understand, but don't worry about getting every word and just try to get the gist! Being able to pick things up from a conversation that is full of things you haven't studied yet is an important part of learning a new language.</explnote>
 			<dialog>
 				<line>

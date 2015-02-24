@@ -19,39 +19,32 @@ Author: Carolyn Anderson          Last Modified: 2/13/2015
 #Create xsl transformation functions
 unit_xsl_raw = etree.parse("lesson_big.xsl")  #Displays data from Unit down
 unit_xsl = etree.XSLT(unit_xsl_raw) 
-index_xsl_raw = etree.parse("index.xsl")  #Makes an index of child files
+index_xsl_raw = etree.parse("index_big.xsl")  #Makes an index of child files
 index_xsl = etree.XSLT(index_xsl_raw) 
-intro_xsl_raw = etree.parse("intro.xsl")  #Creates intro page
+intro_xsl_raw = etree.parse("intro_big.xsl")  #Creates intro page
 intro_xsl = etree.XSLT(intro_xsl_raw) 
 
-def processUnit(level, unit):
+def processLesson(level, lesson):
   #Rransforms to all units--- creates webpages for each displaying dialogues
-  filename = createFilename(unit, level)#create filename
+  filename = createFilename(lesson, level)#create filename
   f = open(filename, "w") #create new file
-  f.write(getMarkup(unit, level)) #write Jekyll markup to top
-  f.write(str(unit_xsl(unit))) #apply xslt transformation to unit data and write to file
+  f.write(getMarkup(lesson, level)) #write Jekyll markup to top
+  f.write(str(unit_xsl(lesson))) #apply xslt transformation to unit data and write to file
   f.close()
 
-def processLesson(level, lesson):
+def processUnit(level, unit):
   #Transforms all lessons and creates an index file for each showing child files
-  createIndexFile(lesson, level)
-  units = lesson.xpath("unit")  #get units
-  for unit in units: #call unit processing function on all units
-      processUnit(level+1, unit)
-
-def processSubsection(level, subsection):
-  #Transforms all subsections and creates an index file for each showing child files
-  createIndexFile(subsection, level)
-  lessons = subsection.xpath("lesson")  #get lessons
-  for lesson in lessons: #call lesson processing function on all lessons
-    processLesson(level+1, lesson)
+  createIndexFile(unit, level)
+  lessons = unit.xpath("lesson")  #get units
+  for lesson in lessons: #call unit processing function on all units
+      processLesson(level+1, lesson)
 
 def processSection(level, section):
   #Transforms all sections and creates an index file for each showing child files  
   createIndexFile(section, level)
-  subsections = section.xpath("subsection") #get subsections
-  for subsection in subsections: #call subsection processing function on all sections
-    processSubsection(level+1, subsection)
+  units = section.xpath("unit") #get subsections
+  for unit in units: #call subsection processing function on all sections
+    processUnit(level+1, unit)
 
 def processLessonSet(level, lessonset):
   #Transforms the top-level lessonset; creates an intro page
@@ -59,9 +52,9 @@ def processLessonSet(level, lessonset):
   f.write(getMarkup(lessonset, level))#write Jekyll markup to top
   f.write(str(intro_xsl(lessonset))) #apply xslt transformation to unit data and write to file
   f.close()
-  sections = lessonset.xpath("lesson")  #get sections
+  sections = lessonset.xpath("section")  #get sections
   for section in sections: #call section processing function on all units
-    processUnit(level+1, section)
+    processSection(level+1, section)
 
 def createIndexFile(current, level):
   #Creates an index file displaying titles of all child files and linking to them
@@ -76,8 +69,8 @@ def getMarkup(current, level):
   markup = ""
   pt = getParentTitles(current, level)#get list of titles of ancestor sections
   for i in range(len(pt)):
-    markup = markup + "%s: %s\n" % (pt[i]) #Jekyll markup for each ancestor
-  if level == 4:
+    markup = markup + "%s: (%s) %s\n" % (pt[i]) #Jekyll markup for each ancestor
+  if level == 3:
     markup = "---\nlayout: unit\n" + markup + "---\n" #layout markup
   else:
     markup = "---\nlayout: blank\n" + markup + "---\n" #layout markup
@@ -90,8 +83,9 @@ def getParentTitles(current, level):
     parent = current.xpath("..")[0]#get parent
     title = current.xpath("*/text()")[0]#get title of each parent
     name = current.xpath("name()")#get name of each parent
+    index = getIndex(current)
     current = parent #set new current node
-    titles.append((name,title)) #append parent title to list
+    titles.append((name,index,title)) #append parent title to list
   titles.reverse() #print in top-to-bottom order
   return titles
 
