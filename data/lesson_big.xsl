@@ -13,60 +13,75 @@
          <p><xsl:value-of select="designnote"/></p><!--Display design note as a paragraph-->
          <div id="carousel" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-         <xsl:for-each select="dialog">
-          
+           <xsl:for-each select="dialog">
             <!-- Indicators -->
             <xsl:variable name="d">
-                <xsl:value-of select="count(preceding-sibling::dialog)"/>
-              </xsl:variable>
-            <xsl:for-each select="line">
-              <!--<li data-target="#carousel" data-slide-to="0" class="active"></li>-->
-              <xsl:variable name="l">
-                <xsl:value-of select="count(preceding-sibling::line)"/>
-              </xsl:variable>
-              <!--<xsl:choose>-->
-              <!--<xsl:if test="{$num}='1'">-->
-              <li data-target="#carousel" data-slide-to="{$l}" class="active"></li>
-              <!--</xsl:if>
+              <xsl:value-of select="count(preceding-sibling::dialog)"/>
+            </xsl:variable>
+            <xsl:choose>
+              <xsl:when test="$d= 0">
+                <li data-target="#carousel" data-slide-to="{$d}" class="active"></li>
+              </xsl:when>
               <xsl:otherwise>
-                  <li data-target="#carousel" data-slide-to="{$num}"></li>
-                </xsl:otherwise>-->
-              <!--</xsl:choose>-->
-            </xsl:for-each>
+                <li data-target="#carousel" data-slide-to="{$d}"></li>
+              </xsl:otherwise>-->
+            </xsl:choose>
           </xsl:for-each>
-            </ol>
-            <div class="carousel-inner" role="listbox"><!--Iterate through all the lines in each dialog-->
-              <xsl:for-each select="dialog">
-              <xsl:for-each select="line"><!--Iterate through all child dialogs-->
-                <div class="item active carousel-caption caption-read">
-                  <div class="media"><!--Make a media object with the audio file-->
-                    <div class="media-left">
-                      <embed class="media-object" src="soundfile/{.}.wav" autostart="no" height="12"></embed>
-                    </div>
-                    <div class="media-body">
-                      <h2 class="media-heading"><xsl:value-of select="migmaq"/></h2><!--Display Mi'gmaq-->
-                      <h4 class="media-heading"><xsl:value-of select="english"/></h4><!--Display English-->
-                    </div>
+        </ol>
+        <div class="carousel-inner" role="listbox"><!--Iterate through all the lines in each dialog-->
+          <xsl:for-each select="dialog"><!--Iterate through all child dialogs-->
+            <xsl:variable name="d">
+              <xsl:value-of select="count(preceding-sibling::dialog)"/>
+            </xsl:variable>
+            <xsl:choose>
+              <xsl:when test="$d= 0">
+                  <div class="item active carousel-caption caption-read">
+                    <xsl:for-each select="line">
+                      <div class="media"><!--Make a media object with the audio file-->
+                        <div class="media-left">
+                          <embed class="media-object" src="soundfile/{.}.wav" autostart="no" height="12"></embed>
+                        </div>
+                        <div class="media-body">
+                          <h2 class="media-heading"><xsl:value-of select="migmaq"/></h2><!--Display Mi'gmaq-->
+                          <h4 class="media-heading"><xsl:value-of select="english"/></h4><!--Display English-->
+                        </div>
+                      </div>
+                    </xsl:for-each>
                   </div>
-                </div>
-              </xsl:for-each>
+                </xsl:when>
+                <xsl:otherwise>
+                  <div class="item carousel-caption caption-read">
+                    <xsl:for-each select="line">
+                      <div class="media"><!--Make a media object with the audio file-->
+                        <div class="media-left">
+                          <embed class="media-object" src="soundfile/{.}.wav" autostart="no" height="12"></embed>
+                        </div>
+                        <div class="media-body">
+                          <h2 class="media-heading"><xsl:value-of select="migmaq"/></h2><!--Display Mi'gmaq-->
+                          <h4 class="media-heading"><xsl:value-of select="english"/></h4><!--Display English-->
+                        </div>
+                      </div>
+                    </xsl:for-each>
+                  </div>
+                </xsl:otherwise>
+              </xsl:choose>
             </xsl:for-each>
-            </div>
-            <!-- Controls -->
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-leaf"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-leaf"></span>
-    <span class="sr-only">Next</span>
-  </a>
           </div>
+          <!-- Controls -->
+          <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-leaf"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-leaf"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
         <p>
           <xsl:value-of select="info"/><!--Display any info associated with the unit-->
         </p>
       </div>
-      </body>
-    </html>
-  </xsl:template>
+    </body>
+  </html>
+</xsl:template>
 </xsl:stylesheet>
