@@ -1,19 +1,19 @@
 
 header {
-  min-height: 120px; /*Keeps logo from overflowing header*/
+  /*min-height: 120px;*/ /*Keeps logo from overflowing header*/
   margin-bottom: 15px; /*Margin to add space before content of page */
+  background: rgba(240, 69, 22, 0.85);
 }
 
 .icon-bar{
+  /*Add some white space around icons*/
   margin: 5px;
-  padding-top: 15px; /*Add some white space around icons*/
+  /*padding-top: 15px;*/ 
 }
 /*@media (min-width: 768px){*/ 
   /*Do you just want these styles to apply to screensizes that are 768 or less? 
     Most should probably apply to any screen size.*/
-  .navbar-fixed-top{
-    adding-bottom: 200px;
-  }
+
   .navbar-collapse{
     height: auto;
     border-top: 0;
@@ -31,7 +31,7 @@ header {
   .navbar-collapse.in {
     overflow-x: visible;
   }
-  .navbar {
+  .navbar-horizontal {
     max-width:300px;
     margin-right: 0;
     margin-left: 0;
@@ -46,7 +46,6 @@ header {
   }
   .navbar-header{
     padding-right: 5px;
-    padding-top: 3px;
    }
         
   .navbar-right .dropdown-menu {left:0;right:auto;}
@@ -58,19 +57,30 @@ header {
     display: inline !important;
     margin: 5px;
     float: right;
-    padding: 0;
   }
       /*}*/
       /*body{
           padding-top: 250px;
           padding-bottom: 80px;
       }*/ 
-      /*This is what was causing the weird spacing with the heading once fixed properties were removed. 
+      /*This is part of what was causing the weird spacing with the heading once fixed properties were removed. 
         One of the tricky things about CSS is the difference between padding and margins. What we want 
         is a margin around the header, not padding in the body).
+        The other part was that the size of the navbar-brand was smaller than the image it was containing, causing
+        the image to spill over onto elements below.
         Another useful thing to note is that instead of using fixed numbers of pixels,
         it's often better to use percentages, because it helps adjust for different screen sizes. 
        */
   footer{
+    height: 5%;
     padding-left: 5em;
+    opacity:0.8;
+    background: rgba(240, 69, 22, 0.5);
+    padding: 5px;
+    align: left;
   }
+
+.navbar-brand {
+  height: 130px;
+}
+
