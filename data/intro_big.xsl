@@ -13,16 +13,16 @@
         </p>
         <h1>Outline:</h1><!--Outline is just a list of child node titles and links to their pages-->
         <xsl:for-each select="section"><!--Find all section children-->
-          <xsl:variable name="secadd">../<xsl:value-of select="count(../preceding-sibling::section)+1"/>.html</xsl:variable><!--Create filename for section child webpage-->
+          <xsl:variable name="secadd">sections/<xsl:value-of select="count(preceding-sibling::section)+1"/>.html</xsl:variable><!--Create filename for section child webpage-->
           <a href="{$secadd}"><h1><xsl:value-of select="*[1]"/></h1></a><!--List section titles as links to their webpages-->
         <!--<xsl:for-each select="subsection">--><!--Find all subsection children-->
           <!--<xsl:variable name="subadd">../<xsl:value-of select="count(../preceding-sibling::section)+1"/>.<xsl:value-of select="count(preceding-sibling::subsection)+1"/>.html</xsl:variable>--><!--Create filename for subsection child webpage-->
           <!--<a href="{$subadd}"><h2><xsl:value-of select="*[1]"/></h2></a>--><!--List subsection titles as links to their webpages--> 
         <xsl:for-each select="unit"><!--Find all lesson children-->
-          <xsl:variable name="lessadd">../<xsl:value-of select="count(../../preceding-sibling::section)+1"/>.<xsl:value-of select="count(../preceding-sibling::subsection)+1"/>.<xsl:value-of select="count(preceding-sibling::lesson)+1"/>.html</xsl:variable><!--Create filename for lesson child webpage-->
+          <xsl:variable name="lessadd">units/<xsl:value-of select="count(../preceding-sibling::section)+1"/>.<xsl:value-of select="count(preceding-sibling::unit)+1"/>.html</xsl:variable><!--Create filename for lesson child webpage-->
           <a href="{$lessadd}"><h3><xsl:value-of select="*[1]"/></h3></a><!--List lesson titles as links to their webpages-->
         <xsl:for-each select="lesson"><!--Find all unit children-->
-          <xsl:variable name="unadd">../<xsl:value-of select="count(../../../preceding-sibling::section)+1"/>.<xsl:value-of select="count(../../preceding-sibling::subsection)+1"/>.<xsl:value-of select="count(../preceding-sibling::lesson) +1"/>.<xsl:value-of select="count(preceding-sibling::unit)+1"/>.html</xsl:variable><!--Create filename for unit child webpage-->
+          <xsl:variable name="unadd">lessons/<xsl:value-of select="count(../../preceding-sibling::section)+1"/>.<xsl:value-of select="count(../preceding-sibling::unit) +1"/>.<xsl:value-of select="count(preceding-sibling::lesson)+1"/>.html</xsl:variable><!--Create filename for unit child webpage-->
           <a href="{$unadd}"><h4><xsl:value-of select="*[1]"/></h4></a><!--List unit titles as links to their webpages-->
         </xsl:for-each>
         </xsl:for-each>
