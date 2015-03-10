@@ -1690,7 +1690,7 @@
 					</vocab>
 				</lesson>
 
-				<lesson>
+				<!--<lesson>
 					<title>How many people? 1-12.</title>
 
 					<designnote>This lesson combines the patterns of the original minimal			[1, 2, 3, many] people-counting system with the above higher number			patterns to show learners how to count up to ninety-nine people.		</designnote>
@@ -9249,7 +9249,7 @@
 					</soundfile>
 				</line>
 			</dialog>
-		</lesson>
+		</lesson>-->
 	</unit>
 </section>
 </lessonset>
