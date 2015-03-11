@@ -8,6 +8,7 @@ html, body {
 }
 
 #main {
+  min-height: 100%;
   overflow:auto;
   padding-bottom:45px; /* this needs to be bigger than footer height*/
 }
@@ -90,8 +91,9 @@ header {
     background: rgba(240, 69, 22, 0.5);\
     align: left;
     position: relative;
-    margin-top: -35px; /* negative value of footer height */
-    height: 35px;
+    margin-top: -40px; /* negative value of footer height */
+    height: 40px;
+    padding-top: 2px;
   }
 
 
