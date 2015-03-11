@@ -26,134 +26,80 @@
     </head>
 
     <body>
-      <header>
-        <div class="wrap">
-          <nav class ="navbar navbar-horizontal" role="navigation">
-            <div class="container"><!--Groups brand and icons together for better display-->
-              <div class = "navbar-header">
-                <!--<a class = "navbar-brand" href="frame.html"><img src="img/sitelogo.png" alt="Learn Mi'gmaq" class="img-circle" align="left" height="100px"></a>-->
+      <div id="wrap">
+        <div id="main">
+          <header>
+            <div class="wrap">
+              <nav class ="navbar navbar-horizontal" role="navigation">
+                <div class="container">
+                  <div class = "navbar-header">
+                    <a href="#" class="navbar-brand"><img src="img/sitelogo.png" alt="Learn Mi'gmaq" class="img-circle" align="left" height="75px"></a>
+                  </div>
+                  <div class="row icon-bar">
+                    <ul class = "list-inline" align="right">
+                      <li><a href="http://www.migmaq.org" target="_blank"><img src="img/wordpressimage.png" alt="Migmaq.org" class="img-rounded" width="40" height="40"></a>
+                      </li>
+                      <li><a href="http://www.wiki.migmaq.org" target="_blank"><img src="img/wikiimage.png" alt="Migmaq Wikipedia" class="img-rounded" width="40" height="40"></a>
+                      </li>
+                      <li><a href="http://www.quizlet.com/learnmigmaq" target="_blank"><img src="img/quizlet.png" alt="Quizlet" class="img-rounded" width="40" height="40"></a>
+                      </li>
+                      <li><a href="http://www.learnmigmaq.tumblr.com" target="_blank"><img src="img/tumblrimage.png" alt="Tumblr" class="img-rounded" width="40" height="40"></a>
+                      </li>
+                      <li><a href="http://www.instagram.com/learnmigmaq" target="_blank"><img src="img/instagramimage.png" alt="Instagram" class="img-rounded" width="40" height="40"></a>
+                      </li>
+                      <li><a href="http://www.twitter.com/learnmigmaq" target="_blank"><img src="img/twitterimage.png" alt="Twitter" class="img-rounded" width="40" height="40"></a>
+                      </li>
+                      <li><a href="http://www.facebook.com/groups/learnmigmaq" target="_blank"><img src="img/facebookimage.png" alt="Facebook" width="40" height="40" class="img-rounded"></a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </nav>
+            </div>
+          </header>
+
+          <div class="container-fluid">
+
+            <div id="wrapper">
+
+              <div id="sidebar-wrapper">
+                <ul class="sidebar-nav dropdown-menu" role="menu" aria-labelledby="dropdownMenu" style="margin-bottom: 5px; display: block; position: static;">
+                  <li class="dropdown-submenu">
+                    <a tabindex="-1" href="#">Menu</a>
+                    <ul class="dropdown-menu">
+                      <li class="dropdown-submenu">
+                        <a>About</a>
+                        <ul class="dropdown-menu">
+                          <li><a href="about.html">The Mi'gmaq Language</a></li>
+                          <li><a href="project.html">The Project</a></li>
+                          <li><a href="team.html">The Team</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="use.html">How to Use this Site</a></li>
+                      <li class="dropdown-submenu">
+                        <a href="intro.html">Table of Contents</a>
+                        <ul class="dropdown-menu">
+                          <li><a href="#">3rd level</a></li>
+                          <li><a href="#">3rd level</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="resources.html">Resources</a></li>
+                    </ul>
+                  </li>
+                </ul>
               </div>
-        <!--<div class = "row-fluid">
-        <div class = "span5 offset6">-->
-          <div class="row icon-bar">
-            <!-- <ul class = "nav navbar-nav navbar-fixed-top" align="right">-->
-            <ul class = "list-inline" align="right">
-              <li><a href="http://www.migmaq.org" target="_blank"><img src="img/wordpressimage.png" alt="Migmaq.org" class="img-rounded" width="40" height="40"></a>
-              </li>
-              <li><a href="http://www.wiki.migmaq.org" target="_blank"><img src="img/wikiimage.png" alt="Migmaq Wikipedia" class="img-rounded" width="40" height="40"></a>
-              </li>
-              <li><a href="http://www.quizlet.com/learnmigmaq" target="_blank"><img src="img/quizlet.png" alt="Quizlet" class="img-rounded" width="40" height="40"></a>
-              </li>
-              <li><a href="http://www.learnmigmaq.tumblr.com" target="_blank"><img src="img/tumblrimage.png" alt="Tumblr" class="img-rounded" width="40" height="40"></a>
-              </li>
-              <li><a href="http://www.instagram.com/learnmigmaq" target="_blank"><img src="img/instagramimage.png" alt="Instagram" class="img-rounded" width="40" height="40"></a>
-              </li>
-              <li><a href="http://www.twitter.com/learnmigmaq" target="_blank"><img src="img/twitterimage.png" alt="Twitter" class="img-rounded" width="40" height="40"></a>
-              </li>
-              <li><a href="http://www.facebook.com/groups/learnmigmaq" target="_blank"><img src="img/facebookimage.png" alt="Facebook" width="40" height="40" class="img-rounded"></a>
-              </li>
-            </ul>
-            <!--</div>-->
+
+              <div id="page-content-wrapper">
+                {{ content }}
+              </div>
+            </div>
           </div>
         </div>
-      </nav>
-    </div>
-  </header>
-
-
-  <!--THE FOLLOWING CODE ADDS A VERTICAL NAV BAR-->
-  <div class="container"> <!-- I placed the vnavbar and the main div into columns-->
-    <div class="row">       
-      <div class="col-xs-3"> <!--XS may not be the right 'size' column though-->
-        <nav class="navbar navbar-vertical" role="navigation">
-          <!--Brand and toggle get grouped for better mobile display-->
-          <div class = "navbar-header">
-            
-            <a class = "navbar-brand" href="frame.html"><img src="img/sitelogo.png" alt="Learn Mi'gmaq" class="img-circle" align="left" height="100px"></a>
-            <button type = "button" class = "navbar-toggle" data-toggle="collapse" data target = ".navbar-ex1-collapse">
-             <span class="sr-only">Toggle navigation</span>
-             <span class="icon-bar"></span>
-             <span class="icon-bar"></span>
-             <span class="icon-bar"></span>
-           </button>
-           <!--<a class="navbar-brand" href="#">Brand</a>-->
-       <!--<a class = "navbar-brand" href="frame.html"><img src="img/sitelogo.png" alt="Learn Mi'gmaq" class="img-circle" align="left" width="200" height="200"></a>
-     -->
-     <!--</div>-->
-     <!--<div>
-          <ul class = "nav navbar-links" align="right">
-            <li class = "nav wordpress"><a href="http://www.migmaq.org" target="_blank"><img src="img/wordpressimage.png" alt="Migmaq.org" class="img-rounded" width="40" height="40"></a>
-            </li>
-            <li class="nav wikipedia"><a href="http://www.wiki.migmaq.org" target="_blank"><img src="img/wikiimage.png" alt="Migmaq Wikipedia" class="img-rounded" width="40" height="40"></a>
-            </li>
-            <li class="nav quizlet"><a href="http://www.quizlet.com/learnmigmaq" target="_blank"><img src="img/quizlet.png" alt="Quizlet" class="img-rounded" width="40" height="40"></a>
-            </li>
-            <li class="nav tumblr"><a href="http://www.learnmigmaq.tumblr.com" target="_blank"><img src="img/tumblrimage.png" alt="Tumblr" class="img-rounded" width="40" height="40"></a>
-            </li>
-            <li class="nav instagram"><a href="http://www.instagram.com/learnmigmaq" target="_blank"><img src="img/instagramimage.png" alt="Instagram" class="img-rounded" width="40" height="40"></a>
-            </li>
-            <li class="nav twitter"><a href="http://www.twitter.com/learnmigmaq" target="_blank"><img src="img/twitterimage.png" alt="Twitter" class="img-rounded" width="40" height="40"></a>
-            </li>
-            <li class="nav facebook"><a href="http://www.facebook.com/groups/learnmigmaq" target="_blank"><img src="img/facebookimage.png" alt="Facebook" width="40" height="40" class="img-rounded"></a>
-            </li>
-          </ul>
-        -->
       </div>
-
-      <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse navbar-ex1-collapse">
-       <form class="navbar-form navbar-left" role="search">
-        <div class="form-group">
-          <input type="text" class="form-control" placeholder="Search">
+      <footer id="site footer">
+        <div>
+          <h5>&#169;2015 Mi'gmaq Research Partnership</h5>
         </div>
-        <button type="submit" class="btn btn-default">Submit</button>
-      </form>
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li><a href="intro.html">Table of Contents</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<b class="caret"></b></a>
-          <ul class="dropdown-menu">
-            <li><a href="about.html">The Mi'gmaq Language</a></li>
-            <li><a href="project.html">The Project</a></li>
-            <li><a href="team.html">The Team</a></li>
-            <li><a href="use.html">How to Use this Site</a></li>
-            <li><a href="resources.html">Resources</a></li>
-          </ul>
-        </li>
-      </ul>
-      <!--
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Link</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li><a href="#">Separated link</a></li>
-          </ul>
-        </li>
-      </ul>
-    -->
-  </div><!-- /.navbar-collapse -->
-</nav>
-<!--END VERTICAL NAV BAR CODE-->
-</div>
-
-<div class="col-xs-9">
-  {{ content }}
-
-</div>
-</div>
-</div>
-
-<footer id="site footer"><!--when possible, try to define styles in the css file instead of the main file -->
-  <div>
-    <h5>&#169;2015 Mi'gmaq Research Partnership</h5>
-  </div>
-</footer>
-
-
-</body>
-</html>
+      </footer>
+    </body>
+    </html>

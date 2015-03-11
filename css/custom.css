@@ -85,6 +85,10 @@ header {
         Another useful thing to note is that instead of using fixed numbers of pixels,
         it's often better to use percentages, because it helps adjust for different screen sizes. 
        */
+#page-content-wrapper{
+  margin: 10px 30px 10px 30px;
+}
+
   footer{
     padding-left: 5em;
     opacity:0.8;
