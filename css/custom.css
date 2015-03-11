@@ -1,4 +1,17 @@
 
+html, body {
+  height: 100%;
+}
+
+#wrap {
+  min-height: 100%;
+}
+
+#main {
+  overflow:auto;
+  padding-bottom:45px; /* this needs to be bigger than footer height*/
+}
+
 header {
   /*min-height: 120px;*/ /*Keeps logo from overflowing header*/
   margin-bottom: 15px; /*Margin to add space before content of page */
@@ -72,12 +85,13 @@ header {
         it's often better to use percentages, because it helps adjust for different screen sizes. 
        */
   footer{
-    height: 5%;
     padding-left: 5em;
     opacity:0.8;
-    background: rgba(240, 69, 22, 0.5);
-    padding: 5px;
+    background: rgba(240, 69, 22, 0.5);\
     align: left;
+    position: relative;
+    margin-top: -35px; /* negative value of footer height */
+    height: 35px;
   }
 
 
@@ -89,9 +103,17 @@ header {
   height: inherit;
 }
 
+/*Styles for sidenav with multiple levels on hover*/
+
+.dropdown-menu{
+  min-width: 80px;
+  margin: -5px 15px 15px 5px;
+}
+
 .dropdown-submenu{
   position:relative;
 }
+
 .dropdown-submenu>.dropdown-menu{
   top:0;left:100%;margin-top:-6px;margin-left:-1px;
   -webkit-border-radius:0 6px 6px 6px;
