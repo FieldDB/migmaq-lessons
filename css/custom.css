@@ -86,7 +86,7 @@ header {
         it's often better to use percentages, because it helps adjust for different screen sizes. 
        */
 #page-content-wrapper{
-  margin: 10px 30px 10px 30px;
+  margin: 10px 30px 10px 130px; /*Extra margin to create a "column" for the menu button */
 }
 
   footer{

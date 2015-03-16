@@ -28,66 +28,12 @@
     <body>
       <div id="wrap">
         <div id="main">
-          <header>
-            <div class="wrap">
-              <nav class ="navbar navbar-horizontal" role="navigation">
-                <div class="container">
-                  <div class = "navbar-header">
-                    <a href="#" class="navbar-brand"><img src="img/sitelogo.png" alt="Learn Mi'gmaq" class="img-circle" align="left" height="75px"></a>
-                  </div>
-                  <div class="row icon-bar">
-                    <ul class = "list-inline" align="right">
-                      <li><a href="http://www.migmaq.org" target="_blank"><img src="img/wordpressimage.png" alt="Migmaq.org" class="img-rounded" width="40" height="40"></a>
-                      </li>
-                      <li><a href="http://www.wiki.migmaq.org" target="_blank"><img src="img/wikiimage.png" alt="Migmaq Wikipedia" class="img-rounded" width="40" height="40"></a>
-                      </li>
-                      <li><a href="http://www.quizlet.com/learnmigmaq" target="_blank"><img src="img/quizlet.png" alt="Quizlet" class="img-rounded" width="40" height="40"></a>
-                      </li>
-                      <li><a href="http://www.learnmigmaq.tumblr.com" target="_blank"><img src="img/tumblrimage.png" alt="Tumblr" class="img-rounded" width="40" height="40"></a>
-                      </li>
-                      <li><a href="http://www.instagram.com/learnmigmaq" target="_blank"><img src="img/instagramimage.png" alt="Instagram" class="img-rounded" width="40" height="40"></a>
-                      </li>
-                      <li><a href="http://www.twitter.com/learnmigmaq" target="_blank"><img src="img/twitterimage.png" alt="Twitter" class="img-rounded" width="40" height="40"></a>
-                      </li>
-                      <li><a href="http://www.facebook.com/groups/learnmigmaq" target="_blank"><img src="img/facebookimage.png" alt="Facebook" width="40" height="40" class="img-rounded"></a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </nav>
-            </div>
-          </header>
-
+          {% include header.html %}
           <div class="container-fluid">
 
             <div id="wrapper">
 
-              <div id="sidebar-wrapper">
-                <ul class="sidebar-nav dropdown-menu" role="menu" aria-labelledby="dropdownMenu" style="margin-bottom: 5px; display: block; position: static;">
-                  <li class="dropdown-submenu">
-                    <a tabindex="-1" href="#">Menu</a>
-                    <ul class="dropdown-menu">
-                      <li class="dropdown-submenu">
-                        <a>About</a>
-                        <ul class="dropdown-menu">
-                          <li><a href="about.html">The Mi'gmaq Language</a></li>
-                          <li><a href="project.html">The Project</a></li>
-                          <li><a href="team.html">The Team</a></li>
-                        </ul>
-                      </li>
-                      <li><a href="use.html">How to Use this Site</a></li>
-                      <li class="dropdown-submenu">
-                        <a href="intro.html">Table of Contents</a>
-                        <ul class="dropdown-menu">
-                          <li><a href="#">3rd level</a></li>
-                          <li><a href="#">3rd level</a></li>
-                        </ul>
-                      </li>
-                      <li><a href="resources.html">Resources</a></li>
-                    </ul>
-                  </li>
-                </ul>
-              </div>
+              {% include sidebar.html %}
 
               <div id="page-content-wrapper">
                 {{ content }}
