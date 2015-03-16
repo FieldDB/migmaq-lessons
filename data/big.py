@@ -70,11 +70,75 @@ def getMarkup(current, level):
   pt = getParentTitles(current, level)#get list of titles of ancestor sections
   for i in range(len(pt)):
     markup = markup + "%s: (%s) %s\n" % (pt[i]) #Jekyll markup for each ancestor
-  if level == 3:
-    markup = "---\nlayout: frame\n" + markup + "---\n" #layout markup
+  if level == 0:
+    markup = "---\nlayout: frame\n" + markup + "\n---\n" #layout markup
   else:
-    markup = "---\nlayout: frame\n" + markup + "---\n" #layout markup
+    prev = getPrev(current, level)
+    curr = createFilename(current, level)
+    foll = getNext(current, level)
+    markup = "---\nlayout: frame\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
+  print markup
   return markup
+
+def getPrev(current, level):
+  #Finds the previous pages for a given node
+  name = current.xpath("name()")
+  prev_siblings = current.xpath("preceding-sibling::"+name+"")
+  if not len(prev_siblings)==0:
+    prev = createFilename(prev_siblings[len(prev_siblings)-1], level)
+  else:
+    if not level==1:
+      prev = createFilename(current.xpath("..")[0], level-1)
+    else:
+      prev = "intro.html"
+  return prev
+
+def getNext(current, level):
+  #Finds the next pages for a given node
+  """
+  if (level) < 3:
+    foll = createFilename(current.xpath("child::*")[0], level+1)
+    current = current.xpath("following-sibli")
+  """
+  foll = "end.html"
+  name = current.xpath("name()")
+  siblist = current.xpath("following-sibling::"+name+"")
+  l = level
+  while l > 0:
+    if findLesson(current, l) == None:
+      current = current.xpath("..")[0]
+      name = current.xpath("name()")
+      print name
+      siblist = current.xpath("following-sibling::"+name+"")
+      l = l - 1
+    else:
+      return findLesson(current, l)
+
+def findLesson(current, level):
+  siblist = current.xpath("following-sibling::lesson")
+  if len(siblist) > 0:
+    return createFilename(siblist[0], level)
+  else:
+    return None     
+
+  
+    """
+    name = current.xpath("name()")
+    foll_siblings = current.xpath("following-sibling::"+name+"")
+    if len(foll_siblings)==0:
+      foll_aunts = current.xpath("../following-sibling::*")
+      if len(foll_aunts)==0:
+        foll_grandaunts = current.xpath("../../following-sibling::*")
+        if len(foll_grandaunts)==0:
+          foll = "end.html"
+        else:
+          foll = createFilename(foll_grandaunts[0], level-2)
+      else:
+        foll = createFilename(foll_aunts[0], level-1)
+    else:
+      foll = createFilename(foll_siblings[0], level)
+      """
+  return foll
 
 def getParentTitles(current, level):
   #Returns the names and titles of ancestor sections in a list of tuples
