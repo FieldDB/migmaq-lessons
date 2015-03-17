@@ -1,10 +1,8 @@
-
-
 <!--this bit goes at the bottom of the content loaded, so we can navigate between different exercises -->
-  <div class = "container">
+  <div class = "container-fluid">
     <ul class="pager">
       <!--need to chage these links to refer to the previous and next pages-->
-      <li class = "previous"><a href="#"><span aria-hidden="true">&larr;</span> Previous</a></li>
-      <li class = "next"><a href = "#">Next <span aria-hidden="true">&rarr;</span></a></li>
+      <li class = "previous"><a href={{ page.prev }}><span aria-hidden="true">&larr;</span>Previous Lesson</a></li>
+      <li class = "next"><a href = {{ page.foll }}>Next Lesson<span aria-hidden="true">&rarr;</span></a></li>
     </ul>
   </div>

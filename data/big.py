@@ -71,73 +71,96 @@ def getMarkup(current, level):
   for i in range(len(pt)):
     markup = markup + "%s: (%s) %s\n" % (pt[i]) #Jekyll markup for each ancestor
   if level == 0:
-    markup = "---\nlayout: frame\n" + markup + "\n---\n" #layout markup
+    markup = "---\nlayout: frame\n---\n" #layout markup
   else:
     prev = getPrev(current, level)
     curr = createFilename(current, level)
     foll = getNext(current, level)
-    markup = "---\nlayout: frame\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
+    if level == 3:
+      markup = "---\nlayout: frame_inner\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
+    else:
+      markup = "---\nlayout: frame\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
   print markup
   return markup
 
 def getPrev(current, level):
   #Finds the previous pages for a given node
-  name = current.xpath("name()")
-  prev_siblings = current.xpath("preceding-sibling::"+name+"")
-  if not len(prev_siblings)==0:
-    prev = createFilename(prev_siblings[len(prev_siblings)-1], level)
-  else:
-    if not level==1:
+  if level==3: #Case lesson
+    prev_siblings = current.xpath("preceding-sibling::lesson")
+    if not len(prev_siblings)==0: #Case lesson_sib
+      prev = createFilename(prev_siblings[len(prev_siblings)-1], level)
+    else: #Case parent
       prev = createFilename(current.xpath("..")[0], level-1)
-    else:
+  if level==2:#Case unit
+    prev_siblings = current.xpath("preceding-sibling::unit")
+    if not len(prev_siblings)==0:
+      prev_path = prev_siblings[len(prev_siblings)-1]
+      prev_lessons = prev_path.xpath("lesson")
+      if not len(prev_lessons)==0: #Case lesson_niece
+        prev = createFilename(prev_lessons[len(prev_lessons)-1], level+1)
+      else:#Case sibling
+        prev = createFilename(prev_path, level)
+    else: #Case parent
+      prev = createFilename(current.xpath("..")[0], level-1)
+  if level==1:#Case section
+    prev_siblings = current.xpath("preceding-sibling::section")
+    if not len(prev_siblings)==0:
+      prev_section = prev_siblings[len(prev_siblings)-1]
+      prev_units = prev_section.xpath("unit")
+      if not len(prev_units)==0:
+        prev_unit = prev_units[len(prev_units)-1]
+        prev_lessons = prev_unit.xpath("lesson")
+        if not len(prev_lessons)==0: #Case grandniece
+          prev_lesson = prev_lessons[len(prev_lessons)-1]
+          prev = createFilename(prev_lesson, level+2)
+        else: #Case niece
+          prev = createFilename(prev_unit, level+1)
+      else: #Case sibling
+        prev = createFilename(prev_section, level)
+    else: #Case parent
       prev = "intro.html"
   return prev
 
 def getNext(current, level):
   #Finds the next pages for a given node
-  """
-  if (level) < 3:
-    foll = createFilename(current.xpath("child::*")[0], level+1)
-    current = current.xpath("following-sibli")
-  """
-  foll = "end.html"
-  name = current.xpath("name()")
-  siblist = current.xpath("following-sibling::"+name+"")
-  l = level
-  while l > 0:
-    if findLesson(current, l) == None:
-      current = current.xpath("..")[0]
-      name = current.xpath("name()")
-      print name
-      siblist = current.xpath("following-sibling::"+name+"")
-      l = l - 1
+  if level==3:
+    siblings = current.xpath("following-sibling::lesson")
+    if not len(siblings)==0: #Case sibling
+      foll = createFilename(siblings[0], level)
     else:
-      return findLesson(current, l)
-
-def findLesson(current, level):
-  siblist = current.xpath("following-sibling::lesson")
-  if len(siblist) > 0:
-    return createFilename(siblist[0], level)
-  else:
-    return None     
-
-  
-    """
-    name = current.xpath("name()")
-    foll_siblings = current.xpath("following-sibling::"+name+"")
-    if len(foll_siblings)==0:
-      foll_aunts = current.xpath("../following-sibling::*")
-      if len(foll_aunts)==0:
-        foll_grandaunts = current.xpath("../../following-sibling::*")
-        if len(foll_grandaunts)==0:
-          foll = "end.html"
-        else:
-          foll = createFilename(foll_grandaunts[0], level-2)
+      aunts = current.xpath("../following-sibling::unit")
+      if not len(aunts)==0: #Case aunt
+        foll = createFilename(aunts[0], level-1)
       else:
-        foll = createFilename(foll_aunts[0], level-1)
+        grandaunts = current.xpath("../../following-sibling::section")
+        if not len(grandaunts)==0: #Case grand-aunt
+          foll = createFilename(grandaunts[0], level-2)
+        else: #Case no-grand-aunt
+          foll = "end.html"
+  if level==2:
+    children = current.xpath("lesson")
+    if not len(children)==0: #Case child
+      foll = createFilename(children[0], level+1)
     else:
-      foll = createFilename(foll_siblings[0], level)
-      """
+      siblings = current.xpath("following-sibling::unit")
+      if not len(siblings)==0: #Case sibling
+        foll = createFilename(siblings[0], level)
+      else:
+        aunts = current.xpath("../following-sibling::section")
+        if not len(aunts)==0: #Case aunt
+          foll = createFilename(aunts[0], level-1)
+        else:
+          foll = "end.html"
+  if level==1:
+    children = current.xpath("unit")
+    if not len(children)==0: #Case child
+      foll = createFilename(children[0], level+1)
+    else:
+      siblings = current.xpath("following-sibling::section")
+      if not len(siblings)==0: #Case sibling
+        foll = createFilename(siblings[0], level)
+      else: #Case no_sibling
+        foll = "end.html"
   return foll
 
 def getParentTitles(current, level):
