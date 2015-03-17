@@ -7,80 +7,19 @@
         <title><xsl:value-of select="title"/></title><!--Title is unit title-->
       </head>
       <body>
-        <div class="container">
+        <div class="container-fluid">
          <h1><xsl:value-of select="title"/></h1><!--Display unit title at top of page-->
          <img class="img-responsive thumbnail" src="../img/wikiimage.png" alt="Trees" style="max-width: 75%"></img><!--Display unit img-->
          <p><xsl:value-of select="designnote"/></p><!--Display design note as a paragraph-->
-         <xsl:for-each select="vocab|dialog"><!--Iterate through vocab elements and dialogs; I'm not sure what the difference between them is supposed to mean-->
-         <!--<xsl:for-each select="dialog">-->
-
-         <!--<div id="carousel" class="carousel slide" data-ride="carousel">
-          <ol class="carousel-indicators">
-           <xsl:for-each select="dialog">-->
-            <!-- Indicators -->
-            <!--<xsl:variable name="d">
-              <xsl:value-of select="count(preceding-sibling::dialog)"/>
-            </xsl:variable>
-            <xsl:choose>
-              <xsl:when test="$d=0">
-                <li data-target="#carousel" data-slide-to="{$d}" class="active"></li>
-              </xsl:when>
-              <xsl:otherwise>
-                <li data-target="#carousel" data-slide-to="{$d}"></li>
-              </xsl:otherwise>
-            </xsl:choose>
-          </xsl:for-each>
-        </ol>
-        <div class="carousel-inner" role="listbox">-->
-          <!--<xsl:for-each select="dialog">--><!--Iterate through all child dialogs-->
-            <!--<xsl:variable name="d">
-              <xsl:value-of select="count(preceding-sibling::dialog)"/>
-            </xsl:variable>
-            <xsl:choose>
-              <xsl:when test="$d= 0">
-                  <div class="item active carousel-caption caption-read">-->
-                    <xsl:for-each select="line">
-                      <div class="media"><!--Make a media object with the audio file-->
-                        <div class="media-left">
-                          <!--<embed class="media-object" src="soundfile/{.}.wav" autostart="no" height="12"></embed>-->sound1
-                        </div>
-                        <div class="media-body">
-                          <h2 class="media-heading">
-                            <xsl:value-of select="migmaq"/></h2><!--Display Mi'gmaq-->
-                          <h4 class="media-heading"><xsl:value-of select="english"/></h4><!--Display English-->
-                        </div>
-                      </div>
-                    </xsl:for-each>
-                  <!--</div>
-                </xsl:when>
-                <xsl:otherwise>
-                  <div class="item carousel-caption caption-read">
-                    <xsl:for-each select="line">--><!--Iterate through all the lines in each dialog-->
-                      <!--<div class="media">--><!--Make a media object with the audio file-->
-                        <!--<div class="media-left">-->
-                          <!--<embed class="media-object" src="soundfile/{.}.wav" autostart="no" height="12"></embed>--><!--sound2
-                        </div>
-                        <div class="media-body">
-                          <h2 class="media-heading"><xsl:value-of select="migmaq"/></h2>--><!--Display Mi'gmaq-->
-                          <!--<h4 class="media-heading"><xsl:value-of select="english"/></h4>--><!--Display English-->
-                        <!--</div>
-                      </div>-->
-                    </xsl:for-each>
-                  <!--</div>
-                </xsl:otherwise>
-              </xsl:choose>
-            </xsl:for-each>
-          </div>-->
-          <!-- Controls -->
-          <!--<a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-            <span class="glyphicon glyphicon-leaf"></span>
-            <span class="sr-only">Previous</span>
-          </a>
-          <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-            <span class="glyphicon glyphicon-leaf"></span>
-            <span class="sr-only">Next</span>
-          </a>
-        </div>-->
+         <xsl:for-each select="dialog"><!--Iterate through dialogs; I'm not sure what to do with vocabs-->
+          <xsl:variable name="filename"><xsl:value-of select="count(../../../preceding-sibling::section)+1"/>.<xsl:value-of select="count(../../preceding-sibling::unit)+1"/>.<xsl:value-of select="count(../preceding-sibling::lesson)+1"/>.<xsl:value-of select="count(preceding-sibling::dialog)+1"/>.html</xsl:variable>
+          <div class="well well-lg">
+            <a href="{$filename}"><h4>Dialog <xsl:value-of select="count(preceding-sibling::dialog)+1"/></h4></a>
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="{$filename}" seamless=""></iframe>
+            </div>
+          </div>
+        </xsl:for-each>
         <p>
           <xsl:value-of select="info"/><!--Display any info associated with the unit-->
         </p>
