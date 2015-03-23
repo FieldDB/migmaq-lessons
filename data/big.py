@@ -29,9 +29,11 @@ intro_xsl = etree.XSLT(intro_xsl_raw)
 def processDialog(level, dialog):
   #Transforms to all dialogs--- creates webpages for each
   filename = "../dialogs/" + createFilename(dialog, level)#create filename
+  index = str(getIndex(dialog))
   f = open(filename, "w") #create new file
   f.write(getMarkup(dialog, level)) #write Jekyll markup to top
-  f.write(str(dialog_xsl(dialog))) #apply xslt transformation to unit data and write to file
+  plain_string = etree.XSLT.strparam(index)
+  f.write(str(dialog_xsl(dialog, index=plain_string))) #apply xslt transformation to unit data and write to file
   f.close()
 
 def processLesson(level, lesson):
@@ -40,8 +42,8 @@ def processLesson(level, lesson):
   fileprefix = createFilePrefix(lesson, level)
   f = open(filename, "w") #create new file
   f.write(getMarkup(lesson, level)) #write Jekyll markup to top
-  plain_string_value = etree.XSLT.strparam(fileprefix)
-  f.write(str(lesson_xsl(lesson, fileprefix=plain_string_value))) #apply xslt transformation to unit data and write to file
+  plain_string = etree.XSLT.strparam(fileprefix)
+  f.write(str(lesson_xsl(lesson, fileprefix=plain_string))) #apply xslt transformation to unit data and write to file
   f.close()
   dialogs = lesson.xpath("dialog")  #get units
   for dialog in dialogs: #call unit processing function on all units
@@ -81,28 +83,39 @@ def createIndexFile(location, current, level):
 
 def getMarkup(current, level):
   #Generates a Jekyll markup specifying layout and saving ancestors as Jekyll variables
+  if level == 0:
+    markup = "---\nlayout: frame\n---\n" #layout markup
+  else:
+    prev = getPrev(current, level)
+    curr = createFilename(current, level)
+    foll = getNext(current, level)
+    if level == 3:
+        markup = parentMarkup(current, level)
+        markup = "---\nlayout: frame_inner\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
+    else:
+      if level == 4:
+        markup = "---\nlayout: iframe\nprev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
+      else:
+        markup = parentMarkup(current, level)
+        markup = "---\nlayout: frame\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
+  return markup
+
+def parentMarkup(current, level):
+  #Generates a Jekyll markup storing parents as variables
   markup = ""
   pt = getParentTitles(current, level)#get list of titles of ancestor sections
   for i in range(len(pt)):
     markup = markup + "%s: (%s) %s\n" % (pt[i]) #Jekyll markup for each ancestor
-  if level == 0:
-    markup = "---\nlayout: frame\n---\n" #layout markup
-  else:
-    if level == 4:
-      markup = "---\nlayout: iframe\n---\n" #iframe markup
-    else:
-      prev = getPrev(current, level)
-      curr = createFilename(current, level)
-      foll = getNext(current, level)
-      if level == 3:
-        markup = "---\nlayout: frame_inner\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
-      else:
-        markup = "---\nlayout: frame\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
-  #print markup
   return markup
 
 def getPrev(current, level):
   #Finds the previous pages for a given node
+  if level==4: #Special case: dialogs only have other dialogs as previous
+    prev_siblings = current.xpath("preceding-sibling::dialog")
+    if not len(prev_siblings)==0: #There is a previous dialog
+      prev = createFilename(prev_siblings[len(prev_siblings)-1], level)
+    else: #None
+      prev = createFilename(current, level)
   if level==3: #Case lesson
     prev_siblings = current.xpath("preceding-sibling::lesson")
     if not len(prev_siblings)==0: #Case lesson_sib
@@ -141,6 +154,12 @@ def getPrev(current, level):
 
 def getNext(current, level):
   #Finds the next pages for a given node
+  if level==4: #Special case: dialogs only have other dialogs as next
+    siblings = current.xpath("following-sibling::dialog")
+    if not len(siblings)==0: #There is a next
+      foll = createFilename(siblings[0], level)
+    else: #No following
+      foll = createFilename(current, level)
   if level==3:
     siblings = current.xpath("following-sibling::lesson")
     if not len(siblings)==0: #Case sibling

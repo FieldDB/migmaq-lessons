@@ -2,7 +2,7 @@
   <div class = "container-fluid">
     <ul class="pager">
       <!--need to chage these links to refer to the previous and next pages-->
-      <li class = "previous"><a href={{ page.prev }}><span aria-hidden="true">&larr;</span>Previous Lesson</a></li>
-      <li class = "next"><a href = {{ page.foll }}>Next Lesson<span aria-hidden="true">&rarr;</span></a></li>
+      <li class = "previous"><a href={{ page.prev }}><span aria-hidden="true">&larr;</span>Previous {{ include.type }}</a></li>
+      <li class = "next"><a href = {{ page.foll }}>Next {{ include.type }}<span aria-hidden="true">&rarr;</span></a></li>
     </ul>
   </div>

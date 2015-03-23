@@ -12,17 +12,15 @@
          <h1><xsl:value-of select="title"/></h1><!--Display unit title at top of page-->
          <img class="img-responsive thumbnail" src="../img/wikiimage.png" alt="Trees" style="max-width: 75%"></img><!--Display unit img-->
          <p><xsl:value-of select="designnote"/></p><!--Display design note as a paragraph-->
-         <xsl:for-each select="dialog"><!--Iterate through dialogs; I'm not sure what to do with vocabs-->
-          <xsl:variable name="filename">../dialogs/<xsl:value-of select="$fileprefix"/><xsl:value-of select="count(preceding-sibling::dialog)+1"/>.html</xsl:variable>
+          <xsl:variable name="filename">../dialogs/<xsl:value-of select="$fileprefix"/>1.html</xsl:variable>
           <div class="well well-lg">
-            <a href="{$filename}"><xsl:value-of select="$filename"/><h4>Dialog <xsl:value-of select="count(preceding-sibling::dialog)+1"/></h4></a>
+            <a href="{$filename}"></a>
             <div class="embed-responsive embed-responsive-16by9">
               <iframe class="embed-responsive-item" src="{$filename}" seamless=""></iframe>
             </div>
           </div>
-        </xsl:for-each>
         <p>
-          <xsl:value-of select="info"/><!--Display any info associated with the unit-->
+          <xsl:value-of select="info"/><!--Display any info associated with the lesson-->
         </p>
       </div>
     </body>
