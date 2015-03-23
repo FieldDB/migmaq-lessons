@@ -5,3 +5,5 @@ units:
 output: true
 lessons:
 output: true
+dialogs:
+output: true

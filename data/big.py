@@ -17,23 +17,38 @@ Author: Carolyn Anderson          Last Modified: 2/13/2015
 """
 
 #Create xsl transformation functions
-lesson_xsl_raw = etree.parse("lesson_big.xsl")  #Displays data from Unit down
+dialog_xsl_raw = etree.parse("dialog_big.xsl")  #Displays data from Dialog down
+dialog_xsl = etree.XSLT(dialog_xsl_raw) 
+lesson_xsl_raw = etree.parse("lesson_big.xsl")  #Displays data from Lesson down
 lesson_xsl = etree.XSLT(lesson_xsl_raw) 
 index_xsl_raw = etree.parse("index_big.xsl")  #Makes an index of child files
 index_xsl = etree.XSLT(index_xsl_raw) 
 intro_xsl_raw = etree.parse("intro_big.xsl")  #Creates intro page
 intro_xsl = etree.XSLT(intro_xsl_raw) 
 
-def processLesson(level, lesson):
-  #Rransforms to all units--- creates webpages for each displaying dialogues
-  filename = "../lessons/" + createFilename(lesson, level)#create filename
+def processDialog(level, dialog):
+  #Transforms to all dialogs--- creates webpages for each
+  filename = "../dialogs/" + createFilename(dialog, level)#create filename
   f = open(filename, "w") #create new file
-  f.write(getMarkup(lesson, level)) #write Jekyll markup to top
-  f.write(str(lesson_xsl(lesson))) #apply xslt transformation to unit data and write to file
+  f.write(getMarkup(dialog, level)) #write Jekyll markup to top
+  f.write(str(dialog_xsl(dialog))) #apply xslt transformation to unit data and write to file
   f.close()
 
+def processLesson(level, lesson):
+  #Transforms to all lessons--- creates webpages for each displaying dialogues
+  filename = "../lessons/" + createFilename(lesson, level)#create filename
+  fileprefix = createFilePrefix(lesson, level)
+  f = open(filename, "w") #create new file
+  f.write(getMarkup(lesson, level)) #write Jekyll markup to top
+  plain_string_value = etree.XSLT.strparam(fileprefix)
+  f.write(str(lesson_xsl(lesson, fileprefix=plain_string_value))) #apply xslt transformation to unit data and write to file
+  f.close()
+  dialogs = lesson.xpath("dialog")  #get units
+  for dialog in dialogs: #call unit processing function on all units
+      processDialog(level+1, dialog)
+
 def processUnit(level, unit):
-  #Transforms all lessons and creates an index file for each showing child files
+  #Transforms all units and creates an index file for each showing child files
   createIndexFile("units", unit, level)
   lessons = unit.xpath("lesson")  #get units
   for lesson in lessons: #call unit processing function on all units
@@ -73,14 +88,17 @@ def getMarkup(current, level):
   if level == 0:
     markup = "---\nlayout: frame\n---\n" #layout markup
   else:
-    prev = getPrev(current, level)
-    curr = createFilename(current, level)
-    foll = getNext(current, level)
-    if level == 3:
-      markup = "---\nlayout: frame_inner\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
+    if level == 4:
+      markup = "---\nlayout: iframe\n---\n" #iframe markup
     else:
-      markup = "---\nlayout: frame\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
-  print markup
+      prev = getPrev(current, level)
+      curr = createFilename(current, level)
+      foll = getNext(current, level)
+      if level == 3:
+        markup = "---\nlayout: frame_inner\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
+      else:
+        markup = "---\nlayout: frame\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
+  #print markup
   return markup
 
 def getPrev(current, level):
@@ -178,13 +196,18 @@ def getParentTitles(current, level):
 
 def createFilename(current, level):
   #Creates a filename based on the index of the current node
+  filename = createFilePrefix(current, level)
+  filename = filename + "html"
+  return filename
+
+def createFilePrefix(current, level):
+  #Creates a filename based on the index of the current node
   filename = ""
   for i in range(0,level): #iterate through tree hierarchy to current level
     parent = current.xpath("..")[0] #get parent node
     index = getIndex(current) #get index of parent node
     filename = str(index) + "." + filename #add parent node index to filename
     current = parent #set current node to parent to move up a level
-  filename = filename + "html"
   return filename
 
 def getIndex(current):
