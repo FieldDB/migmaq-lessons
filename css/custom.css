@@ -1,13 +1,13 @@
 
 html, body {
   height: 100%;
+  padding-bottom: 0px;
 }
 
 .embed-responsive.embed-responsive-16by9 {
-  padding-bottom: 15%;
+  height: 100%;
+  padding-bottom: 0px;
 }
-
-
 
 #wrap {
   min-height: 100%;
@@ -28,12 +28,7 @@ header {
 .icon-bar{
   /*Add some white space around icons*/
   margin: 5px;
-  /*padding-top: 15px;*/ 
 }
-/*@media (min-width: 768px){*/ 
-  /*Do you just want these styles to apply to screensizes that are 768 or less? 
-    Most should probably apply to any screen size.*/
-
   .navbar-collapse{
     height: auto;
     border-top: 0;

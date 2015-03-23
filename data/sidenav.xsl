@@ -10,29 +10,30 @@
             <li class="dropdown-submenu">
               <a>About</a>
               <ul class="dropdown-menu">
-                <li><a href="about.html">The Mi'gmaq Language</a></li>
-                <li><a href="project.html">The Project</a></li>
-                <li><a href="team.html">The Team</a></li>
+                <xsl:variable name="abouturl">{{ site.baseurl }}/about.html</xsl:variable>
+                <li><a href="{$abouturl}">The Mi'gmaq Language</a></li>
+                <li><a href="{{{ site.baseurl }}}/project.html">The Project</a></li>
+                <li><a href="{{ site.baseurl }}/team.html">The Team</a></li>
               </ul>
             </li>
-            <li><a href="use.html">How to Use this Site</a></li>
+            <li><a href="{{ site.baseurl }}/use.html">How to Use this Site</a></li>
             <li class="dropdown-submenu">
-              <a href="intro.html">Table of Contents</a>
+              <a href="{{ site.baseurl }}/intro.html">Table of Contents</a>
               <ul class="dropdown-menu">
                 <xsl:for-each select="section"><!--Find all section children-->
-                  <xsl:variable name="secadd">sections/<xsl:value-of select="count(preceding-sibling::section)+1"/>.html</xsl:variable><!--Create filename for section child webpage-->
+                  <xsl:variable name="securl">{{ site.baseurl }}/sections/<xsl:value-of select="count(preceding-sibling::section)+1"/>.html</xsl:variable><!--Create filename for section child webpage-->
                   <li class="dropdown-submenu">
-                    <a href="{$secadd}"><xsl:value-of select="*[1]"/></a><!--List section titles as links to their webpages-->
+                    <a href="{$securl}"><xsl:value-of select="*[1]"/></a><!--List section titles as links to their webpages-->
                     <ul class="dropdown-menu">
                       <xsl:for-each select="unit"><!--Find all lesson children-->
-                        <xsl:variable name="lessadd">units/<xsl:value-of select="count(../preceding-sibling::section)+1"/>.<xsl:value-of select="count(preceding-sibling::unit)+1"/>.html</xsl:variable><!--Create filename for lesson child webpage-->
+                        <xsl:variable name="uniturl">{{ site.baseurl }}/units/<xsl:value-of select="count(../preceding-sibling::section)+1"/>.<xsl:value-of select="count(preceding-sibling::unit)+1"/>.html</xsl:variable><!--Create filename for lesson child webpage-->
                         <li class="dropdown-submenu">
-                          <a href="{$lessadd}"><xsl:value-of select="*[1]"/></a><!--List lesson titles as links to their webpages-->
+                          <a href="{$uniturl}"><xsl:value-of select="*[1]"/></a><!--List lesson titles as links to their webpages-->
                           <ul class="dropdown-menu">
                             <xsl:for-each select="lesson"><!--Find all unit children-->
-                              <xsl:variable name="unadd">lessons/<xsl:value-of select="count(../../preceding-sibling::section)+1"/>.<xsl:value-of select="count(../preceding-sibling::unit) +1"/>.<xsl:value-of select="count(preceding-sibling::lesson)+1"/>.html</xsl:variable><!--Create filename for unit child webpage-->
+                              <xsl:variable name="lessonurl">{{ site.baseurl }}/lessons/<xsl:value-of select="count(../../preceding-sibling::section)+1"/>.<xsl:value-of select="count(../preceding-sibling::unit) +1"/>.<xsl:value-of select="count(preceding-sibling::lesson)+1"/>.html</xsl:variable><!--Create filename for unit child webpage-->
                               <li>
-                                <a href="{$unadd}"><xsl:value-of select="*[1]"/></a><!--List unit titles as links to their webpages-->
+                                <a href="{$lessonurl}"><xsl:value-of select="*[1]"/></a><!--List unit titles as links to their webpages-->
                               </li>
                             </xsl:for-each>
                           </ul>
@@ -45,7 +46,7 @@
             </li>
           </ul>
         </li>
-        <li><a href="resources.html">Resources</a></li>
+        <li><a href="{{ site.baseurl }}/resources.html">Resources</a></li>
       </ul>
     </div>
   </xsl:template>

@@ -6,13 +6,11 @@
   <title>Learn Mi'gmaq</title>
 
   <!-- Bootstrap -->
-  <link href="../css/bootstrap.min.css" rel="stylesheet">
-  <link href="../css/yeti.css" rel="stylesheet">
-  <link href="../css/custom.css" rel="stylesheet">
-
+  <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
+  <link href="{{ site.baseurl }}/css/yeti.css" rel="stylesheet">
+  <link href="{{ site.baseurl }}/css/custom.css" rel="stylesheet">
 
   <!--.navbar-horizontal .navbar-fixed-top .navbar-links li{ -->
-
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -22,10 +20,12 @@
       <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
       <!-- Include all compiled plugins (below), or include individual files as needed -->
-      <script src="../js/bootstrap.min.js"></script>
+      <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
     </head>
     <body>
-    {{ content }}
-    {% include arrows.html type="Dialog" %}
+      <div class="container-fluid">
+        {{ content }}
+        {% include arrows.html type="Dialog" %}
+      </div>
     </body>
     </html>
