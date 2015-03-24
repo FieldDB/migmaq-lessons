@@ -11,12 +11,22 @@
     <p>
       <xsl:value-of select="designnote"/>
     </p><!--Display design note as a paragraph-->
-    <xsl:variable name="filename">{{ site.baseurl }}/dialogs/<xsl:value-of select="$fileprefix"/>1.html</xsl:variable>
+    <xsl:if test="dialog">
+    <xsl:variable name="dianame">{{ site.baseurl }}/dialogs/<xsl:value-of select="$fileprefix"/>1.html</xsl:variable>
     <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="{$filename}" seamless="">
+      <iframe class="embed-responsive-item" src="{$dianame}" seamless="">
         <a></a><!-- Hack to prevent xsl from using shorthand /> end bracket-->
       </iframe>
     </div>
+    </xsl:if>
+    <xsl:if test="vocab">
+    <xsl:variable name="vocabname">{{ site.baseurl }}/vocabs/<xsl:value-of select="$fileprefix"/>1.html</xsl:variable>
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="{$vocabname}" seamless="">
+        <a></a><!-- Hack to prevent xsl from using shorthand /> end bracket-->
+      </iframe>
+    </div>
+    </xsl:if>
     <p>
       <xsl:value-of select="info"/><!--Display any info associated with the lesson-->
     </p>

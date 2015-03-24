@@ -73,19 +73,7 @@ header {
     margin: 5px;
     float: right;
   }
-      /*}*/
-      /*body{
-          padding-top: 250px;
-          padding-bottom: 80px;
-      }*/ 
-      /*This is part of what was causing the weird spacing with the heading once fixed properties were removed. 
-        One of the tricky things about CSS is the difference between padding and margins. What we want 
-        is a margin around the header, not padding in the body).
-        The other part was that the size of the navbar-brand was smaller than the image it was containing, causing
-        the image to spill over onto elements below.
-        Another useful thing to note is that instead of using fixed numbers of pixels,
-        it's often better to use percentages, because it helps adjust for different screen sizes. 
-       */
+  
 #page-content-wrapper{
   margin: 10px 30px 10px 130px; /*Extra margin to create a "column" for the menu button */
 }

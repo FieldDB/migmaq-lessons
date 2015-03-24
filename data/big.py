@@ -17,6 +17,8 @@ Author: Carolyn Anderson          Last Modified: 2/13/2015
 """
 
 #Create xsl transformation functions
+vocab_xsl_raw = etree.parse("vocab_big.xsl")  #Displays data from Dialog down
+vocab_xsl = etree.XSLT(vocab_xsl_raw) 
 dialog_xsl_raw = etree.parse("dialog_big.xsl")  #Displays data from Dialog down
 dialog_xsl = etree.XSLT(dialog_xsl_raw) 
 lesson_xsl_raw = etree.parse("lesson_big.xsl")  #Displays data from Lesson down
@@ -25,6 +27,16 @@ index_xsl_raw = etree.parse("index_big.xsl")  #Makes an index of child files
 index_xsl = etree.XSLT(index_xsl_raw) 
 intro_xsl_raw = etree.parse("intro_big.xsl")  #Creates intro page
 intro_xsl = etree.XSLT(intro_xsl_raw) 
+
+def processVocab(level, vocab):
+  #Transforms to all dialogs--- creates webpages for each
+  filename = "../vocabs/" + createFilename(vocab, level)#create filename
+  index = str(getIndex(vocab))
+  f = open(filename, "w") #create new file
+  f.write(getMarkup(vocab, level)) #write Jekyll markup to top
+  plain_string = etree.XSLT.strparam(index)
+  f.write(str(vocab_xsl(vocab, index=plain_string))) #apply xslt transformation to unit data and write to file
+  f.close()
 
 def processDialog(level, dialog):
   #Transforms to all dialogs--- creates webpages for each
@@ -48,6 +60,10 @@ def processLesson(level, lesson):
   dialogs = lesson.xpath("dialog")  #get units
   for dialog in dialogs: #call unit processing function on all units
       processDialog(level+1, dialog)
+  vocabs = lesson.xpath("vocab")  #get units
+  for vocab in vocabs: #call unit processing function on all units
+      processVocab(level+1, vocab)
+
 
 def processUnit(level, unit):
   #Transforms all units and creates an index file for each showing child files
