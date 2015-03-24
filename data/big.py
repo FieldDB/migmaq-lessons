@@ -239,7 +239,6 @@ def createFilePrefix(current, level):
     index = getIndex(current) #get index of parent node
     filename = str(index) + "." + filename #add parent node index to filename
     current = parent #set current node to parent to move up a level
-  print filename
   return filename
 
 def getIndex(current):

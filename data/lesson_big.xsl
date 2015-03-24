@@ -6,11 +6,17 @@
     <h1>
       <xsl:value-of select="title"/>
     </h1><!--Display unit title at top of page-->
-    <xsl:variable name="imgurl">{{ site.baseurl }}/img/wikiimage.png</xsl:variable>
-    <img class="img-responsive thumbnail" src="{$imgurl}" alt="Trees" style="max-width: 75%"></img><!--Display unit img-->
-    <p>
-      <xsl:value-of select="designnote"/>
-    </p><!--Display design note as a paragraph-->
+    <div class="row">
+      <div class="col-md-8">     
+        <p>
+          <xsl:value-of select="explnote"/><!--Display any notes about the lesson-->
+        </p>
+      </div>
+      <div class="col-md-4">
+        <xsl:variable name="imgurl">{{ site.baseurl }}/img/wikiimage.png</xsl:variable>
+        <img class="img-responsive thumbnail" src="{$imgurl}" alt="Trees" style="max-width: 75%"></img><!--Display unit img-->
+      </div>
+    </div>
     <xsl:if test="dialog">
     <xsl:variable name="dianame">{{ site.baseurl }}/dialogs/<xsl:value-of select="$fileprefix"/>1.html</xsl:variable>
     <div class="embed-responsive embed-responsive-16by9">
@@ -30,5 +36,8 @@
     <p>
       <xsl:value-of select="info"/><!--Display any info associated with the lesson-->
     </p>
+    <p>
+      <xsl:value-of select="designnote"/>
+    </p><!--Display design note as a paragraph-->
   </xsl:template>
 </xsl:stylesheet>
