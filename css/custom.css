@@ -29,6 +29,16 @@ header {
   /*Add some white space around icons*/
   margin: 5px;
 }
+
+.list-inline{
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.navbar-brand {
+  padding: 5px 15px;
+  }
+
   .navbar-collapse{
     height: auto;
     border-top: 0;
