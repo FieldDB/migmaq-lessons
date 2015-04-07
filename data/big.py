@@ -9,8 +9,8 @@ The rest of the functions are helper functions for indexing descendent nodes, cr
 getting the position of a node in the tree, finding the titles of ancestor nodes, and generating Jekyll
 markups for the top of files.
 
-The program currently applies tranformations to the lessonset, section, subsection, lesson, and unit
-levels of the XML file. However, each function is parameterized by current node and depth, so the 
+The program currently applies tranformations to the lessonset, section, unit, lesson, dialog, and vocabs
+ of the XML file. However, each function is parameterized by current node and depth, so the 
 program could be easily modified to tranform other levels of the tree using the same functions.
 
 Author: Carolyn Anderson          Last Modified: 2/13/2015
@@ -29,58 +29,58 @@ intro_xsl_raw = etree.parse("intro_big.xsl")  #Creates intro page
 intro_xsl = etree.XSLT(intro_xsl_raw) 
 
 def processVocab(level, vocab):
-  #Transforms to all dialogs--- creates webpages for each
+  #Transforms all vocabs--- creates webpages for each
   filename = "../vocabs/" + createFilename(vocab, level)#create filename
-  fileprefix = createFilePrefix(vocab, level)
-  index = str(getIndex(vocab))
+  fileprefix = createFilePrefix(vocab, level)#create prefix for filename
+  index = str(getIndex(vocab))#get index
   f = open(filename, "w") #create new file
   f.write(getMarkup(vocab, level)) #write Jekyll markup to top
-  plain_index = etree.XSLT.strparam(index)
-  plain_prefix = etree.XSLT.strparam(fileprefix)
-  f.write(str(vocab_xsl(vocab, index=plain_index, fileprefix=plain_prefix))) #apply xslt transformation to unit data and write to file
+  plain_index = etree.XSLT.strparam(index)#convert to plain string
+  plain_prefix = etree.XSLT.strparam(fileprefix)#convert to plain string
+  f.write(str(vocab_xsl(vocab, index=plain_index, fileprefix=plain_prefix))) #apply xslt transformation to vocab and write to file
   f.close()
 
 def processDialog(level, dialog):
-  #Transforms to all dialogs--- creates webpages for each
+  #Transforms all dialogs--- creates webpages for each
   filename = "../dialogs/" + createFilename(dialog, level)#create filename
-  fileprefix = createFilePrefix(dialog, level)
-  index = str(getIndex(dialog))
+  fileprefix = createFilePrefix(dialog, level) #create prefix for filename
+  index = str(getIndex(dialog))#get index
   f = open(filename, "w") #create new file
   f.write(getMarkup(dialog, level)) #write Jekyll markup to top
-  plain_index = etree.XSLT.strparam(index)
-  plain_prefix = etree.XSLT.strparam(fileprefix)
-  f.write(str(dialog_xsl(dialog, index=plain_index, fileprefix=plain_prefix))) #apply xslt transformation to unit data and write to file
+  plain_index = etree.XSLT.strparam(index)#convert to plain string
+  plain_prefix = etree.XSLT.strparam(fileprefix)#convert to plain string
+  f.write(str(dialog_xsl(dialog, index=plain_index, fileprefix=plain_prefix))) #apply xslt transformation to dialog and write to file
   f.close()
 
 def processLesson(level, lesson):
-  #Transforms to all lessons--- creates webpages for each displaying dialogues
+  #Transforms all lessons--- creates webpages for each displaying dialogues and vocabs
   filename = "../lessons/" + createFilename(lesson, level)#create filename
-  fileprefix = createFilePrefix(lesson, level)
+  fileprefix = createFilePrefix(lesson, level)#create prefix for filename
   f = open(filename, "w") #create new file
   f.write(getMarkup(lesson, level)) #write Jekyll markup to top
-  plain_string = etree.XSLT.strparam(fileprefix)
-  f.write(str(lesson_xsl(lesson, fileprefix=plain_string))) #apply xslt transformation to unit data and write to file
+  plain_string = etree.XSLT.strparam(fileprefix)#convert to plain string
+  f.write(str(lesson_xsl(lesson, fileprefix=plain_string))) #apply xslt transformation to lesson and write to file
   f.close()
-  dialogs = lesson.xpath("dialog")  #get units
-  for dialog in dialogs: #call unit processing function on all units
+  dialogs = lesson.xpath("dialog")  #get dialogs
+  for dialog in dialogs: #call dialog processing
       processDialog(level+1, dialog)
-  vocabs = lesson.xpath("vocab")  #get units
-  for vocab in vocabs: #call unit processing function on all units
+  vocabs = lesson.xpath("vocab")  #get vocabs
+  for vocab in vocabs: #call vocab processing
       processVocab(level+1, vocab)
 
 
 def processUnit(level, unit):
   #Transforms all units and creates an index file for each showing child files
   createIndexFile("units", unit, level)
-  lessons = unit.xpath("lesson")  #get units
-  for lesson in lessons: #call unit processing function on all units
+  lessons = unit.xpath("lesson")  #get lessons
+  for lesson in lessons: #call lesson processing
       processLesson(level+1, lesson)
 
 def processSection(level, section):
   #Transforms all sections and creates an index file for each showing child files  
   createIndexFile("sections", section, level)
-  units = section.xpath("unit") #get subsections
-  for unit in units: #call subsection processing function on all sections
+  units = section.xpath("unit") #get units
+  for unit in units: #call unit processing
     processUnit(level+1, unit)
 
 def processLessonSet(level, lessonset):
@@ -90,7 +90,7 @@ def processLessonSet(level, lessonset):
   f.write(str(intro_xsl(lessonset))) #apply xslt transformation to unit data and write to file
   f.close()
   sections = lessonset.xpath("section")  #get sections
-  for section in sections: #call section processing function on all units
+  for section in sections: #call section processing
     processSection(level+1, section)
 
 def createIndexFile(location, current, level):
@@ -103,13 +103,13 @@ def createIndexFile(location, current, level):
 
 def getMarkup(current, level):
   #Generates a Jekyll markup specifying layout and saving ancestors as Jekyll variables
-  if level == 0:
+  if level == 0: #top level file has no prev or next lesson
     markup = "---\nlayout: frame\n---\n" #layout markup
   else:
     prev = getPrev(current, level)
     curr = createFilename(current, level)
     foll = getNext(current, level)
-    if level == 4:
+    if level == 4: #Level 4 is vocabs and dialogs, which are iframes
       markup = "---\nlayout: iframe\nprev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
     else:
       markup = parentMarkup(current, level)

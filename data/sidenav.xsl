@@ -10,15 +10,14 @@
             <li class="dropdown-submenu">
               <a>About</a>
               <ul class="dropdown-menu">
-                <xsl:variable name="abouturl">{{ site.baseurl }}/about.html</xsl:variable>
-                <li><a href="{$abouturl}">The Mi'gmaq Language</a></li>
-                <li><a href="{{{ site.baseurl }}}/project.html">The Project</a></li>
-                <li><a href="{{ site.baseurl }}/team.html">The Team</a></li>
+                <li><a href="{{{{ site.baseurl }}}}/about.html">The Mi'gmaq Language</a></li>
+                <li><a href="{{{{ site.baseurl }}}}/project.html">The Project</a></li>
+                <li><a href="{{{{ site.baseurl }}}}/team.html">The Team</a></li>
               </ul>
             </li>
-            <li><a href="{{ site.baseurl }}/use.html">How to Use this Site</a></li>
+            <li><a href="{{{{ site.baseurl }}}}/use.html">How to Use this Site</a></li>
             <li class="dropdown-submenu">
-              <a href="{{ site.baseurl }}/intro.html">Table of Contents</a>
+              <a href="{{{{ site.baseurl }}}}/intro.html">Table of Contents</a>
               <ul class="dropdown-menu">
                 <xsl:for-each select="section"><!--Find all section children-->
                   <xsl:variable name="securl">{{ site.baseurl }}/sections/<xsl:value-of select="count(preceding-sibling::section)+1"/>.html</xsl:variable><!--Create filename for section child webpage-->
@@ -46,7 +45,7 @@
             </li>
           </ul>
         </li>
-        <li><a href="{{ site.baseurl }}/resources.html">Resources</a></li>
+        <li><a href="{{{{ site.baseurl }}}}/resources.html">Resources</a></li>
       </ul>
     </div>
   </xsl:template>
