@@ -207,7 +207,7 @@ def getNext(current, level):
   if level==1:
     children = current.xpath("unit")
     if not len(children)==0: #Case child
-      foll = "../unit/"+createFilename(children[0], level+1)
+      foll = "../units/"+createFilename(children[0], level+1)
     else:
       siblings = current.xpath("following-sibling::section")
       if not len(siblings)==0: #Case sibling

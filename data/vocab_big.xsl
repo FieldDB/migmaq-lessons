@@ -8,9 +8,10 @@
     </h1><!--Display unit title at top of page-->
     <div class="well well-lg">
       <xsl:for-each select="line">
+        <xsl:variable name="soundurl">{{ site.baseurl }}/TotalCAN8Contents/<xsl:value-of select="soundfile"/></xsl:variable>
         <div class="media"><!--Make a media object with the audio file-->
           <div class="media-left">
-            <!--<embed class="media-object" src="soundfile/{.}.wav" autostart="no" height="12"></embed>-->sound1
+            <embed class="media-object" src="{$soundurl}" autostart="no" height="12"></embed>
           </div>
           <div class="media-body">
             <h2 class="media-heading">
