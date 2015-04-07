@@ -2,17 +2,22 @@
 <!--This transformation creates a webpage for a dialog. It matches on a given dialog node and displays the title, img, and lines of the dialog. It creates a media object to play the soundfile accompanying each line.-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:param name="index" />
-  <xsl:param name="fileprefix" /><!--Not used currently-->
   <xsl:template match="/dialog"><!--Match on current unit node-->
     <h1>
       Dialog <xsl:value-of select="$index"/>
     </h1><!--Display unit title at top of page-->
     <div class="well well-lg">
       <xsl:for-each select="line"><!--create address for soundfile-->
-        <xsl:variable name="soundurl">{{ site.baseurl }}/TotalCAN8Contents/<xsl:value-of select="soundfile"/></xsl:variable>
+          <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/></xsl:variable>
         <div class="media"><!--Make a media object with the audio file-->
           <div class="media-left">
-            <embed class="media-object" src="{$soundurl}" autostart="no" height="12"></embed>
+            <button class="btn btn-default" type="button">
+              <span class="glyphicon glyphicon-play" aria-hidden="true">
+                <audio>
+                  <source src="{$soundurl}" type="audio/mpeg"/>
+                </audio>
+              </span>
+            </button>
           </div>
           <div class="media-body">
             <h2 class="media-heading">
