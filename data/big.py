@@ -31,21 +31,25 @@ intro_xsl = etree.XSLT(intro_xsl_raw)
 def processVocab(level, vocab):
   #Transforms all vocabs--- creates webpages for each
   filename = "../vocabs/" + createFilename(vocab, level)#create filename
+  fileprefix = createFilePrefix(vocab, level)#create prefix for filename
   index = str(getIndex(vocab))#get index
   f = open(filename, "w") #create new file
   f.write(getMarkup(vocab, level)) #write Jekyll markup to top
   plain_index = etree.XSLT.strparam(index)#convert to plain string
-  f.write(str(vocab_xsl(vocab, index=plain_index))) #apply xslt transformation to vocab and write to file
+  plain_prefix = etree.XSLT.strparam(fileprefix)#convert to plain string
+  f.write(str(vocab_xsl(vocab, index=plain_index, fileprefix=plain_prefix))) #apply xslt transformation to vocab and write to file
   f.close()
 
 def processDialog(level, dialog):
   #Transforms all dialogs--- creates webpages for each
   filename = "../dialogs/" + createFilename(dialog, level)#create filename
+  fileprefix = createFilePrefix(dialog, level) #create prefix for filename
   index = str(getIndex(dialog))#get index
   f = open(filename, "w") #create new file
   f.write(getMarkup(dialog, level)) #write Jekyll markup to top
   plain_index = etree.XSLT.strparam(index)#convert to plain string
-  f.write(str(dialog_xsl(dialog, index=plain_index))) #apply xslt transformation to dialog and write to file
+  plain_prefix = etree.XSLT.strparam(fileprefix)#convert to plain string
+  f.write(str(dialog_xsl(dialog, index=plain_index, fileprefix=plain_prefix))) #apply xslt transformation to dialog and write to file
   f.close()
 
 def processLesson(level, lesson):
