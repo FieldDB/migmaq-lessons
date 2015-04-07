@@ -100,7 +100,7 @@ def createIndexFile(location, current, level):
 def getMarkup(current, level):
   #Generates a Jekyll markup specifying layout and saving ancestors as Jekyll variables
   if level == 0: #top level file has no prev or next lesson
-    markup = "---\nlayout: frame\n---\n" #layout markup
+    markup = "---\nlayout: lesson\n---\n" #layout markup
   else:
     prev = getPrev(current, level)
     curr = createFilename(current, level)
@@ -109,7 +109,7 @@ def getMarkup(current, level):
       markup = "---\nlayout: iframe\nprev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
     else:
       markup = parentMarkup(current, level)
-      markup = "---\nlayout: frame\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
+      markup = "---\nlayout: lesson\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
   return markup
 
 def parentMarkup(current, level):
