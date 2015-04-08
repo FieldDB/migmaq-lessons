@@ -3,7 +3,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:param name="fileprefix" />
   <xsl:template match="/lesson"><!--Match on current unit node-->
-    <h1>
+    <h1 class="title">
       <xsl:value-of select="title"/>
     </h1><!--Display unit title at top of page-->
     <div class="row">
