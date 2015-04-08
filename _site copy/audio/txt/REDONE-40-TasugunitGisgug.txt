@@ -1,0 +1,7 @@
+138.792	144.207	TasugunitGisgug-GisgugAmgweseweiNagweg
+144.999	147.113	TasugunitGisgug
+154.131	159.112	TasugunitGisgug-GisgugTapugunit
+159.546	164.018	TasugunitGisgug-GisgugNesugunit
+164.338	169.32	TasugunitGisgug-GisgugMetlasugunit
+191.735	196.829	TasugunitGisgug-GisgugTapuisgegigunitJelSist
+197.018	201.904	TasugunitGisgug-GisgugNesisgegigunitJelNewt

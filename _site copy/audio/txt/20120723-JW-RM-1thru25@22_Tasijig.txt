@@ -1,0 +1,4 @@
+510.8	517.67	TasijigJinmug_NewtejitNewtejitJinm
+517.97	523.68	TasijigJinmug_TapusijigTapusijigJinmug
+524.15	530.56	TasijigJinmug_NesisijigNesisijigJinmug
+531.18	536.67	TasijigJinmug_PugwelgigPugwelgigJinmug

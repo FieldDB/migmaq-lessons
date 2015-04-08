@@ -1,0 +1,7 @@
+115.22	116.6	WenNaUla
+117.5	118.9	Njignam
+120.335	121.675	WenNaAla
+122.0	123.47	Ngwejij
+129.99	131.34	UlaNaGgwejij
+131.44	133.64	MoqwaUlaNaNjignam
+134.33	137.78	REDO_Ula_Ala_NaGjignam_MoqwaAlaNaNgwejij

@@ -1,0 +1,7 @@
+63.04	66.97	Putai_Putaig
+69.23	73.0	Eptaqan_Eptaqang
+75.45	79.59	Samqwanoq_Samqwanoqq
+81.02	85.34	Lataqsun_Lataqsung
+87.2	91.12	Atlai_Atlaig
+92.48	97.58	Lajijjaqan_Lajijjaqang
+98.66	102.21	Mgsn_Mgsng

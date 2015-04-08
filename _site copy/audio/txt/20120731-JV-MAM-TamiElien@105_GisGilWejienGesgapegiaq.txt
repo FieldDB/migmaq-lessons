@@ -1,0 +1,6 @@
+228.414	235.867	GisGilWejienMetepnagiaq_EeAqElgGisWejieiNatuaqaneg
+252.669	258.311	GisGilWejienListugujg_EeGisWejieiNatelEtaTleiawi
+258.734	264.923	GisGilWejienQameg_EeGatuSaqMnaqWejiew
+265.584	270.131	GisGilWejienQospemg_EeGisWejiei
+270.471	275.81	GisGilWejienSipug_MoqwaMnaqWejiew
+276.32	281.132	GisGilWejienJegUggampmg_MoqwaMnaqWejiew

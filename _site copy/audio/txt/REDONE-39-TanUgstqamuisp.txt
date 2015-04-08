@@ -1,0 +1,13 @@
+86.112	87.905	Pnamujuigus
+88.244	90.282	Apignajit
+90.452	92.244	Sigowigus
+92.395	94.697	Penatmuigus
+94.772	96.886	Sqoljuigus
+97.055	99.15	Nipnigus
+101.905	104.414	JW-Psggewigus
+104.735	107.338	Gisigwegewigus
+107.395	109.999	Wigumgewigus
+110.206	112.697	Wigewigus
+112.904	115.206	Geptgewigus
+115.999	117.338	Gesigewigus
+121.301	123.206	JV-Psgewigus

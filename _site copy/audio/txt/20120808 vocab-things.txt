@@ -1,0 +1,10 @@
+Vocab: things
+
+auti  , autil  , mutputi, mutputil, twopeti , twopetil , patauti, patautil, wasueg  ,
+"road", "roads", "chair", "chairs", "window", "windows", "table", "tables", "flower", 
+
+wasuegl  , wiguom  , wiguoml  , wenjiguom, wenjiguoml, guntew, guntal , mpoqon, mpoqonn,
+"flowers", "wigwam", "wigwams", "house"  , "houses"  , "rock", "rocks", "bed" , "beds" ,
+
+gaqan , gaqann
+"door", "doors"

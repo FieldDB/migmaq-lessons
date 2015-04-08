@@ -1,0 +1,3 @@
+65.25	69.45	TepaqanPewatmn_EePewatmTepaqan
+69.74	73.74	AgusnPewatmn_MoqwaMuPewatmuAgusn
+73.96	79.45	MuPewatmunAgusn_MoqwaMuPewatmuAgusnMagotPewatm

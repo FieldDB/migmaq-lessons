@@ -1,0 +1,12 @@
+252.244	259.299	TasglMutputil_NewteNewteMutputi
+259.59	269.999	EDIT-removemiddle-TasglMutputilTapuglTapuglMutputil
+272.07	281.927	EDIT-removemiddlefalsestart-TasglMutputil_NewglNewglMutputil
+282.163	286.918	TasglMutputil_NewglNewglMutputil
+287.428	292.285	TasglMutputil_NanglNanglMutputil
+292.662	298.724	TasglMutputil_AsugomTesglAsugomTesglMutputil
+299.061	305.346	TasglMutputil_LluignegTesglLluignegTesglMutputil
+305.826	312.642	TasglMutputil_UgumuljinTesglUgumuljinTesglMutputil
+312.918	319.55	TasglMutputil_PesgunategTesglPesgunategTesglMutputil
+320.02	326.265	TasglMutputil_NewtisgaqlNewtisgegsqlMutputil
+326.907	333.703	TasglMutputil_NewtisgaqlJelTapuNewtisgaqlJelTapuMutputil
+334.54	340.275	EXTRA-TasglMutputil_NewtisgaqlJelTapuNewtisgaqlJelTapuTesglMutputil

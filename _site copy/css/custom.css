@@ -1,0 +1,174 @@
+
+html, body {
+  height: 100%;
+  padding-bottom: 0px;
+}
+
+.embed-responsive.embed-responsive-16by9 {
+  height: 100%;
+  padding-bottom: 0px;
+}
+.title {
+  padding-bottom: 10px;
+}
+
+#wrap {
+  min-height: 100%;
+}
+
+#main {
+  min-height: 100%;
+  overflow:auto;
+  padding-bottom:45px; /* this needs to be bigger than footer height*/
+}
+
+header {
+  /*min-height: 120px;*/ /*Keeps logo from overflowing header*/
+  margin-bottom: 15px; /*Margin to add space before content of page */
+  background: rgba(240, 69, 22, 0.85);
+}
+
+.icon-bar{
+  /*Add some white space around icons*/
+  margin: 5px;
+}
+
+.list-inline{
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.navbar-brand {
+  padding: 5px 15px;
+  }
+
+  .navbar-collapse{
+    height: auto;
+    border-top: 0;
+    box-shadow: none;
+    max-height: none;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .navbar-collapse.collapse {
+    display: block !important;
+    width: auto !important;
+    padding-bottom: 0;
+    overflow: visible !important;
+  }
+  .navbar-collapse.in {
+    overflow-x: visible;
+  }
+  .navbar-horizontal {
+    max-width:300px;
+    margin-right: 0;
+    margin-left: 0;
+  } 
+
+  .navbar-nav,
+  .navbar-nav > li,
+  .navbar-left,
+  .navbar-right,
+  .navbar-header .navbar-horizontal .navbar-fixed-top{
+    float:none !important;
+  }
+  .navbar-header{
+    padding-right: 5px;
+   }
+        
+  .navbar-right .dropdown-menu {left:0;right:auto;}
+  .navbar-collapse .navbar-nav.navbar-right:last-child {
+    margin-right: 0;
+  }
+
+  .list-inline li{
+    display: inline !important;
+    margin: 5px;
+    float: right;
+  }
+  
+#page-content-wrapper{
+  margin: 10px 30px 10px 130px; /*Extra margin to create a "column" for the menu button */
+}
+
+  footer{
+    padding-left: 5em;
+    opacity:0.8;
+    background: rgba(240, 69, 22, 0.5);\
+    align: left;
+    position: relative;
+    margin-top: -40px; /* negative value of footer height */
+    height: 40px;
+    padding-top: 2px;
+  }
+
+
+.navbar-header{
+  height: 80px;
+}
+
+.navbar-brand{
+  height: inherit;
+}
+
+/*Styles for sidenav with multiple levels on hover*/
+
+.dropdown-menu{
+  min-width: 80px;
+  margin: -5px 15px 15px 5px;
+}
+
+.dropdown-submenu{
+  position:relative;
+}
+
+.dropdown-menu a{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 15em;
+  white-space: nowrap;
+}
+
+.dropdown-submenu>.dropdown-menu{
+  top:0;left:100%;margin-top:-6px;margin-left:-1px;
+  -webkit-border-radius:0 6px 6px 6px;
+  -moz-border-radius:0 6px 6px 6px;border-radius:0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu{
+  display:block;
+}
+.dropdown-submenu>a:after{
+  display:block;content:" ";
+  float:right;
+  width:0;
+  height:0;
+  border-color:transparent;
+  border-style:solid;
+  border-width:5px 0 5px 5px;
+  border-left-color:#cccccc;
+  margin-top:5px;
+  margin-right:-10px;
+}
+.dropdown-submenu:hover>a:after{
+  border-left-color:#ffffff;
+}
+.dropdown-submenu.pull-left{
+  float:none;
+  }
+  .dropdown-submenu.pull-left>.dropdown-menu{
+    left:-100%;
+    margin-left:10px;
+    -webkit-border-radius:6px 0 6px 6px;
+    -moz-border-radius:6px 0 6px 6px;
+    border-radius:6px 0 6px 6px;
+  }
+
+.sidebar-nav li form {
+    text-indent: 0px;
+    line-height: 5px;
+}
+.form-control{
+        font-size: 10px;
+    }
+}
+
