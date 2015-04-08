@@ -1,4 +1,0 @@
-165.15	171.32	REDO-TaluisitGsis_NsisMiselTeluisit
-171.99	176.11	TaluisitGmis_NmisMalianTeluisit
-176.92	181.29	TaluisitGjignam_NjignamSanTeluisit
-181.74	186.21	TaluisitGgwejij_NgwejijMaliTeluisit

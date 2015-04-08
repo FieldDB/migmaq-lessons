@@ -1,8 +1,0 @@
-Vocab: people
-
- gisigu  , gisigu'g , gisiguisgw , gisiguisgwaq, ji'nm, ji'nmug, e'pit  , e'pijig"old man", "old men", "old woman", "old women" , "man", "men"  , "woman", "women"
-
-ji'nmji'j  , ji'nmji'jg , e'pite's     , e'pite'sg    , lpa'tuj, lpa'tujg, e'pite'ji'j,"young man", "young men", "young woman", "young women", "boy"  , "boys"  , "girl"
-
-e'pite'ji'jg, mijuaji'j, mijuaji'jg, qopisun , qopisung                    
-"girls"     , "baby"   , "babies"  , "infant", "infants"

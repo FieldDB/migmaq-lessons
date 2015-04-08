@@ -1,5 +1,0 @@
-2.6	8.13	TasglNemitunnMutputil_NemituannLluignegTesglMutputil
-9.56	14.97	TasglNemitunnPatautil_NemituannTapuisgaqlPatautil
-35.0	40.57	TasglNemitunnGuntal_NemituannNesisgaqlJelAsugomGuntal
-53.75	59.09	TasglNemitunnLgusuaqann_NemituannNewtisgaqalJelNewLgusuaqann
-61.28	66.96	TasglNemitunnGaqann_NemituannNewisgaqlJelTapuGaqann

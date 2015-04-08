@@ -1,7 +1,0 @@
-49.06	50.63	Newtisgaq
-50.683	61.437	NewtisgaqJelNewtNewtisgaqJelTapuNewtisgaqJelSistNewtisgaqJelNewNewtisgaqJelNan
-61.56	71.701	NewtisgaqJelAsugomNewtisgaqJelLluignegNewtisgaqJelUgumuljinNewtisgaqJelPesgunateg
-71.753	73.645	Tapuisgaq
-73.684	84.736	TapuisgaqJelNewtTapuisgaqJelTapuTapuisgaqJelSistTapuisgaqJelNewTapuisgaqJelNan
-84.877	94.719	TapuisgaqJelAsugomTapuisgaqJelLluignegTapuisgaqJelUgumuljinTapuisgaqJelPesgunateg
-94.833	96.868	Nesisgaq

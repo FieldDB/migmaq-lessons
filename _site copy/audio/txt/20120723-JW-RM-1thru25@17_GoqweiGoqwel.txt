@@ -1,9 +1,0 @@
-422.12	424.08	Awti_Awtil
-424.17	426.63	Tuopti_Tuoptil
-426.77	429.19	Mutputi_Mutputil
-429.27	431.6	Gaqan_Gaqann
-431.665	434.205	Llutaqan_Llutaqann
-434.645	437.185	Asun_Asunn
-437.39	440.04	Npoqon_Npoqonn
-440.54	443.57	Lgusuaqan_Lgusuaqann
-443.945	446.345	Guntew_Guntal

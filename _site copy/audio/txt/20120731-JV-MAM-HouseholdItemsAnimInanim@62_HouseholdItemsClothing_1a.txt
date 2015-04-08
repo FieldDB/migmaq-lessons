@@ -1,7 +1,0 @@
-11.62	12.59	Putai
-15.15	16.48	Eptaqan
-19.6	20.92	Samqwanoq
-23.3	24.8	Lataqsun
-26.78	27.88	Atlai
-30.49	31.73	Lajijjaqan
-33.99	35.0	Mgsn

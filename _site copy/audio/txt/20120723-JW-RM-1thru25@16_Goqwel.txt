@@ -1,9 +1,0 @@
-405.595	406.605	Awtil
-407.28	408.25	Tuoptil
-408.565	409.495	Mutputil
-410.02	410.89	Gaqann
-411.16	412.36	Llutaqann
-412.83	413.93	Asunn
-414.26	415.34	Npoqonn
-415.98	417.18	Lgusuaqann
-417.39	418.23	Guntal
