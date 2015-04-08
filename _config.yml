@@ -7,4 +7,4 @@ lessons:
 output: true
 dialogs:
 output: true
-baseurl: file:///Users/carolyn/lessons_frame/_site
+baseurl: http://canders277.bitbucket.org/_site/
