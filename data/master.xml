@@ -5602,7 +5602,7 @@
 	</unit>
 	<unit>
 		<title>Body parts, how they hurt, and possession</title>
-		<!--<lesson>
+		<lesson>
 			<title>My body parts</title>
 			<note>Words are given in singular, plural, or both, depending on how			commonly each is used.</note>
 			<timesig>@20120801-JV-MAM-Gtinin.wav@0:02-2:21</timesig>
@@ -5807,7 +5807,7 @@
 			</vocab>
 		</lesson>
 
-		<lesson>
+		<!--<lesson>
 			<title>My [body part] hurts. (animate) </title>
 			<timesig>@20120801-JV-MAM-Gesnuguit.wav@0:05-0:37</timesig>
 			<vocab>
