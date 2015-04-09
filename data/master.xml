@@ -653,7 +653,7 @@
 					<line>
 						<migmaq>Nnui'sin gi'l?</migmaq>				
 						<english>Do you speak Native [lit. 'speak Native', but used where					English would say 'speak Mi'gmaw']</english>
-						<soundfile>1/1/10/01-NnuisinGil_EeNnuisi</soundfile>
+						<soundfile>NnuisinGil_EeNnuisi</soundfile>
 					</line>
 
 					<line>
@@ -666,7 +666,7 @@
 					<line>
 						<migmaq>Getu'-nnuisin nige'?</migmaq>				
 						<english>Do you want to speak Native now?</english>
-						<soundfile>1/1/10/02-GetuNnuisinNige_EeNnuisinej</soundfile>
+						<soundfile>GetuNnuisinNige_EeNnuisinej</soundfile>
 					</line>
 
 					<line>
@@ -687,7 +687,7 @@
 					<line>
 						<migmaq>Nnui'sin gi'l?</migmaq>				
 						<english>Do you speak Native?</english>
-						<soundfile>1/1/11/01-NnuisinGil_EeNnuisi</soundfile>
+						<soundfile>NnuisinGil_EeNnuisi</soundfile>
 					</line>
 
 					<line>
@@ -700,7 +700,7 @@
 					<line>
 						<migmaq>Getu'-nnui'sin nige'?</migmaq>				
 						<english>Do you want to speak Native now?</english>
-						<soundfile>1/1/11/02-GetuNnuisinNige_JipatmNnuisinMutaMaligamiten</soundfile>
+						<soundfile>GetuNnuisinNige_JipatmNnuisinMutaMaligamiten</soundfile>
 					</line>
 
 					<line>
@@ -713,7 +713,7 @@
 					<line>
 						<migmaq>'Ms't wen wijei telo'teget, amgwesewei.</migmaq>				
 						<english>Everyone feels that way, at first.</english>
-						<soundfile>1/1/11/03-MstWenWijeiTelotegetAmgwesewei</soundfile>
+						<soundfile>MstWenWijeiTelotegetAmgwesewei</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -1205,19 +1205,19 @@
 						<line>
 							<migmaq>Nemituann mutputi'l awtigtug</migmaq>				
 							<english>I see (some) chairs in the road.</english>
-							<soundfile>1/2/10/01-NemituannMutputilAwtigtug</soundfile>
+							<soundfile>NemituannMutputilAwtigtug</soundfile>
 						</line>
 
 						<line>
 							<migmaq>Nemituann a'su'nn awtigtug</migmaq>				
 							<english>I see (some) blankets in the road.</english>
-							<soundfile>1/2/10/02-NemituannAsunnAwtigtug</soundfile>
+							<soundfile>NemituannAsunnAwtigtug</soundfile>
 						</line>
 
 						<line>
 							<migmaq>Nemituann gun'tal awtigtug</migmaq>				
 							<english>I see (some) rocks in the road.</english>
-							<soundfile>1/2/10/03-NemituannGuntalAwtigtug</soundfile>
+							<soundfile>NemituannGuntalAwtigtug</soundfile>
 						</line>
 					</vocab>
 				</lesson>
@@ -1232,25 +1232,25 @@
 						<line>
 							<migmaq>nemi'g gisigu awtigtug</migmaq>				
 							<english>I see an old man in the road.</english>
-							<soundfile>1/2/21a_Consolidation4WayChart/01-NemigGisiguAwtigtug</soundfile>
+							<soundfile>NemigGisiguAwtigtug</soundfile>
 						</line>
 
 						<line>
 							<migmaq>nemi'gig gisigu'g awtigtug</migmaq>				
 							<english>I see (some) old men in the road.</english>
-							<soundfile>1/2/21a_Consolidation4WayChart/02-NemigigGisigugAwtigtug</soundfile>
+							<soundfile>NemigigGisigugAwtigtug</soundfile>
 						</line>
 
 						<line>
 							<migmaq>nemitu mutputi awtigtug</migmaq>				
 							<english>I see a chair in the road.</english>
-							<soundfile>1/2/21a_Consolidation4WayChart/03-NemituMutputiAwtigtug</soundfile>
+							<soundfile>NemituMutputiAwtigtug</soundfile>
 						</line>
 						<linetimsig>[@8:21.5-8:24.5]</linetimsig>
 						<line>
 							<migmaq>nemituann mutputi'l awtigtug</migmaq>				
 							<english>I see (some) chairs in the road.</english>
-							<soundfile>1/2/21a_Consolidation4WayChart/04-NemituannMutputilAwtigtug</soundfile>
+							<soundfile>NemituannMutputilAwtigtug</soundfile>
 						</line>
 					</vocab>
 				</lesson>
@@ -1262,7 +1262,7 @@
 						<line>
 							<migmaq>Ji'nm nemi'g, gaqamit awtigtug. Wen na?</migmaq>				
 							<english>I see a man, standing in the road. Who is that?</english>
-							<soundfile>1/2/11/01-JinmNemigGaqamitAwtigtugWenNa_SosepNaNegmNaNjignam</soundfile>
+							<soundfile>JinmNemigGaqamitAwtigtugWenNa_SosepNaNegmNaNjignam</soundfile>
 						</line>
 
 						<line>
@@ -1275,7 +1275,7 @@
 						<line>
 							<migmaq>Wen na ala e'pite's gaqamit gun'tewigtug?</migmaq>				
 							<english>Who is that young woman standing at the rock?</english>
-							<soundfile>1/2/11/02-WenNaAlaEpitesGaqamitGuntewigtug_MalianNaNegmNaNgwejij</soundfile>
+							<soundfile>WenNaAlaEpitesGaqamitGuntewigtug_MalianNaNegmNaNgwejij</soundfile>
 						</line>
 
 						<line>
@@ -1288,7 +1288,7 @@
 						<line>
 							<migmaq>Wen na ula ji'nm napui'gnigtug?</migmaq>				
 							<english>Who is this man in the picture?</english>
-							<soundfile>1/2/11/03-WenNaUlaJinmNapuignigtug_UlaNaNsisMiselTeluisit</soundfile>
+							<soundfile>WenNaUlaJinmNapuignigtug_UlaNaNsisMiselTeluisit</soundfile>
 						</line>
 
 						<line>
@@ -1864,7 +1864,7 @@
 						<line>
 							<migmaq>Ta's'gl mutputi'l?</migmaq>				
 							<english>How many chairs are there?</english>
-							<soundfile>1/3/10/01-TasglMutputil_NewteNewteMutputi</soundfile>
+							<soundfile>TasglMutputil_NewteNewteMutputi</soundfile>
 						</line>
 
 						<line>
@@ -1879,7 +1879,7 @@
 						<line>
 							<migmaq>Ta's'gl mutputi'l?</migmaq>				
 							<english>How many chairs are there?</english>
-							<soundfile>1/3/10/02-EDIT-removemiddle-TasglMutputilTapuglTapuglMutputil</soundfile>
+							<soundfile>TasglMutputilTapuglTapuglMutputil</soundfile>
 						</line>
 						<linetimsig>[@4:26-4:30]</linetimsig>
 						<line>
@@ -1894,7 +1894,7 @@
 						<line>
 							<migmaq>Ta's'gl mutputi'l?</migmaq>				
 							<english>How many chairs are there?</english>
-							<soundfile>1/3/10/03-EDIT-removemiddlefalsestart-TasglMutputil_NewglNewglMutputil</soundfile>
+							<soundfile>TasglMutputil_NewglNewglMutputil</soundfile>
 						</line>
 						<linetimsig>[@4:39-4:42]</linetimsig>
 						<line>
@@ -1908,7 +1908,7 @@
 						<line>
 							<migmaq>Ta's'gl mutputi'l?</migmaq>				
 							<english>How many chairs are there?</english>
-							<soundfile>1/3/10/04-TasglMutputil_NewglNewglMutputil</soundfile>
+							<soundfile>TasglMutputil_NewglNewglMutputil</soundfile>
 						</line>
 
 						<line>
@@ -1922,7 +1922,7 @@
 						<line>
 							<migmaq>Ta's'gl mutputi'l?</migmaq>				
 							<english>How many chairs are there?</english>
-							<soundfile>1/3/10/05-TasglMutputil_NanglNanglMutputil</soundfile>
+							<soundfile>TasglMutputil_NanglNanglMutputil</soundfile>
 						</line>
 
 						<line>
@@ -1937,7 +1937,7 @@
 						<line>
 							<migmaq>Ta's'gl mutputi'l?</migmaq>				
 							<english>How many chairs are there?</english>
-							<soundfile>1/3/10/06-TasglMutputil_AsugomTesglAsugomTesglMutputil</soundfile>
+							<soundfile>TasglMutputil_AsugomTesglAsugomTesglMutputil</soundfile>
 						</line>
 
 						<line>
@@ -1951,7 +1951,7 @@
 						<line>
 							<migmaq>Ta's'gl mutputi'l?</migmaq>				
 							<english>How many chairs are there?</english>
-							<soundfile>1/3/10/07-TasglMutputil_LluignegTesglLluignegTesglMutputil</soundfile>
+							<soundfile>TasglMutputil_LluignegTesglLluignegTesglMutputil</soundfile>
 						</line>
 
 						<line>
@@ -1965,7 +1965,7 @@
 						<line>
 							<migmaq>Ta's'gl mutputi'l?</migmaq>				
 							<english>How many chairs are there?</english>
-							<soundfile>1/3/10/08-TasglMutputil_UgumuljinTesglUgumuljinTesglMutputil</soundfile>
+							<soundfile>TasglMutputil_UgumuljinTesglUgumuljinTesglMutputil</soundfile>
 						</line>
 
 						<line>
@@ -1979,7 +1979,7 @@
 						<line>
 							<migmaq>Ta's'gl mutputi'l?</migmaq>				
 							<english>How many chairs are there?</english>
-							<soundfile>1/3/10/09-TasglMutputil_PesgunategTesglPesgunategTesglMutputil</soundfile>
+							<soundfile>TasglMutputil_PesgunategTesglPesgunategTesglMutputil</soundfile>
 						</line>
 
 						<line>
@@ -1993,7 +1993,7 @@
 						<line>
 							<migmaq>Ta's'gl mutputi'l?</migmaq>				
 							<english>How many chairs are there?</english>
-							<soundfile>1/3/10/10-TasglMutputil_NewtisgaqlNewtisgegsqlMutputil</soundfile>
+							<soundfile>TasglMutputil_NewtisgaqlNewtisgegsqlMutputil</soundfile>
 						</line>
 
 						<line>
@@ -2007,7 +2007,7 @@
 						<line>
 							<migmaq>Ta's'gl mutputi'l?</migmaq>				
 							<english>How many chairs are there?</english>
-							<soundfile>1/3/10/11-TasglMutputil_NewtisgaqlJelTapuNewtisgaqlJelTapuMutputil</soundfile>
+							<soundfile>TasglMutputil_NewtisgaqlJelTapuNewtisgaqlJelTapuMutputil</soundfile>
 						</line>
 
 						<line>
@@ -2028,7 +2028,7 @@
 						<line>
 							<migmaq>Ta'sijig nemi'jig ji'nmug?</migmaq>				
 							<english>How many men do you see?</english>
-							<soundfile>1/3/34/01-TasijigNemijigJinmug_NemigigAsugomTesijigJinmug</soundfile>
+							<soundfile>TasijigNemijigJinmug_NemigigAsugomTesijigJinmug</soundfile>
 						</line>
 
 						<line>
@@ -2042,7 +2042,7 @@
 						<line>
 							<migmaq>Ta'sijig nemi'jig e'pijig?</migmaq>				
 							<english>How many women do you see?</english>
-							<soundfile>1/3/34/02-TasijigNemijigEpijig_NemigigNewtisgegsijigEpijig</soundfile>
+							<soundfile>TasijigNemijigEpijig_NemigigNewtisgegsijigEpijig</soundfile>
 						</line>
 
 						<line>
@@ -2056,7 +2056,7 @@
 						<line>
 							<migmaq>Ta'sijig nemi'jig mijua'ji'jg?</migmaq>				
 							<english>How many children do you see?</english>
-							<soundfile>1/3/34/03-TasijigNemijigMijuajijg_NemigigTapuisgegsijigJelNanMijuajijg</soundfile>
+							<soundfile>TasijigNemijigMijuajijg_NemigigTapuisgegsijigJelNanMijuajijg</soundfile>
 						</line>
 
 						<line>
@@ -2070,7 +2070,7 @@
 						<line>
 							<migmaq>Ta'sijig nemi'jig gloqowejg?</migmaq>				
 							<english>How many stars do you see?</english>
-							<soundfile>1/3/34/04-TasijigNemijigGloqowejg_NemigigLluignegTesisgegsijigJelNanGloqowejg</soundfile>
+							<soundfile>TasijigNemijigGloqowejg_NemigigLluignegTesisgegsijigJelNanGloqowejg</soundfile>
 						</line>
 
 						<line>
@@ -2084,7 +2084,7 @@
 						<line>
 							<migmaq>Ta'sijig nemi'jig mimajuinu'g?</migmaq>				
 							<english>How many people do you see?</english>
-							<soundfile>1/3/34/05-TasijigNemijigMimajuinug_NemigigPesgunategTesisgegsijigJelPesgunategMimajuinug</soundfile>
+							<soundfile>TasijigNemijigMimajuinug_NemigigPesgunategTesisgegsijigJelPesgunategMimajuinug</soundfile>
 						</line>
 
 						<line>
@@ -2105,7 +2105,7 @@
 						<line>
 							<migmaq>Ta's'gl nemitu'nn mutputi'l?</migmaq>				
 							<english>How many chairs do you see?</english>
-							<soundfile>1/3/35/01-TasglNemitunnMutputil_NemituannLluignegTesglMutputil</soundfile>
+							<soundfile>TasglNemitunnMutputil_NemituannLluignegTesglMutputil</soundfile>
 						</line>
 
 						<line>
@@ -2120,7 +2120,7 @@
 						<line>
 							<migmaq>Ta's'gl nemitu'nn mutputi'l?</migmaq>				
 							<english>How many chairs do you see?</english>
-							<soundfile>1/3/35/02-TasglNemitunnPatautil_NemituannTapuisgaqlPatautil</soundfile>
+							<soundfile>TasglNemitunnPatautil_NemituannTapuisgaqlPatautil</soundfile>
 						</line>
 
 						<line>
@@ -2134,7 +2134,7 @@
 						<line>
 							<migmaq>Ta's'gl nemitu'nn mutputi'l?</migmaq>				
 							<english>How many chairs do you see?</english>
-							<soundfile>1/3/35/03-TasglNemitunnGuntal_NemituannNesisgaqlJelAsugomGuntal</soundfile>
+							<soundfile>TasglNemitunnGuntal_NemituannNesisgaqlJelAsugomGuntal</soundfile>
 						</line>
 
 						<line>
@@ -2148,7 +2148,7 @@
 						<line>
 							<migmaq>Ta's'gl nemitu'nn mutputi'l?</migmaq>				
 							<english>How many chairs do you see?</english>
-							<soundfile>1/3/35/04-TasglNemitunnLgusuaqann_NemituannNewtisgaqalJelNewLgusuaqann</soundfile>
+							<soundfile>TasglNemitunnLgusuaqann_NemituannNewtisgaqalJelNewLgusuaqann</soundfile>
 						</line>
 
 						<line>
@@ -2162,7 +2162,7 @@
 						<line>
 							<migmaq>Ta's'gl nemitu'nn mutputi'l?</migmaq>				
 							<english>How many chairs do you see?</english>
-							<soundfile>1/3/35/05-TasglNemitunnGaqann_NemituannNewisgaqlJelTapuGaqann</soundfile>
+							<soundfile>TasglNemitunnGaqann_NemituannNewisgaqlJelTapuGaqann</soundfile>
 						</line>
 
 						<line>
@@ -2187,7 +2187,7 @@
 						<line>
 							<migmaq>Ta'si-puna'n?</migmaq>				
 							<english>How old are you?</english>
-							<soundfile>1/4/36/01-TasiPunan_NewtiPunai</soundfile>
+							<soundfile>TasiPunan_NewtiPunai</soundfile>
 						</line>
 
 						<line>
@@ -2200,103 +2200,103 @@
 						<line>
 							<migmaq>- Tapui-puna'i.</migmaq>				
 							<english>I am two. (years old)</english>
-							<soundfile>1/4/36/02-TapuiPunai</soundfile>
+							<soundfile>TapuiPunai</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Ne'si-puna'i.</migmaq>				
 							<english>I am three. (years old)</english>
-							<soundfile>1/4/36/03-NesiPunai</soundfile>
+							<soundfile>NesiPunai</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Newi-puna'i.</migmaq>				
 							<english>I am four</english>
-							<soundfile>1/4/36/04-NewiPunai</soundfile>
+							<soundfile>NewiPunai</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Nani-puna'i.</migmaq>				
 							<english>I am five</english>
-							<soundfile>1/4/36/05-NaniPunai</soundfile>
+							<soundfile>NaniPunai</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Asugom te'si-puna'i.</migmaq>				
 							<english>I am six.</english>
-							<soundfile>1/4/36/06-AsugomTesiPunai</soundfile>
+							<soundfile>AsugomTesiPunai</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Lluigneg te'si-puna'i.</migmaq>				
 							<english>I am seven.</english>
-							<soundfile>1/4/36/07-LluignegTesiPunai</soundfile>
+							<soundfile>LluignegTesiPunai</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Ugumuljin te'si-puna'i.</migmaq>				
 							<english>I am eight.</english>
-							<soundfile>1/4/36/08-UgumuljinTesiPunai</soundfile>
+							<soundfile>UgumuljinTesiPunai</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Pesgunateg te'si-puna'i.</migmaq>				
 							<english>I am nine.</english>
-							<soundfile>1/4/36/09-PesgunategTesiPunai</soundfile>
+							<soundfile>PesgunategTesiPunai</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Metla'si-puna'i.</migmaq>				
 							<english>I am ten.</english>
-							<soundfile>1/4/36/10-MetlasiPunai</soundfile>
+							<soundfile>MetlasiPunai</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Metla'si-puna'i jel newt.</migmaq>				
 							<english>I am eleven. (ten + one)</english>
-							<soundfile>1/4/36/11-MetlasiPunaiJelNewt</soundfile>
+							<soundfile>MetlasiPunaiJelNewt</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Metla'si-puna'i jel ta'pu.</migmaq>				
 							<english>I am twelve.</english>
-							<soundfile>1/4/36/12-MetlasiPunaiJelTapu</soundfile>
+							<soundfile>MetlasiPunaiJelTapu</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Tapuisgegi-puna'i.</migmaq>				
 							<english>I am twenty.</english>
-							<soundfile>1/4/36/13-TapuisgegiPunai</soundfile>
+							<soundfile>TapuisgegiPunai</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Tapuisgegi-puna'i jel newt.</migmaq>				
 							<english>I am twenty-one.</english>
-							<soundfile>1/4/36/14-TapuisgegiPunaiJelNewt</soundfile>
+							<soundfile>TapuisgegiPunaiJelNewt</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Ne'sisgegi-puna'i jel ne'w.</migmaq>				
 							<english>I am thirty-four.</english>
-							<soundfile>1/4/36/15-NesisgegiPunaiJelNew</soundfile>
+							<soundfile>NesisgegiPunaiJelNew</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Newisgegi-puna'i.</migmaq>				
 							<english>I am forty.</english>
-							<soundfile>1/4/36/16-NewisgegiPunai</soundfile>
+							<soundfile>NewisgegiPunai</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Asugom te'sisgegi-puna'i jel si'st.</migmaq>				
 							<english>I am sixty-three.</english>
-							<soundfile>1/4/36/17-AsugomTesisgegiPunaiJelSist</soundfile>
+							<soundfile>AsugomTesisgegiPunaiJelSist</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- Ugumuljin te'sisgegi-puna'i jel newt.</migmaq>				
 							<english>I am eighty-one.</english>
-							<soundfile>1/4/36/18-UgumuljinTesisgegiPunaiJelNewt</soundfile>
+							<soundfile>UgumuljinTesisgegiPunaiJelNewt</soundfile>
 						</line>
 					</vocab>
 				</lesson>
@@ -2311,7 +2311,7 @@
 						<line>
 							<migmaq>Ta'si-puna't 'ggij?</migmaq>				
 							<english>How old is your mother?</english>
-							<soundfile>1/4/37/01-TasiPunatGgij_NgijNewisgegiPunatJelNew</soundfile>
+							<soundfile>TasiPunatGgij_NgijNewisgegiPunatJelNew</soundfile>
 						</line>
 
 						<line>
@@ -2324,7 +2324,7 @@
 						<line>
 							<migmaq>Ta'si-puna't gujj?</migmaq>				
 							<english>How old is your father?</english>
-							<soundfile>1/4/37/02-TasiPunatGujj_NujjNewisgegiPunatJelTapu</soundfile>
+							<soundfile>TasiPunatGujj_NujjNewisgegiPunatJelTapu</soundfile>
 						</line>
 
 						<line>
@@ -2337,13 +2337,13 @@
 						<line>
 							<migmaq>O', me' maljewe'juijig!</migmaq>				
 							<english>Oh, they are still young!</english>
-							<soundfile>1/4/37/03-OMeMaljewejuijig</soundfile>
+							<soundfile>OMeMaljewejuijig</soundfile>
 						</line>
 
 						<line>
 							<migmaq>- E'e, me' maljewe'juijig. Ugs'tqamuianeg, 'ngij					tapuisgegi-puna'p.</migmaq>				
 							<english>Yes, they're still young. When I was born, my mother was					twenty.</english>
-							<soundfile>1/4/37/04-EeMeMaljewejuijigUgstqamuianegNgijTapuisgegiPunap</soundfile>
+							<soundfile>EeMeMaljewejuijigUgstqamuianegNgijTapuisgegiPunap</soundfile>
 						</line>
 					</dialog>
 				</lesson>
@@ -2358,7 +2358,7 @@
 						<line>
 							<migmaq>Ta'si-puna'n?</migmaq>				
 							<english>How old are you?</english>
-							<soundfile>1/4/38/01-TasiPunan_TapuisgegiPunaiJelNewt__NaGilMeGisiguinJemuNegm_EeTeujiGisiguiA</soundfile>
+							<soundfile>TasiPunan_TapuisgegiPunaiJelNewt__NaGilMeGisiguinJemuNegm_EeTeujiGisiguiA</soundfile>
 						</line>
 
 						<line>
@@ -2408,7 +2408,7 @@
 						<line>
 							<migmaq>Ta'n ugs'tqamui's'p?</migmaq>				
 							<english>When were you born?</english>
-							<soundfile>1/4/39/01-TanUgstqamuisp_UgstqamuiapASqoljuigus</soundfile>
+							<soundfile>TanUgstqamuisp_UgstqamuiapASqoljuigus</soundfile>
 						</line>
 
 						<line>
@@ -2421,7 +2421,7 @@
 						<line>
 							<migmaq>Ni'n ugs'tqamuiap a... Nipnigu's.</migmaq>				
 							<english>I was born in uh...June.</english>
-							<soundfile>1/4/39/02-GatGil_NinUgstqamuiapANipnigus</soundfile>
+							<soundfile>GatGil_NinUgstqamuiapANipnigus</soundfile>
 						</line>
 					</dialog>
 				</lesson>
@@ -2432,74 +2432,74 @@
 						<line>
 							<migmaq>Pnamujuigu's</migmaq>				
 							<english>January</english>
-							<soundfile>1/4/39/03-Pnamujuigus</soundfile>
+							<soundfile>Pnamujuigus</soundfile>
 						</line>
 
 						<line>
 							<migmaq>Apignajit</migmaq>				
 							<english>February</english>
-							<soundfile>1/4/39/04-Apignajit</soundfile>
+							<soundfile>Apignajit</soundfile>
 						</line>
 
 						<line>
 							<migmaq>Si'gowigu's</migmaq>				
 							<english>March</english>
-							<soundfile>1/4/39/05-Sigowigus</soundfile>
+							<soundfile>Sigowigus</soundfile>
 						</line>
 
 						<line>
 							<migmaq>Penatmuigu's</migmaq>				
 							<english>April</english>
-							<soundfile>1/4/39/06-Penatmuigus</soundfile>
+							<soundfile>Penatmuigus</soundfile>
 						</line>
 
 						<line>
 							<migmaq>'Sqoljuigu's</migmaq>				
 							<english>May</english>
-							<soundfile>1/4/39/07-Sqoljuigus</soundfile>
+							<soundfile>Sqoljuigus</soundfile>
 						</line>
 
 						<line>
 							<migmaq>Nipnigu's</migmaq>				
 							<english>June</english>
-							<soundfile>1/4/39/08-Nipnigus</soundfile>
+							<soundfile>Nipnigus</soundfile>
 						</line>
 
 						<line>
 							<migmaq>'Ps'gewigu's</migmaq>				
 							<english>July</english>
-							<soundfile>1/4/39/15-JV-Psgewigus</soundfile>
+							<soundfile>Psgewigus</soundfile>
 							<note>See alternate form by JW.</note>
 						</line>
 
 						<line>
 							<migmaq>Gisigwegewigu's</migmaq>				
 							<english>August</english>
-							<soundfile>1/4/39/10-Gisigwegewigus</soundfile>
+							<soundfile>Gisigwegewigus</soundfile>
 						</line>
 
 						<line>
 							<migmaq>Wigumgewigu's</migmaq>				
 							<english>September</english>
-							<soundfile>1/4/39/11-Wigumgewigus</soundfile>
+							<soundfile>Wigumgewigus</soundfile>
 						</line>
 
 						<line>
 							<migmaq>Wigewigu's</migmaq>				
 							<english>October</english>
-							<soundfile>1/4/39/12-Wigewigus</soundfile>
+							<soundfile>Wigewigus</soundfile>
 						</line>
 
 						<line>
 							<migmaq>Gep't'gewigu's</migmaq>				
 							<english>November</english>
-							<soundfile>1/4/39/13-Geptgewigus</soundfile>
+							<soundfile>Geptgewigus</soundfile>
 						</line>
 
 						<line>
 							<migmaq>Gesigewigu's</migmaq>				
 							<english>December</english>
-							<soundfile>1/4/39/14-Gesigewigus</soundfile>
+							<soundfile>Gesigewigus</soundfile>
 						</line>
 					</vocab>
 				</lesson>
@@ -2515,7 +2515,7 @@
 						<line>
 							<migmaq>Ta'sugunit gisgug?</migmaq>				
 							<english>What date is it today?</english>
-							<soundfile>1/4/40/01-TasugunitGisgug-GisgugAmgweseweiNagweg</soundfile>
+							<soundfile>GisgugAmgweseweiNagweg</soundfile>
 						</line>
 
 						<line>
@@ -2529,7 +2529,7 @@
 						<line>
 							<migmaq>Ta'sugunit gisgug?</migmaq>				
 							<english>What date is it today?</english>
-							<soundfile>1/4/40/03-TasugunitGisgug-GisgugTapugunit</soundfile>
+							<soundfile>GisgugTapugunit</soundfile>
 						</line>
 						<linetimsig>[@10:09-10:11]</linetimsig>
 						<line>
@@ -2543,7 +2543,7 @@
 						<line>
 							<migmaq>Ta'sugunit gisgug?</migmaq>				
 							<english>What date is it today?</english>
-							<soundfile>1/4/40/04-TasugunitGisgug-GisgugNesugunit</soundfile>
+							<soundfile>GisgugNesugunit</soundfile>
 						</line>
 
 						<line>
@@ -2557,7 +2557,7 @@
 						<line>
 							<migmaq>Ta'sugunit gisgug?</migmaq>				
 							<english>What date is it today?</english>
-							<soundfile>1/4/40/05-TasugunitGisgug-GisgugMetlasugunit</soundfile>
+							<soundfile>GisgugMetlasugunit</soundfile>
 						</line>
 
 						<line>
@@ -2571,7 +2571,7 @@
 						<line>
 							<migmaq>Ta'sugunit gisgug?</migmaq>				
 							<english>What date is it today?</english>
-							<soundfile>1/4/40/06-TasugunitGisgug-GisgugTapuisgegigunitJelSist</soundfile>
+							<soundfile>GisgugTapuisgegigunitJelSist</soundfile>
 						</line>
 
 						<line>
@@ -2585,7 +2585,7 @@
 						<line>
 							<migmaq>Ta'sugunit gisgug?</migmaq>				
 							<english>What date is it today?</english>
-							<soundfile>1/4/40/07-TasugunitGisgug-GisgugNesisgegigunitJelNewt</soundfile>
+							<soundfile>GisgugNesisgegigunitJelNewt</soundfile>
 						</line>
 
 						<line>
@@ -2636,7 +2636,7 @@
 						<line>
 							<migmaq>Ta'nug aji-puna'tes?</migmaq>				
 							<english>When will you have your birthday?</english>
-							<soundfile>1/4/42/01-TanugAjiPunates_NinAjiPunatesPesgunategTesugunijSqoljuigus</soundfile>
+							<soundfile>TanugAjiPunates_NinAjiPunatesPesgunategTesugunijSqoljuigus</soundfile>
 						</line>
 
 						<line>
@@ -2651,7 +2651,7 @@
 						<line>
 							<migmaq>Ta'nug aji-puna'tes?</migmaq>				
 							<english>When will you have your birthday?</english>
-							<soundfile>1/4/42/02-TanugAjiPunates_NinAjiPunatesMetlasugunijJelNewGeptgewigus</soundfile>
+							<soundfile>TanugAjiPunates_NinAjiPunatesMetlasugunijJelNewGeptgewigus</soundfile>
 						</line>
 
 						<line>
@@ -2665,7 +2665,7 @@
 						<line>
 							<migmaq>Ta'nug aji-puna'tes?</migmaq>				
 							<english>When will you have your birthday?</english>
-							<soundfile>1/4/42/03-TanugAjiPunates_NinAjiPunatesNanugunijWigumgewigus</soundfile>
+							<soundfile>TanugAjiPunates_NinAjiPunatesNanugunijWigumgewigus</soundfile>
 						</line>
 
 						<line>
@@ -2687,7 +2687,7 @@
 						<line>
 							<migmaq>Ta's-ajiet nige'?</migmaq>				
 							<english>What time is it now?</english>
-							<soundfile>1/4/43/01-TasAjietNige_AsugomAjiet</soundfile>
+							<soundfile>TasAjietNige_AsugomAjiet</soundfile>
 						</line>
 
 						<line>
@@ -2701,7 +2701,7 @@
 						<line>
 							<migmaq>Ta's-ajiet nige'?</migmaq>				
 							<english>What time is it now?</english>
-							<soundfile>1/4/43/02-TasAjietNige_GegetNewtisgaqAjietJelNewt</soundfile>
+							<soundfile>TasAjietNige_GegetNewtisgaqAjietJelNewt</soundfile>
 						</line>
 
 						<line>
@@ -2715,7 +2715,7 @@
 						<line>
 							<migmaq>Ta's-ajiet nige'?</migmaq>				
 							<english>What time is it now?</english>
-							<soundfile>1/4/43/03-TasAjietNige_MejitNanglMinitlNaNewtisgaqAjietewJelNewt</soundfile>
+							<soundfile>TasAjietNige_MejitNanglMinitlNaNewtisgaqAjietewJelNewt</soundfile>
 						</line>
 
 						<line>
@@ -2730,7 +2730,7 @@
 						<line>
 							<migmaq>Ta's-ajiet nige'?</migmaq>				
 							<english>What time is it now?</english>
-							<soundfile>1/4/43/04-TasAjietNige_MejitGalNaUgumuljinAjietew</soundfile>
+							<soundfile>TasAjietNige_MejitGalNaUgumuljinAjietew</soundfile>
 						</line>
 
 						<line>
@@ -2745,7 +2745,7 @@
 						<line>
 							<migmaq>Ta's-ajiet nige'?</migmaq>				
 							<english>What time is it now?</english>
-							<soundfile>1/4/43/05-TasajietNige-GalGesgMnaqUgumuljinAjiej</soundfile>
+							<soundfile>GalGesgMnaqUgumuljinAjiej</soundfile>
 						</line>
 
 						<line>
@@ -2760,7 +2760,7 @@
 						<line>
 							<migmaq>Ta's-ajiet nige'?</migmaq>				
 							<english>What time is it now?</english>
-							<soundfile>1/4/43/06-TasAjietNige_AssmaNigePesgunategAjiet</soundfile>
+							<soundfile>TasAjietNige_AssmaNigePesgunategAjiet</soundfile>
 						</line>
 
 						<line>
@@ -2774,7 +2774,7 @@
 						<line>
 							<migmaq>Ta's-ajiet nige'?</migmaq>				
 							<english>What time is it now?</english>
-							<soundfile>1/4/43/07-TasAjietNige_LluignegAjietJelAqataig</soundfile>
+							<soundfile>TasAjietNige_LluignegAjietJelAqataig</soundfile>
 						</line>
 
 						<line>
@@ -2788,7 +2788,7 @@
 						<line>
 							<migmaq>Ta's-ajiet nige'?</migmaq>				
 							<english>What time is it now?</english>
-							<soundfile>1/4/43/08-TasAjietNige_LluignegAjietJelGal</soundfile>
+							<soundfile>TasAjietNige_LluignegAjietJelGal</soundfile>
 						</line>
 
 						<line>
@@ -2802,7 +2802,7 @@
 						<line>
 							<migmaq>Ta's-ajiet nige'?</migmaq>				
 							<english>What time is it now?</english>
-							<soundfile>1/4/43/09-TasAjietNige_Aqtatpaq</soundfile>
+							<soundfile>TasAjietNige_Aqtatpaq</soundfile>
 						</line>
 
 						<line>
@@ -2816,7 +2816,7 @@
 						<line>
 							<migmaq>Ta's-ajiet nige'?</migmaq>				
 							<english>What time is it now?</english>
-							<soundfile>1/4/43/10-TasAjietNige_Mewliagweg</soundfile>
+							<soundfile>TasAjietNige_Mewliagweg</soundfile>
 						</line>
 
 						<line>
@@ -2831,7 +2831,7 @@
 						<line>
 							<migmaq>Ta's-ajiet nige'?</migmaq>				
 							<english>What time is it now?</english>
-							<soundfile>1/4/43/11-TasAjietNige_MuGeituEntunegGnaguseteweimeg</soundfile>
+							<soundfile>TasAjietNige_MuGeituEntunegGnaguseteweimeg</soundfile>
 						</line>
 
 						<line>
@@ -2853,7 +2853,7 @@
 						<line>
 							<migmaq>Gi's ugumuljin ajiet?</migmaq>				
 							<english>Is it eight o'clock already?</english>
-							<soundfile>1/4/44/01-GisUgumuljinAjiet_MnaqUgumuljinAjiegwMejitGalNaUgumuljinAjietew</soundfile>
+							<soundfile>GisUgumuljinAjiet_MnaqUgumuljinAjiegwMejitGalNaUgumuljinAjietew</soundfile>
 						</line>
 
 						<line>
@@ -2868,7 +2868,7 @@
 						<line>
 							<migmaq>Ta'sajietew weltesgati'gw?</migmaq>				
 							<english>What time will [it be when] we meet each other?</english>
-							<soundfile>1/4/44/02-TasajietewWeltesgatigw_AsugomAjiejNaTujiwUltesgatitesnu</soundfile>
+							<soundfile>TasajietewWeltesgatigw_AsugomAjiejNaTujiwUltesgatitesnu</soundfile>
 						</line>
 
 						<line>
@@ -2882,7 +2882,7 @@
 						<line>
 							<migmaq>Ta's-ajietew sapo'nug natlugwen?</migmaq>				
 							<english>What time will it be tomorrow [when] you go to work?				</english>
-							<soundfile>1/4/44/03-TasAjietewSaponugNatlugwen_LluignegAjietewJelAqataiNatlugweiWijeiNaTesiGisgg_AaNinWijei</soundfile>
+							<soundfile>TasAjietewSaponugNatlugwen_LluignegAjietewJelAqataiNatlugweiWijeiNaTesiGisgg_AaNinWijei</soundfile>
 						</line>
 
 						<line>
@@ -2914,7 +2914,7 @@
 							<line>
 								<migmaq>Taluisin gi'l?</migmaq>				
 								<english>What's your name?</english>
-								<soundfile>1/4/45/01-TaluisinGil-SanTeluisi</soundfile>
+								<soundfile>SanTeluisi</soundfile>
 							</line>
 
 							<line>
@@ -2927,7 +2927,7 @@
 							<line>
 								<migmaq>Wen 'ggij?</migmaq>				
 								<english>Who's your mother?</english>
-								<soundfile>1/4/45/02-WenGgij-NgijNaSusanNuel</soundfile>
+								<soundfile>NgijNaSusanNuel</soundfile>
 							</line>
 
 							<line>
@@ -2940,7 +2940,7 @@
 							<line>
 								<migmaq>Wen gujj?</migmaq>				
 								<english>Who's your father?</english>
-								<soundfile>1/4/45/03-WenGujj-NujjNaSosepNuel</soundfile>
+								<soundfile>NujjNaSosepNuel</soundfile>
 							</line>
 
 							<line>
@@ -2953,7 +2953,7 @@
 							<line>
 								<migmaq>Tami tett tleiawijig?</migmaq>				
 								<english>Where are they from?</english>
-								<soundfile>1/4/45/04-TamiTettTleiawijig-NgijTleiawitListugujgAqNujjTleiawitGesgapegiaq</soundfile>
+								<soundfile>NgijTleiawitListugujgAqNujjTleiawitGesgapegiaq</soundfile>
 							</line>
 
 							<line>
@@ -2966,7 +2966,7 @@
 							<line>
 								<migmaq>Tami tett wigijig?</migmaq>				
 								<english>Where do they live?</english>
-								<soundfile>1/4/45/05-TamiTettWigijig-ListugujgWigijigUtangNinElgListugujgWigiWanneg</soundfile>
+								<soundfile>ListugujgWigijigUtangNinElgListugujgWigiWanneg</soundfile>
 							</line>
 
 							<line>
@@ -2979,7 +2979,7 @@
 							<line>
 								<migmaq>Taluisit gmijgamij?</migmaq>				
 								<english>What's your grandfather's name?</english>
-								<soundfile>1/4/45/06-TaluisitGmijgamij-PielTeluisipnaq</soundfile>
+								<soundfile>PielTeluisipnaq</soundfile>
 							</line>
 
 							<line>
@@ -2992,7 +2992,7 @@
 							<line>
 								<migmaq>Taluisit gugumij?</migmaq>				
 								<english>What's your grandmother's name?</english>
-								<soundfile>1/4/45/07-TaluisitGugumij-AgnsTeluisipnaq</soundfile>
+								<soundfile>AgnsTeluisipnaq</soundfile>
 							</line>
 
 							<line>
@@ -3005,21 +3005,21 @@
 							<line>
 								<migmaq>Ta'sijig wijigumjig? Taluisultijig?</migmaq>				
 								<english>How many brothers and sisters do you have? What are their					names?</english>
-								<soundfile>1/4/45/08-REDO-TasijigWijigumjigTaluisultijig</soundfile>
+								<soundfile>TasijigWijigumjigTaluisultijig</soundfile>
 								<note>Later corrections of "REDONE" suggest that it may have been preferred to split these phrases up; recheck with speakers.</note>
 							</line>
 
 							<line>
 								<migmaq>- Asugom te'sijig: Mali, So'se'p, Malia'n, Nastasi, Mise'l,					aq ni'n. Mali na nmis, So'se'p na 'nsis, Malia'n aq Nastasi na					'ngwe'ji'jg aq Mise'l na 'njignam.</migmaq>				
 								<english>There are six of them: Mary, Joseph, Mary-Ann, Anastasia,					Michael, and me. Mary is my older sister, Joseph is my older					brother, Mary-Ann and Anastasia are my younger sisters, and Michael					is my younger brother.</english>
-								<soundfile>1/4/45/09-AsugomTesijigMaliSosepMalianNastasiMiselAqNin</soundfile>
+								<soundfile>AsugomTesijigMaliSosepMalianNastasiMiselAqNin</soundfile>
 								<note>Still needs final sentence spliced in; see current recordings.</note>
 							</line>
 
 							<line>
 								<migmaq>Tami tett etllugwen?</migmaq>				
 								<english>Where do you work?</english>
-								<soundfile>1/4/45/11-TamiTettEtllugwen-QamegMagasangEtllugwei</soundfile>
+								<soundfile>QamegMagasangEtllugwei</soundfile>
 							</line>
 
 							<line>
@@ -3032,7 +3032,7 @@
 							<line>
 								<migmaq>Mu nugu' etl-gina'masiw'n?</migmaq>				
 								<english>You aren't a student any more?</english>
-								<soundfile>1/4/45/12-MuNuguEtlGinamasiwn-MoqwaGtignipnGaqginamasiapneg</soundfile>
+								<soundfile>MoqwaGtignipnGaqginamasiapneg</soundfile>
 							</line>
 
 							<line>
@@ -3050,7 +3050,7 @@
 							<line>
 								<migmaq>Wen na ala ji'nm gaqamit awtigtug?</migmaq>				
 								<english>Who is that man standing in the road?</english>
-								<soundfile>1/4/46/01-WenNaAlaJinmGaqamitAwtigtug-AlaJinmAMuNenuaq</soundfile>
+								<soundfile>AlaJinmAMuNenuaq</soundfile>
 							</line>
 
 							<line>
@@ -3063,7 +3063,7 @@
 							<line>
 								<migmaq>Wen na ala e'pit pemgopit patautigtig?</migmaq>				
 								<english>Who is that woman sitting at the table?</english>
-								<soundfile>1/4/46/02-WenNaAlaEpitPemgopitPatautigtug-NegmElgMuNenuaqAmgweseweiTettPegisinMeMuWenNenuaq</soundfile>
+								<soundfile>NegmElgMuNenuaqAmgweseweiTettPegisinMeMuWenNenuaq</soundfile>
 							</line>
 
 							<line>
@@ -3076,7 +3076,7 @@
 							<line>
 								<migmaq>Wen na ula napui'gnigtug?</migmaq>				
 								<english>Who is this in the picture?</english>
-								<soundfile>1/4/46/03-WenNaUlaNapuignigtug-NinNa</soundfile>
+								<soundfile>NinNa</soundfile>
 							</line>
 
 							<line>
@@ -3220,115 +3220,115 @@
 					<line>
 						<migmaq>gitpu'g</migmaq>				
 						<english>eagles</english>
-						<soundfile>2/1/48/01-Gitpug</soundfile>
+						<soundfile>Gitpug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>paqt'smug</migmaq>				
 						<english>wolves</english>
-						<soundfile>2/1/48/02-Paqtesmug</soundfile>
+						<soundfile>Paqtesmug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>mimigesg</migmaq>				
 						<english>butterflies</english>
-						<soundfile>2/1/48/03-Mimigesg</soundfile>
+						<soundfile>Mimigesg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wowgwisg</migmaq>				
 						<english>foxes</english>
-						<soundfile>2/1/48/04-Wowgwisg</soundfile>
+						<soundfile>Wowgwisg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>tia'mug</migmaq>				
 						<english>moose</english>
-						<soundfile>2/1/48/05-Tiamug</soundfile>
+						<soundfile>Tiamug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>te'pljig</migmaq>				
 						<english>goats</english>
-						<soundfile>2/1/48/06-Tepljig</soundfile>
+						<soundfile>Tepljig</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wapusg</migmaq>				
 						<english>rabbits</english>
-						<soundfile>2/1/48/07-Wapusg</soundfile>
+						<soundfile>Wapusg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>apigjilu'g</migmaq>				
 						<english>skunks</english>
-						<soundfile>2/1/48/08-Apigjilug</soundfile>
+						<soundfile>Apigjilug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>go'qoli'gwejg</migmaq>				
 						<english>chickens</english>
-						<soundfile>2/1/48/09-Goqoligwejg</soundfile>
+						<soundfile>Goqoligwejg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>apigji'jg</migmaq>				
 						<english>mice</english>
-						<soundfile>2/1/48/10-Apigjijg</soundfile>
+						<soundfile>Apigjijg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>gu'gu'gwesg</migmaq>				
 						<english>owls</english>
-						<soundfile>2/1/48/11-Gugugwesg</soundfile>
+						<soundfile>Gugugwesg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>'sqoljig</migmaq>				
 						<english>frogs</english>
-						<soundfile>2/1/48/12-Sqoljig</soundfile>
+						<soundfile>Sqoljig</soundfile>
 					</line>
 
 					<line>
 						<migmaq>mui'naq</migmaq>				
 						<english>bears</english>
-						<soundfile>2/1/48/13-Muinaq</soundfile>
+						<soundfile>Muinaq</soundfile>
 					</line>
 
 					<line>
 						<migmaq>mui'ne'jg</migmaq>				
 						<english>baby bears</english>
-						<soundfile>2/1/48/14-Muinejg</soundfile>
+						<soundfile>Muinejg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>migjigjig</migmaq>				
 						<english>turtles</english>
-						<soundfile>2/1/48/15-Migjigjig</soundfile>
+						<soundfile>Migjigjig</soundfile>
 					</line>
 
 					<line>
 						<migmaq>ap'tapegiejijig</migmaq>				
 						<english>turkeys</english>
-						<soundfile>2/1/48/16-Aptapegiejijig</soundfile>
+						<soundfile>Aptapegiejijig</soundfile>
 					</line>
 
 					<line>
 						<migmaq>amaljugwejg</migmaq>				
 						<english>raccoons</english>
-						<soundfile>2/1/48/17-Amaljugwejg</soundfile>
+						<soundfile>Amaljugwejg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>gopitaq</migmaq>				
 						<english>beavers</english>
-						<soundfile>2/1/48/18-Gopitaq</soundfile>
+						<soundfile>Gopitaq</soundfile>
 					</line>
 
 					<line>
 						<migmaq>apli'gmujg</migmaq>				
 						<english>rabbits</english>
-						<soundfile>2/1/48/19-Apligmujg</soundfile>
+						<soundfile>Apligmujg</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -3342,115 +3342,115 @@
 					<line>
 						<migmaq>Nemi'g gitpu alaqsing musigisg'tug.</migmaq>				
 						<english>I see an eagle flying around in the sky.</english>
-						<soundfile>2/1/49/01-Nemi'gGitpuAlaqsingMusigisgtug</soundfile>
+						<soundfile>Nemi'gGitpuAlaqsingMusigisgtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'g paqt'sm pemtugwi'g sipug.</migmaq>				
 						<english>I see a wolf running along the river.</english>
-						<soundfile>2/1/49/02-NemigPaqtesmPemtugwigSipug</soundfile>
+						<soundfile>NemigPaqtesmPemtugwigSipug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'g mimiges alaqsing musigisg'tug.</migmaq>				
 						<english>I see a butterfly flying around in the sky.</english>
-						<soundfile>2/1/49/03-NemigMimigesAlaqsingMusigisgtug</soundfile>
+						<soundfile>NemigMimigesAlaqsingMusigisgtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'g wowgwis al'tugwi'g awtigtug.</migmaq>				
 						<english>I see a fox running around in the road.</english>
-						<soundfile>2/1/49/04-NemigWowgwisAltugwigAwtigtug</soundfile>
+						<soundfile>NemigWowgwisAltugwigAwtigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'g tia'm ale'g qospemg.</migmaq>				
 						<english>I see a moose hanging around at the lake.</english>
-						<soundfile>2/1/49/05-NemigTiamAlegQospemg</soundfile>
+						<soundfile>NemigTiamAlegQospemg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'g te'plj al-mila'teget gujmug.</migmaq>				
 						<english>I see a goat playing around/going around doing mischief					outside.</english>
-						<soundfile>2/1/49/06-NemigTepljAlmilategetGujmug</soundfile>
+						<soundfile>NemigTepljAlmilategetGujmug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nutaq wapus ali-unaqja't 'msiguigtug.</migmaq>				
 						<english>I hear a rabbit hopping around in the grass.</english>
-						<soundfile>2/1/49/07-NutaqWapusAliunaqjatMsiguigtug</soundfile>
+						<soundfile>NutaqWapusAliunaqjatMsiguigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'g apigjilu pisit tepaqanigtug.</migmaq>				
 						<english>I see a skunk located in/underneath the car.</english>
-						<soundfile>2/1/49/08-NemigApigjiluPisitTepaqanigtug</soundfile>
+						<soundfile>NemigApigjiluPisitTepaqanigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'g go'gwe'ji'j pemi-tqojuapegit miti'sigtug.</migmaq>				
 						<english>I see a spider climbing along up the tree.</english>
-						<soundfile>2/1/49/09-NemigGogwejijPemitqojuapegitMitisigtug</soundfile>
+						<soundfile>NemigGogwejijPemitqojuapegitMitisigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'g apigji'j neii'pit, aq app aqui'pit.</migmaq>				
 						<english>I see a mouse zip out into view, and again zip out of view.				</english>
-						<soundfile>2/1/49/10-NemigApigjijNeiipitAqAppAquipit</soundfile>
+						<soundfile>NemigApigjijNeiipitAqAppAquipit</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'g gu'gu'gwes alaqsing nipugtug.</migmaq>				
 						<english>I see an owl flying around in the woods.</english>
-						<soundfile>2/1/49/11-NemigGugugwesAlaqsingNipugtug</soundfile>
+						<soundfile>NemigGugugwesAlaqsingNipugtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'g 'sqolj ala'q qospemg.</migmaq>				
 						<english>I see a frog swimming around in the lake.</english>
-						<soundfile>2/1/49/12-NemigSqoljAlaqQospemg</soundfile>
+						<soundfile>NemigSqoljAlaqQospemg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'g mui'n ale'g nipugtug.</migmaq>				
 						<english>I see a bear hanging around in the woods.</english>
-						<soundfile>2/1/49/13-NemigMuinAlegNipugtug</soundfile>
+						<soundfile>NemigMuinAlegNipugtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nutaq mui'ne'j al'temit nipugtug.</migmaq>				
 						<english>I hear a bear cub going around crying in the woods.				</english>
-						<soundfile>2/1/49/14-NutaqMuinejAltemitNipugtug</soundfile>
+						<soundfile>NutaqMuinejAltemitNipugtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'g migjigj ala'q qospemg.</migmaq>				
 						<english>I see a turtle swimming around in the lake.</english>
-						<soundfile>2/1/49/15-NemigMigjigjAlaqQospemg</soundfile>
+						<soundfile>NemigMigjigjAlaqQospemg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nutaq ap'tapegiejit etlatalg 'msiguigtug.</migmaq>				
 						<english>I see a turkey eating in the grass.</english>
-						<soundfile>2/1/49/16-NutaqAptapegiejitEtlatalgMsiguigtug</soundfile>
+						<soundfile>NutaqAptapegiejitEtlatalgMsiguigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nutaq amaljugwej metewe'g gujmug.</migmaq>				
 						<english>I hear a raccoon making a sound outside.</english>
-						<soundfile>2/1/49/17-NutaqAmaljugwejMetewegGujmug</soundfile>
+						<soundfile>NutaqAmaljugwejMetewegGujmug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'g gopit ala'q samqwanigtug, gigjiw gun'tewigtug.				</migmaq>				
 						<english>I see a beaver swimming around in the water, near a rock.				</english>
-						<soundfile>2/1/49/18-NemigGopitAlaqSamqwanigtugGigjiwGuntewigtug</soundfile>
+						<soundfile>NemigGopitAlaqSamqwanigtugGigjiwGuntewigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nutaq apli'gmuj metewatalg iga'taqanigtug.</migmaq>				
 						<english>I hear a rabbit eating (heard but not seen) in the garden.				</english>
-						<soundfile>2/1/49/19-NutaqApligmujMetewatalgIgataqanigtug</soundfile>
+						<soundfile>NutaqApligmujMetewatalgIgataqanigtug</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -3463,117 +3463,117 @@
 					<line>
 						<migmaq>Nemi'gig gitpu'g alaqsingig musigisg'tug.</migmaq>				
 						<english>I see two eagles flying around in the sky.</english>
-						<soundfile>2/1/50/01-NemigigGitpugAlaqsingigMusigisgtug</soundfile>
+						<soundfile>NemigigGitpugAlaqsingigMusigisgtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig paqt'smug pemtugwi'gig sipug.</migmaq>				
 						<english>I see two wolves running along the river.</english>
-						<soundfile>2/1/50/02-NemigigPaqtsmugPemtugwigigSipug</soundfile>
+						<soundfile>NemigigPaqtsmugPemtugwigigSipug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig mimigesg alaqsingig musigisg'tug.</migmaq>				
 						<english>I see two butterflies flying around in the sky.</english>
-						<soundfile>2/1/50/03-NemigigMimigesgAlaqsingigMusigisgtug</soundfile>
+						<soundfile>NemigigMimigesgAlaqsingigMusigisgtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig wowgwisg al'tugwi'gig awtigtug.</migmaq>				
 						<english>I see two foxes running around in the road.</english>
-						<soundfile>2/1/50/04-NemigigWowgwisgAltugwigigAwtigtug</soundfile>
+						<soundfile>NemigigWowgwisgAltugwigigAwtigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig tia'mug ale'gig qospemg.</migmaq>				
 						<english>I see two moose hanging around at the lake.</english>
-						<soundfile>2/1/50/05-NemigigTiamugAlegigQospemg</soundfile>
+						<soundfile>NemigigTiamugAlegigQospemg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig te'pljig al-mila'tegejig gujmug.</migmaq>				
 						<english>I see two goats playing around/going around doing mischief					outside.</english>
-						<soundfile>2/1/50/06-NemigigTepljigAlmilategejigGujmug</soundfile>
+						<soundfile>NemigigTepljigAlmilategejigGujmug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nutaqig wapusg ali-unaqja'jig 'msiguigtug.</migmaq>				
 						<english>I hear two rabbits hopping around in the grass.</english>
-						<soundfile>2/1/50/07-NutaqigWapusgAliunaqjajigMsiguigtug</soundfile>
+						<soundfile>NutaqigWapusgAliunaqjajigMsiguigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig apigjilu'g pisijig tepaqanigtug.</migmaq>				
 						<english>I see two skunks located in/underneath the car.</english>
-						<soundfile>2/1/50/08-NemigigApigjilugPisijigTepaqanigtug</soundfile>
+						<soundfile>NemigigApigjilugPisijigTepaqanigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig go'gwe'ji'jg pemi-tqojuapegijig miti'sigtug.				</migmaq>				
 						<english>I see two spiders climbing along up the tree.</english>
-						<soundfile>2/1/50/09-NemigigGogwejijgPemitqojuapegijigMitisigtug
+						<soundfile>NemigigGogwejijgPemitqojuapegijigMitisigtug
 						</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig apigji'jg neii'pijig, aq app aqui'pijig.</migmaq>				
 						<english>I see two mice zip out into view, and again zip out of					view.</english>
-						<soundfile>2/1/50/10-NemigigApigjijgNeiipijigAqAppAquipijig
+						<soundfile>NemigigApigjijgNeiipijigAqAppAquipijig
 						</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig gu'gu'gwesg alaqsingig nipugtug.</migmaq>				
 						<english>I see two owls flying around in the woods.</english>
-						<soundfile>2/1/50/11-NemigigGugugwesgAlaqsingigNipugtug</soundfile>
+						<soundfile>NemigigGugugwesgAlaqsingigNipugtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig 'sqoljig ala'qig qospemg.</migmaq>				
 						<english>I see two frogs swimming around in the lake.</english>
-						<soundfile>2/1/50/12-NemigigSqoljigAlaqigQospemg</soundfile>
+						<soundfile>NemigigSqoljigAlaqigQospemg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig mui'naq ale'gig nipugtug.</migmaq>				
 						<english>I see two bears hanging around in the woods.</english>
-						<soundfile>2/1/50/13-NemigigMuinaqAlegigNipugtug</soundfile>
+						<soundfile>NemigigMuinaqAlegigNipugtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nutaqig mui'ne'jg al'temijig nipugtug.</migmaq>				
 						<english>I hear two bear cubs going around crying in the woods.				</english>
-						<soundfile>2/1/50/14-NutaqigMuinejgAltemijigNipugtug</soundfile>
+						<soundfile>NutaqigMuinejgAltemijigNipugtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig migjigjig ala'qig qospemg.</migmaq>				
 						<english>I see two turtles swimming around in the lake.</english>
-						<soundfile>2/1/50/15-NemigigMigjigjigAlaqigQospemg</soundfile>
+						<soundfile>NemigigMigjigjigAlaqigQospemg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nutaqig ap'tapegiejijig etlatalgig 'msiguigtug.</migmaq>				
 						<english>I see two turkeys eating in the grass.</english>
-						<soundfile>2/1/50/16-NutaqigAptapegiejijigEtlatalgigMsiguigtug</soundfile>
+						<soundfile>NutaqigAptapegiejijigEtlatalgigMsiguigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nutaqig amaljugwejg metewe'gig gujmug.</migmaq>				
 						<english>I hear two raccoons making a sound outside.</english>
-						<soundfile>2/1/50/17-NutaqigAmaljugwejgMetewegigGujmug</soundfile>
+						<soundfile>NutaqigAmaljugwejgMetewegigGujmug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig gopitaq ala'qig samqwanigtug, gigjiw gun'tewigtug.				</migmaq>				
 						<english>I see two beavers swimming around in the water, near a					rock.</english>
-						<soundfile>2/1/50/18-NemigigGopitaqAlaqigSamqwanigtugGigjiwGuntewigtug</soundfile>
+						<soundfile>NemigigGopitaqAlaqigSamqwanigtugGigjiwGuntewigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nutaqig apli'gmujg metewatalgig iga'taqanigtug.</migmaq>				
 						<english>I hear two rabbits eating (heard but not seen) in the					garden.</english>
-						<soundfile>2/1/50/19-NutaqigApligmujgMetewatalgigIgataqanigtug</soundfile>
+						<soundfile>NutaqigApligmujgMetewatalgigIgataqanigtug</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -3586,115 +3586,115 @@
 					<line>
 						<migmaq>Nemi'gig gitpu'g alaqsultijig musigisg'tug.</migmaq>				
 						<english>I see eagles flying around in the sky.</english>
-						<soundfile>2/1/51/01-NemigigGitpugAlaqsultijigMusigisgtug</soundfile>
+						<soundfile>NemigigGitpugAlaqsultijigMusigisgtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig paqt'smug pemtugul'tijig sipug.</migmaq>				
 						<english>I see wolves running along the river.</english>
-						<soundfile>2/1/51/02-NemigigPaqtsmugPemtugultijigSipug</soundfile>
+						<soundfile>NemigigPaqtsmugPemtugultijigSipug</soundfile>
 					</line>
 					<linetimsig>[@4:36-4:41.5]</linetimsig>
 					<line>
 						<migmaq>Nemi'gig mimigesg alaqsultijig musigisg'tug.</migmaq>				
 						<english>I see butterflies flying around in the sky.</english>
-						<soundfile>2/1/51/03-NemigigMimigesgAlaqsultijigMusigisgtug</soundfile>
+						<soundfile>NemigigMimigesgAlaqsultijigMusigisgtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig wowgwisg al'tugultijig awtigtug.</migmaq>				
 						<english>I see foxes running around in the road.</english>
-						<soundfile>2/1/51/04-NemigigWowgwisgAltugultijigAwtigtug</soundfile>
+						<soundfile>NemigigWowgwisgAltugultijigAwtigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig tia'mug alo'ltijig qospemg.</migmaq>				
 						<english>I see moose hanging around at the lake.</english>
-						<soundfile>2/1/51/05-NemigigTiamugAloltijigQospemg</soundfile>
+						<soundfile>NemigigTiamugAloltijigQospemg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig te'pljig al-mila'taqa'tijig gujmug.</migmaq>				
 						<english>I see goats playing around/going around doing mischief					outside.</english>
-						<soundfile>2/1/51/06-NemigigTepljigAlmilataqatijigGujmug</soundfile>
+						<soundfile>NemigigTepljigAlmilataqatijigGujmug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nutaqig wapusg ali-unaqjol'tijig 'msiguigtug.</migmaq>				
 						<english>I hear rabbits hopping around in the grass.</english>
-						<soundfile>2/1/51/07-NutaqigWapusgAliunaqjoltijigMsiguigtug</soundfile>
+						<soundfile>NutaqigWapusgAliunaqjoltijigMsiguigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig apigjilu'g pisultjig tepaqanigtug.</migmaq>				
 						<english>I see skunks located in/underneath the car.</english>
-						<soundfile>2/1/51/08-NemigigApigjilugPisultjigTepaqanigtug</soundfile>
+						<soundfile>NemigigApigjilugPisultjigTepaqanigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig go'gwe'ji'jg pemi-tqojuapegultijig miti'sigtug.				</migmaq>				
 						<english>I see spiders climbing along up the tree.</english>
-						<soundfile>2/1/51/09-NemigigGogwejijgPemitqojuapegultijigMitisigtug</soundfile>
+						<soundfile>NemigigGogwejijgPemitqojuapegultijigMitisigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig apigji'jg neii'pultijig, aq app aqui'pultijig.				</migmaq>				
 						<english>I see mice zip out into view, and again zip out of view.				</english>
-						<soundfile>2/1/51/10-NemigigApigjijgNeiipultijigAqAppAquipultijig</soundfile>
+						<soundfile>NemigigApigjijgNeiipultijigAqAppAquipultijig</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig gu'gu'gwesg alaqsultijig nipugtug.</migmaq>				
 						<english>I see two flying around in the woods.</english>
-						<soundfile>2/1/51/11-NemigigGugugwesgAlaqsultijigNipugtug</soundfile>
+						<soundfile>NemigigGugugwesgAlaqsultijigNipugtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig 'sqoljig ala'mu'tijig qospemg.</migmaq>				
 						<english>I see frogs swimming around in the lake.</english>
-						<soundfile>2/1/51/12-NemigigSqoljigAlamutijigQospemg</soundfile>
+						<soundfile>NemigigSqoljigAlamutijigQospemg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig mui'naq alo'ltijig nipugtug.</migmaq>				
 						<english>I see bears hanging around in the woods.</english>
-						<soundfile>2/1/51/13-NemigigMuinaqAloltijigNipugtug</soundfile>
+						<soundfile>NemigigMuinaqAloltijigNipugtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nutaqig mui'ne'jg al'-temultijig nipugtug.</migmaq>				
 						<english>I hear bear cubs going around crying in the woods.				</english>
-						<soundfile>2/1/51/14-NutaqigMuinejgAltemultijigNipugtug</soundfile>
+						<soundfile>NutaqigMuinejgAltemultijigNipugtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig migjigjig ala'mu'tijig qospemg.</migmaq>				
 						<english>I see turtles swimming around in the lake.</english>
-						<soundfile>2/1/51/15-NemigigMigjigjigAlamutijigQospemg</soundfile>
+						<soundfile>NemigigMigjigjigAlamutijigQospemg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nutaqig ap'tapegiejijig etlatalultijig 'msiguigtug.</migmaq>				
 						<english>I see turkeys eating in the grass.</english>
-						<soundfile>2/1/51/16-NutaqigAptapegiejijigEtlatalultijigMsiguigtug</soundfile>
+						<soundfile>NutaqigAptapegiejijigEtlatalultijigMsiguigtug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nutaqig amaljugwejg metewo'ltijig gujmug.</migmaq>				
 						<english>I hear raccoons making a sound outside.</english>
-						<soundfile>2/1/51/17-NutaqigAmaljugwejgMetewoltijigGujmug</soundfile>
+						<soundfile>NutaqigAmaljugwejgMetewoltijigGujmug</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Nemi'gig gopitaq ala'mu'tijig samqwanigtug, gigjiw					gun'tewigtug.</migmaq>				
 						<english>I see beavers swimming around in the water, near a rock.				</english>
-						<soundfile>2/1/51/18-NemigigGopitaqAlamutijigSamqwanigtugGigjiwguntewigtug</soundfile>
+						<soundfile>NemigigGopitaqAlamutijigSamqwanigtugGigjiwguntewigtug</soundfile>
 					</line>
 					<linetimsig>[@6:21-6:26.5]</linetimsig>
 					<line>
 						<migmaq>Nutaqig apli'gmujg metewatalultijig iga'taqanigtug.</migmaq>				
 						<english>I hear rabbits eating (heard but not seen) in the garden.				</english>
-						<soundfile>2/1/51/19-NutaqigApligmujgMetewatalultijigIgataqanigtug</soundfile>
+						<soundfile>NutaqigApligmujgMetewatalultijigIgataqanigtug</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -3710,55 +3710,55 @@
 					<line>
 						<migmaq>e's</migmaq>				
 						<english>clam</english>
-						<soundfile>2/2/52_Mijipjewei_1a/20120730-JV-Mijipjewei-EesClip</soundfile>
+						<soundfile>EesClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>tmato's</migmaq>				
 						<english>tomato</english>
-						<soundfile>2/2/52_Mijipjewei_1a/20120730-JV-Mijipjewei-TmatosClip</soundfile>
+						<soundfile>TmatosClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>tap'tan</migmaq>				
 						<english>potato</english>
-						<soundfile>2/2/52_Mijipjewei_1a/20120730-JV-Mijipjewei-TaptanClip</soundfile>
+						<soundfile>TaptanClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wen'ju'sugapun</migmaq>				
 						<english>turnip</english>
-						<soundfile>2/2/52_Mijipjewei_1a/20120730-JV-Mijipjewei-WenjusugapunClip</soundfile>
+						<soundfile>WenjusugapunClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>enmapejit</migmaq>				
 						<english>carrot</english>
-						<soundfile>2/2/52_Mijipjewei_1a/20120730-JV-Mijipjewei-EnmapejitClip</soundfile>
+						<soundfile>EnmapejitClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>'pse's's</migmaq>				
 						<english>onion</english>
-						<soundfile>2/2/52_Mijipjewei_1a/20120730-JV-Mijipjewei-PsesisClip</soundfile>
+						<soundfile>PsesisClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>jijjawignej</migmaq>				
 						<english>raisin</english>
-						<soundfile>2/2/52_Mijipjewei_1a/20120730-JV-Mijipjewei-JijawignejClip</soundfile>
+						<soundfile>JijawignejClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>gmu'jmin</migmaq>				
 						<english>raspberry</english>
-						<soundfile>2/2/52_Mijipjewei_1a/20120730-JV-Mijipjewei-GmujminClip</soundfile>
+						<soundfile>GmujminClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>atuomgmin</migmaq>				
 						<english>strawberry</english>
-						<soundfile>2/2/52_Mijipjewei_1a/20120730-JV-Mijipjewei-AtuomgominClip</soundfile>
+						<soundfile>AtuomgominClip</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -3771,61 +3771,61 @@
 					<line>
 						<migmaq>e'sig</migmaq>				
 						<english>clams</english>
-						<soundfile>2/2/53_Mijipjewei_1b/20120730-JV-Mijipjewei-EesigClip</soundfile>
+						<soundfile>EesigClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>tmato'sg</migmaq>				
 						<english>tomatoes</english>
-						<soundfile>2/2/53_Mijipjewei_1b/20120730-JV-Mijipjewei-TmatosgClip</soundfile>
+						<soundfile>TmatosgClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>tap'tang</migmaq>				
 						<english>potatoes</english>
-						<soundfile>2/2/53_Mijipjewei_1b/20120730-JV-Mijipjewei-TaptangClip</soundfile>
+						<soundfile>TaptangClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wen'ju'sugapung</migmaq>				
 						<english>turnips</english>
-						<soundfile>2/2/53_Mijipjewei_1b/20120730-JV-Mijipjewei-WenjusugapungClip</soundfile>
+						<soundfile>WenjusugapungClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>enmapejijig</migmaq>				
 						<english>carrots</english>
-						<soundfile>2/2/53_Mijipjewei_1b/20120730-JV-Mijipjewei-EnmapejijigClip</soundfile>
+						<soundfile>EnmapejijigClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>'pse's'sg</migmaq>				
 						<english>onions</english>
-						<soundfile>2/2/53_Mijipjewei_1b/20120730-JV-Mijipjewei-PsessgClip</soundfile>
+						<soundfile>PsessgClip</soundfile>
 					</line>
 					<linetimsig>[@1:19.5]</linetimsig>
 					<line>
 						<migmaq>jijjawignejg</migmaq>				
 						<english>raisins</english>
-						<soundfile>2/2/53_Mijipjewei_1b/20120730-JV-Mijipjewei-JijawignejgClip</soundfile>
+						<soundfile>JijawignejgClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>gmu'jming</migmaq>				
 						<english>raspberries</english>
-						<soundfile>2/2/53_Mijipjewei_1b/20120730-JV-Mijipjewei-GmujmingClip</soundfile>
+						<soundfile>GmujmingClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>atuomgming</migmaq>				
 						<english>strawberries</english>
-						<soundfile>2/2/53_Mijipjewei_1b/20120730-JV-Mijipjewei-AtuomgomingClip</soundfile>
+						<soundfile>AtuomgomingClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>mlagejg</migmaq>				
 						<english>milk</english>
-						<soundfile>2/2/58_Mijipjewei_2d/20120730-JV-Mijipjewei-MlagejgClip</soundfile>
+						<soundfile>MlagejgClip</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -3838,61 +3838,61 @@
 					<line>
 						<migmaq>e's... ...e'sig</migmaq>				
 						<english>clam...clams</english>
-						<soundfile>2/2/54_Mijipjewei_1c/20120730-JV-Mijipjewei-EesEesigClip</soundfile>
+						<soundfile>EesEesigClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>tmato's... ...tmato'sg</migmaq>				
 						<english>tomato...tomatoes</english>
-						<soundfile>2/2/54_Mijipjewei_1c/20120730-JV-Mijipjewei-TmatosTmatosgClip</soundfile>
+						<soundfile>TmatosTmatosgClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>tap'tan... ...tap'tang</migmaq>				
 						<english>potato...potatoes</english>
-						<soundfile>2/2/54_Mijipjewei_1c/20120730-JV-Mijipjewei-TaptanTaptangClip</soundfile>
+						<soundfile>TaptanTaptangClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wen'ju'sugapun......wen'ju'sugapung</migmaq>				
 						<english>turnip...turnips</english>
-						<soundfile>2/2/54_Mijipjewei_1c/20120730-JV-Mijipjewei-WenjusugapunWenjusugapungClip</soundfile>
+						<soundfile>WenjusugapunWenjusugapungClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>enmapejit... ...enmapejijig</migmaq>				
 						<english>carrot...carrots</english>
-						<soundfile>2/2/54_Mijipjewei_1c/20120730-JV-Mijipjewei-EnmapejigEnmapejijigClip</soundfile>
+						<soundfile>EnmapejigEnmapejijigClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>'pse's's... ...'pse's'sg</migmaq>				
 						<english>onion...onions</english>
-						<soundfile>2/2/54_Mijipjewei_1c/20120730-JV-Mijipjewei-PsessPsessgClip</soundfile>
+						<soundfile>PsessPsessgClip</soundfile>
 					</line>
 					<linetimsig>[@5:40-5:45]</linetimsig>
 					<line>
 						<migmaq>jijjawignej... ...jijjawignejg</migmaq>				
 						<english>raisin...raisins</english>
-						<soundfile>2/2/54_Mijipjewei_1c/20120730-JV-Mijipjewei-JijawignejJijawignejgClip2</soundfile>
+						<soundfile>JijawignejJijawignejgClip2</soundfile>
 					</line>
 					<linetimsig>[@5:46-5:51]</linetimsig>
 					<line>
 						<migmaq>gmu'jmin... ...gmu'jming</migmaq>				
 						<english>raspberry...raspberries</english>
-						<soundfile>2/2/54_Mijipjewei_1c/20120730-JV-Mijipjewei-GmujminGmujmingClip</soundfile>
+						<soundfile>GmujminGmujmingClip</soundfile>
 					</line>
 					<linetimsig>[@5:58-6:02]</linetimsig>
 					<line>
 						<migmaq>atuomgmin... ...atuomgming</migmaq>				
 						<english>strawberry...strawberries</english>
-						<soundfile>2/2/54_Mijipjewei_1c/20120730-JV-Mijipjewei-AtuomgominAtuomgomingClip</soundfile>
+						<soundfile>AtuomgominAtuomgomingClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>...mlagejg</migmaq>				
 						<english>milk</english>
-						<soundfile>2/2/58_Mijipjewei_2d/20120730-JV-Mijipjewei-MlagejgClip</soundfile>
+						<soundfile>MlagejgClip</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -3905,79 +3905,79 @@
 					<line>
 						<migmaq>alawei</migmaq>				
 						<english>pea</english>
-						<soundfile>2/2/55_Mijipjewei_2a/20120730-JV-Mijipjewei-AlaweiClip</soundfile>
+						<soundfile>AlaweiClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>piesgmin</migmaq>				
 						<english>corn</english>
-						<soundfile>2/2/55_Mijipjewei_2a/20120730-JV-Mijipjewei-PiesgminClip</soundfile>
+						<soundfile>PiesgminClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wa'w</migmaq>				
 						<english>egg</english>
-						<soundfile>2/2/55_Mijipjewei_2a/20120730-JV-Mijipjewei-WawClip</soundfile>
+						<soundfile>WawClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>su'n</migmaq>				
 						<english>cranberry</english>
-						<soundfile>2/2/55_Mijipjewei_2a/20120730-JV-Mijipjewei-SunClip</soundfile>
+						<soundfile>SunClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wen'ju'su'n</migmaq>				
 						<english>apple [lit. 'French cranberry']</english>
-						<soundfile>2/2/55_Mijipjewei_2a/20120730-JV-Mijipjewei-WenjusunClip</soundfile>
+						<soundfile>WenjusunClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>aloqoman</migmaq>				
 						<english>grape</english>
-						<soundfile>2/2/55_Mijipjewei_2a/20120730-JV-Mijipjewei-AloqomanClip</soundfile>
+						<soundfile>AloqomanClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>ejgujg</migmaq>				
 						<english>squash, pumpkin</english>
-						<soundfile>2/2/55_Mijipjewei_2a/20120730-JV-Mijipjewei-EjgujgClip</soundfile>
+						<soundfile>EjgujgClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>'pguman</migmaq>				
 						<english>blueberry</english>
-						<soundfile>2/2/55_Mijipjewei_2a/20120730-JV-Mijipjewei-PgumanClip</soundfile>
+						<soundfile>PgumanClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>pipnaqan</migmaq>				
 						<english>bread</english>
-						<soundfile>2/2/55_Mijipjewei_2a/20120730-JV-Mijipjewei-PipnaqanClip</soundfile>
+						<soundfile>PipnaqanClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>petaqan</migmaq>				
 						<english>pie</english>
-						<soundfile>2/2/55_Mijipjewei_2a/20120730-JV-Mijipjewei-PetaqanClip</soundfile>
+						<soundfile>PetaqanClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>esg'tm'gewei</migmaq>				
 						<english>cucumber [lit. 'thing for eating raw']</english>
-						<soundfile>2/2/55_Mijipjewei_2a/20120730-JV-Mijipjewei-EsgtmgeweiClip</soundfile>
+						<soundfile>EsgtmgeweiClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>suitis</migmaq>				
 						<english>a sweet, a piece of candy</english>
-						<soundfile>2/2/55_Mijipjewei_2a/20120730-JV-Mijipjewei-SuwitisClip</soundfile>
+						<soundfile>SuwitisClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wigun</migmaq>				
 						<english>bean</english>
-						<soundfile>2/2/55_Mijipjewei_2a/20120730-JV-Mijipjewei-WigunClip</soundfile>
+						<soundfile>WigunClip</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -3990,79 +3990,79 @@
 					<line>
 						<migmaq>alawe'l</migmaq>				
 						<english>peas</english>
-						<soundfile>2/2/56_Mijipjewei_2b/20120730-JV-Mijipjewei-AlaweilClip</soundfile>
+						<soundfile>AlaweilClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>piesgminn</migmaq>				
 						<english>corn</english>
-						<soundfile>2/2/56_Mijipjewei_2b/20120730-JV-Mijipjewei-PiesgminnClip</soundfile>
+						<soundfile>PiesgminnClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wa'wl</migmaq>				
 						<english>eggs</english>
-						<soundfile>2/2/56_Mijipjewei_2b/20120730-JV-Mijipjewei-WawlClip</soundfile>
+						<soundfile>WawlClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>su'nn</migmaq>				
 						<english>cranberries</english>
-						<soundfile>2/2/56_Mijipjewei_2b/20120730-JV-Mijipjewei-SunnClip</soundfile>
+						<soundfile>SunnClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wen'ju'su'nn</migmaq>				
 						<english>apples</english>
-						<soundfile>2/2/56_Mijipjewei_2b/20120730-JV-Mijipjewei-WenjusunnClip</soundfile>
+						<soundfile>WenjusunnClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>aloqomann</migmaq>				
 						<english>grapes</english>
-						<soundfile>2/2/56_Mijipjewei_2b/20120730-JV-Mijipjewei-AloqomannClip</soundfile>
+						<soundfile>AloqomannClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>ejgujgl</migmaq>				
 						<english>squashes, pumpkins</english>
-						<soundfile>2/2/56_Mijipjewei_2b/20120730-JV-Mijipjewei-EjgujglClip</soundfile>
+						<soundfile>EjgujglClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>'pgumann</migmaq>				
 						<english>blueberries</english>
-						<soundfile>2/2/56_Mijipjewei_2b/20120730-JV-Mijipjewei-PgumannClip</soundfile>
+						<soundfile>PgumannClip</soundfile>
 					</line>
 					<linetimsig>[@6:06-6:22 = corrections to end]</linetimsig>
 					<line>
 						<migmaq>pipnaqann</migmaq>				
 						<english>breads</english>
-						<soundfile>2/2/56_Mijipjewei_2b/20120730-JV-Mijipjewei-PipnaqannClip</soundfile>
+						<soundfile>PipnaqannClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>petaqann</migmaq>				
 						<english>pies</english>
-						<soundfile>2/2/56_Mijipjewei_2b/20120730-JV-Mijipjewei-PetaqannClip</soundfile>
+						<soundfile>PetaqannClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>esg'tm'gewe'l</migmaq>				
 						<english>cucumbers</english>
-						<soundfile>2/2/56_Mijipjewei_2b/20120730-JV-Mijipjewei-EsgtmgeweilClip</soundfile>
+						<soundfile>EsgtmgeweilClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>suitisl</migmaq>				
 						<english>sweets, candies</english>
-						<soundfile>2/2/56_Mijipjewei_2b/20120730-JV-Mijipjewei-SuwitislClip</soundfile>
+						<soundfile>SuwitislClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wigunn</migmaq>				
 						<english>beans</english>
-						<soundfile>2/2/56_Mijipjewei_2b/20120730-JV-Mijipjewei-WigunnClip</soundfile>
+						<soundfile>WigunnClip</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -4075,79 +4075,79 @@
 					<line>
 						<migmaq>alawei...alawe'l</migmaq>				
 						<english>pea...peas</english>
-						<soundfile>2/2/57_Mijipjewei_2c/20120730-JV-Mijipjewei-AlaweiAlaweilClip</soundfile>
+						<soundfile>AlaweiAlaweilClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>piesgmin...piesgminn</migmaq>				
 						<english>corn...corns</english>
-						<soundfile>2/2/57_Mijipjewei_2c/20120730-JV-Mijipjewei-PiesgminPiesgminnClip</soundfile>
+						<soundfile>PiesgminPiesgminnClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wa'w...wa'wl</migmaq>				
 						<english>egg...eggs</english>
-						<soundfile>2/2/57_Mijipjewei_2c/20120730-JV-Mijipjewei-WawWawlClip</soundfile>
+						<soundfile>WawWawlClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>su'n...su'nn</migmaq>				
 						<english>cranberry...cranberries</english>
-						<soundfile>2/2/57_Mijipjewei_2c/20120730-JV-Mijipjewei-SunSunnClip</soundfile>
+						<soundfile>SunSunnClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wen'ju'su'n...wen'ju'su'nn</migmaq>				
 						<english>apple...apples</english>
-						<soundfile>2/2/57_Mijipjewei_2c/20120730-JV-Mijipjewei-WenjusunWenjusunnClip</soundfile>
+						<soundfile>WenjusunWenjusunnClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>aloqoman...aloqomann</migmaq>				
 						<english>grape...grapes</english>
-						<soundfile>2/2/57_Mijipjewei_2c/20120730-JV-Mijipjewei-AloqomanAloqomannClip</soundfile>
+						<soundfile>AloqomanAloqomannClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>ejgujg...ejgujgl</migmaq>				
 						<english>squash...squashes</english>
-						<soundfile>2/2/54_Mijipjewei_1c/20120730-JV-Mijipjewei-EjgujgEjgujglClip</soundfile>
+						<soundfile>EjgujgEjgujglClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>'pguman...'pgumann</migmaq>				
 						<english>blueberry...blueberries</english>
-						<soundfile>2/2/57_Mijipjewei_2c/20120730-JV-Mijipjewei-PgumanPgumannClip</soundfile>
+						<soundfile>PgumanPgumannClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>pipnaqan...pipnaqann</migmaq>				
 						<english>bread...breads</english>
-						<soundfile>2/2/57_Mijipjewei_2c/20120730-JV-Mijipjewei-PipnaqanPipnaqannClip</soundfile>
+						<soundfile>PipnaqanPipnaqannClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>petaqan...petaqann</migmaq>				
 						<english>pie...pies</english>
-						<soundfile>2/2/57_Mijipjewei_2c/20120730-JV-Mijipjewei-PetaqanPetaqannClip</soundfile>
+						<soundfile>PetaqanPetaqannClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>esg'tm'gewei ...esg'tm'gewe'l</migmaq>				
 						<english>cucumber...cucumbers</english>
-						<soundfile>2/2/57_Mijipjewei_2c/20120730-JV-Mijipjewei-EsgtmgeweiEsgtmgeweilClip</soundfile>
+						<soundfile>EsgtmgeweiEsgtmgeweilClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>suitis...suitisl</migmaq>				
 						<english>candy...candies</english>
-						<soundfile>2/2/57_Mijipjewei_2c/20120730-JV-Mijipjewei-SuwitisSuwitislClip</soundfile>
+						<soundfile>SuwitisSuwitislClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wigun...wigunn</migmaq>				
 						<english>bean...beans</english>
-						<soundfile>2/2/57_Mijipjewei_2c/20120730-JV-Mijipjewei-WigunWigunnClip</soundfile>
+						<soundfile>WigunWigunnClip</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -4169,61 +4169,61 @@
 					<line>
 						<migmaq>p'tewei, petewei</migmaq>				
 						<english>tea</english>
-						<soundfile>2/2/58_Mijipjewei_2d/20120730-JV-Mijipjewei-PeteweiClip</soundfile>
+						<soundfile>PeteweiClip</soundfile>
 					</line>
 					<linetimsig>[@4:54-4:56]</linetimsig>
 					<line>
 						<migmaq>gulgwi'suei</migmaq>				
 						<english>pork (pig meat)</english>
-						<soundfile>2/2/58_Mijipjewei_2d/20120730-JV-Mijipjewei-GulgwiseweiClip</soundfile>
+						<soundfile>GulgwiseweiClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>go'qoli'gwejuei</migmaq>				
 						<english>chicken (meat)</english>
-						<soundfile>2/2/58_Mijipjewei_2d/20120730-JV-Mijipjewei-GoqoligwejeweiClip</soundfile>
+						<soundfile>GoqoligwejeweiClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>plamuei</migmaq>				
 						<english>salmon (meat)</english>
-						<soundfile>2/2/58_Mijipjewei_2d/20120730-JV-Mijipjewei-PlamueiClip</soundfile>
+						<soundfile>PlamueiClip</soundfile>
 					</line>
 					<linetimsig>[@6:37-6:39]</linetimsig>
 					<line>
 						<migmaq>atoqwa'suei</migmaq>				
 						<english>trout (meat)</english>
-						<soundfile>2/2/58_Mijipjewei_2d/20120730-JV-Mijipjewei-AtoqaseweiClip</soundfile>
+						<soundfile>AtoqaseweiClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>lentugowei</migmaq>				
 						<english>venison (deer meat)</english>
-						<soundfile>2/2/58_Mijipjewei_2d/20120730-JV-Mijipjewei-LentugeweiClip</soundfile>
+						<soundfile>LentugeweiClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>tia'muei</migmaq>				
 						<english>moose (meat)</english>
-						<soundfile>2/2/58_Mijipjewei_2d/20120730-JV-Mijipjewei-TiamueiClip</soundfile>
+						<soundfile>TiamueiClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>wen'jitia'muei</migmaq>				
 						<english>beef (= cow-meat)</english>
-						<soundfile>2/2/58_Mijipjewei_2d/20120730-JV-Mijipjewei-WenjitiamueiClip</soundfile>
+						<soundfile>WenjitiamueiClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>jagejuei</migmaq>				
 						<english>lobster (meat)</english>
-						<soundfile>2/2/58_Mijipjewei_2d/20120730-JV-Mijipjewei-JagejueiClip</soundfile>
+						<soundfile>JagejueiClip</soundfile>
 					</line>
 
 					<line>
 						<migmaq>mlageju'mi</migmaq>				
 						<english>butter</english>
-						<soundfile>2/2/58_Mijipjewei_2d/20120730-JV-Mijipjewei-MlagejumiClip</soundfile>
+						<soundfile>MlagejumiClip</soundfile>
 					</line>
 				</vocab>
 				<explnote>In English, we often use the same word for an animal, and				the meat that comes from the animal.				For instance, think of salmon (in the river) and salmon (with lemon				juice).				Sometimes, we also have unpredictable words, like "venison" meaning "deer				meat".				In Mi'gmaq, there are different words for the animals and their meat,				that follow a predictable rule.				The rule goes like this: Simply add "-ewei" to the end of the animal's				name, and that makes the word for the animal's meat.				Ex: lentug + -ewei = lentugowei				"deer" + ("coming from" = "deer meat"				"belonging to")				Sometimes, like above, the first vowel "-ewei" is pronounced in different				ways, but tshey still mean the same thing!				Bonus info: you can use the same ending, "ewei", with a pronoun or				person's name if you want to make the possessive form of those				words! It works a lot like the English 's.				Mali + -ewei = Maliewei | ni'n + -ewei = ni'newei				"Mary" + "belonging to" = "Mary's" | "me" + "belonging to" = "mine"			</explnote>
@@ -4236,7 +4236,7 @@
 					<line>
 						<migmaq>Wigp't na enmapejit?</migmaq>				
 						<english>Do you like (the taste of) that carrot?</english>
-						<soundfile>2/2/59/01-WigptNaEnmapejit_EeWigpg</soundfile>
+						<soundfile>WigptNaEnmapejit_EeWigpg</soundfile>
 					</line>
 
 					<line>
@@ -4250,7 +4250,7 @@
 					<line>
 						<migmaq>Mu wigpawt na tmato's?</migmaq>				
 						<english>Do you not like (the taste of) that tomato?</english>
-						<soundfile>2/2/59/02-MuWigpawtNaTmatos_MoqwaMuWigpaq</soundfile>
+						<soundfile>MuWigpawtNaTmatos_MoqwaMuWigpaq</soundfile>
 					</line>
 
 					<line>
@@ -4264,7 +4264,7 @@
 					<line>
 						<migmaq>Wigp'jig e'sig?</migmaq>				
 						<english>Do you like (the taste of) clams?</english>
-						<soundfile>2/2/59/03-WigpjigEsg_EeWigpgig</soundfile>
+						<soundfile>WigpjigEsg_EeWigpgig</soundfile>
 					</line>
 
 					<line>
@@ -4278,7 +4278,7 @@
 					<line>
 						<migmaq>Wigp'jig tmato'sg?</migmaq>				
 						<english>Do you like (the taste of) tomatoes?</english>
-						<soundfile>2/2/59/04-WigpjigTmatosg_MoqwaMuWigpaqig</soundfile>
+						<soundfile>WigpjigTmatosg_MoqwaMuWigpaqig</soundfile>
 					</line>
 
 					<line>
@@ -4297,7 +4297,7 @@
 					<line>
 						<migmaq>Wigtmn pipnaqan?</migmaq>				
 						<english>Do you like the (taste of) bread?</english>
-						<soundfile>2/2/60/01-WigtmnPipnaqan_EeWigtm</soundfile>
+						<soundfile>WigtmnPipnaqan_EeWigtm</soundfile>
 					</line>
 
 					<line>
@@ -4311,7 +4311,7 @@
 					<line>
 						<migmaq>Wigtmn wen'jitia'muei?</migmaq>				
 						<english>Do you like the (taste of) beef?</english>
-						<soundfile>2/2/60/02-WigtmnWenjitiamuei_MoqwaMuWigtmu</soundfile>
+						<soundfile>WigtmnWenjitiamuei_MoqwaMuWigtmu</soundfile>
 					</line>
 
 					<line>
@@ -4325,7 +4325,7 @@
 					<line>
 						<migmaq>Wigtmnn suitisl?</migmaq>				
 						<english>Do you like the (taste of) sweets?</english>
-						<soundfile>2/2/60/03-WigtmnnSuitisl_EeWigtmann</soundfile>
+						<soundfile>WigtmnnSuitisl_EeWigtmann</soundfile>
 					</line>
 
 					<line>
@@ -4339,7 +4339,7 @@
 					<line>
 						<migmaq>Wigtmnn wigunn?</migmaq>				
 						<english>Do you like the (taste of) beans?</english>
-						<soundfile>2/2/60/04-WigtmnnWigunn_MoqwaMuWigtmuann</soundfile>
+						<soundfile>WigtmnnWigunn_MoqwaMuWigtmuann</soundfile>
 					</line>
 
 					<line>
@@ -4358,7 +4358,7 @@
 					<line>
 						<migmaq>Goqwei getutmn?</migmaq>				
 						<english>What do you want to eat?</english>
-						<soundfile>2/2/61/01-GoqweiGetutmn_GetupgTmatos</soundfile>
+						<soundfile>GoqweiGetutmn_GetupgTmatos</soundfile>
 					</line>
 
 					<line>
@@ -4372,7 +4372,7 @@
 					<line>
 						<migmaq>Getupt a...enmapejit?</migmaq>				
 						<english>Do you want to eat uh...a carrot?</english>
-						<soundfile>2/2/61/02-GetuptAEnmapejit_MoqwaMuGetupaq</soundfile>
+						<soundfile>GetuptAEnmapejit_MoqwaMuGetupaq</soundfile>
 					</line>
 
 					<line>
@@ -4386,7 +4386,7 @@
 					<line>
 						<migmaq>Getupjig jijjawignejg?</migmaq>				
 						<english>Do you want to eat some raisins?</english>
-						<soundfile>2/2/61/03-GetupjigJijjawignejg_EeGetupgig</soundfile>
+						<soundfile>GetupjigJijjawignejg_EeGetupgig</soundfile>
 					</line>
 
 					<line>
@@ -4400,7 +4400,7 @@
 					<line>
 						<migmaq>Getupjig e's'g?</migmaq>				
 						<english>Do you want to eat some clams?</english>
-						<soundfile>2/2/61/04-GetupjigEsg_MoqwaMuGetupaqig</soundfile>
+						<soundfile>GetupjigEsg_MoqwaMuGetupaqig</soundfile>
 					</line>
 
 					<line>
@@ -4414,7 +4414,7 @@
 					<line>
 						<migmaq>Getutmn pipnaqan?</migmaq>				
 						<english>Do you want to eat bread?</english>
-						<soundfile>2/2/61/05-GetutmnPipnaqan-EeGetutm</soundfile>
+						<soundfile>EeGetutm</soundfile>
 					</line>
 
 					<line>
@@ -4428,7 +4428,7 @@
 					<line>
 						<migmaq>Getutmn wen'jitia'muei?</migmaq>				
 						<english>Do you want to eat beef?</english>
-						<soundfile>2/2/61/06-GetutmnWenjitiamuei-MoqwaMuGetutmu</soundfile>
+						<soundfile>MoqwaMuGetutmu</soundfile>
 					</line>
 
 					<line>
@@ -4442,7 +4442,7 @@
 					<line>
 						<migmaq>Getutmnn suitisl?</migmaq>				
 						<english>Do you want to eat candies?</english>
-						<soundfile>2/2/61/07-GetutmnnSuitisl-EeGetutmann</soundfile>
+						<soundfile>EeGetutmann</soundfile>
 					</line>
 
 					<line>
@@ -4456,7 +4456,7 @@
 					<line>
 						<migmaq>Getutmnn wigunn?</migmaq>				
 						<english>Do you want to eat beans?</english>
-						<soundfile>2/2/61/08-GetutmnnWigunn-MoqwaMuGetutmuann</soundfile>
+						<soundfile>MoqwaMuGetutmuann</soundfile>
 					</line>
 
 					<line>
@@ -4478,43 +4478,43 @@
 					<line>
 						<migmaq>pu'tai</migmaq>				
 						<english>bottle</english>
-						<soundfile>2/3/62_HouseholdItemsClothing_1a/01-Putai</soundfile>
+						<soundfile>Putai</soundfile>
 					</line>
 
 					<line>
 						<migmaq>eptaqan</migmaq>				
 						<english>dish/plate</english>
-						<soundfile>2/3/62_HouseholdItemsClothing_1a/02-Eptaqan</soundfile>
+						<soundfile>Eptaqan</soundfile>
 					</line>
 
 					<line>
 						<migmaq>samqwano'q</migmaq>				
 						<english>water bottle</english>
-						<soundfile>2/3/62_HouseholdItemsClothing_1a/03-Samqwanoq</soundfile>
+						<soundfile>Samqwanoq</soundfile>
 					</line>
 
 					<line>
 						<migmaq>la'taqsun</migmaq>				
 						<english>pail/bucket</english>
-						<soundfile>2/3/62_HouseholdItemsClothing_1a/04-Lataqsun</soundfile>
+						<soundfile>Lataqsun</soundfile>
 					</line>
 
 					<line>
 						<migmaq>atla'i</migmaq>				
 						<english>shirt</english>
-						<soundfile>2/3/62_HouseholdItemsClothing_1a/05-Atlai</soundfile>
+						<soundfile>Atlai</soundfile>
 					</line>
 
 					<line>
 						<migmaq>la'jijjaqan</migmaq>				
 						<english>glove</english>
-						<soundfile>2/3/62_HouseholdItemsClothing_1a/06-Lajijjaqan</soundfile>
+						<soundfile>Lajijjaqan</soundfile>
 					</line>
 
 					<line>
 						<migmaq>mg'sn</migmaq>				
 						<english>shoe</english>
-						<soundfile>2/3/62_HouseholdItemsClothing_1a/07-Mgsn</soundfile>
+						<soundfile>Mgsn</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -4527,43 +4527,43 @@
 					<line>
 						<migmaq>pu'taig</migmaq>				
 						<english>bottles</english>
-						<soundfile>2/3/63_HouseholdItemsClothing_1b/01-Putaig</soundfile>
+						<soundfile>Putaig</soundfile>
 					</line>
 
 					<line>
 						<migmaq>eptaqang</migmaq>				
 						<english>dishes/plates</english>
-						<soundfile>2/3/63_HouseholdItemsClothing_1b/02-Eptaqang</soundfile>
+						<soundfile>Eptaqang</soundfile>
 					</line>
 
 					<line>
 						<migmaq>samqwano'qq</migmaq>				
 						<english>water bottle</english>
-						<soundfile>2/3/63_HouseholdItemsClothing_1b/03-Samqwanoqq</soundfile>
+						<soundfile>Samqwanoqq</soundfile>
 					</line>
 
 					<line>
 						<migmaq>la'taqsung</migmaq>				
 						<english>pail/bucket</english>
-						<soundfile>2/3/63_HouseholdItemsClothing_1b/04-Lataqsung</soundfile>
+						<soundfile>Lataqsung</soundfile>
 					</line>
 
 					<line>
 						<migmaq>atla'ig</migmaq>				
 						<english>shirts</english>
-						<soundfile>2/3/63_HouseholdItemsClothing_1b/05-Atlaig</soundfile>
+						<soundfile>Atlaig</soundfile>
 					</line>
 
 					<line>
 						<migmaq>la'jijjaqang</migmaq>				
 						<english>gloves</english>
-						<soundfile>2/3/63_HouseholdItemsClothing_1b/06-Lajijjaqang</soundfile>
+						<soundfile>Lajijjaqang</soundfile>
 					</line>
 
 					<line>
 						<migmaq>mg'sng</migmaq>				
 						<english>shoes</english>
-						<soundfile>2/3/63_HouseholdItemsClothing_1b/07-Mgsng</soundfile>
+						<soundfile>Mgsng</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -4576,43 +4576,43 @@
 					<line>
 						<migmaq>pu'tai... ...pu'taig</migmaq>				
 						<english>bottle... ...bottles</english>
-						<soundfile>2/3/64_HouseholdItemsClothing_1c/01-Putai_Putaig</soundfile>
+						<soundfile>Putai_Putaig</soundfile>
 					</line>
 
 					<line>
 						<migmaq>eptaqan... ...eptaqang</migmaq>				
 						<english>plate/dish... ...plates/dishes</english>
-						<soundfile>2/3/64_HouseholdItemsClothing_1c/02-Eptaqan_Eptaqang</soundfile>
+						<soundfile>Eptaqan_Eptaqang</soundfile>
 					</line>
 
 					<line>
 						<migmaq>samqwano'q......samqwano'qq</migmaq>				
 						<english>water bottle... ...water bottles</english>
-						<soundfile>2/3/64_HouseholdItemsClothing_1c/03-Samqwanoq_Samqwanoqq</soundfile>
+						<soundfile>Samqwanoq_Samqwanoqq</soundfile>
 					</line>
 
 					<line>
 						<migmaq>la'taqsun... ...la'taqsung</migmaq>				
 						<english>pail/bucket... ...pails/buckets</english>
-						<soundfile>2/3/64_HouseholdItemsClothing_1c/04-Lataqsun_Lataqsung</soundfile>
+						<soundfile>Lataqsun_Lataqsung</soundfile>
 					</line>
 
 					<line>
 						<migmaq>atla'i... ...atla'ig</migmaq>				
 						<english>shirt... ...shirts</english>
-						<soundfile>2/3/64_HouseholdItemsClothing_1c/05-Atlai_Atlaig</soundfile>
+						<soundfile>Atlai_Atlaig</soundfile>
 					</line>
 
 					<line>
 						<migmaq>la'jijjaqan... ...la'jijjaqang</migmaq>				
 						<english>glove... ...gloves</english>
-						<soundfile>2/3/64_HouseholdItemsClothing_1c/06-Lajijjaqan_Lajijjaqang</soundfile>
+						<soundfile>Lajijjaqan_Lajijjaqang</soundfile>
 					</line>
 
 					<line>
 						<migmaq>mg'sn... ...mg'sng</migmaq>				
 						<english>shoe... ...shoes</english>
-						<soundfile>2/3/64_HouseholdItemsClothing_1c/07-Mgsn_Mgsng</soundfile>
+						<soundfile>Mgsn_Mgsng</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -4626,25 +4626,25 @@
 					<line>
 						<migmaq>wasueg</migmaq>				
 						<english>flower</english>
-						<soundfile>2/3/65_HouseholdItemsClothing_2a/01-Wasueg</soundfile>
+						<soundfile>Wasueg</soundfile>
 					</line>
 
 					<line>
 						<migmaq>tepaqan</migmaq>				
 						<english>car</english>
-						<soundfile>2/3/65_HouseholdItemsClothing_2a/02-Tepaqan</soundfile>
+						<soundfile>Tepaqan</soundfile>
 					</line>
 
 					<line>
 						<migmaq>a'gusn</migmaq>				
 						<english>hat</english>
-						<soundfile>2/3/65_HouseholdItemsClothing_2a/03-Agusn</soundfile>
+						<soundfile>Agusn</soundfile>
 					</line>
 
 					<line>
 						<migmaq>magot</migmaq>				
 						<english>dress</english>
-						<soundfile>2/3/65_HouseholdItemsClothing_2a/04-Magot</soundfile>
+						<soundfile>Magot</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -4657,25 +4657,25 @@
 					<line>
 						<migmaq>wasuegl</migmaq>				
 						<english>flowers</english>
-						<soundfile>2/3/66_HouseholdItemsClothing_2b/01-Wasuegl</soundfile>
+						<soundfile>Wasuegl</soundfile>
 					</line>
 
 					<line>
 						<migmaq>tepaqann</migmaq>				
 						<english>cars</english>
-						<soundfile>2/3/66_HouseholdItemsClothing_2b/02-Tepaqann</soundfile>
+						<soundfile>Tepaqann</soundfile>
 					</line>
 
 					<line>
 						<migmaq>a'gusnn</migmaq>				
 						<english>hats</english>
-						<soundfile>2/3/66_HouseholdItemsClothing_2b/03-Agusnn</soundfile>
+						<soundfile>Agusnn</soundfile>
 					</line>
 
 					<line>
 						<migmaq>magotl</migmaq>				
 						<english>dresses</english>
-						<soundfile>2/3/66_HouseholdItemsClothing_2b/04-Magotl</soundfile>
+						<soundfile>Magotl</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -4688,25 +4688,25 @@
 					<line>
 						<migmaq>wasueg... ...wasuegl</migmaq>				
 						<english>flower... ...flowers</english>
-						<soundfile>2/3/67_HouseholdItemsClothing_2c/01-Wasueg_Wasuegl</soundfile>
+						<soundfile>Wasueg_Wasuegl</soundfile>
 					</line>
 
 					<line>
 						<migmaq>tepaqan... ...tepaqann</migmaq>				
 						<english>car... ...cars</english>
-						<soundfile>2/3/67_HouseholdItemsClothing_2c/02-Tepaqan_Tepaqann</soundfile>
+						<soundfile>Tepaqan_Tepaqann</soundfile>
 					</line>
 
 					<line>
 						<migmaq>a'gusn... ...a'gusnn</migmaq>				
 						<english>hat... ...hats</english>
-						<soundfile>2/3/67_HouseholdItemsClothing_2c/03-Agusn_Agusnn</soundfile>
+						<soundfile>Agusn_Agusnn</soundfile>
 					</line>
 
 					<line>
 						<migmaq>magot... ...magotl</migmaq>				
 						<english>dress... ...dresses</english>
-						<soundfile>2/3/67_HouseholdItemsClothing_2c/04-Magot_Magotl</soundfile>
+						<soundfile>Magot_Magotl</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -4719,7 +4719,7 @@
 					<line>
 						<migmaq>Goqwei pewatmn?</migmaq>				
 						<english>What do you want?</english>
-						<soundfile>2/3/68/01-GoqweiPewatmn_PewatmWasueg</soundfile>
+						<soundfile>GoqweiPewatmn_PewatmWasueg</soundfile>
 					</line>
 
 					<line>
@@ -4734,7 +4734,7 @@
 					<line>
 						<migmaq>Goqwei piluei pewatmn?</migmaq>				
 						<english>What else do you want?</english>
-						<soundfile>2/3/68/02-GoqweiPilueiPewatmn_PewalgAtlai</soundfile>
+						<soundfile>GoqweiPilueiPewatmn_PewalgAtlai</soundfile>
 					</line>
 
 					<line>
@@ -4753,7 +4753,7 @@
 					<line>
 						<migmaq>Pu'tai pewalt?</migmaq>				
 						<english>Do you want a bottle?</english>
-						<soundfile>2/3/69/01-PutaiPewalt_EePewalgPutai</soundfile>
+						<soundfile>PutaiPewalt_EePewalgPutai</soundfile>
 					</line>
 
 					<line>
@@ -4767,7 +4767,7 @@
 					<line>
 						<migmaq>Eptaqan pewalt?</migmaq>				
 						<english>Do you want a dish?</english>
-						<soundfile>2/3/69/02-EptaqanPewalt_MoqwaMuPewalaqEptaqan</soundfile>
+						<soundfile>EptaqanPewalt_MoqwaMuPewalaqEptaqan</soundfile>
 					</line>
 
 					<line>
@@ -4781,7 +4781,7 @@
 					<line>
 						<migmaq>Mu pewalawt eptaqan?</migmaq>				
 						<english>You don't want a dish?</english>
-						<soundfile>2/3/69/03-MuPewalawtEptaqan_MoqwaMuPewalaqEptaqanPewalgSamqwanoq</soundfile>
+						<soundfile>MuPewalawtEptaqan_MoqwaMuPewalaqEptaqanPewalgSamqwanoq</soundfile>
 					</line>
 
 					<line>
@@ -4801,7 +4801,7 @@
 					<line>
 						<migmaq>Mg'sng pewaljig?</migmaq>				
 						<english>Do you want shoes?</english>
-						<soundfile>2/3/70/01-MgsngPewaljig_EePewalgigMgsng</soundfile>
+						<soundfile>MgsngPewaljig_EePewalgigMgsng</soundfile>
 					</line>
 
 					<line>
@@ -4816,7 +4816,7 @@
 					<line>
 						<migmaq>La'taqsung pewaljig?</migmaq>				
 						<english>Do you want buckets?</english>
-						<soundfile>2/3/70/02-LataqsungPewaljig_MoqwaMuPewalaqigLataqsung</soundfile>
+						<soundfile>LataqsungPewaljig_MoqwaMuPewalaqigLataqsung</soundfile>
 					</line>
 
 					<line>
@@ -4830,7 +4830,7 @@
 					<line>
 						<migmaq>Mu pewalawjig la'taqsung?</migmaq>				
 						<english>You don't want buckets?</english>
-						<soundfile>2/3/70/03-MuPewalawjigLataqsung_MoqwaMuPewalaqigLataqsungSamqwanoqPewalg</soundfile>
+						<soundfile>MuPewalawjigLataqsung_MoqwaMuPewalaqigLataqsungSamqwanoqPewalg</soundfile>
 					</line>
 
 					<line>
@@ -4849,7 +4849,7 @@
 					<line>
 						<migmaq>Tepaqan pewatmn?</migmaq>				
 						<english>Do you want a car?</english>
-						<soundfile>2/3/71/01-TepaqanPewatmn_EePewatmTepaqan</soundfile>
+						<soundfile>TepaqanPewatmn_EePewatmTepaqan</soundfile>
 					</line>
 
 					<line>
@@ -4863,7 +4863,7 @@
 					<line>
 						<migmaq>A'gusn pewatmn?</migmaq>				
 						<english>Do you want a hat?</english>
-						<soundfile>2/3/71/02-AgusnPewatmn_MoqwaMuPewatmuAgusn</soundfile>
+						<soundfile>AgusnPewatmn_MoqwaMuPewatmuAgusn</soundfile>
 					</line>
 
 					<line>
@@ -4877,7 +4877,7 @@
 					<line>
 						<migmaq>Mu pewatmu'n a'gusn?</migmaq>				
 						<english>You don't want a hat?</english>
-						<soundfile>2/3/71/03-MuPewatmunAgusn_MoqwaMuPewatmuAgusnMagotPewatm</soundfile>
+						<soundfile>MuPewatmunAgusn_MoqwaMuPewatmuAgusnMagotPewatm</soundfile>
 					</line>
 
 					<line>
@@ -4896,7 +4896,7 @@
 					<line>
 						<migmaq>Wasuegl pewatmnn?</migmaq>				
 						<english>Do you want flowers?</english>
-						<soundfile>2/3/72/01-WasueglPewatmnn_EePewatmannWasuegl</soundfile>
+						<soundfile>WasueglPewatmnn_EePewatmannWasuegl</soundfile>
 					</line>
 
 					<line>
@@ -4910,7 +4910,7 @@
 					<line>
 						<migmaq>A'su'nn pewatmnn?</migmaq>				
 						<english>Do you want blankets?</english>
-						<soundfile>2/3/72/02-AsunnPewatmnn_MoqwaMuPewatmuannAsunn</soundfile>
+						<soundfile>AsunnPewatmnn_MoqwaMuPewatmuannAsunn</soundfile>
 					</line>
 
 					<line>
@@ -4924,7 +4924,7 @@
 					<line>
 						<migmaq>Mu pewatmu'nn a'su'nn?</migmaq>				
 						<english>You don't want blankets?</english>
-						<soundfile>2/3/72/03-MuPewatmunnAsunn_MoqwaMuPewatmuannAsunnPewatmuannMagotl</soundfile>
+						<soundfile>MuPewatmunnAsunn_MoqwaMuPewatmuannAsunnPewatmuannMagotl</soundfile>
 					</line>
 
 					<line>
@@ -4943,7 +4943,7 @@
 					<line>
 						<migmaq>Goqwei geggunmn?</migmaq>				
 						<english>What do you have?</english>
-						<soundfile>2/3/73/01-GoqweiGeggunmn_GeggunmWasueg</soundfile>
+						<soundfile>GoqweiGeggunmn_GeggunmWasueg</soundfile>
 					</line>
 
 					<line>
@@ -4957,7 +4957,7 @@
 					<line>
 						<migmaq>Goqwei piluei geggunmn?</migmaq>				
 						<english>What else do you have?</english>
-						<soundfile>2/3/73/02-GoqweiPilueiGeggunmn_GeggungAtlai</soundfile>
+						<soundfile>GoqweiPilueiGeggunmn_GeggungAtlai</soundfile>
 					</line>
 
 					<line>
@@ -4976,7 +4976,7 @@
 					<line>
 						<migmaq>Pu'tai geggunt?</migmaq>				
 						<english>Do you have a bottle?</english>
-						<soundfile>2/3/74/01-PutaiGeggunt_EeGeggungPutai</soundfile>
+						<soundfile>PutaiGeggunt_EeGeggungPutai</soundfile>
 					</line>
 
 					<line>
@@ -4990,7 +4990,7 @@
 					<line>
 						<migmaq>Eptaqan geggunt?</migmaq>				
 						<english>Do you have a dish?</english>
-						<soundfile>2/3/74/02-EptaqanGeggunt_MoqwaMuGeggunaqEptaqan</soundfile>
+						<soundfile>EptaqanGeggunt_MoqwaMuGeggunaqEptaqan</soundfile>
 					</line>
 
 					<line>
@@ -5004,7 +5004,7 @@
 					<line>
 						<migmaq>Mu geggunawt eptaqan?</migmaq>				
 						<english>Don't you have a dish?</english>
-						<soundfile>2/3/74/03-MuGeggunawtEptaqan_MoqwaMuGeggunaqEptaqanGeggungSamqwanoq</soundfile>
+						<soundfile>MuGeggunawtEptaqan_MoqwaMuGeggunaqEptaqanGeggungSamqwanoq</soundfile>
 					</line>
 
 					<line>
@@ -5023,7 +5023,7 @@
 					<line>
 						<migmaq>Mg'sng geggunjig?</migmaq>				
 						<english>Do you have shoes?</english>
-						<soundfile>2/3/75/01-MgsngGeggunjig_EeGeggungigMgsng</soundfile>
+						<soundfile>MgsngGeggunjig_EeGeggungigMgsng</soundfile>
 					</line>
 
 					<line>
@@ -5037,7 +5037,7 @@
 					<line>
 						<migmaq>La'taqsung geggunjig?</migmaq>				
 						<english>Do you have buckets?</english>
-						<soundfile>2/3/75/02-LataqsungGeggunjig_MoqwaMuGeggunaqigLataqsung</soundfile>
+						<soundfile>LataqsungGeggunjig_MoqwaMuGeggunaqigLataqsung</soundfile>
 					</line>
 
 					<line>
@@ -5051,7 +5051,7 @@
 					<line>
 						<migmaq>Mu geggunawjig la'taqsung?</migmaq>				
 						<english>You don't have buckets?</english>
-						<soundfile>2/3/75/03-MuGeggunawjigLataqsung_MoqwaMuGeggunaqigLataqsungGeggungSamqwanoq</soundfile>
+						<soundfile>MuGeggunawjigLataqsung_MoqwaMuGeggunaqigLataqsungGeggungSamqwanoq</soundfile>
 					</line>
 
 					<line>
@@ -5070,7 +5070,7 @@
 					<line>
 						<migmaq>Tepaqan geggunmn?</migmaq>				
 						<english>Do you have a car?</english>
-						<soundfile>2/3/76/01-TepaqanGeggunmn_EeGeggunmTepaqan</soundfile>
+						<soundfile>TepaqanGeggunmn_EeGeggunmTepaqan</soundfile>
 					</line>
 
 					<line>
@@ -5084,7 +5084,7 @@
 					<line>
 						<migmaq>A'gusn geggunmn?</migmaq>				
 						<english>Do you have a hat?</english>
-						<soundfile>2/3/76/02-AgusnGeggunmn_MoqwaMuGeggunmuAgusn</soundfile>
+						<soundfile>AgusnGeggunmn_MoqwaMuGeggunmuAgusn</soundfile>
 					</line>
 
 					<line>
@@ -5098,7 +5098,7 @@
 					<line>
 						<migmaq>Mu geggunmu'n a'gusn?</migmaq>				
 						<english>You don't have a hat?</english>
-						<soundfile>2/3/76/03-MuGeggunmunAgusn_MoqwaMuGeggunmuAgusnGeggunmMagot</soundfile>
+						<soundfile>MuGeggunmunAgusn_MoqwaMuGeggunmuAgusnGeggunmMagot</soundfile>
 					</line>
 
 					<line>
@@ -5117,7 +5117,7 @@
 					<line>
 						<migmaq>Wasuegl geggunmnn?</migmaq>				
 						<english>Do you have flowers?</english>
-						<soundfile>2/3/77/01-WasueglGeggunmnn_EeGeggunmannWasuegl</soundfile>
+						<soundfile>WasueglGeggunmnn_EeGeggunmannWasuegl</soundfile>
 					</line>
 
 					<line>
@@ -5131,7 +5131,7 @@
 					<line>
 						<migmaq>A'su'nn geggunmnn?</migmaq>				
 						<english>Do you have blankets?</english>
-						<soundfile>2/3/77/02-AsunnGeggunmnn_MoqwaMuGeggunmuannAsunn</soundfile>
+						<soundfile>AsunnGeggunmnn_MoqwaMuGeggunmuannAsunn</soundfile>
 					</line>
 
 					<line>
@@ -5146,7 +5146,7 @@
 					<line>
 						<migmaq>Mu geggunmu'nn a'su'nn?</migmaq>				
 						<english>You don't have blankets?</english>
-						<soundfile>2/3/77/03-MuGeggunmunnAsunn_MoqwaMuGeggunmuannAsunnGeggunmannMagotl</soundfile>
+						<soundfile>MuGeggunmunnAsunn_MoqwaMuGeggunmuannAsunnGeggunmannMagotl</soundfile>
 					</line>
 
 					<line>
@@ -5264,7 +5264,7 @@
 				<line>
 					<migmaq>Te'si-gisg'g, tugwiei.</migmaq>				
 					<english>Every morning, I wake up.</english>
-					<soundfile>3/1/80/01-Tesigisgg1</soundfile>
+					<soundfile>Tesigisgg1</soundfile>
 				</line>
 
 				<line>
@@ -5434,7 +5434,7 @@
 				<line>
 					<migmaq>-A', te'si-gisg'g, tugwien.</migmaq>				
 					<english>Ah, every morning, you wake up.</english>
-					<soundfile>3/1/80/01-Tesigisgg2</soundfile>
+					<soundfile>Tesigisgg2</soundfile>
 				</line>
 
 				<line>
@@ -5610,199 +5610,199 @@
 				<line>
 					<migmaq>nun'ji</migmaq>				
 					<english>my head</english>
-					<soundfile>3/2/80/01-Nunji</soundfile>
+					<soundfile>Nunji</soundfile>
 				</line>
 
 				<line>
 					<migmaq>nusapun...nusapunn</migmaq>				
 					<english>my (single) hair...my hair(s)</english>
-					<soundfile>3/2/80/02-Nusapun_Nusapunn</soundfile>
+					<soundfile>Nusapun_Nusapunn</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'ns'tuaqan...'ns'tuaqann-</migmaq>				
 					<english>my ear...my ears</english>
-					<soundfile>3/2/80/03-Nstuaqan_Nstuaqann</soundfile>
+					<soundfile>Nstuaqan_Nstuaqann</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'npugug...'npugugl</migmaq>				
 					<english>my eye...my eyes</english>
-					<soundfile>3/2/80/04-Npugug_Npugugl</soundfile>
+					<soundfile>Npugug_Npugugl</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'nsisqon</migmaq>				
 					<english>my nose</english>
-					<soundfile>3/2/80/05-Nsisqon</soundfile>
+					<soundfile>Nsisqon</soundfile>
 				</line>
 
 				<line>
 					<migmaq>nitn...nitnn</migmaq>				
 					<english>my nostril...my nostrils</english>
-					<soundfile>3/2/80/06-Nitn_Nitnn</soundfile>
+					<soundfile>Nitn_Nitnn</soundfile>
 				</line>
 
 				<line>
 					<migmaq>ntun</migmaq>				
 					<english>my mouth</english>
-					<soundfile>3/2/80/07-Ntun</soundfile>
+					<soundfile>Ntun</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'nsi...'nsi'l</migmaq>				
 					<english>my lip...my lips</english>
-					<soundfile>3/2/80/08-Nsi_Nsil</soundfile>
+					<soundfile>Nsi_Nsil</soundfile>
 				</line>
 
 				<line>
 					<migmaq>nipit...nipitl</migmaq>				
 					<english>my tooth...my teeth</english>
-					<soundfile>3/2/80/09-Nipit_Nipitl</soundfile>
+					<soundfile>Nipit_Nipitl</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'ntugwejan</migmaq>				
 					<english>my forehead</english>
-					<soundfile>3/2/80/10-Ntugwejan</soundfile>
+					<soundfile>Ntugwejan</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'ntugwape'gn</migmaq>				
 					<english>my chin</english>
-					<soundfile>3/2/80/11-Ntugwapegn</soundfile>
+					<soundfile>Ntugwapegn</soundfile>
 				</line>
 
 				<line>
 					<migmaq>nijinuan...nijinuann</migmaq>				
 					<english>my cheek...my cheeks</english>
-					<soundfile>3/2/80/12-Nijinuan_Nijinuann</soundfile>
+					<soundfile>Nijinuan_Nijinuann</soundfile>
 				</line>
 				<linetimsig>[@0:42-0: 43.5]</linetimsig>
 				<line>
 					<migmaq>'nsisgw</migmaq>				
 					<english>my face</english>
-					<soundfile>3/2/80/13-Nsisgw</soundfile>
+					<soundfile>Nsisgw</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'nqotaqan</migmaq>				
 					<english>my throat</english>
-					<soundfile>3/2/80/14-Nqotaqan</soundfile>
+					<soundfile>Nqotaqan</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'nji'taqan</migmaq>				
 					<english>my neck</english>
-					<soundfile>3/2/80/15-Njitaqan</soundfile>
+					<soundfile>Njitaqan</soundfile>
 				</line>
 				<linetimsig>[@1:00.5-1:05]</linetimsig>
 				<line>
 					<migmaq>'ntlmaqan...ntlmaqann</migmaq>				
 					<english>my shoulder...my shoulders</english>
-					<soundfile>3/2/80/16-Ntlmaqan_Ntlmaqann</soundfile>
+					<soundfile>Ntlmaqan_Ntlmaqann</soundfile>
 				</line>
 				<linetimsig>[@1:08-1:11.5]</linetimsig>
 				<line>
 					<migmaq>'npitnoqom...npitnoqoml</migmaq>				
 					<english>my arm...my arms</english>
-					<soundfile>3/2/80/17-Npitnoqom_Npitnoqoml</soundfile>
+					<soundfile>Npitnoqom_Npitnoqoml</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'ntlusgnignm...'ntlusgnignmg</migmaq>				
 					<english>my elbow...my elbows</english>
-					<soundfile>3/2/80/18-Ntlusgnignm_Ntlusgnignmg</soundfile>
+					<soundfile>Ntlusgnignm_Ntlusgnignmg</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'npitn...'npitnn</migmaq>				
 					<english>my hand...my hands</english>
-					<soundfile>3/2/80/19-Npitn_Npitnn</soundfile>
+					<soundfile>Npitn_Npitnn</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'ntijin...ntijinn</migmaq>				
 					<english>my thumb...my thumbs</english>
-					<soundfile>3/2/80/20-Ntijin_Ntijinn</soundfile>
+					<soundfile>Ntijin_Ntijinn</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'npusgun</migmaq>				
 					<english>my chest</english>
-					<soundfile>3/2/80/21-Npusgun</soundfile>
+					<soundfile>Npusgun</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'npaqam</migmaq>				
 					<english>my back</english>
-					<soundfile>3/2/80/22-Npaqam</soundfile>
+					<soundfile>Npaqam</soundfile>
 				</line>
 
 				<line>
 					<migmaq>nmusti</migmaq>				
 					<english>my belly</english>
-					<soundfile>3/2/80/23-Nmusti</soundfile>
+					<soundfile>Nmusti</soundfile>
 				</line>
 
 				<line>
 					<migmaq>nili</migmaq>				
 					<english>my bellybutton</english>
-					<soundfile>3/2/80/24-Nili</soundfile>
+					<soundfile>Nili</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'ngat...'ngatl</migmaq>				
 					<english>my foot/leg...my feet/legs</english>
-					<soundfile>3/2/80/25-Ngat_Ngatl</soundfile>
+					<soundfile>Ngat_Ngatl</soundfile>
 				</line>
 
 				<line>
 					<migmaq>nulugun...nulugunn</migmaq>				
 					<english>					my thigh...my thighs				</english>
-					<soundfile>3/2/80/26-Nulugun_Nulugunn</soundfile>
+					<soundfile>Nulugun_Nulugunn</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'njigun...'njigung</migmaq>				
 					<english>my knee...my knees</english>
-					<soundfile>3/2/80/27-Njigun_Njigung</soundfile>
+					<soundfile>Njigun_Njigung</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'ngajign...'ngajignn</migmaq>				
 					<english>my lower leg...my l ower legs</english>
-					<soundfile>3/2/80/28-Ngajign_Ngajignn</soundfile>
+					<soundfile>Ngajign_Ngajignn</soundfile>
 				</line>
 				<note>still missing 'calf'</note>
 				<line>
 					<migmaq>'nqon...nqong</migmaq>				
 					<english>my heel...my heels</english>
-					<soundfile>3/2/80/29-Nqon_Nqong</soundfile>
+					<soundfile>Nqon_Nqong</soundfile>
 				</line>
 				<note>				still missing 'ankle'			</note>
 				<line>
 					<migmaq>nmaqaqjigeweim...nmaqaqjigeweiml</migmaq>					
 					<english>my big toe...my big toes</english>
-					<soundfile>3/2/80/30-Nmaqaqjigeweim_Nmaqaqjigeweiml</soundfile>
+					<soundfile>Nmaqaqjigeweim_Nmaqaqjigeweiml</soundfile>
 				</line>
 
 				<line>
 					<migmaq>'ngamlamun</migmaq>					
 					<english>my heart</english>
-					<soundfile>3/2/80/31-Ngamlamun</soundfile>
+					<soundfile>Ngamlamun</soundfile>
 				</line>
 				<linetimsig>[@2:09-2:14]</linetimsig>
 				<line>
 					<migmaq>'npn...npng</migmaq>					
 					<english>my lung...my lungs</english>
-					<soundfile>3/2/80/32-Npn_Npng</soundfile>
+					<soundfile>Npn_Npng</soundfile>
 				</line>
 
 				<line>
 					<migmaq>nligsi...nligsi'l</migmaq>					
 					<english>my gut...my guts</english>
-					<soundfile>3/2/80/33-Nligsi_Nligsil</soundfile>
+					<soundfile>Nligsi_Nligsil</soundfile>
 				</line>
 			</vocab>
 		</lesson>
@@ -5814,37 +5814,37 @@
 				<line>
 					<migmaq>Gesnuguit 'nqotaqan.</migmaq>				
 					<english>My throat hurts.</english>
-					<soundfile>3/2/81/01-GesnuguitNqotaqan</soundfile>
+					<soundfile>GesnuguitNqotaqan</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguit 'ntlusgnignm.</migmaq>				
 					<english>My elbow hurts.</english>
-					<soundfile>3/2/81/02-GesnuguitNtlusgnignm</soundfile>
+					<soundfile>GesnuguitNtlusgnignm</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguit 'njigun.</migmaq>				
 					<english>My knee hurts.</english>
-					<soundfile>3/2/81/03-GesnuguitNjigun</soundfile>
+					<soundfile>GesnuguitNjigun</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguit 'nqon.</migmaq>				
 					<english>My heel hurts.</english>
-					<soundfile>3/2/81/04-GesnuguitNqon</soundfile>
+					<soundfile>GesnuguitNqon</soundfile>
 				</line>
 				<linetimsig>[@0:32-0:34]</linetimsig>
 				<line>
 					<migmaq>Gesnuguit 'npn.</migmaq>				
 					<english>My lung hurts.</english>
-					<soundfile>3/2/81/05-GesnuguitNpn</soundfile>
+					<soundfile>GesnuguitNpn</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguit 'nji'taqan.</migmaq>				
 					<english>My neck hurts.</english>
-					<soundfile>3/2/81/06-GesnuguitNjitaqan</soundfile>
+					<soundfile>GesnuguitNjitaqan</soundfile>
 				</line>
 			</vocab>
 		</lesson>
@@ -5856,25 +5856,25 @@
 				<line>
 					<migmaq>Gesnuguijig 'ntlusgnignmg.</migmaq>				
 					<english>My elbows hurt.</english>
-					<soundfile>3/2/82/01-GesnuguijigNtlusgnignmg</soundfile>
+					<soundfile>GesnuguijigNtlusgnignmg</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguijig 'njigung.</migmaq>				
 					<english>My knees hurt.</english>
-					<soundfile>3/2/82/02-GesnuguijigNjigung</soundfile>
+					<soundfile>GesnuguijigNjigung</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguijig 'nqong.</migmaq>				
 					<english>My heels hurt.</english>
-					<soundfile>3/2/82/03-GesnuguijigNqong</soundfile>
+					<soundfile>GesnuguijigNqong</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguijig 'npng.</migmaq>				
 					<english>My lungs hurt.</english>
-					<soundfile>3/2/82/04-GesnuguijigNpng</soundfile>
+					<soundfile>GesnuguijigNpng</soundfile>
 				</line>
 			</vocab>
 		</lesson>
@@ -5886,139 +5886,139 @@
 				<line>
 					<migmaq>Gesnuguig nun'ji.</migmaq>				
 					<english>My head hurts.</english>
-					<soundfile>3/2/83/01-GesnuguigNunji</soundfile>
+					<soundfile>GesnuguigNunji</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig 'ns'tuaqan.</migmaq>				
 					<english>My ear hurts.</english>
-					<soundfile>3/2/83/02-GesnuguigNstuaqan</soundfile>
+					<soundfile>GesnuguigNstuaqan</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig 'npugug.</migmaq>				
 					<english>My eye hurts.</english>
-					<soundfile>3/2/83/03-GesnuguigNpugug</soundfile>
+					<soundfile>GesnuguigNpugug</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig 'nsisqon.</migmaq>				
 					<english>My nose hurts.</english>
-					<soundfile>3/2/83/04-GesnuguigNsisqon</soundfile>
+					<soundfile>GesnuguigNsisqon</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig 'ntun.</migmaq>				
 					<english>My mouth hurts.</english>
-					<soundfile>3/2/83/05-GesnuguigNtun</soundfile>
+					<soundfile>GesnuguigNtun</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig 'nsi.</migmaq>				
 					<english>My lip hurts.</english>
-					<soundfile>3/2/83/06-GesnuguigNsi</soundfile>
+					<soundfile>GesnuguigNsi</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig nipit.</migmaq>				
 					<english>My tooth hurts.</english>
-					<soundfile>3/2/83/07-GesnuguigNipit</soundfile>
+					<soundfile>GesnuguigNipit</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig 'ntugwape'gn.</migmaq>				
 					<english>My jaw hurts.</english>
-					<soundfile>3/2/83/08-GesnuguigNtugwapegn</soundfile>
+					<soundfile>GesnuguigNtugwapegn</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig 'nijinuan.</migmaq>				
 					<english>My cheek hurts.</english>
-					<soundfile>3/2/83/09-GesnuguigNijinuan</soundfile>
+					<soundfile>GesnuguigNijinuan</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig 'nsisgw.</migmaq>				
 					<english>My face hurts.</english>
-					<soundfile>3/2/83/10-GesnuguigNsisgw</soundfile>
+					<soundfile>GesnuguigNsisgw</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig 'ntlmaqan.</migmaq>				
 					<english>My shoulder hurts.</english>
-					<soundfile>3/2/83/11-GesnuguigNtlmaqan</soundfile>
+					<soundfile>GesnuguigNtlmaqan</soundfile>
 				</line>
 				<linetimsig>[@1:43-1:45.5]</linetimsig>
 				<line>
 					<migmaq>Gesnuguig 'npitnoqom.</migmaq>				
 					<english>My arm hurts.</english>
-					<soundfile>3/2/83/12-GesnuguigNpitnoqom</soundfile>
+					<soundfile>GesnuguigNpitnoqom</soundfile>
 				</line>
 				<linetimsig>[@1:51.5-1:53, @1:54.5-1:56.5]</linetimsig>
 				<line>
 					<migmaq>Gesnuguig 'npitn.</migmaq>				
 					<english>My hand hurts.</english>
-					<soundfile>3/2/83/13-GesnuguigNpitn</soundfile>
+					<soundfile>GesnuguigNpitn</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig 'ntijin.</migmaq>				
 					<english>My thumb hurts.</english>
-					<soundfile>3/2/83/14-GesnuguigNtijin</soundfile>
+					<soundfile>GesnuguigNtijin</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig 'npusgun.</migmaq>				
 					<english>My chest hurts.</english>
-					<soundfile>3/2/83/15-GesnuguigNpusgun</soundfile>
+					<soundfile>GesnuguigNpusgun</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig 'npaqam.</migmaq>				
 					<english>My back hurts.</english>
-					<soundfile>3/2/83/16-GesnuguigNpaqam</soundfile>
+					<soundfile>GesnuguigNpaqam</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig nmusti.</migmaq>				
 					<english>My belly hurts.</english>
-					<soundfile>3/2/83/17-GesnuguigNmusti</soundfile>
+					<soundfile>GesnuguigNmusti</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig nili.</migmaq>				
 					<english>My bellybutton hurts.</english>
-					<soundfile>3/2/83/18-GesnuguigNili</soundfile>
+					<soundfile>GesnuguigNili</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig 'ngat.</migmaq>				
 					<english>My leg/foot hurts.</english>
-					<soundfile>3/2/83/19-GesnuguigNgat</soundfile>
+					<soundfile>GesnuguigNgat</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig nulugun.</migmaq>				
 					<english>My thigh hurts.</english>
-					<soundfile>3/2/83/20-GesnuguigNulugun</soundfile>
+					<soundfile>GesnuguigNulugun</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig 'ngajign.</migmaq>				
 					<english>My lower leg hurts.</english>
-					<soundfile>3/2/83/21-GesnuguigNgajign</soundfile>
+					<soundfile>GesnuguigNgajign</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguig nmaqaqjigeweim.</migmaq>				
 					<english>My big toe hurts.</english>
-					<soundfile>3/2/83/22-GesnuguigNmaqaqjigeweim</soundfile>
+					<soundfile>GesnuguigNmaqaqjigeweim</soundfile>
 				</line>
 				<linetimsig>[@2:39-2:41.5]</linetimsig>
 				<line>
 					<migmaq>Gesnuguig 'ngamlamun.</migmaq>				
 					<english>My heart hurts.</english>
-					<soundfile>3/2/83/23-GesnuguigNgamlamun</soundfile>
+					<soundfile>GesnuguigNgamlamun</soundfile>
 				</line>
 			</vocab>
 		</lesson>
@@ -6030,73 +6030,73 @@
 				<line>
 					<migmaq>Gesnuguigl 'ns'tuaqann.</migmaq>				
 					<english>My ears hurt.</english>
-					<soundfile>3/2/84/01-GesnuguiglNstuaqann</soundfile>
+					<soundfile>GesnuguiglNstuaqann</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguigl 'npugugl.</migmaq>				
 					<english>My eyes hurt.</english>
-					<soundfile>3/2/84/02-GesnuguiglNpugugl</soundfile>
+					<soundfile>GesnuguiglNpugugl</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguigl 'nsi'l.</migmaq>				
 					<english>My lips hurt.</english>
-					<soundfile>3/2/84/03-GesnuguiglNsil</soundfile>
+					<soundfile>GesnuguiglNsil</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguigl nipitl.</migmaq>				
 					<english>My teeth hurt.</english>
-					<soundfile>3/2/84/04-GesnuguiglNipitl</soundfile>
+					<soundfile>GesnuguiglNipitl</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguigl 'ntlmaqann.</migmaq>				
 					<english>My shoulders hurt.</english>
-					<soundfile>3/2/84/05-GesnuguiglNtlmaqann</soundfile>
+					<soundfile>GesnuguiglNtlmaqann</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguigl npitnoqoml.</migmaq>				
 					<english>My arms hurt.</english>
-					<soundfile>3/2/84/06-GesnuguiglNpitnoqoml</soundfile>
+					<soundfile>GesnuguiglNpitnoqoml</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguigl npitnn.</migmaq>				
 					<english>My hands hurt.</english>
-					<soundfile>3/2/84/07-GesnuguiglNpitnn</soundfile>
+					<soundfile>GesnuguiglNpitnn</soundfile>
 				</line>
 				<linetimsig>[@3:21-3:23.5]</linetimsig>
 				<line>
 					<migmaq>Gesnuguigl ntijinn.</migmaq>				
 					<english>My thumbs hurt.</english>
-					<soundfile>3/2/84/08-GesnuguiglNtijinn</soundfile>
+					<soundfile>GesnuguiglNtijinn</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguigl 'ngatl.</migmaq>				
 					<english>My legs/feet hurt.</english>
-					<soundfile>3/2/84/09-GesnuguiglNgatl</soundfile>
+					<soundfile>GesnuguiglNgatl</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguigl nulugunn.</migmaq>				
 					<english>My thighs hurt.</english>
-					<soundfile>3/2/84/10-GesnuguiglNulugunn</soundfile>
+					<soundfile>GesnuguiglNulugunn</soundfile>
 				</line>
 				<linetimsig>[@3:40.5-3:43.5]</linetimsig>
 				<line>
 					<migmaq>Gesnuguig 'ngajignn.</migmaq>				
 					<english>My lower legs hurt.</english>
-					<soundfile>3/2/84/11-GesnuguigNgajignn</soundfile>
+					<soundfile>GesnuguigNgajignn</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Gesnuguigl nligsi'l.</migmaq>				
 					<english>My guts hurt.</english>
-					<soundfile>3/2/84/12-GesnuguiglNligsil</soundfile>
+					<soundfile>GesnuguiglNligsil</soundfile>
 				</line>
 			</vocab>
 		</lesson>
@@ -6113,12 +6113,12 @@
 				<line>
 					<migmaq>n-ujj</migmaq>
 					<english>my father</english>
-					<soundfile>3/2/85/01-Nujj</soundfile>
+					<soundfile>Nujj</soundfile>
 				</line>
 				<line>
 					<migmaq>g-ujj</migmaq>
 					<english>your father</english>
-					<soundfile>3/2/85/02-Gujj</soundfile>
+					<soundfile>Gujj</soundfile>
 				</line>
 
 				<expltext>Or:</expltext>
@@ -6126,12 +6126,12 @@
 				<line>
 					<migmaq>n-ipitl</migmaq>
 					<english>my teeth</english>
-					<soundfile>3/2/85/03-Nipitl</soundfile>
+					<soundfile>Nipitl</soundfile>
 				</line>
 				<line>
 					<migmaq>g-ipitl</migmaq>
 					<english>your teeth</english>
-					<soundfile>3/2/85/04-Gipitl</soundfile>
+					<soundfile>Gipitl</soundfile>
 				</line>
 
 				<expltext>For most words that start in a vowel, though, a /-t-/ sound comes in to link everything together:</expltext>
@@ -6139,17 +6139,17 @@
 				<line>
 					<migmaq>a'su'n</migmaq>
 					<english>blanket</english>
-					<soundfile>3/2/85/05-Asun</soundfile>
+					<soundfile>Asun</soundfile>
 				</line>
 				<line>
 					<migmaq>'nT-a'su'nm</migmaq>
 					<english>my blanket</english>
-					<soundfile>3/2/85/06-Ntasunm</soundfile>
+					<soundfile>Ntasunm</soundfile>
 				</line>
 				<line>
 					<migmaq>'gT-a'su'nm</migmaq>
 					<english>my blanket</english>
-					<soundfile>3/2/85/07-Gtasunm</soundfile>
+					<soundfile>Gtasunm</soundfile>
 				</line>
 
 				<expltext>Only a few words that are either parts of the body (like your teeth) or parts of your family (like your father) do not need this /-t-/ added in before a vowel.  A word starting in consonants just adds the n- and g- right before it, nothing else.  But you will notice that when the combination of n- or g- with the following consonant needs some help to make it pronounceable, a /'/ sound comes in to make it easier to say. So for example, we have:</expltext>
@@ -6157,22 +6157,22 @@
 				<line>
 					<migmaq>'n-gij</migmaq>
 					<english>my mother</english>
-					<soundfile>3/2/85/08-Ngij</soundfile>
+					<soundfile>Ngij</soundfile>
 				</line>
 				<line>
 					<migmaq>'g-gij</migmaq>
 					<english>your mother</english>
-					<soundfile>3/2/85/09-Ggij</soundfile>
+					<soundfile>Ggij</soundfile>
 				</line>
 				<line>
 					<migmaq>'n-sis</migmaq>
 					<english>my older brother</english>
-					<soundfile>3/2/85/10-Nsis</soundfile>
+					<soundfile>Nsis</soundfile>
 				</line>
 				<line>
 					<migmaq>'g-sis</migmaq>
 					<english>your older brother</english>
-					<soundfile>3/2/85/11-Gsis</soundfile>
+					<soundfile>Gsis</soundfile>
 				</line>
 
 				<expltext>When this happens, you'll notice that the 'n- sound in particular sounds sort of "stopped", almost like "nt" at the end of a word in English.</expltext>
@@ -6192,17 +6192,17 @@
 				<line>
 					<migmaq>a'su'n</migmaq>
 					<english>blanket</english>
-					<soundfile>3/2/86/01-Asun</soundfile>
+					<soundfile>Asun</soundfile>
 				</line>
 				<line>
 					<migmaq>'nt-a'su'nM</migmaq>
 					<english>my blanket</english>
-					<soundfile>3/2/86/02-Ntasunm</soundfile>
+					<soundfile>Ntasunm</soundfile>
 				</line>
 				<line>
 					<migmaq>'gt-a'su'nM</migmaq>
 					<english>your blanket</english>
-					<soundfile>3/2/86/03-Gtasunm</soundfile>
+					<soundfile>Gtasunm</soundfile>
 				</line>
 
 				<expltext>There is a simple reason for this, which goes back to how precise the Mi'gmaq language tends to be about different kinds of relations. Words for parts of the body (like your teeth) or parts of your family (like your father) are naturally related to you. But most other things in the world are not. Mi'gmaq allows you to set up any old word as related to you (or me, etc.) by adding -m to it. From there, you can then just add on the n- or g- and so forth as usual. This is not a 100% rule. A few body parts and family members actually do use -m, and a few things that aren't actually don't use the -m. But by and large, when in doubt, if you use the -m, you will be correct, and at worst, just a little over-correct, and fluent speakers will easily set you straight.</expltext>
@@ -6222,7 +6222,7 @@
 				<line>
 					<migmaq>w-ipitl</migmaq>
 					<english>his/her teeth</english>
-					<soundfile>3/2/87/01-Wipitl</soundfile>
+					<soundfile>Wipitl</soundfile>
 				</line>
 
 				<expltext>However, if the w- comes before a consonant, it is pronounced (and spelled) ug-:</expltext>
@@ -6230,17 +6230,17 @@
 				<line>
 					<migmaq>'n-paqam</migmaq>
 					<english>my back</english>
-					<soundfile>3/2/87/02-Npaqam</soundfile>
+					<soundfile>Npaqam</soundfile>
 				</line>
 				<line>
 					<migmaq>'g-paqam</migmaq>
 					<english>your back</english>
-					<soundfile>3/2/87/03-Gpaqam</soundfile>
+					<soundfile>Gpaqam</soundfile>
 				</line>
 				<line>
 					<migmaq>ug-paqam</migmaq>
 					<english>his/her back</english>
-					<soundfile>3/2/87/04-Ugpaqam</soundfile>
+					<soundfile>Ugpaqam</soundfile>
 				</line>
 
 				<expltext>Try saying "wpaqam" (especially with that noticeable "stopped" sound) and you'll see how "ugpaqam" is a much easier and more natural way to get the sound across.</expltext>
@@ -6260,17 +6260,17 @@
 				<line>
 					<migmaq>n-ujj</migmaq>
 					<english>my father</english>
-					<soundfile>3/2/88/01-Nujj</soundfile>
+					<soundfile>Nujj</soundfile>
 				</line>
 				<line>
 					<migmaq>g-ujj</migmaq>
 					<english>your father</english>
-					<soundfile>3/2/88/02-Gujj</soundfile>
+					<soundfile>Gujj</soundfile>
 				</line>
 				<line>
 					<migmaq>( )-ujjl</migmaq>
 					<english>his/her father</english>
-					<soundfile>3/2/88/03-Ujjl</soundfile>
+					<soundfile>Ujjl</soundfile>
 				</line>
 
 				<expltext>Second is, as you may have noticed, this -l on the end. It sounds exactly the same as how you show more than one of most things (Things), but because it's used on people (People), it has a completely different meaning. Remember that Mi'gmaq is a language that cares a lot about relationships. When you hear the -l on the end of a word naming a person, it tells us two things.</expltext>
@@ -6290,17 +6290,17 @@
 				<line>
 					<migmaq>'n-gij</migmaq>
 					<english>my mother</english>
-					<soundfile>3/2/88/04-Ngij</soundfile>
+					<soundfile>Ngij</soundfile>
 				</line>
 				<line>
 					<migmaq>'g-gij</migmaq>
 					<english>your mother</english>
-					<soundfile>3/2/88/05-Ggij</soundfile>
+					<soundfile>Ggij</soundfile>
 				</line>
 				<line>
 					<migmaq>ug-gwij-l</migmaq>
 					<english>his/her mother</english>
-					<soundfile>3/2/88/06-Uggwijl</soundfile>
+					<soundfile>Uggwijl</soundfile>
 				</line>
 
 				<expltext>Notice the above: the w- can sometimes change /g/ to /gw/.</expltext>
@@ -6308,47 +6308,47 @@
 				<line>
 					<migmaq>'n-tus</migmaq>
 					<english>my daughter</english>
-					<soundfile>3/2/88/07-Ntus</soundfile>
+					<soundfile>Ntus</soundfile>
 				</line>
 				<line>
 					<migmaq>'g-tus</migmaq>
 					<english>your daughter</english>
-					<soundfile>3/2/88/08-Gtus</soundfile>
+					<soundfile>Gtus</soundfile>
 				</line>
 				<line>
 					<migmaq>ug-tus-l</migmaq>
 					<english>his/her daughter</english>
-					<soundfile>3/2/88/09-Ugtusl</soundfile>
+					<soundfile>Ugtusl</soundfile>
 				</line>
 				<line>
 					<migmaq>n-ujj</migmaq>
 					<english>my father</english>
-					<soundfile>3/2/88/10-Nujj</soundfile>
+					<soundfile>Nujj</soundfile>
 				</line>
 				<line>
 					<migmaq>g-ujj</migmaq>
 					<english>your father</english>
-					<soundfile>3/2/88/11-Gujj</soundfile>
+					<soundfile>Gujj</soundfile>
 				</line>
 				<line>
 					<migmaq>( )-ujj-l</migmaq>
 					<english>his/her father</english>
-					<soundfile>3/2/88/12-Ujjl</soundfile>
+					<soundfile>Ujjl</soundfile>
 				</line>
 				<line>
 					<migmaq>'n-gwis</migmaq>
 					<english>my son</english>
-					<soundfile>3/2/88/13-Ngwis</soundfile>
+					<soundfile>Ngwis</soundfile>
 				</line>
 				<line>
 					<migmaq>'g-gwis</migmaq>
 					<english>your son</english>
-					<soundfile>3/2/88/14-Ggwis</soundfile>
+					<soundfile>Ggwis</soundfile>
 				</line>
 				<line>
 					<migmaq>ug-gwis-l</migmaq>
 					<english>his/her son</english>
-					<soundfile>3/2/88/15-Uggwisl</soundfile>
+					<soundfile>Uggwisl</soundfile>
 				</line>
 			</vocab>
 		</lesson>
@@ -6362,7 +6362,7 @@
 				<line>
 					<migmaq>Tami eimn?</migmaq>				
 					<english>Where are you?</english>
-					<soundfile>3/3/89/01-TamiEimn_GujmugGujmugEim_ANinLamuguomgEim</soundfile>
+					<soundfile>TamiEimn_GujmugGujmugEim_ANinLamuguomgEim</soundfile>
 				</line>
 
 				<line>
@@ -6384,7 +6384,7 @@
 				<line>
 					<migmaq>Tami eimn?</migmaq>				
 					<english>Where are you?</english>
-					<soundfile>3/3/89/02-TamiEimn_GujmugGujmugEim_ANinLamuguomgEim_EeGilGujmugMuEimunAqNinMuEimuLamuguomg</soundfile>
+					<soundfile>TamiEimn_GujmugGujmugEim_ANinLamuguomgEim_EeGilGujmugMuEimunAqNinMuEimuLamuguomg</soundfile>
 				</line>
 
 				<line>
@@ -6417,7 +6417,7 @@
 				<line>
 					<migmaq>Tam' eig 'ggij?</migmaq>				
 					<english>Where's your mom?</english>
-					<soundfile>3/3/90_TamEig_1/01-TamEigGgij_Aseg_Aseg_EeAsegEig</soundfile>
+					<soundfile>TamEigGgij_Aseg_Aseg_EeAsegEig</soundfile>
 				</line>
 
 				<line>
@@ -6450,7 +6450,7 @@
 				<line>
 					<migmaq>Tam' eig 'nmu'j?</migmaq>				
 					<english>Where's the dog?</english>
-					<soundfile>3/3/91_TamEig_2/01-TamEigNmuj_GegwegNepat</soundfile>
+					<soundfile>TamEigNmuj_GegwegNepat</soundfile>
 				</line>
 
 				<line>
@@ -6464,7 +6464,7 @@
 				<line>
 					<migmaq>Tam' eig nujj?</migmaq>				
 					<english>Where's my dad?</english>
-					<soundfile>3/3/91_TamEig_2/02-TamEigNujj_EpunegNepat</soundfile>
+					<soundfile>TamEigNujj_EpunegNepat</soundfile>
 				</line>
 
 				<line>
@@ -6478,7 +6478,7 @@
 				<line>
 					<migmaq>Tam' eig gajuewj?</migmaq>				
 					<english>Where's the cat?</english>
-					<soundfile>3/3/91_TamEig_2/03-TamEigGajuewj_MutputigtugNepat</soundfile>
+					<soundfile>TamEigGajuewj_MutputigtugNepat</soundfile>
 				</line>
 
 				<line>
@@ -6497,7 +6497,7 @@
 				<line>
 					<migmaq>'Ggij eig?</migmaq>				
 					<english>Is your mom here/present?</english>
-					<soundfile>3/3/92/01-GgijEig_MoqwaMuEimugGujmugEig_LamuguomgEig_MoqwaGujmugEig</soundfile>
+					<soundfile>GgijEig_MoqwaMuEimugGujmugEig_LamuguomgEig_MoqwaGujmugEig</soundfile>
 				</line>
 
 				<line>
@@ -6530,25 +6530,25 @@
 				<line>
 					<migmaq>Ge' lapa'si! Ala' ji'nm gaqamit awtigtug.</migmaq>				
 					<english>Look over there! Over there there's a man standing in the					road.</english>
-					<soundfile>3/3/93_Positionals_1/01-GeLapasiAlaJinmGaqamitAwtigtug</soundfile>
+					<soundfile>GeLapasiAlaJinmGaqamitAwtigtug</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Ge' lapa'si! Ala' gajuewj pemgopit miti'sigtug.</migmaq>				
 					<english>Look over there! Over there there's a cat sitting(!!!?) in					a tree.</english>
-					<soundfile>3/3/93_Positionals_1/02-GeLapasiAlaGajuewjPemgopitMitisigtug</soundfile>
+					<soundfile>GeLapasiAlaGajuewjPemgopitMitisigtug</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Ge' lapa'si! Ala' 'nmu'j elising 'msiguigtug.</migmaq>				
 					<english>Look over there! There's a dog lying on the grass.				</english>
-					<soundfile>3/3/93_Positionals_1/03-GeLapasiAlaNmujElisingMsiguigtug</soundfile>
+					<soundfile>GeLapasiAlaNmujElisingMsiguigtug</soundfile>
 				</line>
 
 				<line>
 					<migmaq>- Goqwei wetpualin angaptmn 'ms't goqwei?</migmaq>				
 					<english>- Why do you want me to look at everything?</english>
-					<soundfile>3/3/93_Positionals_1/04-GoqweiWetpualinAngaptmnMstGoqwei</soundfile>
+					<soundfile>GoqweiWetpualinAngaptmnMstGoqwei</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -6560,25 +6560,25 @@
 				<line>
 					<migmaq>Al'puguit gmis gujmug.</migmaq>				
 					<english>Your sister's standing around outside.</english>
-					<soundfile>3/3/94_Positionals_2/01-AlpuguitGmisGujmug</soundfile>
+					<soundfile>AlpuguitGmisGujmug</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Aq 'gsis pas'g algopit lamuguomg.</migmaq>				
 					<english>And your brother's sitting around inside.</english>
-					<soundfile>3/3/94_Positionals_2/02-AqGsisPasgAlgopitLamuguomg</soundfile>
+					<soundfile>AqGsisPasgAlgopitLamuguomg</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Aq gajuewj pas'g alising a'se'g.</migmaq>				
 					<english>And the cat is lying around in the next room.</english>
-					<soundfile>3/3/94_Positionals_2/03-AqGajuewjPasgAlisingAseg</soundfile>
+					<soundfile>AqGajuewjPasgAlisingAseg</soundfile>
 				</line>
 
 				<line>
 					<migmaq>- Geji'g. Apjiw alising na gajuewj.</migmaq>				
 					<english>- I know that of him. That cat is always lying around.				</english>
-					<soundfile>3/3/94_Positionals_2/04-GejigApjiwAlisingNaGajuewj</soundfile>
+					<soundfile>GejigApjiwAlisingNaGajuewj</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -6590,7 +6590,7 @@
 				<line>
 					<migmaq>Tami elien?</migmaq>				
 					<english>Where are you going?</english>
-					<soundfile>3/3/95_TamiElien_1/01-TamiElien_QamegEliei</soundfile>
+					<soundfile>TamiElien_QamegEliei</soundfile>
 				</line>
 
 				<line>
@@ -6609,7 +6609,7 @@
 				<line>
 					<migmaq>Tami elien?</migmaq>				
 					<english>Where are you going?</english>
-					<soundfile>3/3/96_TamiElien_2/01-TamiElien_Asoqomasi</soundfile>
+					<soundfile>TamiElien_Asoqomasi</soundfile>
 				</line>
 
 				<line>
@@ -6628,7 +6628,7 @@
 				<line>
 					<migmaq>Tami elien?</migmaq>				
 					<english>Where are you going?</english>
-					<soundfile>3/3/97_TamiElien_3/01-TamiElien_MuTamiEliewPasgAleiiTett</soundfile>
+					<soundfile>TamiElien_MuTamiEliewPasgAleiiTett</soundfile>
 				</line>
 
 				<line>
@@ -6647,7 +6647,7 @@
 				<line>
 					<migmaq>Wen na ala'sit awtigtug?</migmaq>				
 					<english>Who is that wandering around in the road?</english>
-					<soundfile>3/3/98_TamiElien_4/01-WenNaAlasitAwtigtug_NjignamNaTesiGisggPasgAlasiListugujgGatuNegmMaTamSegLiegw</soundfile>
+					<soundfile>WenNaAlasitAwtigtug_NjignamNaTesiGisggPasgAlasiListugujgGatuNegmMaTamSegLiegw</soundfile>
 				</line>
 
 				<line>
@@ -6666,7 +6666,7 @@
 				<line>
 					<migmaq>Wen ala wejgu'et?</migmaq>				
 					<english>Who is that coming this way?</english>
-					<soundfile>3/3/99/01-WenAlaWejguet_MuinNaUgsmugwanej</soundfile>
+					<soundfile>WenAlaWejguet_MuinNaUgsmugwanej</soundfile>
 				</line>
 
 				<line>
@@ -6680,7 +6680,7 @@
 				<line>
 					<migmaq>Wen ala enmiet?</migmaq>				
 					<english>Who is that going off/away?</english>
-					<soundfile>3/3/99/02-WenAlaEnmiet_LentugNaMuttMetewJijuaqaUgsmugwatew</soundfile>
+					<soundfile>WenAlaEnmiet_LentugNaMuttMetewJijuaqaUgsmugwatew</soundfile>
 				</line>
 
 				<line>
@@ -6694,7 +6694,7 @@
 				<line>
 					<migmaq>Wen ala pemiet?</migmaq>				
 					<english>Who is that going along?</english>
-					<soundfile>3/3/99/03-WenAlaPemiet_TiamNaMuttGigjasiwTanEig</soundfile>
+					<soundfile>WenAlaPemiet_TiamNaMuttGigjasiwTanEig</soundfile>
 				</line>
 
 				<line>
@@ -6713,7 +6713,7 @@
 				<line>
 					<migmaq>Tami elien?</migmaq>				
 					<english>Where are you going?</english>
-					<soundfile>3/3/100/01-TamiElien_QamegElieiNatanguai</soundfile>
+					<soundfile>TamiElien_QamegElieiNatanguai</soundfile>
 				</line>
 
 				<line>
@@ -6727,7 +6727,7 @@
 				<line>
 					<migmaq>Tami wejien?</migmaq>				
 					<english>Where did you go/where have you come from?</english>
-					<soundfile>3/3/100/02-TamiWejien_QamegWejieiApanguai</soundfile>
+					<soundfile>TamiWejien_QamegWejieiApanguai</soundfile>
 				</line>
 
 				<line>
@@ -6746,7 +6746,7 @@
 				<line>
 					<migmaq>Tami ela'tioq?</migmaq>				
 					<english>Where are you (2) going?</english>
-					<soundfile>3/3/101/01-TamiElatioq_QamegElatiegNatanguaieg</soundfile>
+					<soundfile>TamiElatioq_QamegElatiegNatanguaieg</soundfile>
 				</line>
 
 				<line>
@@ -6760,7 +6760,7 @@
 				<line>
 					<migmaq>Tami ela'ti'gw?</migmaq>				
 					<english>Where are we (2,+you) going?</english>
-					<soundfile>3/3/101/02-TamiElatigw_QamegElatigwNatanguaigw</soundfile>
+					<soundfile>TamiElatigw_QamegElatigwNatanguaigw</soundfile>
 				</line>
 
 				<line>
@@ -6774,7 +6774,7 @@
 				<line>
 					<migmaq>Tami ela'tieg?</migmaq>				
 					<english>Where are we (2,-you) going?</english>
-					<soundfile>3/3/101/03-TamiElatieg_MuGejuluoqTamiTettGetuLatioq</soundfile>
+					<soundfile>TamiElatieg_MuGejuluoqTamiTettGetuLatioq</soundfile>
 				</line>
 
 				<line>
@@ -6793,7 +6793,7 @@
 				<line>
 					<migmaq>Tami weja'tioq?</migmaq>				
 					<english>Where did you (2) go?</english>
-					<soundfile>3/3/102/01-TamiWejatioq_QamegWejatiegApanguaieg</soundfile>
+					<soundfile>TamiWejatioq_QamegWejatiegApanguaieg</soundfile>
 				</line>
 
 				<line>
@@ -6807,7 +6807,7 @@
 				<line>
 					<migmaq>Tami weja'ti'gw?</migmaq>				
 					<english>Where did we (me+you) go?</english>
-					<soundfile>3/3/102/02-TamiWejatigw_QamegEtaWejatigwApanguaigwMuMigwitetmun</soundfile>
+					<soundfile>TamiWejatigw_QamegEtaWejatigwApanguaigwMuMigwitetmun</soundfile>
 				</line>
 
 				<line>
@@ -6821,7 +6821,7 @@
 				<line>
 					<migmaq>Tami weja'tieg?</migmaq>				
 					<english>Where did we (2, not you) go?</english>
-					<soundfile>3/3/102/03-TamiWejatieg_MuGejuluoqGeGilewTlimigwTanWejatioq</soundfile>
+					<soundfile>TamiWejatieg_MuGejuluoqGeGilewTlimigwTanWejatioq</soundfile>
 				</line>
 
 				<line>
@@ -6840,7 +6840,7 @@
 				<line>
 					<migmaq>Tami el'ta'ioq?</migmaq>				
 					<english>Where are you (group) going?</english>
-					<soundfile>3/3/103/01-TamiEltaioq_QamegEltaiegNatanguatieg</soundfile>
+					<soundfile>TamiEltaioq_QamegEltaiegNatanguatieg</soundfile>
 				</line>
 
 				<line>
@@ -6854,7 +6854,7 @@
 				<line>
 					<migmaq>Tami el'taigw?</migmaq>				
 					<english>Where are we (group,+you) going?</english>
-					<soundfile>3/3/103/02-TamiEltaigw_QamegEltaigwNatanguatigwMuGeitugsp</soundfile>
+					<soundfile>TamiEltaigw_QamegEltaigwNatanguatigwMuGeitugsp</soundfile>
 				</line>
 
 				<line>
@@ -6869,7 +6869,7 @@
 				<line>
 					<migmaq>Tami el'ta'ieg?</migmaq>				
 					<english>Where are we (group,-you) going?</english>
-					<soundfile>3/3/103/03-EDIT-spliceQofrep1andAofrep2-TamiEltaieg_MuGejuluoqGeGilewTlimigwTanEltaioq</soundfile>
+					<soundfile>TamiEltaieg_MuGejuluoqGeGilewTlimigwTanEltaioq</soundfile>
 				</line>
 
 				<line>
@@ -6889,7 +6889,7 @@
 				<line>
 					<migmaq>Tami weita'ioq?</migmaq>				
 					<english>Where did you (group) go?</english>
-					<soundfile>3/3/104/01-TamiWeitaioq_QamegWeitaiegApanguatieg</soundfile>
+					<soundfile>TamiWeitaioq_QamegWeitaiegApanguatieg</soundfile>
 				</line>
 
 				<line>
@@ -6904,7 +6904,7 @@
 				<line>
 					<migmaq>Tami weitaigw?</migmaq>				
 					<english>Where did we (group,+you) go?</english>
-					<soundfile>3/3/104/02-TamiWeitaigw_QamegEtaWeitaigwApanguatigwMuMigwitetmun</soundfile>
+					<soundfile>TamiWeitaigw_QamegEtaWeitaigwApanguatigwMuMigwitetmun</soundfile>
 				</line>
 
 				<line>
@@ -6919,7 +6919,7 @@
 				<line>
 					<migmaq>Tami weita'ieg?</migmaq>				
 					<english>Where did we (group,-you) go?</english>
-					<soundfile>3/3/104/03-TamiWeitaieg_MuGejuluoqGeGilewTlimigwTanWeitaioq</soundfile>
+					<soundfile>TamiWeitaieg_MuGejuluoqGeGilewTlimigwTanWeitaioq</soundfile>
 				</line>
 
 				<line>
@@ -6939,7 +6939,7 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Listugujg?</migmaq>				
 					<english>Have you ever been to Listuguj?</english>
-					<soundfile>3/3/105_GisGilWejienGesgapegiaq-NOTEtwosources-cleanupMetepDouble/20120731-JV-MAM-TamiElien@105_GisGilWejienGesgapegiaq/02-GisGilWejienListugujg_EeGisWejieiNatelEtaTleiawi</soundfile>
+					<soundfile>GisGilWejienListugujg_EeGisWejieiNatelEtaTleiawi</soundfile>
 				</line>
 
 				<line>
@@ -6953,7 +6953,7 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Qame'g?</migmaq>				
 					<english>Have you ever been to Campbellton?</english>
-					<soundfile>3/3/105_GisGilWejienGesgapegiaq-NOTEtwosources-cleanupMetepDouble/20120731-JV-MAM-TamiElien@105_GisGilWejienGesgapegiaq/03-GisGilWejienQameg_EeGatuSaqMnaqWejiew</soundfile>
+					<soundfile>GisGilWejienQameg_EeGatuSaqMnaqWejiew</soundfile>
 				</line>
 
 				<line>
@@ -6967,7 +6967,7 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Qospemg?</migmaq>				
 					<english>Have you ever been to Qospem (the lake)?</english>
-					<soundfile>3/3/105_GisGilWejienGesgapegiaq-NOTEtwosources-cleanupMetepDouble/20120731-JV-MAM-TamiElien@105_GisGilWejienGesgapegiaq/04-GisGilWejienQospemg_EeGisWejiei</soundfile>
+					<soundfile>GisGilWejienQospemg_EeGisWejiei</soundfile>
 				</line>
 
 				<line>
@@ -6981,7 +6981,7 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Sipug?</migmaq>				
 					<english>Have you ever been to Sipug (the river)?</english>
-					<soundfile>3/3/105_GisGilWejienGesgapegiaq-NOTEtwosources-cleanupMetepDouble/20120731-JV-MAM-TamiElien@105_GisGilWejienGesgapegiaq/05-GisGilWejienSipug_MoqwaMnaqWejiew</soundfile>
+					<soundfile>GisGilWejienSipug_MoqwaMnaqWejiew</soundfile>
 				</line>
 
 				<line>
@@ -6995,7 +6995,7 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Je'g uggampmg?</migmaq>				
 					<english>Have you ever been to Jake's camp?</english>
-					<soundfile>3/3/105_GisGilWejienGesgapegiaq-NOTEtwosources-cleanupMetepDouble/20120731-JV-MAM-TamiElien@105_GisGilWejienGesgapegiaq/06-GisGilWejienJegUggampmg_MoqwaMnaqWejiew</soundfile>
+					<soundfile>GisGilWejienJegUggampmg_MoqwaMnaqWejiew</soundfile>
 				</line>
 
 				<line>
@@ -7010,7 +7010,7 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Metepna'giaq?</migmaq>				
 					<english>Have you ever been to Red Bank?</english>
-					<soundfile>3/3/105_GisGilWejienGesgapegiaq-NOTEtwosources-cleanupMetepDouble/20120731-JV-MAM-GisGilWejien/01-GisGilWejienMetepnagiaq_EeAqElgGisWejieiNatuaqaneg</soundfile>
+					<soundfile>GisGilWejienMetepnagiaq_EeAqElgGisWejieiNatuaqaneg</soundfile>
 				</line>
 
 				<line>
@@ -7024,7 +7024,7 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Gesgapegiaq?</migmaq>				
 					<english>Have you ever been to Gesgapegiaq?</english>
-					<soundfile>3/3/105_GisGilWejienGesgapegiaq-NOTEtwosources-cleanupMetepDouble/20120731-JV-MAM-GisGilWejien/02-GisGilWejienGesgapegiaq_MoqwaMnaqWejiewNinGesgapegiaqGatuGisWejieiGlaqatigejg</soundfile>
+					<soundfile>GisGilWejienGesgapegiaq_MoqwaMnaqWejiewNinGesgapegiaqGatuGisWejieiGlaqatigejg</soundfile>
 				</line>
 
 				<line>
@@ -7038,7 +7038,7 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Muliang?</migmaq>				
 					<english>Have you ever been to Montreal?</english>
-					<soundfile>3/3/105_GisGilWejienGesgapegiaq-NOTEtwosources-cleanupMetepDouble/20120731-JV-MAM-GisGilWejien/03-GisGilWejienMuliang_MoqwaMnaqWejiewMuliangPasgWegwasiapGepeg</soundfile>
+					<soundfile>GisGilWejienMuliang_MoqwaMnaqWejiewMuliangPasgWegwasiapGepeg</soundfile>
 				</line>
 
 				<line>
@@ -7052,7 +7052,7 @@
 				<line>
 					<migmaq>Gi's gi'l wejienn 'Sgno'patijg aq Elsipugtug?</migmaq>				
 					<english>Have you ever been to Big Cove and Burnt Church?</english>
-					<soundfile>3/3/105_GisGilWejienGesgapegiaq-NOTEtwosources-cleanupMetepDouble/20120731-JV-MAM-GisGilWejien/04-GisGilWejiennElsipugtugAqSgnopatijg_EeGisWejieiannGatuSaqGiaspiwjieiSgnopatijg</soundfile>
+					<soundfile>GisGilWejiennElsipugtugAqSgnopatijg_EeGisWejieiannGatuSaqGiaspiwjieiSgnopatijg</soundfile>
 				</line>
 
 				<line>
@@ -7066,7 +7066,7 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Gespe'g?</migmaq>				
 					<english>Have you ever been to the Gaspé?</english>
-					<soundfile>3/3/105_GisGilWejienGesgapegiaq-NOTEtwosources-cleanupMetepDouble/20120731-JV-MAM-GisGilWejien/05-GisGilWejienGespeg_TalMa_NtusIWigipNatel</soundfile>
+					<soundfile>GisGilWejienGespeg_TalMa_NtusIWigipNatel</soundfile>
 				</line>
 
 				<line>
@@ -7081,7 +7081,7 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Epegwitg gisna Unama'gig?</migmaq>				
 					<english>Have you ever been to Prince Edward Island or Nova Scotia?				</english>
-					<soundfile>3/3/105_GisGilWejienGesgapegiaq-NOTEtwosources-cleanupMetepDouble/20120731-JV-MAM-GisGilWejien/06-GisGilWejienEpegwitgGisnaUnamagig_EeGisWejieiannGitg</soundfile>
+					<soundfile>GisGilWejienEpegwitgGisnaUnamagig_EeGisWejieiannGitg</soundfile>
 				</line>
 
 				<line>
@@ -7095,7 +7095,7 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Esgisoqonig?</migmaq>				
 					<english>Have you ever been to Eskasoni?</english>
-					<soundfile>3/3/105_GisGilWejienGesgapegiaq-NOTEtwosources-cleanupMetepDouble/20120731-JV-MAM-GisGilWejien/07-GisGilWejienEsgisoqonig_EeGisWejieiTheresaWejatiegp</soundfile>
+					<soundfile>GisGilWejienEsgisoqonig_EeGisWejieiTheresaWejatiegp</soundfile>
 				</line>
 
 				<line>
@@ -7110,7 +7110,7 @@
 				<line>
 					<migmaq>Gi's gi'l wejien S'g'pne'gatig?</migmaq>				
 					<english>Have you ever been to Shubenacadie?</english>
-					<soundfile>3/3/105_GisGilWejienGesgapegiaq-NOTEtwosources-cleanupMetepDouble/20120731-JV-MAM-GisGilWejien/08-GisGilWejienSgpnegatig_EeGisWejieiNewtejgegEltaiegpNajiTuatiegpNatel</soundfile>
+					<soundfile>GisGilWejienSgpnegatig_EeGisWejieiNewtejgegEltaiegpNajiTuatiegpNatel</soundfile>
 				</line>
 
 				<line>
@@ -7125,7 +7125,7 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Ugjigapajg?</migmaq>				
 					<english>Have you ever been to Dead Man's Lake?</english>
-					<soundfile>3/3/105_GisGilWejienGesgapegiaq-NOTEtwosources-cleanupMetepDouble/20120731-JV-MAM-GisGilWejien/09-GisGilWejienUgjigapajg_EeGisWejieiGisWelSaqeg</soundfile>
+					<soundfile>GisGilWejienUgjigapajg_EeGisWejieiGisWelSaqeg</soundfile>
 				</line>
 
 				<line>
@@ -7144,7 +7144,7 @@
 				<line>
 					<migmaq>Atel wejien nipugtug?</migmaq>				
 					<english>Did you just come from the woods?</english>
-					<soundfile>3/3/106/01-AtelWejienNipugtug_EeAtelPegisin</soundfile>
+					<soundfile>AtelWejienNipugtug_EeAtelPegisin</soundfile>
 				</line>
 
 				<line>
@@ -7158,7 +7158,7 @@
 				<line>
 					<migmaq>Atel wejien sitmug?</migmaq>				
 					<english>Did you just come from the shore?</english>
-					<soundfile>3/3/106/02-AtelWejienSitmug_EeApiTgismi</soundfile>
+					<soundfile>AtelWejienSitmug_EeApiTgismi</soundfile>
 				</line>
 
 				<line>
@@ -7172,7 +7172,7 @@
 				<line>
 					<migmaq>Atel peita'jig Muliang?</migmaq>				
 					<english>Did they (group) just arrive from Montreal?</english>
-					<soundfile>3/3/106/03-AtelPeitajigMuliang_EeAtelGisGnuatuijig</soundfile>
+					<soundfile>AtelPeitajigMuliang_EeAtelGisGnuatuijig</soundfile>
 				</line>
 
 				<line>
@@ -7186,7 +7186,7 @@
 				<line>
 					<migmaq>Mu nemiaws'p ti'am pemtugwi'g awtigtug?</migmaq>				
 					<english>Didn't you see the moose running along in the road?				</english>
-					<soundfile>3/3/106/04-MuNemiawspTiamPemtugwigAwtigtug_MoqwaAtelGistuei</soundfile>
+					<soundfile>MuNemiawspTiamPemtugwigAwtigtug_MoqwaAtelGistuei</soundfile>
 				</line>
 
 				<line>
@@ -7200,7 +7200,7 @@
 				<line>
 					<migmaq>Atel wejien gm'tnigtug?</migmaq>				
 					<english>Did you just come from the mountain?</english>
-					<soundfile>3/3/106/05-AtelWejienGmtnigtug_EeAtelGisiMtoqiei</soundfile>
+					<soundfile>AtelWejienGmtnigtug_EeAtelGisiMtoqiei</soundfile>
 				</line>
 
 				<line>
@@ -7214,7 +7214,7 @@
 				<line>
 					<migmaq>Maja'si, naji-ilego'tu gm'po'qon.</migmaq>				
 					<english>Go, go make your bed.</english>
-					<soundfile>3/3/106/06-MajasiNajiIlegotuGmpoqon_AtelGisiIlegotu</soundfile>
+					<soundfile>MajasiNajiIlegotuGmpoqon_AtelGisiIlegotu</soundfile>
 				</line>
 
 				<line>
@@ -7228,7 +7228,7 @@
 				<line>
 					<migmaq>Maja'si, naji-gasiptna'si.</migmaq>				
 					<english>Go, go wash your hands.</english>
-					<soundfile>3/3/106/07-MajasiNajiGasiptnasi_AtelGisGasiptnasi</soundfile>
+					<soundfile>MajasiNajiGasiptnasi_AtelGisGasiptnasi</soundfile>
 				</line>
 
 				<line>
@@ -7250,7 +7250,7 @@
 				<line>
 					<migmaq>Ge' la'tinej Qospemg!</migmaq>				
 					<english>Let's go to the lake!</english>
-					<soundfile>3/3/107/01-GeLatinejQospemg_TamiTettElatigw_Qospemg</soundfile>
+					<soundfile>GeLatinejQospemg_TamiTettElatigw_Qospemg</soundfile>
 				</line>
 
 				<line>
@@ -7288,37 +7288,37 @@
 				<line>
 					<migmaq>Amuj pa eliei.</migmaq>				
 					<english>I have to go there.</english>
-					<soundfile>4/1/108_AmujPa_1/01-AmujPaEliei</soundfile>
+					<soundfile>AmujPaEliei</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Amuj pa maja'si.</migmaq>				
 					<english>I have to go (leave).</english>
-					<soundfile>4/1/108_AmujPa_1/02-AmujPaMajasi</soundfile>
+					<soundfile>AmujPaMajasi</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Amuj pa mijji.</migmaq>				
 					<english>I have to eat.</english>
-					<soundfile>4/1/108_AmujPa_1/03-AmujPaMijji</soundfile>
+					<soundfile>AmujPaMijji</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Amuj pa nepai.</migmaq>				
 					<english>I have to sleep.</english>
-					<soundfile>4/1/108_AmujPa_1/04-AmujPaNepai</soundfile>
+					<soundfile>AmujPaNepai</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Amuj pa me' nepai.</migmaq>				
 					<english>I have to sleep more.</english>
-					<soundfile>4/1/108_AmujPa_1/05-AmujPaMeNepai</soundfile>
+					<soundfile>AmujPaMeNepai</soundfile>
 				</line>
 
 				<line>
 					<migmaq>Amuj pa angweiaq nn'jan.</migmaq>				
 					<english>I have to take care of my child.</english>
-					<soundfile>4/1/108_AmujPa_1/06-AmujPaAngweiaqNnjan</soundfile>
+					<soundfile>AmujPaAngweiaqNnjan</soundfile>
 				</line>
 			</vocab>
 		</lesson>
@@ -7331,7 +7331,7 @@
 				<line>
 					<migmaq>Natlugwen?</migmaq>				
 					<english>You're going to work?</english>
-					<soundfile>4/1/109_AmujPa_2/01-Natlugwen_EeNatlugweiMuGetuNatlugwewGatuAmujPaNatlugwei</soundfile>
+					<soundfile>Natlugwen_EeNatlugweiMuGetuNatlugwewGatuAmujPaNatlugwei</soundfile>
 				</line>
 
 				<line>
@@ -7351,7 +7351,7 @@
 				<line>
 					<migmaq>Aplugwen?</migmaq>				
 					<english>You're back from work?</english>
-					<soundfile>4/1/110_AmujPa_3/01-Aplugwen_EeAplugweiTewjiGispneiA</soundfile>
+					<soundfile>Aplugwen_EeAplugweiTewjiGispneiA</soundfile>
 				</line>
 
 				<line>
@@ -7371,7 +7371,7 @@
 				<line>
 					<migmaq>Etllugwen nige'?</migmaq>				
 					<english>Are you working now?</english>
-					<soundfile>4/1/111_AmujPa_4/01-EtllugwenNige_EeEtllugweiTesiGisggNaNewAjietGaqlugweiGatuGisgugNanAjietew_NinMuAmujPaNaElugwewGisgugNmultsToqNanAjiej</soundfile>
+					<soundfile>EtllugwenNige_EeEtllugweiTesiGisggNaNewAjietGaqlugweiGatuGisgugNanAjietew_NinMuAmujPaNaElugwewGisgugNmultsToqNanAjiej</soundfile>
 				</line>
 
 				<line>
@@ -7397,7 +7397,7 @@
 				<line>
 					<migmaq>Getu'-wije'win?</migmaq>				
 					<english>Do you want to come with me?</english>
-					<soundfile>4/1/112_Getu_1/01-_TamiTettElien_GetuAsoqomasiGetuNmisgmPastungeweieiSuliewei_EeWijewultsGatuTmgGetuLqawei_TeltetmGetuGigpesaq_ANaMaPelLqawew_GatuGtuTlataltsNatel_EeMutaMuGetuWissugwatigewGisgug</soundfile>
+					<soundfile>_TamiTettElien_GetuAsoqomasiGetuNmisgmPastungeweieiSuliewei_EeWijewultsGatuTmgGetuLqawei_TeltetmGetuGigpesaq_ANaMaPelLqawew_GatuGtuTlataltsNatel_EeMutaMuGetuWissugwatigewGisgug</soundfile>
 				</line>
 
 				<line>
@@ -7461,7 +7461,7 @@
 				<line>
 					<migmaq>Gi'l getugsin. Maja'si, naji-npa.</migmaq>				
 					<english>You're sleepy. Go, go to bed.</english>
-					<soundfile>4/1/113_Getu_2/01-GilGetugsinMajasiNajiNpa_GetuSamqwai_MajasiNatsamqwaToqoSmtugNajiLsmasits</soundfile>
+					<soundfile>GilGetugsinMajasiNajiNpa_GetuSamqwai_MajasiNatsamqwaToqoSmtugNajiLsmasits</soundfile>
 				</line>
 
 				<line>
@@ -7489,7 +7489,7 @@
 				<line>
 					<migmaq>Gi's gisa'tu'n 'gtlugowaqan?</migmaq>				
 					<english>Have you finished your work?</english>
-					<soundfile>4/1/114/01-GisGisatunGtlugowaqan__NinGisiApoqonmultsGulamanGisGaqatuts20120801-JV-MAM-GeLatinejQospemg2Gisi@114_Gisi</soundfile>
+					<soundfile>GeLatinejQospemg2Gisi@114_Gisi</soundfile>
 				</line>
 
 				<line>
