@@ -8094,7 +8094,7 @@
 			</dialog>
 		</lesson>
 	</unit>
-	<unit>
+	<!--<unit>
 		<title>Practice Drama</title>
 		<lesson>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>
@@ -8118,7 +8118,7 @@
 		</lesson>
 
 		<lesson>
-			<title>First act, first attempt</title>
+			<title>First act: first attempt</title>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
 			<dialog>
 				<note>1.1 [lovelorn boy to a somewhat uninterested girl]</note>
@@ -8418,7 +8418,7 @@
 				</line>
 			</dialog>
 		</lesson>
-	</unit>
+	</unit>-->
 	<unit>
 		<title>Daily conversation</title>
 		<lesson>
