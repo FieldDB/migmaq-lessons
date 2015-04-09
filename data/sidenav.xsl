@@ -43,8 +43,8 @@
                 </xsl:for-each>
               </ul>
             </li>
-        <li><a href="{{{{ site.baseurl }}}}/resources.html">Resources</a></li>
-      </ul>
+            <li><a href="{{{{ site.baseurl }}}}/resources.html">Resources</a></li>
+          </ul>
         </li>
       </ul>
     </div>
