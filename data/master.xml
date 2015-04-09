@@ -5849,7 +5849,7 @@
 			</vocab>
 		</lesson>
 
-		<!--<lesson>
+		<lesson>
 			<title>My [body parts] hurt. (animate) </title>
 			<timesig>@20120801-JV-MAM-Gesnuguit.wav@0:40-0:53</timesig>
 			<vocab>
@@ -8118,7 +8118,7 @@
 		</lesson>
 
 		<lesson>
-			<title>First act: first attempt</title>
+			<title>First act, first attempt</title>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
 			<dialog>
 				<note>1.1 [lovelorn boy to a somewhat uninterested girl]</note>
@@ -8160,7 +8160,7 @@
 
 		<lesson>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>
-			<title>Second act: second attempt</title>		
+			<title>Second act, second attempt</title>		
 			<dialog>
 				<note>2.1 [the boy, offering flowers]</note>
 				<line>
@@ -8183,7 +8183,7 @@
 
 		<lesson>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>
-			<title>Third act: with a friend</title>		
+			<title>Third act, with a friend</title>		
 			<dialog>
 				<note>3.1 [the boy, to a sympathetic friend]</note>
 				<line>
@@ -8232,7 +8232,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Fourth act: other people's perspectives</title>
+			<title>Fourth act, other people's perspectives</title>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
 			<dialog>
 				<note>4.1 [the girl, to us, gesturing back to the boy]</note>
@@ -8261,7 +8261,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Fifth act: a final attempt, and success!!!</title>
+			<title>Fifth act, a final attempt, and success!!!</title>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
 			<dialog>
 				<note>5.1 [the boy, after many repetitions]</note>
@@ -8289,7 +8289,7 @@
 		</lesson>
 
 		<lesson>
-			<title>Final act: the friend concludes it for us</title>
+			<title>Final act, the friend concludes it for us</title>
 			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
 			<dialog>
 				<note>6.1 [the friend, to us, after love is won</note>
@@ -8317,7 +8317,7 @@
 		</lesson>
 
 		<lesson>
-			<title>- Some dramatic up and down options, if we want to keep			this soap opera going: </title>		
+			<title>Some dramatic up and down options, if we want to keep this soap opera going</title>		
 			<dialog>
 				<line>
 					<migmaq>Welamul, gatu mu gesalulnu.</migmaq>				
@@ -9249,7 +9249,7 @@
 					</soundfile>
 				</line>
 			</dialog>
-		</lesson>-->
+		</lesson>
 	</unit>
 </section>
 </lessonset>
