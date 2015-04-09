@@ -14,7 +14,7 @@
             <button class="btn btn-default" type="button">
               <span class="glyphicon glyphicon-play" aria-hidden="true">
                 <audio>
-                  <source src="{$soundurl}" type="audio/mpeg"/>
+                  <source src="{$soundurl}" type="audio/mpeg"/><!--Link to soundfile-->
                 </audio>
               </span>
             </button>
