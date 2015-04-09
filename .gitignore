@@ -1,7 +1,5 @@
-# Untracked files:
-sections/
-units/
-lessons/
-dialogs
-vocabs
-TotalCAN8Contents
+/dialogs
+/vocabs
+/lessons
+/units
+/sections
