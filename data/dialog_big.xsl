@@ -8,7 +8,7 @@
     </h1><!--Display unit title at top of page-->
     <div class="well well-lg">
       <xsl:for-each select="line"><!--create address for soundfile-->
-          <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/></xsl:variable>
+          <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/>.mp3</xsl:variable>
         <div class="media"><!--Make a media object with the audio file-->
           <div class="media-left">
             <button class="btn btn-default" type="button">

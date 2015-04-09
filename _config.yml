@@ -7,5 +7,5 @@ lessons:
 output: true
 dialogs:
 output: true
-exclude: [documentation, data]
+exclude: [documentation, data, Makefile, README.md]
 baseurl: http://canders277.bitbucket.org/_site
