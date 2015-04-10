@@ -17,22 +17,87 @@
         <img class="img-responsive thumbnail" src="{$imgurl}" alt="Trees" style="max-width: 75%"></img><!--Display unit img-->
       </div>
     </div>
-    <xsl:if test="dialog">
+    <!--<xsl:if test="dialog">
     <xsl:variable name="dianame">{{ site.baseurl }}/dialogs/<xsl:value-of select="$fileprefix"/>1.html</xsl:variable>
     <div class="embed-responsive embed-responsive-16by9">
       <iframe class="embed-responsive-item" src="{$dianame}" seamless="">
-        <a></a><!-- Hack to prevent xsl from using shorthand /> end bracket-->
-      </iframe>
+        <a></a>--><!-- Hack to prevent xsl from using shorthand /> end bracket-->
+      <!--</iframe>
     </div>
-    </xsl:if>
-    <xsl:if test="vocab">
+    </xsl:if>-->
+    <div id="dialogHeading">Dialog 1</div>
+    <div id="allDialogs">      
+      <xsl:for-each select="dialog">
+      <div class="well well-lg">
+        <xsl:for-each select="line">
+          <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/>.mp3</xsl:variable>
+          <div class="media"><!--Make a media object with the audio file-->
+            <div class="media-left">
+              <button class="btn btn-default" type="button">
+                <span class="glyphicon glyphicon-play" aria-hidden="true">
+                  <audio>
+                    <source src="{$soundurl}" type="audio/mpeg"/>
+                  </audio>
+                </span>
+              </button>
+            </div>
+            <div class="media-body">
+              <h2 class="media-heading">
+                <xsl:value-of select="migmaq"/>
+              </h2><!--Display Mi'gmaq-->
+              <h4 class="media-heading">
+                <xsl:value-of select="english"/>
+              </h4><!--Display English-->            
+            </div>
+          </div>
+        </xsl:for-each>
+      </div>
+    </xsl:for-each>
+    <a href="#" id="prevDialog">Previous Dialog</a>
+    <a href="#" id="nextDialog">Next Dialog</a>
+
+  </div>
+
+    <!--<xsl:if test="vocab">
     <xsl:variable name="vocabname">{{ site.baseurl }}/vocabs/<xsl:value-of select="$fileprefix"/>1.html</xsl:variable>
     <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="{$vocabname}" seamless="">
-        <a></a><!-- Hack to prevent xsl from using shorthand /> end bracket-->
-      </iframe>
+      <iframe class="embed-responsive-item" src="{$vocabname}" seamless="">-->
+        <!--<a></a>--><!-- Hack to prevent xsl from using shorthand /> end bracket-->
+      <!--</iframe>
     </div>
-    </xsl:if>
+    </xsl:if>-->
+    <div id="vocabHeading">Vocab 1</div>
+    <div id="allVocabs">      
+      <xsl:for-each select="vocab">
+      <div class="well well-lg">
+        <xsl:for-each select="line">
+          <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/>.mp3</xsl:variable>
+          <div class="media"><!--Make a media object with the audio file-->
+            <div class="media-left">
+              <button class="btn btn-default" type="button">
+                <span class="glyphicon glyphicon-play" aria-hidden="true">
+                  <audio>
+                    <source src="{$soundurl}" type="audio/mpeg"/>
+                  </audio>
+                </span>
+              </button>
+            </div>
+            <div class="media-body">
+              <h2 class="media-heading">
+                <xsl:value-of select="migmaq"/>
+              </h2><!--Display Mi'gmaq-->
+              <h4 class="media-heading">
+                <xsl:value-of select="english"/>
+              </h4><!--Display English-->            
+            </div>
+          </div>
+        </xsl:for-each>
+      </div>
+    </xsl:for-each>
+    <a href="#" id="prevVocab">Previous Vocab</a>
+    <a href="#" id="nextVocab">Next Vocab</a>
+
+  </div>
     <p>
       <xsl:value-of select="info"/><!--Display any info associated with the lesson-->
     </p>
