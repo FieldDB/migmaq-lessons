@@ -47,10 +47,10 @@
         </xsl:for-each>
           <ul class="pager">
             <li class = "previous">
-              <a href="#" id="prevDialog"><span aria-hidden="true">--</span>Previous Dialog</a>
+              <a href="#" id="prevDialog"><span aria-hidden="true"><xsl:text disable-output-escaping="yes">&#8592;</xsl:text></span>Previous Dialog</a>
             </li>
             <li class = "next">
-              <a href="#" id="nextDialog">Next Dialog<span aria-hidden="true">--</span></a>
+              <a href="#" id="nextDialog">Next Dialog<span aria-hidden="true"><xsl:text disable-output-escaping="yes">&#8594;</xsl:text></span></a>
             </li>
           </ul>
         </div>
@@ -86,10 +86,10 @@
         </xsl:for-each>
           <ul class="pager">
             <li class = "previous">
-              <a href="#" id="prevVocab"><span aria-hidden="true">--</span>Previous Vocab</a>
+              <a href="#" id="prevVocab"><span aria-hidden="true"><xsl:text disable-output-escaping="yes">&#8592;</xsl:text></span>Previous Vocabulary</a>
             </li>
             <li class = "next">
-              <a href="#" id="nextVocab">Next Vocab<span aria-hidden="true">--</span></a>
+              <a href="#" id="nextVocab">Next Vocabulary<span aria-hidden="true"><xsl:text disable-output-escaping="yes">&#8594;</xsl:text></span></a>
             </li>
           </ul>
         </div>
