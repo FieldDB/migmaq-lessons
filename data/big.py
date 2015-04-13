@@ -3,13 +3,13 @@ import sys
 """
 This program reads in an xml tree and applies xsl tranformations to various levels of the tree.
 
-The first 5 functions apply xsl tranformations to a single level of the tree and create an HTML file with the result.
+The first 4 functions apply xsl tranformations to a single level of the tree and create an HTML file with the result.
 
 The rest of the functions are helper functions for indexing descendent nodes, creating filenames,
 getting the position of a node in the tree, finding the titles of ancestor nodes, and generating Jekyll
 markups for the top of files.
 
-The program currently applies tranformations to the lessonset, section, unit, lesson, dialog, and vocabs
+The program currently applies tranformations to the lessonset, section, unit, and lesson levels
  of the XML file. However, each function is parameterized by current node and depth, so the 
 program could be easily modified to tranform other levels of the tree using the same functions.
 
@@ -17,36 +17,12 @@ Author: Carolyn Anderson          Last Modified: 2/13/2015
 """
 
 #Create xsl transformation functions
-vocab_xsl_raw = etree.parse("vocab_big.xsl")  #Displays data from Dialog down
-vocab_xsl = etree.XSLT(vocab_xsl_raw) 
-dialog_xsl_raw = etree.parse("dialog_big.xsl")  #Displays data from Dialog down
-dialog_xsl = etree.XSLT(dialog_xsl_raw) 
 lesson_xsl_raw = etree.parse("lesson_big.xsl")  #Displays data from Lesson down
 lesson_xsl = etree.XSLT(lesson_xsl_raw) 
 index_xsl_raw = etree.parse("index_big.xsl")  #Makes an index of child files
 index_xsl = etree.XSLT(index_xsl_raw) 
 intro_xsl_raw = etree.parse("intro_big.xsl")  #Creates intro page
 intro_xsl = etree.XSLT(intro_xsl_raw) 
-
-def processVocab(level, vocab):
-  #Transforms all vocabs--- creates webpages for each
-  filename = "../vocabs/" + createFilename(vocab, level)#create filename
-  index = str(getIndex(vocab))#get index
-  f = open(filename, "w") #create new file
-  f.write(getMarkup(vocab, level)) #write Jekyll markup to top
-  plain_index = etree.XSLT.strparam(index)#convert to plain string
-  f.write(str(vocab_xsl(vocab, index=plain_index))) #apply xslt transformation to vocab and write to file
-  f.close()
-
-def processDialog(level, dialog):
-  #Transforms all dialogs--- creates webpages for each
-  filename = "../dialogs/" + createFilename(dialog, level)#create filename
-  index = str(getIndex(dialog))#get index
-  f = open(filename, "w") #create new file
-  f.write(getMarkup(dialog, level)) #write Jekyll markup to top
-  plain_index = etree.XSLT.strparam(index)#convert to plain string
-  f.write(str(dialog_xsl(dialog, index=plain_index))) #apply xslt transformation to dialog and write to file
-  f.close()
 
 def processLesson(level, lesson):
   #Transforms all lessons--- creates webpages for each displaying dialogues and vocabs
@@ -57,13 +33,6 @@ def processLesson(level, lesson):
   plain_string = etree.XSLT.strparam(fileprefix)#convert to plain string
   f.write(str(lesson_xsl(lesson, fileprefix=plain_string))) #apply xslt transformation to lesson and write to file
   f.close()
-  dialogs = lesson.xpath("dialog")  #get dialogs
-  for dialog in dialogs: #call dialog processing
-      processDialog(level+1, dialog)
-  vocabs = lesson.xpath("vocab")  #get vocabs
-  for vocab in vocabs: #call vocab processing
-      processVocab(level+1, vocab)
-
 
 def processUnit(level, unit):
   #Transforms all units and creates an index file for each showing child files
@@ -105,11 +74,8 @@ def getMarkup(current, level):
     prev = getPrev(current, level)
     curr = createFilename(current, level)
     foll = getNext(current, level)
-    if level == 4: #Level 4 is vocabs and dialogs, which are iframes
-      markup = "---\nlayout: iframe\nprev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
-    else:
-      markup = parentMarkup(current, level)
-      markup = "---\nlayout: lesson\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
+    markup = parentMarkup(current, level)
+    markup = "---\nlayout: lesson\n" + markup + "prev: %s\ncurrent: %s\nfoll: %s\n---\n" % (prev, curr, foll) #layout markup
   return markup
 
 def parentMarkup(current, level):
@@ -122,12 +88,6 @@ def parentMarkup(current, level):
 
 def getPrev(current, level):
   #Finds the previous pages for a given node
-  if level==4: #Special case: dialogs only have other dialogs as previous
-    prev_siblings = current.xpath("preceding-sibling::dialog")
-    if not len(prev_siblings)==0: #There is a previous dialog
-      prev = createFilename(prev_siblings[len(prev_siblings)-1], level)
-    else: #None
-      prev = createFilename(current, level)
   if level==3: #Case lesson
     prev_siblings = current.xpath("preceding-sibling::lesson")
     if not len(prev_siblings)==0: #Case lesson_sib
@@ -166,12 +126,6 @@ def getPrev(current, level):
 
 def getNext(current, level):
   #Finds the next pages for a given node
-  if level==4: #Special case: dialogs only have other dialogs as next
-    siblings = current.xpath("following-sibling::dialog")
-    if not len(siblings)==0: #There is a next
-      foll = createFilename(siblings[0], level)
-    else: #No following
-      foll = createFilename(current, level)
   if level==3:
     siblings = current.xpath("following-sibling::lesson")
     if not len(siblings)==0: #Case sibling
