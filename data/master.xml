@@ -152,6 +152,8 @@
 						<english>Tell me in Native what you are doing.</english>
 						<soundfile>TlimiNnuigtugTanTellugwenCLP</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>Tlimi nnuigtug ta'n telluwgwei</migmaq> 	
 						<english>Tell me in Native what I am doing.</english>
@@ -209,6 +211,8 @@
 						<english>Please help me.</english>
 						<soundfile>GeApoqonmuiCLP</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>Ge' apoqonmui teluei.</migmaq> 	
 						<english>Please help me say it.</english>
@@ -684,6 +688,8 @@
 						<english>young woman</english>
 						<soundfile>epites</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>lpa'tuj</migmaq> 	
 						<english>boy</english>
@@ -732,6 +738,8 @@
 						<english>women</english>
 						<soundfile>epijig</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>ji'nmji'jg</migmaq> 	
 						<english>young men</english>
@@ -752,6 +760,8 @@
 						<english>girls</english>
 						<soundfile>epitejijg</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>mijua'ji'jg</migmaq> 	
 						<english>young children, babies</english>
@@ -789,6 +799,8 @@
 						<english>woman...women</english>
 						<soundfile>Epit_Epijig</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>ji'nmji'j...ji'nmji'jg</migmaq> 	
 						<english>young man...young men</english>
@@ -809,6 +821,8 @@
 						<english>girl...girls</english>
 						<soundfile>Epitejij_Epitejijg</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>mijua'ji'j...mijua'ji'jg</migmaq> 	
 						<english>baby...babies</english>
@@ -841,6 +855,8 @@
 						<english>chair</english>
 						<soundfile>Mutputi</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>ga'qan</migmaq> 	
 						<english>door</english>
@@ -856,6 +872,8 @@
 						<english>blanket</english>
 						<soundfile>Asun</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>npo'qon</migmaq> 	
 						<english>bed</english>
@@ -894,6 +912,8 @@
 						<english>chairs</english>
 						<soundfile>Mutputil</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>ga'qann</migmaq> 	
 						<english>doors</english>
@@ -909,6 +929,8 @@
 						<english>blankets</english>
 						<soundfile>Asunn</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>npo'qonn</migmaq> 	
 						<english>beds</english>
@@ -946,6 +968,8 @@
 						<english>chair...chairs</english>
 						<soundfile>Mutputi_Mutputil</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>ga'qan...ga'qann</migmaq> 	
 						<english>door...doors</english>
@@ -961,6 +985,8 @@
 						<english>blanket...blankets</english>
 						<soundfile>Asun_Asunn</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>npo'qon...npo'qonn</migmaq> 	
 						<english>bed...beds</english>
@@ -1428,6 +1454,8 @@
 						<english>Sixteen, seventeen, eighteen, nineteen.</english>
 						<soundfile>NewtisgaqJelAsugomNewtisgaqJelLluignegNewtisgaqJelUgumuljinNewtisgaqJelPesgunateg</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>Tapuisga'q</migmaq> 	
 						<english>Twenty</english>
@@ -1967,6 +1995,13 @@
 						<english>I am three. (years old)</english>
 						<soundfile>NesiPunai</soundfile>
 					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>Ta'si-puna'n?</migmaq> 	
+						<english>How old are you?</english>
+						<soundfile>TasiPunan_NewtiPunai</soundfile>
+					</line>
 					<line>
 						<migmaq>Newi-puna'i.</migmaq> 	
 						<english>I am four</english>
@@ -1981,6 +2016,13 @@
 						<migmaq>Asugom te'si-puna'i.</migmaq> 	
 						<english>I am six.</english>
 						<soundfile>AsugomTesiPunai</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>Ta'si-puna'n?</migmaq> 	
+						<english>How old are you?</english>
+						<soundfile>TasiPunan_NewtiPunai</soundfile>
 					</line>
 					<line>
 						<migmaq>Lluigneg te'si-puna'i.</migmaq> 	
@@ -1997,6 +2039,13 @@
 						<english>I am nine.</english>
 						<soundfile>PesgunategTesiPunai</soundfile>
 					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>Ta'si-puna'n?</migmaq> 	
+						<english>How old are you?</english>
+						<soundfile>TasiPunan_NewtiPunai</soundfile>
+					</line>
 					<line>
 						<migmaq>Metla'si-puna'i.</migmaq> 	
 						<english>I am ten.</english>
@@ -2012,6 +2061,13 @@
 						<english>I am twelve.</english>
 						<soundfile>MetlasiPunaiJelTapu</soundfile>
 					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>Ta'si-puna'n?</migmaq> 	
+						<english>How old are you?</english>
+						<soundfile>TasiPunan_NewtiPunai</soundfile>
+					</line>
 					<line>
 						<migmaq>Tapuisgegi-puna'i.</migmaq> 	
 						<english>I am twenty.</english>
@@ -2022,6 +2078,13 @@
 						<english>I am twenty-one.</english>
 						<soundfile>TapuisgegiPunaiJelNewt</soundfile>
 					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>Ta'si-puna'n?</migmaq> 	
+						<english>How old are you?</english>
+						<soundfile>TasiPunan_NewtiPunai</soundfile>
+					</line>
 					<line>
 						<migmaq>Ne'sisgegi-puna'i jel ne'w.</migmaq> 	
 						<english>I am thirty-four.</english>
@@ -2031,6 +2094,13 @@
 						<migmaq>Newisgegi-puna'i.</migmaq> 	
 						<english>I am forty.</english>
 						<soundfile>NewisgegiPunai</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>Ta'si-puna'n?</migmaq> 	
+						<english>How old are you?</english>
+						<soundfile>TasiPunan_NewtiPunai</soundfile>
 					</line>
 					<line>
 						<migmaq>Asugom te'sisgegi-puna'i jel si'st.</migmaq> 	
@@ -2164,6 +2234,8 @@
 						<english>February</english>
 						<soundfile>Apignajit</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>Si'gowigu's</migmaq> 	
 						<english>March</english>
@@ -2179,6 +2251,8 @@
 						<english>May</english>
 						<soundfile>Sqoljuigus</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>Nipnigu's</migmaq> 	
 						<english>June</english>
@@ -2195,6 +2269,8 @@
 						<english>August</english>
 						<soundfile>Gisigwegewigus</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>Wigumgewigu's</migmaq> 	
 						<english>September</english>
@@ -2205,6 +2281,8 @@
 						<english>October</english>
 						<soundfile>Wigewigus</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>Gep't'gewigu's</migmaq> 	
 						<english>November</english>
@@ -2756,13 +2834,20 @@
 						<soundfile>2/1/47/</soundfile>
 					</line>
 					<line>
-						<migmaq>paqt'sm</migmaq> 	
-						<english> wolf</english>
+						<migmaq>gu'gu'gwes</migmaq> 	
+						<english>owl</english>
 						<soundfile>2/1/47/</soundfile>
 					</line>
 					<line>
 						<migmaq>mimiges</migmaq> 	
 						<english> butterfly</english>
+						<soundfile>2/1/47/</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>amaljugwej</migmaq> 	
+						<english>raccoon</english>
 						<soundfile>2/1/47/</soundfile>
 					</line>
 					<line>
@@ -2771,23 +2856,20 @@
 						<soundfile>2/1/47/</soundfile>
 					</line>
 					<line>
-						<migmaq>tia'm</migmaq> 	
-						<english> moose</english>
-						<soundfile>2/1/47/</soundfile>
-					</line>
-					<line>
-						<migmaq>te'plj</migmaq> 	
-						<english> goat</english>
-						<soundfile>2/1/47/</soundfile>
-					</line>
-					<line>
-						<migmaq>wapus</migmaq> 	
-						<english> rabbit</english>
-						<soundfile>2/1/47/</soundfile>
-					</line>
-					<line>
 						<migmaq>apigjilu</migmaq> 	
 						<english> skunk</english>
+						<soundfile>2/1/47/</soundfile>
+					</line>
+					<line>
+						<migmaq>gopit</migmaq> 	
+						<english>beaver</english>
+						<soundfile>2/1/47/</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>ap'tapegiejit</migmaq> 	
+						<english>turkey</english>
 						<soundfile>2/1/47/</soundfile>
 					</line>
 					<line>
@@ -2796,20 +2878,24 @@
 						<soundfile>2/1/47/</soundfile>
 					</line>
 					<line>
-						<migmaq>apigji'j</migmaq> 	
-						<english> mouse</english>
+						<migmaq>te'plj</migmaq> 	
+						<english> goat</english>
 						<soundfile>2/1/47/</soundfile>
 					</line>
-					<line>
-						<migmaq>gu'gu'gwes</migmaq> 	
-						<english>owl</english>
-						<soundfile>2/1/47/</soundfile>
-					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>'sqolj</migmaq> 	
 						<english>frog</english>
 						<soundfile>2/1/47/</soundfile>
 					</line>
+					<line>
+						<migmaq>migjigj</migmaq> 	
+						<english>turtle</english>
+						<soundfile>2/1/47/</soundfile>
+					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>mui'n</migmaq> 	
 						<english>bear</english>
@@ -2821,28 +2907,30 @@
 						<soundfile>2/1/47/</soundfile>
 					</line>
 					<line>
-						<migmaq>migjigj</migmaq> 	
-						<english>turtle</english>
+						<migmaq>tia'm</migmaq> 	
+						<english>moose</english>
 						<soundfile>2/1/47/</soundfile>
 					</line>
 					<line>
-						<migmaq>ap'tapegiejit</migmaq> 	
-						<english>turkey</english>
+						<migmaq>paqt'sm</migmaq> 	
+						<english>wolf</english>
 						<soundfile>2/1/47/</soundfile>
 					</line>
-					<line>
-						<migmaq>amaljugwej</migmaq> 	
-						<english>raccoon</english>
-						<soundfile>2/1/47/</soundfile>
-					</line>
-					<line>
-						<migmaq>gopit</migmaq> 	
-						<english>beaver</english>
-						<soundfile>2/1/47/</soundfile>
-					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>apli'gmuj</migmaq> 	
 						<english>rabbit</english>
+						<soundfile>2/1/47/</soundfile>
+					</line>
+					<line>
+						<migmaq>wapus</migmaq> 	
+						<english>rabbit</english>
+						<soundfile>2/1/47/</soundfile>
+					</line>
+					<line>
+						<migmaq>apigji'j</migmaq> 	
+						<english>mouse</english>
 						<soundfile>2/1/47/</soundfile>
 					</line>
 				</vocab>
@@ -2857,14 +2945,21 @@
 						<soundfile>Gitpug</soundfile>
 					</line>
 					<line>
-						<migmaq>paqt'smug</migmaq> 	
-						<english>wolves</english>
-						<soundfile>Paqtesmug</soundfile>
+						<migmaq>gu'gu'gwesg</migmaq> 	
+						<english>owls</english>
+						<soundfile>Gugugwesg</soundfile>
 					</line>
 					<line>
 						<migmaq>mimigesg</migmaq> 	
 						<english>butterflies</english>
 						<soundfile>Mimigesg</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>amaljugwejg</migmaq> 	
+						<english>raccoons</english>
+						<soundfile>Amaljugwejg</soundfile>
 					</line>
 					<line>
 						<migmaq>wowgwisg</migmaq> 	
@@ -2872,24 +2967,21 @@
 						<soundfile>Wowgwisg</soundfile>
 					</line>
 					<line>
-						<migmaq>tia'mug</migmaq> 	
-						<english>moose</english>
-						<soundfile>Tiamug</soundfile>
-					</line>
-					<line>
-						<migmaq>te'pljig</migmaq> 	
-						<english>goats</english>
-						<soundfile>Tepljig</soundfile>
-					</line>
-					<line>
-						<migmaq>wapusg</migmaq> 	
-						<english>rabbits</english>
-						<soundfile>Wapusg</soundfile>
-					</line>
-					<line>
 						<migmaq>apigjilu'g</migmaq> 	
 						<english>skunks</english>
 						<soundfile>Apigjilug</soundfile>
+					</line>
+					<line>
+						<migmaq>gopitaq</migmaq> 	
+						<english>beavers</english>
+						<soundfile>Gopitaq</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>ap'tapegiejijig</migmaq> 	
+						<english>turkeys</english>
+						<soundfile>Aptapegiejijig</soundfile>
 					</line>
 					<line>
 						<migmaq>go'qoli'gwejg</migmaq> 	
@@ -2897,20 +2989,24 @@
 						<soundfile>Goqoligwejg</soundfile>
 					</line>
 					<line>
-						<migmaq>apigji'jg</migmaq> 	
-						<english>mice</english>
-						<soundfile>Apigjijg</soundfile>
+						<migmaq>te'pljig</migmaq> 	
+						<english>goats</english>
+						<soundfile>Tepljig</soundfile>
 					</line>
-					<line>
-						<migmaq>gu'gu'gwesg</migmaq> 	
-						<english>owls</english>
-						<soundfile>Gugugwesg</soundfile>
-					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>'sqoljig</migmaq> 	
 						<english>frogs</english>
 						<soundfile>Sqoljig</soundfile>
 					</line>
+					<line>
+						<migmaq>migjigjig</migmaq> 	
+						<english>turtles</english>
+						<soundfile>Migjigjig</soundfile>
+					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>mui'naq</migmaq> 	
 						<english>bears</english>
@@ -2922,29 +3018,31 @@
 						<soundfile>Muinejg</soundfile>
 					</line>
 					<line>
-						<migmaq>migjigjig</migmaq> 	
-						<english>turtles</english>
-						<soundfile>Migjigjig</soundfile>
+						<migmaq>tia'mug</migmaq> 	
+						<english>moose</english>
+						<soundfile>Tiamug</soundfile>
 					</line>
 					<line>
-						<migmaq>ap'tapegiejijig</migmaq> 	
-						<english>turkeys</english>
-						<soundfile>Aptapegiejijig</soundfile>
+						<migmaq>paqt'smug</migmaq> 	
+						<english>wolves</english>
+						<soundfile>Paqtesmug</soundfile>
 					</line>
-					<line>
-						<migmaq>amaljugwejg</migmaq> 	
-						<english>raccoons</english>
-						<soundfile>Amaljugwejg</soundfile>
-					</line>
-					<line>
-						<migmaq>gopitaq</migmaq> 	
-						<english>beavers</english>
-						<soundfile>Gopitaq</soundfile>
-					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>apli'gmujg</migmaq> 	
 						<english>rabbits</english>
 						<soundfile>Apligmujg</soundfile>
+					</line>
+					<line>
+						<migmaq>wapusg</migmaq> 	
+						<english>rabbits</english>
+						<soundfile>Wapusg</soundfile>
+					</line>
+					<line>
+						<migmaq>apigji'jg</migmaq> 	
+						<english>mice</english>
+						<soundfile>Apigjijg</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -2959,14 +3057,21 @@
 						<soundfile>Nemi'gGitpuAlaqsingMusigisgtug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'g paqt'sm pemtugwi'g sipug.</migmaq> 	
-						<english>I see a wolf running along the river.</english>
-						<soundfile>NemigPaqtesmPemtugwigSipug</soundfile>
+						<migmaq>Nemi'g gu'gu'gwes alaqsing nipugtug.</migmaq> 	
+						<english>I see an owl flying around in the woods.</english>
+						<soundfile>NemigGugugwesAlaqsingNipugtug</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'g mimiges alaqsing musigisg'tug.</migmaq> 	
 						<english>I see a butterfly flying around in the sky.</english>
 						<soundfile>NemigMimigesAlaqsingMusigisgtug</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>Nutaq amaljugwej metewe'g gujmug.</migmaq> 	
+						<english>I hear a raccoon making a sound outside.</english>
+						<soundfile>NutaqAmaljugwejMetewegGujmug</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'g wowgwis al'tugwi'g awtigtug.</migmaq> 	
@@ -2974,45 +3079,46 @@
 						<soundfile>NemigWowgwisAltugwigAwtigtug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'g tia'm ale'g qospemg.</migmaq> 	
-						<english>I see a moose hanging around at the lake.</english>
-						<soundfile>NemigTiamAlegQospemg</soundfile>
+						<migmaq>Nemi'g apigjilu pisit tepaqanigtug.</migmaq> 	
+						<english>I see a skunk located in/underneath the car.</english>
+						<soundfile>NemigApigjiluPisitTepaqanigtug</soundfile>
+					</line>
+					<line>
+						<migmaq>Nemi'g gopit ala'q samqwanigtug, gigjiw gun'tewigtug.</migmaq> 	
+						<english>I see a beaver swimming around in the water, near a rock.</english>
+						<soundfile>NemigGopitAlaqSamqwanigtugGigjiwGuntewigtug</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>Nutaq ap'tapegiejit etlatalg 'msiguigtug.</migmaq> 	
+						<english>I see a turkey eating in the grass.</english>
+						<soundfile>NutaqAptapegiejitEtlatalgMsiguigtug</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'g te'plj al-mila'teget gujmug.</migmaq> 	
 						<english>I see a goat playing around/going around doing mischief outside.</english>
 						<soundfile>NemigTepljAlmilategetGujmug</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
-						<migmaq>Nutaq wapus ali-unaqja't 'msiguigtug.</migmaq> 	
-						<english>I hear a rabbit hopping around in the grass.</english>
-						<soundfile>NutaqWapusAliunaqjatMsiguigtug</soundfile>
+						<migmaq>Nemi'g 'sqolj ala'q qospemg.</migmaq> 	
+						<english>I see a frog swimming around in the lake.</english>
+						<soundfile>NemigSqoljAlaqQospemg</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'g apigjilu pisit tepaqanigtug.</migmaq> 	
-						<english>I see a skunk located in/underneath the car.</english>
-						<soundfile>NemigApigjiluPisitTepaqanigtug</soundfile>
+						<migmaq>Nemi'g migjigj ala'q qospemg.</migmaq> 	
+						<english>I see a turtle swimming around in the lake.</english>
+						<soundfile>NemigMigjigjAlaqQospemg</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'g go'gwe'ji'j pemi-tqojuapegit miti'sigtug.</migmaq> 	
 						<english>I see a spider climbing along up the tree.</english>
 						<soundfile>NemigGogwejijPemitqojuapegitMitisigtug</soundfile>
 					</line>
-					<line>
-						<migmaq>Nemi'g apigji'j neii'pit, aq app aqui'pit.</migmaq> 	
-						<english>I see a mouse zip out into view, and again zip out of view.</english>
-						<soundfile>NemigApigjijNeiipitAqAppAquipit</soundfile>
-					</line>
-					<line>
-						<migmaq>Nemi'g gu'gu'gwes alaqsing nipugtug.</migmaq> 	
-						<english>I see an owl flying around in the woods.</english>
-						<soundfile>NemigGugugwesAlaqsingNipugtug</soundfile>
-					</line>
-					<line>
-						<migmaq>Nemi'g 'sqolj ala'q qospemg.</migmaq> 	
-						<english>I see a frog swimming around in the lake.</english>
-						<soundfile>NemigSqoljAlaqQospemg</soundfile>
-					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>Nemi'g mui'n ale'g nipugtug.</migmaq> 	
 						<english>I see a bear hanging around in the woods.</english>
@@ -3024,29 +3130,31 @@
 						<soundfile>NutaqMuinejAltemitNipugtug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'g migjigj ala'q qospemg.</migmaq> 	
-						<english>I see a turtle swimming around in the lake.</english>
-						<soundfile>NemigMigjigjAlaqQospemg</soundfile>
+						<migmaq>Nemi'g tia'm ale'g qospemg.</migmaq> 	
+						<english>I see a moose hanging around at the lake.</english>
+						<soundfile>NemigTiamAlegQospemg</soundfile>
 					</line>
 					<line>
-						<migmaq>Nutaq ap'tapegiejit etlatalg 'msiguigtug.</migmaq> 	
-						<english>I see a turkey eating in the grass.</english>
-						<soundfile>NutaqAptapegiejitEtlatalgMsiguigtug</soundfile>
+						<migmaq>Nemi'g paqt'sm pemtugwi'g sipug.</migmaq> 	
+						<english>I see a wolf running along the river.</english>
+						<soundfile>NemigPaqtesmPemtugwigSipug</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
-						<migmaq>Nutaq amaljugwej metewe'g gujmug.</migmaq> 	
-						<english>I hear a raccoon making a sound outside.</english>
-						<soundfile>NutaqAmaljugwejMetewegGujmug</soundfile>
-					</line>
-					<line>
-						<migmaq>Nemi'g gopit ala'q samqwanigtug, gigjiw gun'tewigtug.</migmaq> 	
-						<english>I see a beaver swimming around in the water, near a rock.</english>
-						<soundfile>NemigGopitAlaqSamqwanigtugGigjiwGuntewigtug</soundfile>
+						<migmaq>Nutaq wapus ali-unaqja't 'msiguigtug.</migmaq> 	
+						<english>I hear a rabbit hopping around in the grass.</english>
+						<soundfile>NutaqWapusAliunaqjatMsiguigtug</soundfile>
 					</line>
 					<line>
 						<migmaq>Nutaq apli'gmuj metewatalg iga'taqanigtug.</migmaq> 	
 						<english>I hear a rabbit eating (heard but not seen) in the garden.</english>
 						<soundfile>NutaqApligmujMetewatalgIgataqanigtug</soundfile>
+					</line>
+					<line>
+						<migmaq>Nemi'g apigji'j neii'pit, aq app aqui'pit.</migmaq> 	
+						<english>I see a mouse zip out into view, and again zip out of view.</english>
+						<soundfile>NemigApigjijNeiipitAqAppAquipit</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -3061,14 +3169,21 @@
 						<soundfile>NemigigGitpugAlaqsingigMusigisgtug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'gig paqt'smug pemtugwi'gig sipug.</migmaq> 	
-						<english>I see two wolves running along the river.</english>
-						<soundfile>NemigigPaqtsmugPemtugwigigSipug</soundfile>
+						<migmaq>Nemi'gig gu'gu'gwesg alaqsingig nipugtug.</migmaq> 	
+						<english>I see two owls flying around in the woods.</english>
+						<soundfile>NemigigGugugwesgAlaqsingigNipugtug</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'gig mimigesg alaqsingig musigisg'tug.</migmaq> 	
 						<english>I see two butterflies flying around in the sky.</english>
 						<soundfile>NemigigMimigesgAlaqsingigMusigisgtug</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>Nutaqig amaljugwejg metewe'gig gujmug.</migmaq> 	
+						<english>I hear two raccoons making a sound outside.</english>
+						<soundfile>NutaqigAmaljugwejgMetewegigGujmug</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'gig wowgwisg al'tugwi'gig awtigtug.</migmaq> 	
@@ -3076,24 +3191,38 @@
 						<soundfile>NemigigWowgwisgAltugwigigAwtigtug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'gig tia'mug ale'gig qospemg.</migmaq> 	
-						<english>I see two moose hanging around at the lake.</english>
-						<soundfile>NemigigTiamugAlegigQospemg</soundfile>
+						<migmaq>Nemi'gig apigjilu'g pisijig tepaqanigtug.</migmaq> 	
+						<english>I see two skunks located in/underneath the car.</english>
+						<soundfile>NemigigApigjilugPisijigTepaqanigtug</soundfile>
+					</line>
+					<line>
+						<migmaq>Nemi'gig gopitaq ala'qig samqwanigtug, gigjiw gun'tewigtug.</migmaq> 	
+						<english>I see two beavers swimming around in the water, near a rock.</english>
+						<soundfile>NemigigGopitaqAlaqigSamqwanigtugGigjiwGuntewigtug</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>Nutaqig ap'tapegiejijig etlatalgig 'msiguigtug.</migmaq> 	
+						<english>I see two turkeys eating in the grass.</english>
+						<soundfile>NutaqigAptapegiejijigEtlatalgigMsiguigtug</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'gig te'pljig al-mila'tegejig gujmug.</migmaq> 	
 						<english>I see two goats playing around/going around doing mischief outside.</english>
 						<soundfile>NemigigTepljigAlmilategejigGujmug</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
-						<migmaq>Nutaqig wapusg ali-unaqja'jig 'msiguigtug.</migmaq> 	
-						<english>I hear two rabbits hopping around in the grass.</english>
-						<soundfile>NutaqigWapusgAliunaqjajigMsiguigtug</soundfile>
+						<migmaq>Nemi'gig 'sqoljig ala'qig qospemg.</migmaq> 	
+						<english>I see two frogs swimming around in the lake.</english>
+						<soundfile>NemigigSqoljigAlaqigQospemg</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'gig apigjilu'g pisijig tepaqanigtug.</migmaq> 	
-						<english>I see two skunks located in/underneath the car.</english>
-						<soundfile>NemigigApigjilugPisijigTepaqanigtug</soundfile>
+						<migmaq>Nemi'gig migjigjig ala'qig qospemg.</migmaq> 	
+						<english>I see two turtles swimming around in the lake.</english>
+						<soundfile>NemigigMigjigjigAlaqigQospemg</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'gig go'gwe'ji'jg pemi-tqojuapegijig miti'sigtug.</migmaq> 	
@@ -3101,22 +3230,8 @@
 						<soundfile>NemigigGogwejijgPemitqojuapegijigMitisigtug
 						</soundfile>
 					</line>
-					<line>
-						<migmaq>Nemi'gig apigji'jg neii'pijig, aq app aqui'pijig.</migmaq> 	
-						<english>I see two mice zip out into view, and again zip out of view.</english>
-						<soundfile>NemigigApigjijgNeiipijigAqAppAquipijig
-						</soundfile>
-					</line>
-					<line>
-						<migmaq>Nemi'gig gu'gu'gwesg alaqsingig nipugtug.</migmaq> 	
-						<english>I see two owls flying around in the woods.</english>
-						<soundfile>NemigigGugugwesgAlaqsingigNipugtug</soundfile>
-					</line>
-					<line>
-						<migmaq>Nemi'gig 'sqoljig ala'qig qospemg.</migmaq> 	
-						<english>I see two frogs swimming around in the lake.</english>
-						<soundfile>NemigigSqoljigAlaqigQospemg</soundfile>
-					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>Nemi'gig mui'naq ale'gig nipugtug.</migmaq> 	
 						<english>I see two bears hanging around in the woods.</english>
@@ -3128,24 +3243,27 @@
 						<soundfile>NutaqigMuinejgAltemijigNipugtug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'gig migjigjig ala'qig qospemg.</migmaq> 	
-						<english>I see two turtles swimming around in the lake.</english>
-						<soundfile>NemigigMigjigjigAlaqigQospemg</soundfile>
+						<migmaq>Nemi'gig tia'mug ale'gig qospemg.</migmaq> 	
+						<english>I see two moose hanging around at the lake.</english>
+						<soundfile>NemigigTiamugAlegigQospemg</soundfile>
 					</line>
 					<line>
-						<migmaq>Nutaqig ap'tapegiejijig etlatalgig 'msiguigtug.</migmaq> 	
-						<english>I see two turkeys eating in the grass.</english>
-						<soundfile>NutaqigAptapegiejijigEtlatalgigMsiguigtug</soundfile>
+						<migmaq>Nemi'gig paqt'smug pemtugwi'gig sipug.</migmaq> 	
+						<english>I see two wolves running along the river.</english>
+						<soundfile>NemigigPaqtsmugPemtugwigigSipug</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>Nemi'gig apigji'jg neii'pijig, aq app aqui'pijig.</migmaq> 	
+						<english>I see two mice zip out into view, and again zip out of view.</english>
+						<soundfile>NemigigApigjijgNeiipijigAqAppAquipijig
+						</soundfile>
 					</line>
 					<line>
-						<migmaq>Nutaqig amaljugwejg metewe'gig gujmug.</migmaq> 	
-						<english>I hear two raccoons making a sound outside.</english>
-						<soundfile>NutaqigAmaljugwejgMetewegigGujmug</soundfile>
-					</line>
-					<line>
-						<migmaq>Nemi'gig gopitaq ala'qig samqwanigtug, gigjiw gun'tewigtug.</migmaq> 	
-						<english>I see two beavers swimming around in the water, near a rock.</english>
-						<soundfile>NemigigGopitaqAlaqigSamqwanigtugGigjiwGuntewigtug</soundfile>
+						<migmaq>Nutaqig wapusg ali-unaqja'jig 'msiguigtug.</migmaq> 	
+						<english>I hear two rabbits hopping around in the grass.</english>
+						<soundfile>NutaqigWapusgAliunaqjajigMsiguigtug</soundfile>
 					</line>
 					<line>
 						<migmaq>Nutaqig apli'gmujg metewatalgig iga'taqanigtug.</migmaq> 	
@@ -3165,15 +3283,21 @@
 						<soundfile>NemigigGitpugAlaqsultijigMusigisgtug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'gig paqt'smug pemtugul'tijig sipug.</migmaq> 	
-						<english>I see wolves running along the river.</english>
-						<soundfile>NemigigPaqtsmugPemtugultijigSipug</soundfile>
+						<migmaq>Nemi'gig gu'gu'gwesg alaqsultijig nipugtug.</migmaq> 	
+						<english>I see owls flying around in the woods.</english>
+						<soundfile>NemigigGugugwesgAlaqsultijigNipugtug</soundfile>
 					</line>
-					<linetimsig>[@4:36-4:41.5]</linetimsig>
 					<line>
 						<migmaq>Nemi'gig mimigesg alaqsultijig musigisg'tug.</migmaq> 	
 						<english>I see butterflies flying around in the sky.</english>
 						<soundfile>NemigigMimigesgAlaqsultijigMusigisgtug</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>Nutaqig amaljugwejg metewo'ltijig gujmug.</migmaq> 	
+						<english>I hear raccoons making a sound outside.</english>
+						<soundfile>NutaqigAmaljugwejgMetewoltijigGujmug</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'gig wowgwisg al'tugultijig awtigtug.</migmaq> 	
@@ -3181,45 +3305,46 @@
 						<soundfile>NemigigWowgwisgAltugultijigAwtigtug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'gig tia'mug alo'ltijig qospemg.</migmaq> 	
-						<english>I see moose hanging around at the lake.</english>
-						<soundfile>NemigigTiamugAloltijigQospemg</soundfile>
+						<migmaq>Nemi'gig apigjilu'g pisultjig tepaqanigtug.</migmaq> 	
+						<english>I see skunks located in/underneath the car.</english>
+						<soundfile>NemigigApigjilugPisultjigTepaqanigtug</soundfile>
+					</line>
+					<line>
+						<migmaq>Nemi'gig gopitaq ala'mu'tijig samqwanigtug, gigjiw gun'tewigtug.</migmaq> 	
+						<english>I see beavers swimming around in the water, near a rock.</english>
+						<soundfile>NemigigGopitaqAlamutijigSamqwanigtugGigjiwguntewigtug</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>Nutaqig ap'tapegiejijig etlatalultijig 'msiguigtug.</migmaq> 	
+						<english>I see turkeys eating in the grass.</english>
+						<soundfile>NutaqigAptapegiejijigEtlatalultijigMsiguigtug</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'gig te'pljig al-mila'taqa'tijig gujmug.</migmaq> 	
 						<english>I see goats playing around/going around doing mischief outside.</english>
 						<soundfile>NemigigTepljigAlmilataqatijigGujmug</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
-						<migmaq>Nutaqig wapusg ali-unaqjol'tijig 'msiguigtug.</migmaq> 	
-						<english>I hear rabbits hopping around in the grass.</english>
-						<soundfile>NutaqigWapusgAliunaqjoltijigMsiguigtug</soundfile>
+						<migmaq>Nemi'gig 'sqoljig ala'mu'tijig qospemg.</migmaq> 	
+						<english>I see frogs swimming around in the lake.</english>
+						<soundfile>NemigigSqoljigAlamutijigQospemg</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'gig apigjilu'g pisultjig tepaqanigtug.</migmaq> 	
-						<english>I see skunks located in/underneath the car.</english>
-						<soundfile>NemigigApigjilugPisultjigTepaqanigtug</soundfile>
+						<migmaq>Nemi'gig migjigjig ala'mu'tijig qospemg.</migmaq> 	
+						<english>I see turtles swimming around in the lake.</english>
+						<soundfile>NemigigMigjigjigAlamutijigQospemg</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'gig go'gwe'ji'jg pemi-tqojuapegultijig miti'sigtug.</migmaq> 	
 						<english>I see spiders climbing along up the tree.</english>
 						<soundfile>NemigigGogwejijgPemitqojuapegultijigMitisigtug</soundfile>
 					</line>
-					<line>
-						<migmaq>Nemi'gig apigji'jg neii'pultijig, aq app aqui'pultijig.</migmaq> 	
-						<english>I see mice zip out into view, and again zip out of view.</english>
-						<soundfile>NemigigApigjijgNeiipultijigAqAppAquipultijig</soundfile>
-					</line>
-					<line>
-						<migmaq>Nemi'gig gu'gu'gwesg alaqsultijig nipugtug.</migmaq> 	
-						<english>I see two flying around in the woods.</english>
-						<soundfile>NemigigGugugwesgAlaqsultijigNipugtug</soundfile>
-					</line>
-					<line>
-						<migmaq>Nemi'gig 'sqoljig ala'mu'tijig qospemg.</migmaq> 	
-						<english>I see frogs swimming around in the lake.</english>
-						<soundfile>NemigigSqoljigAlamutijigQospemg</soundfile>
-					</line>
+				</vocab>
+				<vocab>	
 					<line>
 						<migmaq>Nemi'gig mui'naq alo'ltijig nipugtug.</migmaq> 	
 						<english>I see bears hanging around in the woods.</english>
@@ -3231,30 +3356,31 @@
 						<soundfile>NutaqigMuinejgAltemultijigNipugtug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'gig migjigjig ala'mu'tijig qospemg.</migmaq> 	
-						<english>I see turtles swimming around in the lake.</english>
-						<soundfile>NemigigMigjigjigAlamutijigQospemg</soundfile>
+						<migmaq>Nemi'gig tia'mug alo'ltijig qospemg.</migmaq> 	
+						<english>I see moose hanging around at the lake.</english>
+						<soundfile>NemigigTiamugAloltijigQospemg</soundfile>
 					</line>
 					<line>
-						<migmaq>Nutaqig ap'tapegiejijig etlatalultijig 'msiguigtug.</migmaq> 	
-						<english>I see turkeys eating in the grass.</english>
-						<soundfile>NutaqigAptapegiejijigEtlatalultijigMsiguigtug</soundfile>
+						<migmaq>Nemi'gig paqt'smug pemtugul'tijig sipug.</migmaq> 	
+						<english>I see wolves running along the river.</english>
+						<soundfile>NemigigPaqtsmugPemtugultijigSipug</soundfile>
 					</line>
-					<line>
-						<migmaq>Nutaqig amaljugwejg metewo'ltijig gujmug.</migmaq> 	
-						<english>I hear raccoons making a sound outside.</english>
-						<soundfile>NutaqigAmaljugwejgMetewoltijigGujmug</soundfile>
-					</line>
-					<line>
-						<migmaq>Nemi'gig gopitaq ala'mu'tijig samqwanigtug, gigjiw gun'tewigtug.</migmaq> 	
-						<english>I see beavers swimming around in the water, near a rock.</english>
-						<soundfile>NemigigGopitaqAlamutijigSamqwanigtugGigjiwguntewigtug</soundfile>
-					</line>
-					<linetimsig>[@6:21-6:26.5]</linetimsig>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>Nutaqig apli'gmujg metewatalultijig iga'taqanigtug.</migmaq> 	
 						<english>I hear rabbits eating (heard but not seen) in the garden.</english>
 						<soundfile>NutaqigApligmujgMetewatalultijigIgataqanigtug</soundfile>
+					</line>
+					<line>
+						<migmaq>Nutaqig wapusg ali-unaqjol'tijig 'msiguigtug.</migmaq> 	
+						<english>I hear rabbits hopping around in the grass.</english>
+						<soundfile>NutaqigWapusgAliunaqjoltijigMsiguigtug</soundfile>
+					</line>
+					<line>
+						<migmaq>Nemi'gig apigji'jg neii'pultijig, aq app aqui'pultijig.</migmaq> 	
+						<english>I see mice zip out into view, and again zip out of view.</english>
+						<soundfile>NemigigApigjijgNeiipultijigAqAppAquipultijig</soundfile>
 					</line>
 				</vocab>
 			</lesson>
