@@ -36,14 +36,18 @@ def processLesson(level, lesson):
 
 def processUnit(level, unit):
   #Transforms all units and creates an index file for each showing child files
-  createIndexFile("units", unit, level)
+  fileprefix = createFilePrefix(unit, level)#create prefix for filename
+  plain_string = etree.XSLT.strparam(fileprefix)#convert to plain string
+  createIndexFile("units", unit, level, plain_string)
   lessons = unit.xpath("lesson")  #get lessons
   for lesson in lessons: #call lesson processing
       processLesson(level+1, lesson)
 
 def processSection(level, section):
   #Transforms all sections and creates an index file for each showing child files  
-  createIndexFile("sections", section, level)
+  fileprefix = createFilePrefix(section, level)#create prefix for filename
+  plain_string = etree.XSLT.strparam(fileprefix)#convert to plain string
+  createIndexFile("sections", section, level, plain_string)
   units = section.xpath("unit") #get units
   for unit in units: #call unit processing
     processUnit(level+1, unit)
@@ -58,12 +62,12 @@ def processLessonSet(level, lessonset):
   for section in sections: #call section processing
     processSection(level+1, section)
 
-def createIndexFile(location, current, level):
+def createIndexFile(location, current, level, prefix):
   #Creates an index file displaying titles of all child files and linking to them
   filename = "../" + location + "/" + createFilename(current,level)#create filename
   f = open(filename, "w") #create new file
   f.write(getMarkup(current, level))#write Jekyll markup to top
-  f.write(str(index_xsl(current))) #apply xslt transformation to generate an index and write to file
+  f.write(str(index_xsl(current, fileprefix=prefix))) #apply xslt transformation to generate an index and write to file
   f.close()
 
 def getMarkup(current, level):
