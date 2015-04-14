@@ -22,31 +22,33 @@
         <div id="dialogHeading">Dialog 1</div>
         <div id="allDialogs">      
           <xsl:for-each select="dialog">
-            <xsl:for-each select="line">
-              <div class="media"><!--Make a media object with the audio file-->
-                <xsl:if test="soundfile">
-                  <div class="media-left">
-                    <button class="btn btn-default" type="button">
-                      <span class="glyphicon glyphicon-play" aria-hidden="true">
-                        <audio>
-                          <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/>.mp3</xsl:variable>
-                          <source src="{$soundurl}" type="audio/mpeg"/>
-                        </audio>
-                      </span>
-                    </button>
+            <div class="container">
+              <xsl:for-each select="line">
+                <div class="media"><!--Make a media object with the audio file-->
+                  <xsl:if test="soundfile">
+                    <div class="media-left">
+                      <button class="btn btn-default" type="button">
+                        <span class="glyphicon glyphicon-play" aria-hidden="true">
+                          <audio>
+                            <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/>.mp3</xsl:variable>
+                            <source src="{$soundurl}" type="audio/mpeg"/>
+                          </audio>
+                        </span>
+                      </button>
+                    </div>
+                  </xsl:if>
+                  <div class="media-body">
+                    <h2 class="media-heading">
+                      <xsl:value-of select="migmaq"/>
+                    </h2><!--Display Mi'gmaq-->
+                    <h4 class="media-heading">
+                      <xsl:value-of select="english"/>
+                    </h4><!--Display English-->            
                   </div>
-                </xsl:if>
-                <div class="media-body">
-                  <h2 class="media-heading">
-                    <xsl:value-of select="migmaq"/>
-                  </h2><!--Display Mi'gmaq-->
-                  <h4 class="media-heading">
-                    <xsl:value-of select="english"/>
-                  </h4><!--Display English-->            
                 </div>
-              </div>
-            </xsl:for-each>
-        </xsl:for-each>
+              </xsl:for-each>
+            </div>
+          </xsl:for-each>
           <ul class="pager">
             <li class = "previous">
               <a href="#" id="prevDialog"><span aria-hidden="true"><xsl:text disable-output-escaping="yes">&#8592;</xsl:text></span>Previous Dialog</a>
@@ -59,35 +61,37 @@
       </div>
     </xsl:if>
     <xsl:if test="vocab">
-      <div class="well well-lg">
+      <div class="well well-lg"> 
         <div id="vocabHeading">Vocabulary Section 1</div>
-        <div id="allVocabs">      
+        <div id="allVocabs">     
           <xsl:for-each select="vocab">
-            <xsl:for-each select="line">
-              <div class="media"><!--Make a media object with the audio file-->
-                <xsl:if test="soundfile">
-                  <div class="media-left">
-                    <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/>.mp3</xsl:variable>
-                    <button class="btn btn-default" type="button">
-                      <span class="glyphicon glyphicon-play" aria-hidden="true">
-                        <audio>
-                          <source src="{$soundurl}" type="audio/mpeg"/>
-                        </audio>
-                      </span>
-                    </button>
+            <div class="container">
+              <xsl:for-each select="line">
+                <div class="media"><!--Make a media object with the audio file-->
+                  <xsl:if test="soundfile">
+                    <div class="media-left">
+                      <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/>.mp3</xsl:variable>
+                      <button class="btn btn-default" type="button">
+                        <span class="glyphicon glyphicon-play" aria-hidden="true">
+                          <audio>
+                            <source src="{$soundurl}" type="audio/mpeg"/>
+                          </audio>
+                        </span>
+                      </button>
+                    </div>
+                  </xsl:if>
+                  <div class="media-body">
+                    <h2 class="media-heading">
+                      <xsl:value-of select="migmaq"/>
+                    </h2><!--Display Mi'gmaq-->
+                    <h4 class="media-heading">
+                      <xsl:value-of select="english"/>
+                    </h4><!--Display English-->            
                   </div>
-                </xsl:if>
-                <div class="media-body">
-                  <h2 class="media-heading">
-                    <xsl:value-of select="migmaq"/>
-                  </h2><!--Display Mi'gmaq-->
-                  <h4 class="media-heading">
-                    <xsl:value-of select="english"/>
-                  </h4><!--Display English-->            
                 </div>
-              </div>
-            </xsl:for-each>
-        </xsl:for-each>
+              </xsl:for-each>
+            </div>
+          </xsl:for-each>
           <ul class="pager">
             <li class = "previous">
               <a href="#" id="prevVocab"><span aria-hidden="true"><xsl:text disable-output-escaping="yes">&#8592;</xsl:text></span>Previous Vocabulary</a>
