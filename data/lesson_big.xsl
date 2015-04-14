@@ -13,8 +13,15 @@
         </p>
       </div>
       <div class="col-md-4">
-        <xsl:variable name="imgurl">{{ site.baseurl }}/img/wikiimage.png</xsl:variable>
-        <img class="img-responsive thumbnail" src="{$imgurl}" alt="Trees" style="max-width: 75%"></img><!--Display unit img-->
+        <xsl:choose>
+          <xsl:when test="img"><!--Display image if there is one, else display default-->
+            <xsl:variable name="imgurl"><xsl:value-of select="img"/></xsl:variable>
+            <img class="img-responsive thumbnail" src="{$imgurl}" alt="Trees" style="max-width: 75%"></img>
+          </xsl:when>
+          <xsl:otherwise>
+           <img class="img-responsive thumbnail" src="{{{{ site.baseurl }}}}/img/wikiimage.png" alt="Trees" style="max-width: 75%"></img>
+          </xsl:otherwise>
+        </xsl:choose>
       </div>
     </div>
     <xsl:if test="dialog"><!--if there are dialogs, display them-->
@@ -22,7 +29,7 @@
         <div id="dialogHeading">Dialog 1</div>
         <div id="allDialogs">      <!--when combined with nav.js, this iterates through the dialogs one at a time-->
           <xsl:for-each select="dialog">
-            <div class="container">
+            <div class="container"><!-- if you want to display 1 line at a time, remove this div-->
               <xsl:for-each select="line">
                 <div class="media"><!--Make a media object with the audio file-->
                   <xsl:if test="soundfile"><!-- Link to audio file if there is one-->
@@ -65,7 +72,7 @@
         <div id="vocabHeading">Vocabulary Section 1</div>
         <div id="allVocabs">     <!--when combined with nav.js, this iterates through the vocabs one at a time-->
           <xsl:for-each select="vocab">
-            <div class="container">
+            <div class="container"><!-- if you want to display 1 line at a time, remove this div-->
               <xsl:for-each select="line">
                 <div class="media"><!--Make a media object with the audio file-->
                   <xsl:if test="soundfile"><!-- Link to audio file if there is one-->
