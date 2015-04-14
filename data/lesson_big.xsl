@@ -23,17 +23,19 @@
         <div id="allDialogs">      
           <xsl:for-each select="dialog">
             <xsl:for-each select="line">
-              <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/>.mp3</xsl:variable>
               <div class="media"><!--Make a media object with the audio file-->
-                <div class="media-left">
-                  <button class="btn btn-default" type="button">
-                    <span class="glyphicon glyphicon-play" aria-hidden="true">
-                      <audio>
-                        <source src="{$soundurl}" type="audio/mpeg"/>
-                      </audio>
-                    </span>
-                  </button>
-                </div>
+                <xsl:if test="soundfile">
+                  <div class="media-left">
+                    <button class="btn btn-default" type="button">
+                      <span class="glyphicon glyphicon-play" aria-hidden="true">
+                        <audio>
+                          <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/>.mp3</xsl:variable>
+                          <source src="{$soundurl}" type="audio/mpeg"/>
+                        </audio>
+                      </span>
+                    </button>
+                  </div>
+                </xsl:if>
                 <div class="media-body">
                   <h2 class="media-heading">
                     <xsl:value-of select="migmaq"/>
@@ -62,17 +64,19 @@
         <div id="allVocabs">      
           <xsl:for-each select="vocab">
             <xsl:for-each select="line">
-              <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/>.mp3</xsl:variable>
               <div class="media"><!--Make a media object with the audio file-->
-                <div class="media-left">
-                  <button class="btn btn-default" type="button">
-                    <span class="glyphicon glyphicon-play" aria-hidden="true">
-                      <audio>
-                        <source src="{$soundurl}" type="audio/mpeg"/>
-                      </audio>
-                    </span>
-                  </button>
-                </div>
+                <xsl:if test="soundfile">
+                  <div class="media-left">
+                    <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/>.mp3</xsl:variable>
+                    <button class="btn btn-default" type="button">
+                      <span class="glyphicon glyphicon-play" aria-hidden="true">
+                        <audio>
+                          <source src="{$soundurl}" type="audio/mpeg"/>
+                        </audio>
+                      </span>
+                    </button>
+                  </div>
+                </xsl:if>
                 <div class="media-body">
                   <h2 class="media-heading">
                     <xsl:value-of select="migmaq"/>

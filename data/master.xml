@@ -197,14 +197,14 @@
 					<line>
 						<migmaq>Tlua _______ 'nnuigtug.</migmaq> 	
 						<english>Say _______ in Native.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Getu' 'gji'tu ta'n tel-tluen _______ .</migmaq> 	
 						<english>I want to know how you say _______.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Ge' apoqonmui.</migmaq> 	
@@ -234,8 +234,8 @@
 					<line>
 						<migmaq>Getu'-pipanimul na't-goqwei. Tal-tluen _______.</migmaq> 	
 						<english>I want to ask you something. How do you say _______.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Getu'-pipanimul, ta'n tel-tluen _______.</migmaq> 	
@@ -325,8 +325,8 @@
 					<line>
 						<migmaq>Moqwa', ala na 'ngwe'ji'j.</migmaq> 	
 						<english>No, that is my younger sister.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -374,8 +374,8 @@
 					<line>
 						<migmaq>Mise'l, Sa'n, Malia'n, aq Mali.</migmaq> 	
 						<english>Michael, John, Mary-Ann, and Mary.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -394,8 +394,8 @@
 					<line>
 						<migmaq>'Nsis Mise'l teluisit.</migmaq> 	
 						<english>My older brother's name is Michael.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -408,8 +408,8 @@
 					<line>
 						<migmaq>Nmis Malia'n teluisit.</migmaq> 	
 						<english>My older sister's name is Mary-Ann.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -422,8 +422,8 @@
 					<line>
 						<migmaq>'Njignam Sa'n teluisit.</migmaq> 	
 						<english>My younger brother's name is John.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -436,8 +436,8 @@
 					<line>
 						<migmaq>'Ngwe'ji'j Mali teluisit.</migmaq> 	
 						<english>My younger sister's name is Mary.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -455,8 +455,8 @@
 					<line>
 						<migmaq>Ntlamugsis Ta'pit teluisit.</migmaq> 	
 						<english>My uncle's name is David.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -469,8 +469,8 @@
 					<line>
 						<migmaq>'Nsugwis Agn's teluisit.</migmaq> 	
 						<english>My aunt's name is Agnes.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -483,8 +483,8 @@
 					<line>
 						<migmaq>Pugwelgig no'gmaq, gatu newte'jit teluisit Poligap.</migmaq> 	
 						<english>I have lots of cousins [lit. 'many are my cousins'], but one is named Polycarpe.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -502,8 +502,8 @@
 					<line>
 						<migmaq>Nmijgamij Piel teluisit.</migmaq> 	
 						<english>My grandfather's name is Peter.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -516,8 +516,8 @@
 					<line>
 						<migmaq>Nugumij Nastasi teluisit.</migmaq> 	
 						<english>My grandmother's name is Anastasia.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -536,8 +536,8 @@
 					<line>
 						<migmaq>Nmijgamijaq Sulian teluisipnaq.</migmaq> 	
 						<english>My (deceased) grandfather's name was Julian.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Taluisisnaq gugmijaq?</migmaq> 	
@@ -547,8 +547,8 @@
 					<line>
 						<migmaq>Nugmijaq 'Lluis teluisipnaq.</migmaq> 	
 						<english>My (deceased) grandmother's name was Eloise.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -566,8 +566,8 @@
 					<line>
 						<migmaq>Mu elugwew, etl-gina'masi.</migmaq> 	
 						<english>I don't work, I'm a student [lit. 'I am studying/learning']</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Goqwei etl-gina'masin?</migmaq> 	
@@ -577,8 +577,8 @@
 					<line>
 						<migmaq>'Nnui'suti etl-gina'masi.</migmaq> 	
 						<english>I am studying Mi'gmaq [lit. 'Native language'].</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -596,8 +596,8 @@
 					<line>
 						<migmaq>E'e, 'nnui'si.</migmaq> 	
 						<english>Yes, I speak Native.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Getu'-nnuisin nige'?</migmaq> 	
@@ -607,8 +607,8 @@
 					<line>
 						<migmaq>E'e, 'nnui'sinej.</migmaq> 	
 						<english>Yes, let's speak Native.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -625,8 +625,8 @@
 					<line>
 						<migmaq>E'e, 'nnui'si.</migmaq> 	
 						<english>Yes, I speak Native</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Getu'-nnui'sin nige'?</migmaq> 	
@@ -636,8 +636,8 @@
 					<line>
 						<migmaq>Jipatm nnui'sin, muta maligamiten.</migmaq> 	
 						<english>I'm afraid to speak Native, because I will be laughed at.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>'Ms't wen wijei telo'teget, amgwesewei.</migmaq> 	
@@ -1182,8 +1182,8 @@
 					<line>
 						<migmaq>Newte'jit. Newte'jit ji'nm.</migmaq> 	
 						<english>One. There is one man.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1195,8 +1195,8 @@
 					<line>
 						<migmaq>Tapusijig. Tapusijig ji'nmug.</migmaq> 	
 						<english>Two. There are two men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1208,8 +1208,8 @@
 					<line>
 						<migmaq>Ne'sisijig. Ne'sisijig ji'nmug.</migmaq> 	
 						<english>Three. There are three men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1221,8 +1221,8 @@
 					<line>
 						<migmaq>Pugwelgig! Pugwelgig ji'nmug.</migmaq> 	
 						<english>Many! There are many men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -1240,8 +1240,8 @@
 					<line>
 						<migmaq>Newte'. Newte' mutputi.</migmaq> 	
 						<english>One. There is one chair.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1253,8 +1253,8 @@
 					<line>
 						<migmaq>Tapu'gl. Tapu'gl mutputi'l.</migmaq> 	
 						<english>Two. There are two chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1266,8 +1266,8 @@
 					<line>
 						<migmaq>Ne'sisgl. Ne'sisgl mutputi'l.</migmaq> 	
 						<english>Three. There are three chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1279,8 +1279,8 @@
 					<line>
 						<migmaq>Pugwelgl! Pugwelgl mutputi'l.</migmaq> 	
 						<english>Many! There are many chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -1297,8 +1297,8 @@
 					<line>
 						<migmaq>Nemi'g newte'jit ji'nm.</migmaq> 	
 						<english>I see one man.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1310,8 +1310,8 @@
 					<line>
 						<migmaq>Nemi'gig tapusijig ji'nmug.</migmaq> 	
 						<english>I see two men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1323,8 +1323,8 @@
 					<line>
 						<migmaq>Nemi'gig ne'sisijig ji'nmug.</migmaq> 	
 						<english>I see three men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1336,8 +1336,8 @@
 					<line>
 						<migmaq>Nemi'gig pugwelgig ji'nmug.</migmaq> 	
 						<english>I see many men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -1354,8 +1354,8 @@
 					<line>
 						<migmaq>Nemitu newte' mutputi awtigtug.</migmaq> 	
 						<english>I see one chairs in the road.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1367,8 +1367,8 @@
 					<line>
 						<migmaq>Nemituann tapu'gl mutputi'l awtigtug.</migmaq> 	
 						<english>I see two chairs in the road.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1380,8 +1380,8 @@
 					<line>
 						<migmaq>Nemituann ne'sisgl mutputi'l awtigtug.</migmaq> 	
 						<english>I see three chairs in the road.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1393,8 +1393,8 @@
 					<line>
 						<migmaq>Nemituann pugwelgl mutputi'l awtigtug.</migmaq> 	
 						<english>I see many chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -1530,8 +1530,8 @@
 					<line>
 						<migmaq>Newte'jit. Newte'jit ji'nm.</migmaq> 	
 						<english>One. One man.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1543,8 +1543,8 @@
 					<line>
 						<migmaq>Tapusijig. Tapusijig ji'nmug.</migmaq> 	
 						<english>Two. Two men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1556,8 +1556,8 @@
 					<line>
 						<migmaq>Ne'sisijig. Ne'sisijig ji'nmug.</migmaq> 	
 						<english>Three. Three men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1571,8 +1571,8 @@
 					<line>
 						<migmaq>Ne'wijig. Ne'wijig ji'nmug.</migmaq> 	
 						<english>Four. Four men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1584,8 +1584,8 @@
 					<line>
 						<migmaq>Na'nijig. Na'nijig ji'nmug.</migmaq> 	
 						<english>Five. Five men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 				<designnote>For these higher numbers, it may be easier for the image to be simply the explicit numeral/math expressin "100 x" before a single image, and so on.</designnote>		
@@ -1598,8 +1598,8 @@
 					<line>
 						<migmaq>Asugom te'sijig. Asugom te'sijig ji'nmug.</migmaq> 	
 						<english>Six. There are six men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1612,8 +1612,8 @@
 					<line>
 						<migmaq>Lluigneg te'sijig. Lluigneg te'sijig ji'nmug.</migmaq> 	
 						<english>Seven. There are seven men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1625,8 +1625,8 @@
 					<line>
 						<migmaq>Ugumuljin te'sijig. Ugumuljin te'sijig ji'nmug.</migmaq> 	
 						<english>Eight. There are eight men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1638,8 +1638,8 @@
 					<line>
 						<migmaq>Pesgunateg te'sijig. Pesgunateg te'sijig ji'nmug.</migmaq> 	
 						<english>Nine. There are nine men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1651,8 +1651,8 @@
 					<line>
 						<migmaq>Newtisgegsijig. Newtisgegsijig ji'nmug.</migmaq> 	
 						<english>Ten. There are ten men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1666,8 +1666,8 @@
 					<line>
 						<migmaq>Newtisgegsijig jel ta'pu. Newtisgegsijig jel ta'pu ji'nmug.</migmaq> 	
 						<english>Twelve. There are twelve men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -1684,8 +1684,8 @@
 					<line>
 						<migmaq>Newte'. Newte' mutputi.</migmaq> 	
 						<english>One. There is one chair.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1699,8 +1699,8 @@
 					<line>
 						<migmaq>Tapu'gl. Tapu'gl mutputi'l.</migmaq> 	
 						<english>Two. There are two chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1714,8 +1714,8 @@
 					<line>
 						<migmaq>Ne'sis'gl. Ne'sis'gl mutputi'l.</migmaq> 	
 						<english>Three. There are three chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1727,8 +1727,8 @@
 					<line>
 						<migmaq>Newgl. Newgl mutputi'l.</migmaq> 	
 						<english>Four. There are four chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1740,8 +1740,8 @@
 					<line>
 						<migmaq>Nangl. Nangl mutputi'l.</migmaq> 	
 						<english>Five. There are five chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 				<note>For these higher numbers, it may be easier for the image to be simply the explicit numeral/math expressin "100 x" before a single image, and so on.</note>		
@@ -1754,8 +1754,8 @@
 					<line>
 						<migmaq>Asugom te's'gl. Asugom te's'gl mutputi'l.</migmaq> 	
 						<english>Six. There are six chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1767,8 +1767,8 @@
 					<line>
 						<migmaq>Lluigneg te's'gl. Lluigneg te's'gl mutputi'l.</migmaq> 	
 						<english>Seven. There are seven chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1780,8 +1780,8 @@
 					<line>
 						<migmaq>Ugumuljin te's'gl. Ugumuljin te's'gl mutputi'l.</migmaq> 	
 						<english>Eight. There are eight chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1793,8 +1793,8 @@
 					<line>
 						<migmaq>Pesgunateg te's'gl. Pesgunateg te's'gl mutputi'l.</migmaq> 	
 						<english>Nine. There are nine chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1806,8 +1806,8 @@
 					<line>
 						<migmaq>Newtisga'ql. Newtisgegs'ql mutputi'l.</migmaq> 	
 						<english>Ten. There are ten chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1819,8 +1819,8 @@
 					<line>
 						<migmaq>Newtisga'ql jel ta'pu. Newtisga'ql jel ta'pu mutputi'l.</migmaq> 	
 						<english>Twelve. There are twelve chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -1837,8 +1837,8 @@
 					<line>
 						<migmaq>Nemi'gig asugom te'sijig ji'nmug.</migmaq> 	
 						<english>I see six men.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1850,8 +1850,8 @@
 					<line>
 						<migmaq>Nemi'gig newtisgegsijig e'pijig.</migmaq> 	
 						<english>I see ten women.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1863,8 +1863,8 @@
 					<line>
 						<migmaq>Nemi'gig tapuisgegsijig jel na'n mijua'ji'jg.</migmaq> 	
 						<english>I see twenty-five children.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1876,8 +1876,8 @@
 					<line>
 						<migmaq>Nemi'gig lluigneg te'sisgegsijig jel na'n gloqowejg.</migmaq> 	
 						<english>I see seventy-five stars.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1889,8 +1889,8 @@
 					<line>
 						<migmaq>Nemi'gig pesgunateg te'sisgegsijig jel pesgunateg mimajuinu'g.</migmaq> 	
 						<english>I see ninety-nine people.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -1907,8 +1907,8 @@
 					<line>
 						<migmaq>Nemituann lluigneg te's'gl mutputi'l.</migmaq> 	
 						<english>I see seven chairs.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1921,8 +1921,8 @@
 					<line>
 						<migmaq>Nemituann tapuisga'ql patauti'l.</migmaq> 	
 						<english>I see twenty tables.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1934,8 +1934,8 @@
 					<line>
 						<migmaq>Nemituann ne'sisga'ql jel asugom gun'tal.</migmaq> 	
 						<english>I see thirty-six rocks.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1947,8 +1947,8 @@
 					<line>
 						<migmaq>Nemituann newtisga'qal jel ne'w l'gusuaqann.</migmaq> 	
 						<english>I see fourteen ladders.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -1960,8 +1960,8 @@
 					<line>
 						<migmaq>Nemituann newisga'ql jel ta'pu ga'qann.</migmaq> 	
 						<english>I see forty-two doors.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -1982,8 +1982,8 @@
 					<line>
 						<migmaq>Newti-puna'i.</migmaq> 	
 						<english>I am one. (year old)</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Tapui-puna'i.</migmaq> 	
@@ -2128,8 +2128,8 @@
 					<line>
 						<migmaq>'Ngij newisgegi-puna't jel ne'w.</migmaq> 	
 						<english>My mother is forty-four.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Ta'si-puna't gujj?</migmaq> 	
@@ -2139,8 +2139,8 @@
 					<line>
 						<migmaq>Nujj newisgegi-puna't jel ta'pu.</migmaq> 	
 						<english>My father is forty-two.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>O', me' maljewe'juijig!</migmaq> 	
@@ -2168,32 +2168,32 @@
 					<line>
 						<migmaq>Tapuisgegi-puna'i jel newt.</migmaq> 	
 						<english>I'm twenty-one.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>O', me' maljewejuin!</migmaq> 	
 						<english>Oh, you're still young!</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>'Njignam metla'si-puna't. Gnegg el-maljewejuit aq ni'n.</migmaq> 	
 						<english>My younger brother is ten. He's far younger than me.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Na gi'l me' gisiguin jemu negm?</migmaq> 	
 						<english>So you're older than him?</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>E'e, te'uji-gisigui a....</migmaq> 	
 						<english>Yes, I'm so old....</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -2211,8 +2211,8 @@
 					<line>
 						<migmaq>- Ugs'tqamuiap a...'Sqoljuigu's. Gat gi'l?</migmaq> 	
 						<english>I was born in uh...May. And you?</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Ni'n ugs'tqamuiap a... Nipnigu's.</migmaq> 	
@@ -2310,8 +2310,8 @@
 					<line>
 						<migmaq>Gisgug amgwesewei na'gweg.</migmaq> 	
 						<english>Today is the first day [of the month].</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2324,8 +2324,8 @@
 					<line>
 						<migmaq>Gisgug tapugunit.</migmaq> 	
 						<english>Today is the second [day].</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2337,8 +2337,8 @@
 					<line>
 						<migmaq>Gisgug nesugunit.</migmaq> 	
 						<english>Today is the third day [of the month].</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2350,8 +2350,8 @@
 					<line>
 						<migmaq>Gisgug metla'sugunit.</migmaq> 	
 						<english>Today is the tenth day [of the month].</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2363,8 +2363,8 @@
 					<line>
 						<migmaq>Gisgug tapuisgegigunit jel si'st.</migmaq> 	
 						<english>Today is the twenty-third day [of the month].</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2376,8 +2376,8 @@
 					<line>
 						<migmaq>Gisgug ne'sisgegigunit jel newt.</migmaq> 	
 						<english>Today is the thirty-first day [of the month].</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -2395,14 +2395,14 @@
 					<line>
 						<migmaq>Ni'n aji-puna'i tapuisgegugunij jel si'st. Gatu gi'l?</migmaq> 	
 						<english>I have my birthday on the 23rd. And you?</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Ni'n aji-puna'i metla'sugunij jel newt.</migmaq> 	
 						<english>I have my birthday on the 11th.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -2420,8 +2420,8 @@
 					<line>
 						<migmaq>Ni'n aji-puna'tes, pesgunateg te'sugunij, 'Sqoljuigu's,</migmaq> 	
 						<english>I'll have my birthday on the 9th of May.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2434,8 +2434,8 @@
 					<line>
 						<migmaq>Ni'n aji-puna'tes metla'sugunij jel ne'w Gep't'gewigu's.</migmaq> 	
 						<english>I'll have my birthday on the 14th of November.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2447,8 +2447,8 @@
 					<line>
 						<migmaq>Ni'n aji-puna'tes, na'nugunij Wigumgewigu's.</migmaq> 	
 						<english>I'll have my birthday on the 5th of August.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -2466,8 +2466,8 @@
 					<line>
 						<migmaq>Asugom ajiet.</migmaq> 	
 						<english>It's six o'clock.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2479,8 +2479,8 @@
 					<line>
 						<migmaq>Geget newtisga'q ajiet jel newt.</migmaq> 	
 						<english>It is almost/coming up on eleven o'clock.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2492,8 +2492,8 @@
 					<line>
 						<migmaq>Mejit nangl minitl na newtisga'q ajietew jel newt.</migmaq> 	
 						<english>Five more minutes, then it will be eleven o'clock [= 'five to eleven'].</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2506,8 +2506,8 @@
 					<line>
 						<migmaq>Mejit ga'l na ugumuljin ajietew.</migmaq> 	
 						<english>A quarter (of an hour) more and it will be eight o'clock [='quarter to eight'].</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2520,8 +2520,8 @@
 					<line>
 						<migmaq>Ga'l gesg-mnaq ugumuljin ajiegw.</migmaq> 	
 						<english>It's a quarter before eight o'clock.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2534,8 +2534,8 @@
 					<line>
 						<migmaq>Assma nige' pesgunateg ajiet.</migmaq> 	
 						<english>It's now exactly nine o'clock.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2547,8 +2547,8 @@
 					<line>
 						<migmaq>Lluigneg ajiet jel aqataig.</migmaq> 	
 						<english>It's half past seven [lit. 'seven plus a half'].</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2560,8 +2560,8 @@
 					<line>
 						<migmaq>Lluigneg ajiet jel ga'l.</migmaq> 	
 						<english>It's a quarter after seven [lit. 'seven plus a quarter'].</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2573,8 +2573,8 @@
 					<line>
 						<migmaq>Aqtatpa'q.</migmaq> 	
 						<english>It's midnight.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2586,8 +2586,8 @@
 					<line>
 						<migmaq>Mewlia'gweg.</migmaq> 	
 						<english>It's noon.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2600,8 +2600,8 @@
 					<line>
 						<migmaq>Mu geitu. Entu'neg 'gna'gu'seteweimeg?</migmaq> 	
 						<english>I don't know. Have you lost your watch?</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -2619,8 +2619,8 @@
 					<line>
 						<migmaq>Mnaq ugumuljin ajiegw. Mejit ga'l na ugumuljin ajietew.</migmaq> 	
 						<english>It's not yet eight o'clock. A quarter (hour) more and then it will be eight o'clock.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2633,8 +2633,8 @@
 					<line>
 						<migmaq>Asugom ajiej, na tujiw ultesgatitesnu.</migmaq> 	
 						<english>When it's six o'clock, that's when we'll meet each other.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2646,14 +2646,14 @@
 					<line>
 						<migmaq>Lluigneg ajietew jel aqatai natlugwei, wijei na te'si-gisg'g.</migmaq> 	
 						<english>It'll be half past seven when I go to work, same as every day.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>A'a, ni'n wijei.</migmaq> 	
 						<english>Oh, me too.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 				<note>translation for "a'a, ni'n wijei" needs checking.</note>
@@ -2673,8 +2673,8 @@
 					<line>
 						<migmaq>Sa'n teluisi.</migmaq> 	
 						<english>My name is John.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Wen 'ggij?</migmaq> 	
@@ -2684,8 +2684,8 @@
 					<line>
 						<migmaq>'Ngij na Susan Nuel.</migmaq> 	
 						<english>My mother is Susan Noel.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Wen gujj?</migmaq> 	
@@ -2695,8 +2695,8 @@
 					<line>
 						<migmaq>Nujj na So'se'p Nuel.</migmaq> 	
 						<english>My father is Joseph Noel.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Tami tett tleiawijig?</migmaq> 	
@@ -2706,8 +2706,8 @@
 					<line>
 						<migmaq>'Ngij tleiawit Listugujg, aq nujj tleiawit Gesgapegiaq.</migmaq> 	
 						<english>My mother is from Listuguj, and my father is from Gesgapegiaq.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Tami tett wigijig?</migmaq> 	
@@ -2717,8 +2717,8 @@
 					<line>
 						<migmaq>Listugujg wigijig, utang. Ni'n elg Listugujg wigi, wanne'g.</migmaq> 	
 						<english>They live in Listuguj, towards the town. I also live in Listuguj, towards the cove.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Taluisit gmijgamij?</migmaq> 	
@@ -2728,8 +2728,8 @@
 					<line>
 						<migmaq>Pie'l teluisipnaq.</migmaq> 	
 						<english>He (deceased) was named Peter.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Taluisit gugumij?</migmaq> 	
@@ -2739,8 +2739,8 @@
 					<line>
 						<migmaq>Agn's teluisipnaq.</migmaq> 	
 						<english>She (deceased) was named Agnes.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Ta'sijig wijigumjig? Taluisultijig?</migmaq> 	
@@ -2762,8 +2762,8 @@
 					<line>
 						<migmaq>Qame'g. Magasang etllugwei.</migmaq> 	
 						<english>In Campbellton/Across the river. I work in a shop.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<line>
 						<migmaq>Mu nugu' etl-gina'masiw'n?</migmaq> 	
@@ -2773,8 +2773,8 @@
 					<line>
 						<migmaq>Moqwa': 'gtignipn gaqgina'masiapneg.</migmaq> 	
 						<english>No: last year I finished my studies.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -2813,8 +2813,8 @@
 					<line>
 						<migmaq>Ni'n na.</migmaq> 	
 						<english>It's me.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -3785,8 +3785,8 @@
 					<line>
 						<migmaq>samqwan</migmaq> 	
 						<english>water</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 					<linetimsig>[@6:30-6:35]</linetimsig>
 					<line>
@@ -3856,8 +3856,8 @@
 					<line>
 						<migmaq>E'e, wigp'g.</migmaq> 	
 						<english>Yes, I like (the taste of) it.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -3869,8 +3869,8 @@
 					<line>
 						<migmaq>Moqwa', mu wigpaq.</migmaq> 	
 						<english>No, I don't like (the taste of) it.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -3882,8 +3882,8 @@
 					<line>
 						<migmaq>E'e, wigp'gig.</migmaq> 	
 						<english>Yes, I like (the taste of) them.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -3895,8 +3895,8 @@
 					<line>
 						<migmaq>Moqwa', mu wigpaqig.</migmaq> 	
 						<english>No, I don't like (the taste of) them</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -3912,8 +3912,8 @@
 					<line>
 						<migmaq>E'e, wigtm.</migmaq> 	
 						<english>Yes, I like (the taste of) it.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -3925,8 +3925,8 @@
 					<line>
 						<migmaq>Moqwa', mu wigtmu.</migmaq> 	
 						<english>No, I don't like (the taste of) it.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -3938,8 +3938,8 @@
 					<line>
 						<migmaq>E'e, wigtmann.</migmaq> 	
 						<english>Yes, I like (the taste of) them.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -3951,8 +3951,8 @@
 					<line>
 						<migmaq>Moqwa', mu wigtmuann.</migmaq> 	
 						<english>No, I don't like (the taste of) them.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -3968,8 +3968,8 @@
 					<line>
 						<migmaq>Getupg tmato's.</migmaq> 	
 						<english>I want to eat a tomato.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -3981,8 +3981,8 @@
 					<line>
 						<migmaq>Moqwa', mu getupaq.</migmaq> 	
 						<english>No, I don't want to eat one.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -3994,8 +3994,8 @@
 					<line>
 						<migmaq>E'e, getupgig.</migmaq> 	
 						<english>Yes, I want to eat them.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4007,8 +4007,8 @@
 					<line>
 						<migmaq>Moqwa', mu getupaqig.</migmaq> 	
 						<english>No, I don't want to eat them.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4020,8 +4020,8 @@
 					<line>
 						<migmaq>E'e, getutm.</migmaq> 	
 						<english>Yes, I do want to eat it.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4033,8 +4033,8 @@
 					<line>
 						<migmaq>Moqwa', mu getutmu.</migmaq> 	
 						<english>No, I don't want to eat it.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4046,8 +4046,8 @@
 					<line>
 						<migmaq>E'e, getutmann.</migmaq> 	
 						<english>Yes, I do want to eat them.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4059,8 +4059,8 @@
 					<line>
 						<migmaq>Moqwa', mu getutmuann.</migmaq> 	
 						<english>No, I don't want to eat them.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -4288,8 +4288,8 @@
 					<line>
 						<migmaq>Pewatm wasueg.</migmaq> 	
 						<english>I want a flower.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4302,8 +4302,8 @@
 					<line>
 						<migmaq>Pewalg atla'i.</migmaq> 	
 						<english>I want a shirt.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -4319,8 +4319,8 @@
 					<line>
 						<migmaq>E'e, pewalg pu'tai.</migmaq> 	
 						<english>Yes, I want a bottle.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4332,8 +4332,8 @@
 					<line>
 						<migmaq>Moqwa', mu pewalaq eptaqan.</migmaq> 	
 						<english>No, I don't want a dish.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4345,8 +4345,8 @@
 					<line>
 						<migmaq>Moqwa', mu pewalaq eptaqan. Pewalg samqwano'q.</migmaq> 	
 						<english>No, I don't want a dish. I want a water bottle.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -4363,8 +4363,8 @@
 					<line>
 						<migmaq>E'e, pewalgig mg'sng.</migmaq> 	
 						<english>Yes, I want shoes.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4377,8 +4377,8 @@
 					<line>
 						<migmaq>Moqwa', mu pewalaqig la'taqsung.</migmaq> 	
 						<english>No, I don't want buckets.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4390,8 +4390,8 @@
 					<line>
 						<migmaq>Moqwa', mu pewalaqig la'taqsung. Samqwano'q pewalg.</migmaq> 	
 						<english>No, I don't want buckets. I want a water bottle.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -4407,8 +4407,8 @@
 					<line>
 						<migmaq>E'e, pewatm tepaqan.</migmaq> 	
 						<english>Yes, I want a car?</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4420,8 +4420,8 @@
 					<line>
 						<migmaq>Moqwa', mu pewatmu a'gusn.</migmaq> 	
 						<english>No, I don't want a hat.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4433,8 +4433,8 @@
 					<line>
 						<migmaq>Moqwa', mu pewatmu a'gusn. Magot pewatm.</migmaq> 	
 						<english>No, I don't want a hat. I want a dress.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -4450,8 +4450,8 @@
 					<line>
 						<migmaq>E'e, pewatmann wasuegl.</migmaq> 	
 						<english>Yes, I want flowers.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4463,8 +4463,8 @@
 					<line>
 						<migmaq>Moqwa', mu pewatmuann a'su'nn.</migmaq> 	
 						<english>No, I don't want blankets.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4476,8 +4476,8 @@
 					<line>
 						<migmaq>Moqwa', mu pewatmuann a'su'nn. Pewatmuann magotl.</migmaq> 	
 						<english>No, I don't want blankets. I want dresses.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -4493,8 +4493,8 @@
 					<line>
 						<migmaq>Geggunm wasueg.</migmaq> 	
 						<english>I have a flower.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4506,8 +4506,8 @@
 					<line>
 						<migmaq>Geggung atla'i.</migmaq> 	
 						<english>I have a shirt.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -4523,8 +4523,8 @@
 					<line>
 						<migmaq>E'e, geggung pu'tai.</migmaq> 	
 						<english>Yes, I have a bottle.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4536,8 +4536,8 @@
 					<line>
 						<migmaq>Moqwa', mu geggunaq eptaqan.</migmaq> 	
 						<english>No, I don't have a dish.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4549,8 +4549,8 @@
 					<line>
 						<migmaq>Moqwa', mu geggunaq eptaqan. Geggung samqwano'q.</migmaq> 	
 						<english>No, I don't have a dish. I have a water bottle.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -4566,8 +4566,8 @@
 					<line>
 						<migmaq>E'e, geggungig mg'sng.</migmaq> 	
 						<english>Yes, I have shoes.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4579,8 +4579,8 @@
 					<line>
 						<migmaq>Moqwa', mu geggunaqig la'taqsung.</migmaq> 	
 						<english>No, I don't have buckets.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4592,8 +4592,8 @@
 					<line>
 						<migmaq>Moqwa', mu geggunaqig la'taqsung. Geggung samqwano'q.</migmaq> 	
 						<english>No, I don't have buckets. I have a water bottle.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -4609,8 +4609,8 @@
 					<line>
 						<migmaq>E'e, geggunm tepaqan.</migmaq> 	
 						<english>Yes, I have a car.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4622,8 +4622,8 @@
 					<line>
 						<migmaq>Moqwa', mu geggunmu a'gusn.</migmaq> 	
 						<english>No, I don't have a hat.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4635,8 +4635,8 @@
 					<line>
 						<migmaq>Moqwa', mu geggunmu a'gusn. Geggunm magot.</migmaq> 	
 						<english>No, I don't have a hat. I have a dress.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
@@ -4652,8 +4652,8 @@
 					<line>
 						<migmaq>E'e, geggunmann wasuegl.</migmaq> 	
 						<english>Yes, I have flowers.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4665,8 +4665,8 @@
 					<line>
 						<migmaq>Moqwa', mu geggunmuann a'su'nn.</migmaq> 	
 						<english>No, I don't have blankets.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -4679,8 +4679,8 @@
 					<line>
 						<migmaq>Moqwa', mu geggunmuann a'su'nn. Geggunmann magotl.</migmaq> 	
 						<english>No, I don't have blankets. I have dresses.</english>
-						<soundfile>
-						</soundfile>
+						<!--<soundfile>
+						</soundfile>-->
 					</line>
 				</dialog>
 			</lesson>
