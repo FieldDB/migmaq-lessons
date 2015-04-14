@@ -9,7 +9,7 @@
     <div class="row">
       <div class="col-md-8">     
         <p>
-          <xsl:value-of select="explnote"/><!--Display any notes about the lesson-->
+          <xsl:value-of select="note"/><!--Display any notes about the lesson-->
         </p>
       </div>
       <div class="col-md-4">
@@ -114,7 +114,7 @@
       <xsl:value-of select="info"/><!--Display any info associated with the lesson-->
     </p>
     <p>
-      <xsl:value-of select="designnote"/>
-    </p><!--Display design note as a paragraph-->
+      <xsl:value-of select="explnote"/>
+    </p><!--Display note as a paragraph-->
   </xsl:template>
 </xsl:stylesheet>
