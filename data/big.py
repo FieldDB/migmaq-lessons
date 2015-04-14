@@ -27,11 +27,9 @@ intro_xsl = etree.XSLT(intro_xsl_raw)
 def processLesson(level, lesson):
   #Transforms all lessons--- creates webpages for each displaying dialogues and vocabs
   filename = "../lessons/" + createFilename(lesson, level)#create filename
-  fileprefix = createFilePrefix(lesson, level)#create prefix for filename
   f = open(filename, "w") #create new file
   f.write(getMarkup(lesson, level)) #write Jekyll markup to top
-  plain_string = etree.XSLT.strparam(fileprefix)#convert to plain string
-  f.write(str(lesson_xsl(lesson, fileprefix=plain_string))) #apply xslt transformation to lesson and write to file
+  f.write(str(lesson_xsl(lesson))) #apply xslt transformation to lesson and write to file
   f.close()
 
 def processUnit(level, unit):
