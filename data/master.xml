@@ -330,13 +330,12 @@
 					<line>
 						<migmaq>Ala na 'gjignam?</migmaq> 	
 						<english>Is that your younger brother?</english>
-						<soundfile>AlaNaGjignam-MoqwaAlaNgwejij</soundfile>
+						<soundfile>AlaNaGjignam</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', ala na 'ngwe'ji'j.</migmaq> 	
 						<english>No, that is my younger sister.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaAlaNgwejij</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -380,13 +379,12 @@
 					<line>
 						<migmaq>Wenig wijigumjig?</migmaq> 	
 						<english>Who are your brothers and sisters?</english>
-						<soundfile>WenigWijigumjig_MiselSanMalianAqMali</soundfile>
+						<soundfile>WenigWijigumjig</soundfile>
 					</line>
 					<line>
 						<migmaq>Mise'l, Sa'n, Malia'n, aq Mali.</migmaq> 	
 						<english>Michael, John, Mary-Ann, and Mary.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MiselSanMalianAqMali</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -400,13 +398,12 @@
 					<line>
 						<migmaq>Taluisit 'gsis?</migmaq> 	
 						<english>What is your older brother's name?</english>
-						<soundfile>TaluisitGsis-NsisMiselTeluisit</soundfile>
+						<soundfile>TaluisitGsis</soundfile>
 					</line>
 					<line>
 						<migmaq>'Nsis Mise'l teluisit.</migmaq> 	
 						<english>My older brother's name is Michael.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NsisMiselTeluisit</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -414,13 +411,12 @@
 					<line>
 						<migmaq>Taluisit gmis?</migmaq> 	
 						<english>What is your older sister's name?</english>
-						<soundfile>TaluisitGmis_NmisMalianTeluisit</soundfile>
+						<soundfile>TaluisitGmis</soundfile>
 					</line>
 					<line>
 						<migmaq>Nmis Malia'n teluisit.</migmaq> 	
 						<english>My older sister's name is Mary-Ann.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NmisMalianTeluisit</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -428,13 +424,12 @@
 					<line>
 						<migmaq>Taluisit 'gjignam?</migmaq> 	
 						<english>What is your younger brother's name?</english>
-						<soundfile>TaluisitGjignam_NjignamSanTeluisit</soundfile>
+						<soundfile>TaluisitGjignam</soundfile>
 					</line>
 					<line>
 						<migmaq>'Njignam Sa'n teluisit.</migmaq> 	
 						<english>My younger brother's name is John.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NjignamSanTeluisit</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -442,13 +437,12 @@
 					<line>
 						<migmaq>Taluisit 'ggwe'ji'j?</migmaq> 	
 						<english>What is your younger sister's name?</english>
-						<soundfile>TaluisitGgwejij_NgwejijMaliTeluisit</soundfile>
+						<soundfile>TaluisitGgwejij</soundfile>
 					</line>
 					<line>
 						<migmaq>'Ngwe'ji'j Mali teluisit.</migmaq> 	
 						<english>My younger sister's name is Mary.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NgwejijMaliTeluisit</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -462,13 +456,12 @@
 					<line>
 						<migmaq>Taluisit 'gtlamugsis?</migmaq> 	
 						<english>What is your uncle's name?</english>
-						<soundfile>NEEDSEDIT-TaluisitGtlamugsis_NtlamugsisTapitTeluisit</soundfile>
+						<soundfile>NEEDSEDIT-TaluisitGtlamugsis</soundfile>
 					</line>
 					<line>
 						<migmaq>Ntlamugsis Ta'pit teluisit.</migmaq> 	
 						<english>My uncle's name is David.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NEEDSEDIT-NtlamugsisTapitTeluisit</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -476,13 +469,12 @@
 					<line>
 						<migmaq>Taluisit 'gsugwis?</migmaq> 	
 						<english>What is your aunt's name?</english>
-						<soundfile>TaluisitGsugwis_NsugwisAgnsTeluisit</soundfile>
+						<soundfile>TaluisitGsugwis</soundfile>
 					</line>
 					<line>
 						<migmaq>'Nsugwis Agn's teluisit.</migmaq> 	
 						<english>My aunt's name is Agnes.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NsugwisAgnsTeluisit</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -490,13 +482,12 @@
 					<line>
 						<migmaq>Gatu go'gmaw?</migmaq> 	
 						<english>And your cousin?</english>
-						<soundfile>GatuGogmaw_PugwelgigNogmaqGatuNewtejitTeluisitPoligap</soundfile>
+						<soundfile>GatuGogmaw</soundfile>
 					</line>
 					<line>
 						<migmaq>Pugwelgig no'gmaq, gatu newte'jit teluisit Poligap.</migmaq> 	
 						<english>I have lots of cousins [lit. 'many are my cousins'], but one is named Polycarpe.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>PugwelgigNogmaqGatuNewtejitTeluisitPoligap</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -510,13 +501,12 @@
 					<line>
 						<migmaq>Taluisit gmijgamij?</migmaq> 	
 						<english>What is your grandfather's name?</english>
-						<soundfile>TaluisitGmijgamij_NmijgamijPielTeluisit</soundfile>
+						<soundfile>TaluisitGmijgamij</soundfile>
 					</line>
 					<line>
 						<migmaq>Nmijgamij Piel teluisit.</migmaq> 	
 						<english>My grandfather's name is Peter.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NmijgamijPielTeluisit</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -524,13 +514,12 @@
 					<line>
 						<migmaq>Taluisit gugmij?</migmaq> 	
 						<english>What is your grandmother's name?</english>
-						<soundfile>TaluisitGugmij_NugumijNastasiTeluisit</soundfile>
+						<soundfile>TaluisitGugmij</soundfile>
 					</line>
 					<line>
 						<migmaq>Nugumij Nastasi teluisit.</migmaq> 	
 						<english>My grandmother's name is Anastasia.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NugumijNastasiTeluisit</soundfile>
 					</line>
 				</dialog>
 			</lesson>
