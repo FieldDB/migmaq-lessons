@@ -2790,7 +2790,7 @@
 					<line>
 						<migmaq>Ala ji'nm a? Mu nenuaq.</migmaq> 	
 						<english>That man? I don't know him.</english>
-						<soundfile>1/4/46/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2802,7 +2802,7 @@
 					<line>
 						<migmaq>Negm elg mu nenuaq. Amgwesewei tett pegisin, me' mu wen nenuaq.</migmaq> 	
 						<english>Her too I don't know. It's the first time I've come here; I still don't know anyone.</english>
-						<soundfile>1/4/46/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 				</dialog>		
 				<dialog>
@@ -2832,107 +2832,107 @@
 					<line>
 						<migmaq>gitpu</migmaq> 	
 						<english>eagle</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>gu'gu'gwes</migmaq> 	
 						<english>owl</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>mimiges</migmaq> 	
 						<english> butterfly</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>amaljugwej</migmaq> 	
 						<english>raccoon</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>wowgwis</migmaq> 	
 						<english> fox</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>apigjilu</migmaq> 	
 						<english> skunk</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>gopit</migmaq> 	
 						<english>beaver</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>ap'tapegiejit</migmaq> 	
 						<english>turkey</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>go'qoli'gwej</migmaq> 	
 						<english> chicken</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>te'plj</migmaq> 	
 						<english> goat</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>'sqolj</migmaq> 	
 						<english>frog</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>migjigj</migmaq> 	
 						<english>turtle</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>mui'n</migmaq> 	
 						<english>bear</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>mui'ne'j</migmaq> 	
 						<english>baby bear</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>tia'm</migmaq> 	
 						<english>moose</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>paqt'sm</migmaq> 	
 						<english>wolf</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>apli'gmuj</migmaq> 	
 						<english>rabbit</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>wapus</migmaq> 	
 						<english>rabbit</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>apigji'j</migmaq> 	
 						<english>mouse</english>
-						<soundfile>2/1/47/</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 				</vocab>
 			</lesson>
