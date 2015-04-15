@@ -533,24 +533,22 @@
 					<line>
 						<migmaq>Taluisisnaq gmijgamijaq?</migmaq> 	
 						<english>What was your (deceased) grandfather's name?</english>
-						<soundfile>TaluisisnaqGmijgamijaq_NmijgamijaqSulianTeluisipnaq</soundfile>
+						<soundfile>TaluisisnaqGmijgamijaq</soundfile>
 					</line>
 					<line>
 						<migmaq>Nmijgamijaq Sulian teluisipnaq.</migmaq> 	
 						<english>My (deceased) grandfather's name was Julian.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NmijgamijaqSulianTeluisipnaq</soundfile>
 					</line>
 					<line>
 						<migmaq>Taluisisnaq gugmijaq?</migmaq> 	
 						<english>What was your (deceased) grandmother's name?</english>
-						<soundfile>TaluisisnaqGugmijaq_NugmijaqLluisTeluisipnaq</soundfile>
+						<soundfile>TaluisisnaqGugmijaq</soundfile>
 					</line>
 					<line>
 						<migmaq>Nugmijaq 'Lluis teluisipnaq.</migmaq> 	
 						<english>My (deceased) grandmother's name was Eloise.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NugmijaqLluisTeluisipnaq</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -1514,40 +1512,37 @@
 					<line>
 						<migmaq>Ta'sijig ji'nmug?</migmaq> 	
 						<english>How many men are there?</english>
-						<soundfile>TasijigJinmug_NewtejitNewtejitJinm</soundfile>
+						<soundfile>TasijigJinmug</soundfile>
 					</line>
 					<linetimsig>[@2:44-2:47.5]</linetimsig>
 					<line>
 						<migmaq>Newte'jit. Newte'jit ji'nm.</migmaq> 	
 						<english>One. One man.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NewtejitNewtejitJinm</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sijig ji'nmug?</migmaq> 	
 						<english>How many men are there?</english>
-						<soundfile>TasijigJinmug_TapusijigTapusijigJinmug</soundfile>
+						<soundfile>TasijigJinmug</soundfile>
 					</line>
 					<line>
 						<migmaq>Tapusijig. Tapusijig ji'nmug.</migmaq> 	
 						<english>Two. Two men.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>TapusijigTapusijigJinmug</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sijig ji'nmug?</migmaq> 	
 						<english>How many men are there?</english>
-						<soundfile>TasijigJinmug_NesisijigNesisijigJinmug</soundfile>
+						<soundfile>TasijigJinmug</soundfile>
 					</line>
 					<line>
 						<migmaq>Ne'sisijig. Ne'sisijig ji'nmug.</migmaq> 	
 						<english>Three. Three men.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NesisijigNesisijigJinmug</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -1555,27 +1550,25 @@
 					<line>
 						<migmaq>Ta'sijig ji'nmug?</migmaq> 	
 						<english>How many men are there?</english>
-						<soundfile>EDIT-spliceinmissing-TasijigJinmug_NewijigNewijigJinmug</soundfile>
+						<soundfile>TasijigJinmug</soundfile>
 					</line>
 					<linetimsig>[@3:14+-3:17+]</linetimsig>
 					<line>
 						<migmaq>Ne'wijig. Ne'wijig ji'nmug.</migmaq> 	
 						<english>Four. Four men.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EDIT-spliceinmissing-NewijigNewijigJinmug</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sijig ji'nmug?</migmaq> 	
 						<english>How many men are there?</english>
-						<soundfile>TasijigJinmug_NanijigNanijigJinmug</soundfile>
+						<soundfile>TasijigJinmug1</soundfile>
 					</line>
 					<line>
 						<migmaq>Na'nijig. Na'nijig ji'nmug.</migmaq> 	
 						<english>Five. Five men.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NanijigNanijigJinmug</soundfile>
 					</line>
 				</dialog>
 				<designnote>For these higher numbers, it may be easier for the image to be simply the explicit numeral/math expressin "100 x" before a single image, and so on.</designnote>		
@@ -1583,66 +1576,61 @@
 					<line>
 						<migmaq>Ta'sijig ji'nmug?</migmaq> 	
 						<english>How many men are there?</english>
-						<soundfile>TasijigJinmug_AsugomTesijigAsugomTesijigJinmug</soundfile>
+						<soundfile>TasijigJinmug2</soundfile>
 					</line>
 					<line>
 						<migmaq>Asugom te'sijig. Asugom te'sijig ji'nmug.</migmaq> 	
 						<english>Six. There are six men.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>AsugomTesijigAsugomTesijigJinmug</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sijig ji'nmug?</migmaq> 	
 						<english>How many men are there?</english>
-						<soundfile>TasijigJinmug_LluignegTesijigLluignegTesijigJinmug</soundfile>
+						<soundfile>TasijigJinmug4</soundfile>
 					</line>
 
 					<line>
 						<migmaq>Lluigneg te'sijig. Lluigneg te'sijig ji'nmug.</migmaq> 	
 						<english>Seven. There are seven men.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>LluignegTesijigLluignegTesijigJinmug</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sijig ji'nmug?</migmaq> 	
 						<english>How many men are there?</english>
-						<soundfile>TasijigJinmug_UgumuljinTesijigUgumuljinTesijigJinmug</soundfile>
+						<soundfile>TasijigJinmug5</soundfile>
 					</line>
 					<line>
 						<migmaq>Ugumuljin te'sijig. Ugumuljin te'sijig ji'nmug.</migmaq> 	
 						<english>Eight. There are eight men.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>UgumuljinTesijigUgumuljinTesijigJinmug</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sijig ji'nmug?</migmaq> 	
 						<english>How many men are there?</english>
-						<soundfile>TasijigJinmug_PesgunategTesijigPesgunategTesijigJinmug</soundfile>
+						<soundfile>TasijigJinmug6</soundfile>
 					</line>
 					<line>
 						<migmaq>Pesgunateg te'sijig. Pesgunateg te'sijig ji'nmug.</migmaq> 	
 						<english>Nine. There are nine men.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>PesgunategTesijigPesgunategTesijigJinmug</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sijig ji'nmug?</migmaq> 	
 						<english>How many men are there?</english>
-						<soundfile>TasijigJinmug_NewtisgegsijigNewtisgegsijigJinmug</soundfile>
+						<soundfile>TasijigJinmug7</soundfile>
 					</line>
 					<line>
 						<migmaq>Newtisgegsijig. Newtisgegsijig ji'nmug.</migmaq> 	
 						<english>Ten. There are ten men.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NewtisgegsijigNewtisgegsijigJinmug</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -1650,14 +1638,13 @@
 					<line>
 						<migmaq>Ta'sijig ji'nmug?</migmaq> 	
 						<english>How many men are there?</english>
-						<soundfile>EDIT-removemiddle-TasijigJinmug_NewtisgegsijigJelTapuNewtisgegsijigJelTapuJinmug</soundfile>
+						<soundfile>TasijigJinmug8</soundfile>
 					</line>
 					<linetimsig>[@4:01.5-4:04.5]</linetimsig>
 					<line>
 						<migmaq>Newtisgegsijig jel ta'pu. Newtisgegsijig jel ta'pu ji'nmug.</migmaq> 	
 						<english>Twelve. There are twelve men.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NewtisgegsijigJelTapuNewtisgegsijigJelTapuJinmug</soundfile>
 					</line>
 				</dialog>
 			</lesson>
