@@ -1248,52 +1248,48 @@
 					<line>
 						<migmaq>Ta's'gl mutputi'l?</migmaq> 	
 						<english>How many chairs are there?</english>
-						<soundfile>TasglMutputil_NewteNewteMutputi</soundfile>
+						<soundfile>TasglMutputil</soundfile>
 					</line>
 					<line>
 						<migmaq>Newte'. Newte' mutputi.</migmaq> 	
 						<english>One. There is one chair.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NewteNewteMutputi</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta's'gl mutputi'l?</migmaq> 	
 						<english>How many chairs are there?</english>
-						<soundfile>TasglMutputil_TapuglTapuglMutputil</soundfile>
+						<soundfile>TasglMutputil1</soundfile>
 					</line>
 					<line>
 						<migmaq>Tapu'gl. Tapu'gl mutputi'l.</migmaq> 	
 						<english>Two. There are two chairs.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>TapuglTapuglMutputil</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta's'gl mutputi'l?</migmaq> 	
 						<english>How many chairs are there?</english>
-						<soundfile>TasglMutputil_NesisglNesisglMutputil</soundfile>
+						<soundfile>TasglMutputil2</soundfile>
 					</line>
 					<line>
 						<migmaq>Ne'sisgl. Ne'sisgl mutputi'l.</migmaq> 	
 						<english>Three. There are three chairs.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NesisglNesisglMutputil</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta's'gl mutputi'l?</migmaq> 	
 						<english>How many chairs are there?</english>
-						<soundfile>TasglMutputil_PugwelglPugwelglMutputil</soundfile>
+						<soundfile>TasglMutputil</soundfile>
 					</line>
 					<line>
 						<migmaq>Pugwelgl! Pugwelgl mutputi'l.</migmaq> 	
 						<english>Many! There are many chairs.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>PugwelglPugwelglMutputil</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -1305,52 +1301,48 @@
 					<line>
 						<migmaq>Ta'sijig nemi'jig ji'nmug?</migmaq> 	
 						<english>How many men do you see?</english>
-						<soundfile>TasijigNemijigJinmug_NemigNewtejitJinm</soundfile>
+						<soundfile>TasijigNemijigJinmug</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'g newte'jit ji'nm.</migmaq> 	
 						<english>I see one man.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NemigNewtejitJinm</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sijig nemi'jig ji'nmug?</migmaq> 	
 						<english>How many men do you see?</english>
-						<soundfile>TasijigNemijigJinmug_NemigigTapusijigJinmug</soundfile>
+						<soundfile>TasijigNemijigJinmug1</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'gig tapusijig ji'nmug.</migmaq> 	
 						<english>I see two men.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NemigigTapusijigJinmug</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sijig nemi'jig ji'nmug?</migmaq> 	
 						<english>How many men do you see?</english>
-						<soundfile>TasijigNemijigJinmug_NemigigNesisijigJinmug</soundfile>
+						<soundfile>TasijigNemijigJinmug</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'gig ne'sisijig ji'nmug.</migmaq> 	
 						<english>I see three men.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NemigigNesisijigJinmug</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sijig nemi'jig ji'nmug?</migmaq> 	
 						<english>How many men do you see?</english>
-						<soundfile>TasijigNemijigJinmug_NemigigPugwelgigJinmug</soundfile>
+						<soundfile>TasijigNemijigJinmug</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemi'gig pugwelgig ji'nmug.</migmaq> 	
 						<english>I see many men.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NemigigPugwelgigJinmug</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -1362,52 +1354,48 @@
 					<line>
 						<migmaq>Ta's'gl nemitu'nn mutputi'l?</migmaq> 	
 						<english>How many chairs do you see?</english>
-						<soundfile>TasglNemitunnMutputil_NemituNewteMutputiAwtigtug</soundfile>
+						<soundfile>TasglNemitunnMutputil</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemitu newte' mutputi awtigtug.</migmaq> 	
 						<english>I see one chairs in the road.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NemituNewteMutputiAwtigtug</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta's'gl nemitu'nn mutputi'l?</migmaq> 	
 						<english>How many chairs do you see?</english>
-						<soundfile>TasglNemitunnMutputil_NemituannNesisglMutputilAwtigtug</soundfile>
+						<soundfile>TasglNemitunnMutputil1</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemituann tapu'gl mutputi'l awtigtug.</migmaq> 	
 						<english>I see two chairs in the road.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NemituannNesisglMutputilAwtigtug</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta's'gl nemitu'nn mutputi'l?</migmaq> 	
 						<english>How many chairs do you see?</english>
-						<soundfile>TasglNemitunnMutputil_NemituannPugwelglMutputilAwtigtug</soundfile>
+						<soundfile>TasglNemitunnMutputil</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemituann ne'sisgl mutputi'l awtigtug.</migmaq> 	
 						<english>I see three chairs in the road.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NemituannNesisglMutputilAwtigtug</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta's'gl nemitu'nn mutputi'l?</migmaq> 	
 						<english>How many chairs do you see?</english>
-						<soundfile>TasglNemitunnMutputil_NemituannPugwelglMutputilAwtigtug</soundfile>
+						<soundfile>TasglNemitunnMutputil_</soundfile>
 					</line>
 					<line>
 						<migmaq>Nemituann pugwelgl mutputi'l awtigtug.</migmaq> 	
 						<english>I see many chairs.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NemituannPugwelglMutputilAwtigtug</soundfile>
 					</line>
 				</dialog>
 			</lesson>
