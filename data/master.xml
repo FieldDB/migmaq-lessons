@@ -3659,7 +3659,6 @@
 					</line>
 				</vocab>
 			</lesson>
-			<checked/>
 			<lesson>
 				<title>Food-2c</title>
 				<note>Singular and plural rows of images lined up together, singular on top of plural</note>
@@ -3947,65 +3946,60 @@
 					<line>
 						<migmaq>Getupjig e's'g?</migmaq> 	
 						<english>Do you want to eat some clams?</english>
-						<soundfile>GetupjigEsg_MoqwaMuGetupaqig</soundfile>
+						<soundfile>GetupjigEsg</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu getupaqig.</migmaq> 	
 						<english>No, I don't want to eat them.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuGetupaqig</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Getutmn pipnaqan?</migmaq> 	
 						<english>Do you want to eat bread?</english>
-						<soundfile>EeGetutm</soundfile>
+						<soundfile>GetutmnPipnaqan</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, getutm.</migmaq> 	
 						<english>Yes, I do want to eat it.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EeGetutm</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Getutmn wen'jitia'muei?</migmaq> 	
 						<english>Do you want to eat beef?</english>
-						<soundfile>MoqwaMuGetutmu</soundfile>
+						<soundfile>GetutmnWenjitiamuei</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu getutmu.</migmaq> 	
 						<english>No, I don't want to eat it.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuGetutmu</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Getutmnn suitisl?</migmaq> 	
 						<english>Do you want to eat candies?</english>
-						<soundfile>EeGetutmann</soundfile>
+						<soundfile>GetutmnnSuitisl</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, getutmann.</migmaq> 	
 						<english>Yes, I do want to eat them.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EeGetutmann</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Getutmnn wigunn?</migmaq> 	
 						<english>Do you want to eat beans?</english>
-						<soundfile>MoqwaMuGetutmuann</soundfile>
+						<soundfile>GetutmnnWigunn</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu getutmuann.</migmaq> 	
 						<english>No, I don't want to eat them.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuGetutmuann</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -4228,13 +4222,12 @@
 					<line>
 						<migmaq>Goqwei pewatmn?</migmaq> 	
 						<english>What do you want?</english>
-						<soundfile>GoqweiPewatmn_PewatmWasueg</soundfile>
+						<soundfile>GoqweiPewatmn</soundfile>
 					</line>
 					<line>
 						<migmaq>Pewatm wasueg.</migmaq> 	
 						<english>I want a flower.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>PewatmWasueg</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -4242,13 +4235,12 @@
 					<line>
 						<migmaq>Goqwei piluei pewatmn?</migmaq> 	
 						<english>What else do you want?</english>
-						<soundfile>GoqweiPilueiPewatmn_PewalgAtlai</soundfile>
+						<soundfile>GoqweiPilueiPewatmn</soundfile>
 					</line>
 					<line>
 						<migmaq>Pewalg atla'i.</migmaq> 	
 						<english>I want a shirt.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>PewalgAtlai</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -4259,39 +4251,36 @@
 					<line>
 						<migmaq>Pu'tai pewalt?</migmaq> 	
 						<english>Do you want a bottle?</english>
-						<soundfile>PutaiPewalt_EePewalgPutai</soundfile>
+						<soundfile>PutaiPewalt</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, pewalg pu'tai.</migmaq> 	
 						<english>Yes, I want a bottle.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EePewalgPutai</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Eptaqan pewalt?</migmaq> 	
 						<english>Do you want a dish?</english>
-						<soundfile>EptaqanPewalt_MoqwaMuPewalaqEptaqan</soundfile>
+						<soundfile>EptaqanPewalt</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu pewalaq eptaqan.</migmaq> 	
 						<english>No, I don't want a dish.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuPewalaqEptaqan</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Mu pewalawt eptaqan?</migmaq> 	
 						<english>You don't want a dish?</english>
-						<soundfile>MuPewalawtEptaqan_MoqwaMuPewalaqEptaqanPewalgSamqwanoq</soundfile>
+						<soundfile>MuPewalawtEptaqan</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu pewalaq eptaqan. Pewalg samqwano'q.</migmaq> 	
 						<english>No, I don't want a dish. I want a water bottle.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuPewalaqEptaqanPewalgSamqwanoq</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -4303,13 +4292,12 @@
 					<line>
 						<migmaq>Mg'sng pewaljig?</migmaq> 	
 						<english>Do you want shoes?</english>
-						<soundfile>MgsngPewaljig_EePewalgigMgsng</soundfile>
+						<soundfile>MgsngPewaljig</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, pewalgig mg'sng.</migmaq> 	
 						<english>Yes, I want shoes.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EePewalgigMgsng</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -4317,26 +4305,24 @@
 					<line>
 						<migmaq>La'taqsung pewaljig?</migmaq> 	
 						<english>Do you want buckets?</english>
-						<soundfile>LataqsungPewaljig_MoqwaMuPewalaqigLataqsung</soundfile>
+						<soundfile>LataqsungPewaljig</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu pewalaqig la'taqsung.</migmaq> 	
 						<english>No, I don't want buckets.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuPewalaqigLataqsung</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Mu pewalawjig la'taqsung?</migmaq> 	
 						<english>You don't want buckets?</english>
-						<soundfile>MuPewalawjigLataqsung_MoqwaMuPewalaqigLataqsungSamqwanoqPewalg</soundfile>
+						<soundfile>MuPewalawjigLataqsung</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu pewalaqig la'taqsung. Samqwano'q pewalg.</migmaq> 	
 						<english>No, I don't want buckets. I want a water bottle.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuPewalaqigLataqsungSamqwanoqPewalg</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -4347,39 +4333,36 @@
 					<line>
 						<migmaq>Tepaqan pewatmn?</migmaq> 	
 						<english>Do you want a car?</english>
-						<soundfile>TepaqanPewatmn_EePewatmTepaqan</soundfile>
+						<soundfile>TepaqanPewatmn</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, pewatm tepaqan.</migmaq> 	
 						<english>Yes, I want a car?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EePewatmTepaqan</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>A'gusn pewatmn?</migmaq> 	
 						<english>Do you want a hat?</english>
-						<soundfile>AgusnPewatmn_MoqwaMuPewatmuAgusn</soundfile>
+						<soundfile>AgusnPewatmn</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu pewatmu a'gusn.</migmaq> 	
 						<english>No, I don't want a hat.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuPewatmuAgusn</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Mu pewatmu'n a'gusn?</migmaq> 	
 						<english>You don't want a hat?</english>
-						<soundfile>MuPewatmunAgusn_MoqwaMuPewatmuAgusnMagotPewatm</soundfile>
+						<soundfile>MuPewatmunAgusn</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu pewatmu a'gusn. Magot pewatm.</migmaq> 	
 						<english>No, I don't want a hat. I want a dress.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuPewatmuAgusnMagotPewatm</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -4390,39 +4373,36 @@
 					<line>
 						<migmaq>Wasuegl pewatmnn?</migmaq> 	
 						<english>Do you want flowers?</english>
-						<soundfile>WasueglPewatmnn_EePewatmannWasuegl</soundfile>
+						<soundfile>WasueglPewatmnn</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, pewatmann wasuegl.</migmaq> 	
 						<english>Yes, I want flowers.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EePewatmannWasuegl</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>A'su'nn pewatmnn?</migmaq> 	
 						<english>Do you want blankets?</english>
-						<soundfile>AsunnPewatmnn_MoqwaMuPewatmuannAsunn</soundfile>
+						<soundfile>AsunnPewatmnn</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu pewatmuann a'su'nn.</migmaq> 	
 						<english>No, I don't want blankets.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuPewatmuannAsunn</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Mu pewatmu'nn a'su'nn?</migmaq> 	
 						<english>You don't want blankets?</english>
-						<soundfile>MuPewatmunnAsunn_MoqwaMuPewatmuannAsunnPewatmuannMagotl</soundfile>
+						<soundfile>MuPewatmunnAsunn</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu pewatmuann a'su'nn. Pewatmuann magotl.</migmaq> 	
 						<english>No, I don't want blankets. I want dresses.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuPewatmuannAsunnPewatmuannMagotl</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -4433,29 +4413,28 @@
 					<line>
 						<migmaq>Goqwei geggunmn?</migmaq> 	
 						<english>What do you have?</english>
-						<soundfile>GoqweiGeggunmn_GeggunmWasueg</soundfile>
+						<soundfile>GoqweiGeggunmn</soundfile>
 					</line>
 					<line>
 						<migmaq>Geggunm wasueg.</migmaq> 	
 						<english>I have a flower.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>GeggunmWasueg</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Goqwei piluei geggunmn?</migmaq> 	
 						<english>What else do you have?</english>
-						<soundfile>GoqweiPilueiGeggunmn_GeggungAtlai</soundfile>
+						<soundfile>GoqweiPilueiGeggunmn</soundfile>
 					</line>
 					<line>
 						<migmaq>Geggung atla'i.</migmaq> 	
 						<english>I have a shirt.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>GeggungAtlai</soundfile>
 					</line>
 				</dialog>
 			</lesson>
+			<checked/>
 			<lesson>
 				<title>Do you have a [thing]? (animate)</title>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@2:10-2:27</timesig>		
