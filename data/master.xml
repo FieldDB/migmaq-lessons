@@ -1793,7 +1793,7 @@
 			<lesson>
 				<title>How many people do you see? Large numbers.</title>
 				<designnote>Here we combine the 'see' patterns with the larger numbers for counting people (and similarly-treated words like 'star'). The larger numbers have been intentionally selected for easy visual/image presentation. Hence "25" as editing a single image of a child into a 5x5 configuration.</designnote>
-				<timesig>@20120730-JV-MAM-34-TasijigNemijig.wav; see end for corrections</timesig>		
+				<timesig>@20120730-JV-MAM-34-TasijigNemijig.wav; see end for corrections</timesig>
 				<dialog>
 					<line>
 						<migmaq>Ta'sijig nemi'jig ji'nmug?</migmaq> 	
@@ -4434,7 +4434,6 @@
 					</line>
 				</dialog>
 			</lesson>
-			<checked/>
 			<lesson>
 				<title>Do you have a [thing]? (animate)</title>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@2:10-2:27</timesig>		
@@ -4442,39 +4441,36 @@
 					<line>
 						<migmaq>Pu'tai geggunt?</migmaq> 	
 						<english>Do you have a bottle?</english>
-						<soundfile>PutaiGeggunt_EeGeggungPutai</soundfile>
+						<soundfile>PutaiGeggunt</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, geggung pu'tai.</migmaq> 	
 						<english>Yes, I have a bottle.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EeGeggungPutai</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Eptaqan geggunt?</migmaq> 	
 						<english>Do you have a dish?</english>
-						<soundfile>EptaqanGeggunt_MoqwaMuGeggunaqEptaqan</soundfile>
+						<soundfile>EptaqanGeggunt</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu geggunaq eptaqan.</migmaq> 	
 						<english>No, I don't have a dish.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuGeggunaqEptaqan</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Mu geggunawt eptaqan?</migmaq> 	
 						<english>Don't you have a dish?</english>
-						<soundfile>MuGeggunawtEptaqan_MoqwaMuGeggunaqEptaqanGeggungSamqwanoq</soundfile>
+						<soundfile>MuGeggunawtEptaqan</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu geggunaq eptaqan. Geggung samqwano'q.</migmaq> 	
 						<english>No, I don't have a dish. I have a water bottle.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuGeggunaqEptaqanGeggungSamqwanoq</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -4485,39 +4481,36 @@
 					<line>
 						<migmaq>Mg'sng geggunjig?</migmaq> 	
 						<english>Do you have shoes?</english>
-						<soundfile>MgsngGeggunjig_EeGeggungigMgsng</soundfile>
+						<soundfile>MgsngGeggunjig</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, geggungig mg'sng.</migmaq> 	
 						<english>Yes, I have shoes.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EeGeggungigMgsng</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>La'taqsung geggunjig?</migmaq> 	
 						<english>Do you have buckets?</english>
-						<soundfile>LataqsungGeggunjig_MoqwaMuGeggunaqigLataqsung</soundfile>
+						<soundfile>LataqsungGeggunjig</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu geggunaqig la'taqsung.</migmaq> 	
 						<english>No, I don't have buckets.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuGeggunaqigLataqsung</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Mu geggunawjig la'taqsung?</migmaq> 	
 						<english>You don't have buckets?</english>
-						<soundfile>MuGeggunawjigLataqsung_MoqwaMuGeggunaqigLataqsungGeggungSamqwanoq</soundfile>
+						<soundfile>MuGeggunawjigLataqsung</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu geggunaqig la'taqsung. Geggung samqwano'q.</migmaq> 	
 						<english>No, I don't have buckets. I have a water bottle.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuGeggunaqigLataqsungGeggungSamqwanoq</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -4528,39 +4521,36 @@
 					<line>
 						<migmaq>Tepaqan geggunmn?</migmaq> 	
 						<english>Do you have a car?</english>
-						<soundfile>TepaqanGeggunmn_EeGeggunmTepaqan</soundfile>
+						<soundfile>TepaqanGeggunmn</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, geggunm tepaqan.</migmaq> 	
 						<english>Yes, I have a car.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EeGeggunmTepaqan</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>A'gusn geggunmn?</migmaq> 	
 						<english>Do you have a hat?</english>
-						<soundfile>AgusnGeggunmn_MoqwaMuGeggunmuAgusn</soundfile>
+						<soundfile>AgusnGeggunmn</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu geggunmu a'gusn.</migmaq> 	
 						<english>No, I don't have a hat.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuGeggunmuAgusn</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Mu geggunmu'n a'gusn?</migmaq> 	
 						<english>You don't have a hat?</english>
-						<soundfile>MuGeggunmunAgusn_MoqwaMuGeggunmuAgusnGeggunmMagot</soundfile>
+						<soundfile>MuGeggunmunAgusn</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu geggunmu a'gusn. Geggunm magot.</migmaq> 	
 						<english>No, I don't have a hat. I have a dress.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuGeggunmuAgusnGeggunmMagot</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -4571,26 +4561,24 @@
 					<line>
 						<migmaq>Wasuegl geggunmnn?</migmaq> 	
 						<english>Do you have flowers?</english>
-						<soundfile>WasueglGeggunmnn_EeGeggunmannWasuegl</soundfile>
+						<soundfile>WasueglGeggunmnn</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, geggunmann wasuegl.</migmaq> 	
 						<english>Yes, I have flowers.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EeGeggunmannWasuegl</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>A'su'nn geggunmnn?</migmaq> 	
 						<english>Do you have blankets?</english>
-						<soundfile>AsunnGeggunmnn_MoqwaMuGeggunmuannAsunn</soundfile>
+						<soundfile>AsunnGeggunmnn</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu geggunmuann a'su'nn.</migmaq> 	
 						<english>No, I don't have blankets.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuGeggunmuannAsunn</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -4598,13 +4586,12 @@
 					<line>
 						<migmaq>Mu geggunmu'nn a'su'nn?</migmaq>	
 						<english>You don't have blankets?</english>
-						<soundfile>MuGeggunmunnAsunn_MoqwaMuGeggunmuannAsunnGeggunmannMagotl</soundfile>
+						<soundfile>MuGeggunmunnAsunn</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu geggunmuann a'su'nn. Geggunmann magotl.</migmaq> 	
 						<english>No, I don't have blankets. I have dresses.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuGeggunmuannAsunnGeggunmannMagotl</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -4615,76 +4602,76 @@
 					<line>
 						<migmaq>Lo'?.</migmaq> 	
 						<english>Lo(rraine)?</english>
-						<soundfile>NOT_USED</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>Goqwei?</migmaq> 	
 						<english>What?</english>
-						<soundfile>NOT_USED</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>Gi'l na gisi-pettaqte'muin. Goqwei pewatmu's'p?</migmaq> 	
 						<english>You're the one that's called me. What did you want?</english>
-						<soundfile>NOT_USED</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>A' getu'-wije'win qame'g?</migmaq> 	
 						<english>Do you want to go across with me?</english>
-						<soundfile>NOT_USED</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>Nige'?</migmaq> 	
 						<english>Now?</english>
-						<soundfile>NOT_USED</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>E'e.</migmaq> 	
 						<english>Yes.</english>
-						<soundfile>NOT_USED</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>Ge' ignmui ta's'gl ajietl, pas amujpa sa'sew'gna'si.</migmaq> 	
 						<english>Give me a few minutes, I just have to change clothes.</english>
-						<soundfile>NOT_USED</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>Gatta' gisi wije'wult's.</migmaq> 	
 						<english>But I can go with you.</english>
-						<soundfile>NOT_USED</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>'Mm...</migmaq> 	
 						<english>Yeah...</english>
-						<soundfile>NOT_USED</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>Tami tett getu'-lien?</migmaq> 	
 						<english>Where do you want to go?</english>
-						<soundfile>NOT_USED</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>Getu'-natanguai.</migmaq> 	
 						<english>I want to go shopping.</english>
-						<soundfile>NOT_USED</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>Etugjel Sobey-eg.</migmaq> 	
 						<english>Maybe at Sobeys?</english>
-						<soundfile>NOT_USED</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>Nat-goqwei getu'-nattelm ugjit wela'gowei.</migmaq> 	
 						<english>Yeah. I want to pick up something for supper.</english>
-						<soundfile>NOT_USED</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line>
 						<migmaq>Na to'q: Wije'wult's.</migmaq> 	
 						<english>Oh, okay: I will go with you.</english>
-						<soundfile>NOT_USED</soundfile>
+						<!--<soundfile></soundfile>-->
 					</line>
 					<line><migmaq>A'</migmaq> 
 					<english>Ah.</english>
-					<soundfile>NOT_USED</soundfile>
+					<!--<soundfile></soundfile>-->
 				</line>
 			</dialog>
 		</lesson>
@@ -4696,156 +4683,135 @@
 		<title>Child care, daily routine, house-care, and commands</title>
 		<lesson>
 			<title>Every day...</title>
-			<timesig>@20120801-JV-MAM-Tesigisgg1.wav@0:01-1:57</timesig>		
+			<timesig>@20120801-JV-MAM-Tesigisgg1.wav@0:01-1:57</timesig>	
+			<audionote>Full dialog in Tesigisgg1</audionote>	
 			<dialog>
 				<line>
 					<migmaq>Te'si-gisg'g, tugwiei.</migmaq> 	
 					<english>Every morning, I wake up.</english>
-					<soundfile>Tesigisgg1</soundfile>
+					<soundfile>TesigisggTugwiei</soundfile>
 				</line>
 				<line>
 					<migmaq>N'npoqoneg elisin.</migmaq> 	
 					<english>I am lying in my bed.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>NnpoqonegElisin</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw men'ja'si.</migmaq> 	
 					<english>Then I get up.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwMen'ja'si</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw gesispa'lsi.</migmaq> 	
 					<english>Then I wash myself.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwGesispalsi</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw geg'na'si.</migmaq> 	
 					<english>Then I get dressed.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwGegnasi</soundfile>
 				</line>
 				<line>
 					<migmaq>Gisgna'si, na tujiw wissugwai.</migmaq> 	
 					<english>After I get dressed, then I cook for myself.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>GisgnasiNaTujiwWissugwai</soundfile>
 				</line>
 				<line>
 					<migmaq>Mijji; ilaji ugjit natlugwen. Aq natlugwei. Eliei Listugujg. Na'te'l etllugwei.</migmaq> 	
 					<english>I eat; I get ready to go to work. And I go to work. I go to Listuguj. There is where I work.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MijjiIlajiUgjitNatlugwenAqNatlugweiElieiListugujgNatelEtllugwei</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw pegisin ta'n etllugwei.</migmaq> 	
 					<english>Then I arrive where I work.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwPegisinTanEtllugwei</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw poqtlugwei.</migmaq> 	
 					<english>Then I start to work.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwPoqtlugwei</soundfile>
 				</line>
 				<line>
 					<migmaq>Ta'n tujiw gispnei na atlasmi.</migmaq> 	
 					<english>When I get tired, then I rest.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>TanTujiwGispneiNaAtlasmi</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw mijji.</migmaq> 	
 					<english>Then I eat.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwMijji</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw apatlugwei.</migmaq> 	
 					<english>Then I go back to work.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwApatlugwei</soundfile>
 				</line>
 				<line>
 					<migmaq>Ta'n tujiw gaqlugwei, na enmiei.</migmaq> 	
 					<english>When I finish work, then I go home.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>TanTujiwGaqlugweiNaEnmiei</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw pegisin nignaq.</migmaq> 	
 					<english>Then I arrive home [lit. 'at our house'].</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwPegisinNignaq</soundfile>
 				</line>
 				<linetimsig>[@1:12.5-1:15.5]</linetimsig>
 				<line>
 					<migmaq>Toqo-jiw poqji-wissugwatigei.</migmaq> 	
 					<english>Then I start to cook.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwPoqjiwissugwatigei</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw app mijji.</migmaq> 	
 					<english>Then I eat again.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwAppMijji</soundfile>
 				</line>
 				<linetimsig>[@1:25.5-1:28.5]</linetimsig>
 				<line>
 					<migmaq>Ta'n tujiw g's'tal, na getugsiei.</migmaq> 	
 					<english>When I have eaten, then I get sleepy.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>TanTujiwGstalNaGetugsiei</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw nepa'ji'ji.</migmaq> 	
 					<english>Then I take a nap.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwNepajiji</soundfile>
 				</line>
 				<line>
 					<migmaq>Ta'n tujiw tugwiei, na 'ntiga'taqang naji-matu'lugwei.</migmaq> 	
 					<english>When I wake up, then I go putter around in my garden.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>TanTujiwTugwieiNaNtigataqangNajimatulugwei</soundfile>
 				</line>
 				<line>
 					<migmaq>Apaji-pisgwa'i, toqo engopa'si, aq egijjei.</migmaq> 	
 					<english>I go back inside, then I sit down, and I read.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ApajipisgwaiToqoEngopasiAqEgijjei</soundfile>
 				</line>
 				<line>
 					<migmaq>Glapis getugsiei.</migmaq> 	
 					<english>Eventually I get sleepy.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>GlapisGetugsiei</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw gesispa'tuann nipitl.</migmaq> 	
 					<english>Then I brush (lit. 'clean') my teeth.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwGesispatuannNipitl</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw naji-npai.</migmaq> 	
 					<english>Then I go to sleep.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwNajinpai</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw nepai.</migmaq> 	
 					<english>Then I sleep.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwNepai</soundfile>
 				</line>
 			</dialog>
 			<timesig>@20120801-JV-MAM-Tesigisgg2.wav@0:02-2:15</timesig>
-			<designnote>Note slight variations in the responder's forms: she says "egiljen" instead of "egijjen". Both are common versions of 'read'. Similarly, "engosin" and "engopin" are both versions of "pemgopi".</designnote>		
+			<designnote>Note slight variations in the responder's forms: she says "egiljen" instead of "egijjen". Both are common versions of 'read'. Similarly, "engosin" and "engopin" are both versions of "pemgopi".</designnote>	
+			<audionote>Whole dialog in Tesgisgg2</audionote>	
 			<dialog>
 				<line>
 					<migmaq>A', te'si-gisg'g, tugwien.</migmaq> 	
@@ -4855,146 +4821,124 @@
 				<line>
 					<migmaq>Gnpoqoneg elisinn.</migmaq> 	
 					<english>You are lying in your bed.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>GnpoqonegElisinn</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw men'ja'sin.</migmaq> 	
 					<english>Then you get up.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwMenjasin</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw gesispa'lsin.</migmaq> 	
 					<english>Then you wash yourself.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwGesispalsin</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw geg'na'sin.</migmaq> 	
 					<english>Then you get dressed.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwGegnasin</soundfile>
 				</line>
 				<line>
 					<migmaq>Gisgna'sin, na tujiw wissugwan.</migmaq> 	
 					<english>After you get dressed, then you cook for yourself.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>GisgnasinNaTujiwWissugwan</soundfile>
 				</line>
 				<line>
 					<migmaq>Mijji; ilajin ugjit natlugwen. Aq natlugwen. Elien Listugujg. Na'te'l etllugwen.</migmaq> 	
 					<english>You eat; you get ready to go to work. And you go to work. You go to Listuguj. There is where you work.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MijjiIlajinUgjitNatlugwenAqNatlugwenElienListugujgNatelEtllugwen</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw pegisinn ta'n etllugwen.</migmaq> 	
 					<english>Then you arrive where you work.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwPegisinnTanEtllugwen</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw poqtlugwen.</migmaq> 	
 					<english>Then you start to work.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwPoqtlugwen</soundfile>
 				</line>
 				<line>
 					<migmaq>Ta'n tujiw gispnen na atlasmin.</migmaq> 	
 					<english>When you get tired, then you rest.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>TanTujiwGispnenNaAtlasmin</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw mijjin.</migmaq> 	
 					<english>Then you eat.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwMijjin</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw apatlugwen.</migmaq> 	
 					<english>Then you go back to work.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwApatlugwen</soundfile>
 				</line>
 				<line>
 					<migmaq>Ta'n tujiw gaqlugwen, na enmien.</migmaq> 	
 					<english>When you finish work, then you go home.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>TanTujiwGaqlugwenNaEnmien</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw pegisinn giguaq.</migmaq> 	
 					<english>Then you arrive home [lit. 'at your (group's) house'].</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwPegisinnGiguaq</soundfile>
 				</line>
 				<linetimsig>[@1:23.5-1:25.5]</linetimsig>
 				<line>
 					<migmaq>Toqo-jiw poqji-wissugwatigen.</migmaq> 	
 					<english>Then you start to cook.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwPoqjiwissugwatigen</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw app mijjin.</migmaq> 	
 					<english>Then you eat again.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwAppMijjin</soundfile>
 				</line>
 				<line>
 					<migmaq>Ta'n tujiw g's'tann, na getugsien.</migmaq> 	
 					<english>When you have eaten, then you get sleepy.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>TanTujiwGstannNaGetugsien</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw nepa'ji'jin.</migmaq> 	
 					<english>Then you take a nap.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwNepajijin</soundfile>
 				</line>
 				<linetimsig>[@1:45-1:50 .5]</linetimsig>
 				<line>
 					<migmaq>Ta'n tujiw tugwien, na 'gtiga'taqang naji-matu'lugwen.</migmaq> 	
 					<english>When you wake up, then you go putter around in your garden.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>TanTujiwTugwienNaGtigataqangNajimatulugwen</soundfile>
 				</line>
 				<line>
 					<migmaq>Apaji-pisgwa'n, toqo engopa'sin, aq egijjen.</migmaq> 	
 					<english>You go back inside, then you sit down, and you read.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ApajipisgwanToqoEngopasinAqEgijjen</soundfile>
 				</line>
 				<line>
 					<migmaq>Glapis getugsien.</migmaq> 	
 					<english>Eventually you get sleepy.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>GlapisGetugsien</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw gesispa'tu'nn gipitl.</migmaq> 	
 					<english>Then you brush (lit. 'clean') your teeth.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwGesispatunnGipitl</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw naji-npan.</migmaq> 	
 					<english>Then you go to sleep.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwNajinpan</soundfile>
 				</line>
 				<line>
 					<migmaq>Toqo-jiw nepan.</migmaq> 	
 					<english>Then you sleep.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ToqojiwNepan</soundfile>
 				</line>
 			</dialog>
 		</lesson>
 	</unit>
+	<checked/>
 	<unit>
 		<title>Body parts, how they hurt, and possession</title>
 		<lesson>
