@@ -4938,7 +4938,6 @@
 			</dialog>
 		</lesson>
 	</unit>
-	<checked/>
 	<unit>
 		<title>Body parts, how they hurt, and possession</title>
 		<lesson>
@@ -5593,19 +5592,17 @@
 				<line>
 					<migmaq>Tami eimn?</migmaq> 	
 					<english>Where are you?</english>
-					<soundfile>TamiEimn_GujmugGujmugEim_ANinLamuguomgEim</soundfile>
+					<soundfile>TamiEimn</soundfile>
 				</line>
 				<line>
 					<migmaq>Gujmug! Gujmug eim.</migmaq> 	
 					<english>Outside! I'm outside!</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>GujmugGujmugEim</soundfile>
 				</line>
 				<line>
 					<migmaq>A'. Ni'n lamuguomg eim.</migmaq> 	
 					<english>Ah. I'm inside.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ANinLamuguomgEim</soundfile>
 				</line>
 			</dialog>
 			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@0:12.5-0:26-</timesig>		
@@ -5618,20 +5615,17 @@
 				<line>
 					<migmaq>Gujmug! Gujmug eim.</migmaq> 	
 					<english>Outside! I'm outside!</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>GujmugGujmugEim</soundfile>
 				</line>
 				<line>
 					<migmaq>A'. Ni'n lamuguomg eim.</migmaq> 	
 					<english>Ah. I'm inside.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ANinLamuguomgEim</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e. Gi'l gujmug mu eimu'n, aq ni'n mu eimu lamuguomg.</migmaq> 	
 					<english>Yes. You're not outside, and I'm not inside.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeGilGujmugMuEimunAqNinMuEimuLamuguomg</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -5642,25 +5636,22 @@
 				<line>
 					<migmaq>Tam' eig 'ggij?</migmaq> 	
 					<english>Where's your mom?</english>
-					<soundfile>TamEigGgij_Aseg_Aseg_EeAsegEig</soundfile>
+					<soundfile>TamEigGgij</soundfile>
 				</line>
 				<line>
 					<migmaq>A'se'g.</migmaq> 	
 					<english>In the other room.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>Aseg</soundfile>
 				</line>
 				<line>
 					<migmaq>A'se'g?</migmaq> 	
 					<english>In the other room.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>AsegQ</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, a'se'g eig.</migmaq> 	
 					<english>Yes, she's in the other room.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeAsegEig</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -5671,39 +5662,36 @@
 				<line>
 					<migmaq>Tam' eig 'nmu'j?</migmaq> 	
 					<english>Where's the dog?</english>
-					<soundfile>TamEigNmuj_GegwegNepat</soundfile>
+					<soundfile>TamEigNmuj</soundfile>
 				</line>
 				<line>
 					<migmaq>Ge'gwe'g. Nepat.</migmaq> 	
 					<english>Upstairs. She's asleep.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>GegwegNepat</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Tam' eig nujj?</migmaq> 	
 					<english>Where's my dad?</english>
-					<soundfile>TamEigNujj_EpunegNepat</soundfile>
+					<soundfile>TamEigNujj</soundfile>
 				</line>
 				<line>
 					<migmaq>Epune'g. Nepat.</migmaq> 	
 					<english>Downstairs. He's asleep.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EpunegNepat</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Tam' eig gajuewj?</migmaq> 	
 					<english>Where's the cat?</english>
-					<soundfile>TamEigGajuewj_MutputigtugNepat</soundfile>
+					<soundfile>TamEigGajuewj</soundfile>
 				</line>
 				<line>
 					<migmaq>Mutputigtug. Nepat.</migmaq> 	
 					<english>On the chair. He's asleep.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MutputigtugNepat</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -5714,25 +5702,22 @@
 				<line>
 					<migmaq>'Ggij eig?</migmaq> 	
 					<english>Is your mom here/present?</english>
-					<soundfile>GgijEig_MoqwaMuEimugGujmugEig_LamuguomgEig_MoqwaGujmugEig</soundfile>
+					<soundfile>GgijEig</soundfile>
 				</line>
 				<line>
 					<migmaq>Moqwa', mu eimug. Gujmug eig.</migmaq> 	
 					<english>No, she's not here/present. She's outside.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MoqwaMuEimugGujmugEig</soundfile>
 				</line>
 				<line>
 					<migmaq>Lamuguomg eig?</migmaq> 	
 					<english>She's inside?</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>LamuguomgEig</soundfile>
 				</line>
 				<line>
 					<migmaq>Moqwa'. Gujmug eig.</migmaq> 	
 					<english>No. She's outside.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MoqwaGujmugEig</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -5795,13 +5780,12 @@
 				<line>
 					<migmaq>Tami elien?</migmaq> 	
 					<english>Where are you going?</english>
-					<soundfile>TamiElien_QamegEliei</soundfile>
+					<soundfile>TamiElien0</soundfile>
 				</line>
 				<line>
 					<migmaq>Qame'g eliei.</migmaq> 	
 					<english>I'm going to Campbellton (lit. 'across the river').</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>QamegEliei</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -5812,13 +5796,12 @@
 				<line>
 					<migmaq>Tami elien?</migmaq> 	
 					<english>Where are you going?</english>
-					<soundfile>TamiElien_Asoqomasi</soundfile>
+					<soundfile>TamiElien1</soundfile>
 				</line>
 				<line>
 					<migmaq>Asoqoma'si.</migmaq> 	
 					<english>I'm going across. [the usual way to say 'go to Campbellton']</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>Asoqomasi</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -5829,13 +5812,12 @@
 				<line>
 					<migmaq>Tami elien?</migmaq> 	
 					<english>Where are you going?</english>
-					<soundfile>TamiElien_MuTamiEliewPasgAleiiTett</soundfile>
+					<soundfile>TamiElien2</soundfile>
 				</line>
 				<line>
 					<migmaq>Mu tami eliew. Pas'g aleii tett.</migmaq> 	
 					<english>I'm not going anywhere. I'm just hanging around here.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MuTamiEliewPasgAleiiTett</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -5846,13 +5828,12 @@
 				<line>
 					<migmaq>Wen na ala'sit awtigtug?</migmaq> 	
 					<english>Who is that wandering around in the road?</english>
-					<soundfile>WenNaAlasitAwtigtug_NjignamNaTesiGisggPasgAlasiListugujgGatuNegmMaTamSegLiegw</soundfile>
+					<soundfile>WenNaAlasitAwtigtug</soundfile>
 				</line>
 				<line>
 					<migmaq>'Njignam na. Te'si-gisg'g pas'g ala'si Listugujg, gatu negm ma' tam-se'g 'liegw.</migmaq> 	
 					<english>That's my little brother. Every day he just wanders around in Listuguj, but he won't go anywhere else.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>NjignamNaTesiGisggPasgAlasiListugujgGatuNegmMaTamSegLiegw</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -5863,39 +5844,36 @@
 				<line>
 					<migmaq>Wen ala wejgu'et?</migmaq> 	
 					<english>Who is that coming this way?</english>
-					<soundfile>WenAlaWejguet_MuinNaUgsmugwanej</soundfile>
+					<soundfile>WenAlaWejguet</soundfile>
 				</line>
 				<line>
 					<migmaq>Mui'n na. Ugsmugwanej!</migmaq> 	
 					<english>It's a bear. Let's get out of here [lit. 'Let's run away']!</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MuinNaUgsmugwanej</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Wen ala enmiet?</migmaq> 	
 					<english>Who is that going off/away?</english>
-					<soundfile>WenAlaEnmiet_LentugNaMuttMetewJijuaqaUgsmugwatew</soundfile>
+					<soundfile>WenAlaEnmiet</soundfile>
 				</line>
 				<line>
 					<migmaq>Lentug na. Mutt me'tew, jijuaqa ugsmugwatew.</migmaq> 	
 					<english>It's a deer. Don't make a sound, or else it will run away.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>LentugNaMuttMetewJijuaqaUgsmugwatew</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Wen ala pemiet?</migmaq> 	
 					<english>Who is that going along?</english>
-					<soundfile>WenAlaPemiet_TiamNaMuttGigjasiwTanEig</soundfile>
+					<soundfile>WenAlaPemiet</soundfile>
 				</line>
 				<line>
 					<migmaq>Tia'm na. Mutt gigja'siw ta'n eig.</migmaq> 	
 					<english>It's a moose. Don't go close to where it is.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>TiamNaMuttGigjasiwTanEig</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -5906,26 +5884,24 @@
 				<line>
 					<migmaq>Tami elien?</migmaq> 	
 					<english>Where are you going?</english>
-					<soundfile>TamiElien_QamegElieiNatanguai</soundfile>
+					<soundfile>TamiElien3</soundfile>
 				</line>
 				<line>
 					<migmaq>Qame'g eliei. Natanguai.</migmaq> 	
 					<english>I'm going to Campbellton. I'm going shopping.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>QamegElieiNatanguai</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Tami wejien?</migmaq> 	
 					<english>Where did you go/where have you come from?</english>
-					<soundfile>TamiWejien_QamegWejieiApanguai</soundfile>
+					<soundfile>TamiWejien</soundfile>
 				</line>
 				<line>
 					<migmaq>Qame'g wejiei. Apanguai.</migmaq> 	
 					<english>I went to Campbellton. I went (am back from) shopping.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>QamegWejieiApanguai</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -5936,42 +5912,40 @@
 				<line>
 					<migmaq>Tami ela'tioq?</migmaq> 	
 					<english>Where are you (2) going?</english>
-					<soundfile>TamiElatioq_QamegElatiegNatanguaieg</soundfile>
+					<soundfile>TamiElatioq</soundfile>
 				</line>
 				<line>
 					<migmaq>Qame'g ela'tieg. Natanguaieg.</migmaq> 	
 					<english>We (2) are going to Campbellton. We (2) are going shopping.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>QamegElatiegNatanguaieg</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Tami ela'ti'gw?</migmaq> 	
 					<english>Where are we (2,+you) going?</english>
-					<soundfile>TamiElatigw_QamegElatigwNatanguaigw</soundfile>
+					<soundfile>TamiElatigw</soundfile>
 				</line>
 				<line>
 					<migmaq>Qame'g ela'ti'gw. Natanguai'gw.</migmaq> 	
 					<english>We (2) are going to Campbellton. We (2) are going shopping.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>QamegElatigwNatanguaigw</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Tami ela'tieg?</migmaq> 	
 					<english>Where are we (2,-you) going?</english>
-					<soundfile>TamiElatieg_MuGejuluoqTamiTettGetuLatioq</soundfile>
+					<soundfile>TamiElatieg</soundfile>
 				</line>
 				<line>
 					<migmaq>Mu geju'luoq. Tami tett getu'-la'tioq?</migmaq> 	
 					<english>I don't know about you guys. Where do you (2) want to go?</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MuGejuluoqTamiTettGetuLatioq</soundfile>
 				</line>
 			</dialog>
 		</lesson>
+		<checked/>
 		<lesson>
 			<title>Two people are coming back...</title>
 			<timesig>@20120731-JV-MAM-TamiElien@2:23-2:40</timesig>		
