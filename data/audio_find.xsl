@@ -22,7 +22,7 @@
               <xsl:when test="soundfile">
               </xsl:when>
               <xsl:otherwise>
-                <p>Missing: Line <xsl:value-of select="count(preceding-sibling::line)+1"/>: <xsl:value-of select="migmaq"/></p>
+                <p>Missing: Line <xsl:value-of select="count(preceding-sibling::line)+1"/>: <xsl:value-of select="migmaq"/></p>"x"
               </xsl:otherwise>
             </xsl:choose>
           </xsl:for-each>
@@ -36,7 +36,7 @@
               <xsl:when test="soundfile">
               </xsl:when>
               <xsl:otherwise>
-                <p>Missing: Line <xsl:value-of select="count(preceding-sibling::line)+1"/>: <xsl:value-of select="migmaq"/></p>
+                <p>Missing: Line <xsl:value-of select="count(preceding-sibling::line)+1"/>: <xsl:value-of select="migmaq"/></p>"x"
               </xsl:otherwise>
             </xsl:choose>
           </xsl:for-each>
