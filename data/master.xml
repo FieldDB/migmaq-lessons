@@ -6346,25 +6346,22 @@
 				<line>
 					<migmaq>Ge' la'tinej Qospemg!</migmaq> 	
 					<english>Let's go to the lake!</english>
-					<soundfile>GeLatinejQospemg_TamiTettElatigw_Qospemg</soundfile>
+					<soundfile>GeLatinejQospemg</soundfile>
 				</line>
 				<line>
 					<migmaq>Tami tett ela'ti'gw?</migmaq> 	
 					<english>Where are we going?</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>TamiTettElatigw</soundfile>
 				</line>
 				<line>
 					<migmaq>Qospemg! Naji-tgisminej!</migmaq> 	
 					<english>To the lake! Let's go swimming!</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>QospemgNajitgisminej</soundfile>
 				</line>
 				<line>
 					<migmaq>Ge' tmg magasang la'tinej...getu'-nattelmann suitisl.</migmaq> 	
 					<english>Let's go to the store first...I want to go buy some sweets.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>GetmgMagasangLatinejGetunattelmannSuitisl</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -6418,13 +6415,12 @@
 				<line>
 					<migmaq>Natlugwen?</migmaq> 	
 					<english>You're going to work?</english>
-					<soundfile>Natlugwen_EeNatlugweiMuGetuNatlugwewGatuAmujPaNatlugwei</soundfile>
+					<soundfile>Natlugwen</soundfile>
 				</line>
 				<line>
-					<migmaq>E'e, natlugwei. Mu getu'-natlugwew, gatu amuj pa natlugwei.</migmaq> 	
+					<migmaq>E'e, natlugwei. Mu getu'-natlugwew, gatu amuj pa natlugwei.</migmaq> 
 					<english>Yes, I'm going to work. I don't want to go to work, but I have to go to work.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeNatlugweiMuGetuNatlugwewGatuAmujPaNatlugwei</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -6436,13 +6432,12 @@
 				<line>
 					<migmaq>Aplugwen?</migmaq> 	
 					<english>You're back from work?</english>
-					<soundfile>Aplugwen_EeAplugweiTewjiGispneiA</soundfile>
+					<soundfile>Aplugwen</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, aplugwei. Tew'ji-gispnei a!</migmaq> 	
 					<english>Yep,I'm back from work. I'm so tired!</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeAplugweiTewjiGispneiA</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -6459,14 +6454,12 @@
 				<line>
 					<migmaq>E'e, etllugwei. Te'si-gisg'g na ne'w ajiet gaqlugwei, gatu gisgug na'n ajietew.</migmaq> 	
 					<english>Yes, I'm working. Every day I finish working at four o'clock, but today it will be five o'clock.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeEtllugweiTesiGisggNaNewAjietGaqlugweiGatuGisgugNanAjietew</soundfile>
 				</line>
 				<line>
-					<migmaq>Ni'n mu amuj pa na elugwew gisgug. Nmu'lt's to'q na'n ajiej.</migmaq> 	
+					<migmaq>Ni'n mu amuj pa na elugwew gisgug. Nmu'lt's to'q na'n ajiej.</migmaq>
 					<english>Me, I don't have to work today. I'll see you then when it's five.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>NinMuAmujPaNaElugwewGisgugNmultsToqNanAjiej</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -6478,49 +6471,42 @@
 				<line>
 					<migmaq>Getu'-wije'win?</migmaq> 	
 					<english>Do you want to come with me?</english>
-					<soundfile>_TamiTettElien_GetuAsoqomasiGetuNmisgmPastungeweieiSuliewei_EeWijewultsGatuTmgGetuLqawei_TeltetmGetuGigpesaq_ANaMaPelLqawew_GatuGtuTlataltsNatel_EeMutaMuGetuWissugwatigewGisgug</soundfile>
+					<soundfile>Getuwijewin</soundfile>
 				</line>
 				<line>
 					<migmaq>Tami tett elien?</migmaq> 	
 					<english>Where are you going?</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>TamiTettElien2</soundfile>
 				</line>
 				<line>
 					<migmaq>Getu'-asoqoma'si. Getu'-nmisgm Pastungeweiei suliewei.</migmaq> 	
 					<english>I'm going across [to Campbellton]. I want to get some U.S. money.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>GetuAsoqomasiGetuNmisgmPastungeweieiSuliewei</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, wije'wult's, gatu tmg getu'-'lqawei.</migmaq> 	
 					<english>Yes, I will go with you,but first I want to hang out the laundry.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeWijewultsGatuTmgGetuLqawei</soundfile>
 				</line>
 				<line>
 					<migmaq>Tel'te'tm getu'-gigpesaq.</migmaq> 	
 					<english>I think it's going to rain.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>TeltetmGetuGigpesaq</soundfile>
 				</line>
 				<line>
 					<migmaq>-A' na, ma' pe'l 'lqawew.</migmaq> 	
 					<english>Oh, then for now I won't hang out the laundry.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>ANaMaPelLqawew</soundfile>
 				</line>
 				<line>
 					<migmaq>Gatu 'gtu'-tlatalt's na'te'l?</migmaq> 	
 					<english>So will you want to eat there?</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>GatuGtuTlataltsNatel</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e. Muta mu getu'-wissugwatigew gisgug.</migmaq> 	
 					<english>Yes. Because I don't want to cook today.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeMutaMuGetuWissugwatigewGisgug</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -6534,19 +6520,17 @@
 				<line>
 					<migmaq>Gi'l getugsin. Maja'si, naji-npa.</migmaq> 	
 					<english>You're sleepy. Go, go to bed.</english>
-					<soundfile>GilGetugsinMajasiNajiNpa_GetuSamqwai_MajasiNatsamqwaToqoSmtugNajiLsmasits</soundfile>
+					<soundfile>GilGetugsinMajasiNajiNpa</soundfile>
 				</line>
 				<line>
 					<migmaq>Getu'-samqwai...</migmaq> 	
 					<english>I'm thirsty...</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>GetuSamqwai</soundfile>
 				</line>
 				<line>
 					<migmaq>Maja'si natsamqwa, toqo smtug naji-'lsma'sit's!</migmaq> 	
 					<english>Go, go have a drink, then you'll go lie down right away!</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MajasiNatsamqwaToqoSmtugNajiLsmasits</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -6560,31 +6544,27 @@
 				<line>
 					<migmaq>Gi's gisa'tu'n 'gtlugowaqan?</migmaq> 	
 					<english>Have you finished your work?</english>
-					<soundfile>GeLatinejQospemg2Gisi@114_Gisi</soundfile>
+					<soundfile>GisGisatunGtlugowaqan</soundfile>
 				</line>
 				<line>
 					<migmaq>Gi's ta's'g gisa'tu. Gatu mu gis-gaqa'tu.</migmaq> 	
 					<english>I have done some of it. But I can't finish it.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>GisTasgGisatuGatuMuGisgaqatu</soundfile>
 				</line>
 				<line>
 					<migmaq>Tal gis?</migmaq> 	
 					<english>How come?</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>TalGis</soundfile>
 				</line>
 				<line>
 					<migmaq>Muta mu gisgitmu ta'n goqwei ula 'gtuteminu gisui'g'g.</migmaq> 	
 					<english>Because I can't read what this (non-Native) friend of ours has written.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MutaMuGisgitmuTanGoqweiUlaGtuteminuGisuigg</soundfile>
 				</line>
 				<line>
 					<migmaq>Ni'n gisi-apoqonmult's, gulaman gis-gaqa'tut's.</migmaq> 	
 					<english>I will be able to help you, so that you can finish it.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>NinGisiapoqonmultsGulamanGisgaqatuts</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -6598,54 +6578,46 @@
 				<line>
 					<migmaq>Ni'nen gisiguieg; gatu gi'l maljewejuin.</migmaq> 	
 					<english>We are old; while you (one person) are young.</english>
-					<soundfile>
-					</soundfile>
+					<!--<soundfile></soundfile>-->
 				</line>
 				<line>
 					<migmaq>Ni'nen e'pitewieg; gatu gi'l ji'nmuin.</migmaq> 	
 					<english>We are women; while you are a man.</english>
-					<soundfile>
-					</soundfile>
+					<!--<soundfile></soundfile>-->
 				</line>
 				<line>
 					<migmaq>Ni'nen ji'nmuieg; gatu gi'l e'pitewin.</migmaq> 	
 					<english>We are men; while you are a woman.</english>
-					<soundfile>
-					</soundfile>
+					<!--<soundfile></soundfile>-->
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Ginu gisigui'gw: gi'l gisiguin, aq ni'n elg gisigui.</migmaq> 	
 					<english>We are old: you are old, and I too am old.</english>
-					<soundfile>
-					</soundfile>
+					<!--<soundfile></soundfile>-->
 				</line>
 				<line>
-					<migmaq>Ginu maljewejui'gw: gi'l maljewejuin, aq ni'n elg maljewejui.</migmaq> 	
+					<migmaq>Ginu maljewejui'gw: gi'l maljewejuin, aq ni'n elg maljewejui.</migmaq>
 					<english>We are young: you are young, and I too am young.</english>
-					<soundfile>
-					</soundfile>
+					<!--<soundfile></soundfile>-->
 				</line>
 				<line>
 					<migmaq>Ginu e'pitewi'gw: gi'l e'pitewin, aq ni'n elg e'pitewi.</migmaq> 	
 					<english>We are women: you are a woman, and I too am a woman.</english>
-					<soundfile>
-					</soundfile>
+					<!--<soundfile></soundfile>-->
 				</line>
 				<line>
 					<migmaq>Ginu ji'nmui'gw: gi'l ji'nmuin, aq ni'n elg ji'nmui.</migmaq>
 					<english>We are men: you are a man, and I too am a man.</english>
-					<soundfile>
-					</soundfile>
+					<!--<soundfile></soundfile>-->
 				</line>
 			</dialog>
 		</lesson>
 		<lesson>
 			<title>Weather and tense</title>
-			<note>Already added into CAN8. May want to add 'it is/was/will be hot', to match the 'cold' series</note>
-			<explnote>In this lesson, we show how to talk about the weather in the past, present, and future. Taking the present tense as the default, the past and future show up as different endings on the verb. In general, past = -p and future = -tew (sometimes, you see other letters hanging on to these ones to make them easier to pronouce). For example, to talk about rainy weather... yesterday, you say:<migmaq>ulagu, gigpesaqap</migmaq><english>yesterday, it rained</english>today, you say:<migmaq>gisgug, gigpesaq</migmaq>		
-			<english>today, it's raining</english> tomorrow, you say:<migmaq>sapo'nug, gigpesatew</migmaq><english>tomorrow, it will rain</english>. One more thing about the future tense: in addition to adding "-tew" at	the end of the verb, the future tense can also change the beginning of the word. The next three examples ("cold", "snowing", and "windy") show this change. It happens when the FIRST vowel of the present tense form is an "e", and the change basically just removes the "e" in the future tense. Then to make the e-less word easier to say, a ' is often added to the start of the word. Ex: present tense:	<migmaq>tege'g</migmaq>	<english>it's cold</english> becomes future tense:<migmaq>'tge'tew</migmaq><english>it'll be cold</english> You'll get the hang of this the more you speak the language; for now, just learn these forms and watch out for the "remove e" rule in the future.</explnote>
+			<designnote>Already added into CAN8. May want to add 'it is/was/will be hot', to match the 'cold' series</designnote>
+			<note>In this lesson, we show how to talk about the weather in the past, present, and future. Taking the present tense as the default, the past and future show up as different endings on the verb. In general, past = -p and future = -tew (sometimes, you see other letters hanging on to these ones to make them easier to pronouce). For example, to talk about rainy weather... yesterday, you say:<migmaq>ulagu, gigpesaqap</migmaq><english>yesterday, it rained</english>today, you say:<migmaq>gisgug, gigpesaq</migmaq><english>today, it's raining</english> tomorrow, you say:<migmaq>sapo'nug, gigpesatew</migmaq><english>tomorrow, it will rain</english>. One more thing about the future tense: in addition to adding "-tew" at	the end of the verb, the future tense can also change the beginning of the word. The next three examples ("cold", "snowing", and "windy") show this change. It happens when the FIRST vowel of the present tense form is an "e", and the change basically just removes the "e" in the future tense. Then to make the e-less word easier to say, a ' is often added to the start of the word. Ex: present tense:	<migmaq>tege'g</migmaq>	<english>it's cold</english> becomes future tense:<migmaq>'tge'tew</migmaq><english>it'll be cold</english> You'll get the hang of this the more you speak the language; for now, just learn these forms and watch out for the "remove e" rule in the future.</note>
 			<timesig>@20120727-MAM-Gigpesaqap.wav@0:3.5-</timesig>
 			<vocab>
 				<line>
