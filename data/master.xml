@@ -3742,8 +3742,7 @@
 					<line>
 						<migmaq>samqwan</migmaq> 	
 						<english>water</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>SamqwanClip</soundfile>
 					</line>
 					<linetimsig>[@6:30-6:35]</linetimsig>
 					<line>
@@ -3808,52 +3807,48 @@
 					<line>
 						<migmaq>Wigp't na enmapejit?</migmaq> 	
 						<english>Do you like (the taste of) that carrot?</english>
-						<soundfile>WigptNaEnmapejit_EeWigpg</soundfile>
+						<soundfile>WigptNaEnmapejit</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, wigp'g.</migmaq> 	
 						<english>Yes, I like (the taste of) it.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EeWigpg</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Mu wigpawt na tmato's?</migmaq> 	
 						<english>Do you not like (the taste of) that tomato?</english>
-						<soundfile>MuWigpawtNaTmatos_MoqwaMuWigpaq</soundfile>
+						<soundfile>MuWigpawtNaTmatos</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu wigpaq.</migmaq> 	
 						<english>No, I don't like (the taste of) it.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuWigpaq</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Wigp'jig e'sig?</migmaq> 	
 						<english>Do you like (the taste of) clams?</english>
-						<soundfile>WigpjigEsg_EeWigpgig</soundfile>
+						<soundfile>WigpjigEsg</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, wigp'gig.</migmaq> 	
 						<english>Yes, I like (the taste of) them.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EeWigpgig</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Wigp'jig tmato'sg?</migmaq> 	
 						<english>Do you like (the taste of) tomatoes?</english>
-						<soundfile>WigpjigTmatosg_MoqwaMuWigpaqig</soundfile>
+						<soundfile>WigpjigTmatosg</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu wigpaqig.</migmaq> 	
 						<english>No, I don't like (the taste of) them</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuWigpaqig</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -3864,52 +3859,48 @@
 					<line>
 						<migmaq>Wigtmn pipnaqan?</migmaq> 	
 						<english>Do you like the (taste of) bread?</english>
-						<soundfile>WigtmnPipnaqan_EeWigtm</soundfile>
+						<soundfile>WigtmnPipnaqan</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, wigtm.</migmaq> 	
 						<english>Yes, I like (the taste of) it.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EeWigtm</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Wigtmn wen'jitia'muei?</migmaq> 	
 						<english>Do you like the (taste of) beef?</english>
-						<soundfile>WigtmnWenjitiamuei_MoqwaMuWigtmu</soundfile>
+						<soundfile>WigtmnWenjitiamuei</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu wigtmu.</migmaq> 	
 						<english>No, I don't like (the taste of) it.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuWigtmu</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Wigtmnn suitisl?</migmaq> 	
 						<english>Do you like the (taste of) sweets?</english>
-						<soundfile>WigtmnnSuitisl_EeWigtmann</soundfile>
+						<soundfile>WigtmnnSuitisl</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, wigtmann.</migmaq> 	
 						<english>Yes, I like (the taste of) them.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EeWigtmann</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Wigtmnn wigunn?</migmaq> 	
 						<english>Do you like the (taste of) beans?</english>
-						<soundfile>WigtmnnWigunn_MoqwaMuWigtmuann</soundfile>
+						<soundfile>WigtmnnWigunn</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu wigtmuann.</migmaq> 	
 						<english>No, I don't like (the taste of) them.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuWigtmuann</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -3920,39 +3911,36 @@
 					<line>
 						<migmaq>Goqwei getutmn?</migmaq> 	
 						<english>What do you want to eat?</english>
-						<soundfile>GoqweiGetutmn_GetupgTmatos</soundfile>
+						<soundfile>GoqweiGetutmn</soundfile>
 					</line>
 					<line>
 						<migmaq>Getupg tmato's.</migmaq> 	
 						<english>I want to eat a tomato.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>GetupgTmatos</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Getupt a...enmapejit?</migmaq> 	
 						<english>Do you want to eat uh...a carrot?</english>
-						<soundfile>GetuptAEnmapejit_MoqwaMuGetupaq</soundfile>
+						<soundfile>GetuptAEnmapejit</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu getupaq.</migmaq> 	
 						<english>No, I don't want to eat one.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MoqwaMuGetupaq1</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Getupjig jijjawignejg?</migmaq> 	
 						<english>Do you want to eat some raisins?</english>
-						<soundfile>GetupjigJijjawignejg_EeGetupgig</soundfile>
+						<soundfile>GetupjigJijjawignejg</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, getupgig.</migmaq> 	
 						<english>Yes, I want to eat them.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EeGetupgig</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
