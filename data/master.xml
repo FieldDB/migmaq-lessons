@@ -5945,7 +5945,6 @@
 				</line>
 			</dialog>
 		</lesson>
-		<checked/>
 		<lesson>
 			<title>Two people are coming back...</title>
 			<timesig>@20120731-JV-MAM-TamiElien@2:23-2:40</timesig>		
@@ -5953,39 +5952,36 @@
 				<line>
 					<migmaq>Tami weja'tioq?</migmaq> 	
 					<english>Where did you (2) go?</english>
-					<soundfile>TamiWejatioq_QamegWejatiegApanguaieg</soundfile>
+					<soundfile>TamiWejatioq</soundfile>
 				</line>
 				<line>
 					<migmaq>Qame'g weja'tieg. Apanguaieg.</migmaq> 	
 					<english>We (2) went to Campbellton. We (2) went (are back from) shopping.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>QamegWejatiegApanguaieg</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Tami weja'ti'gw?</migmaq> 	
 					<english>Where did we (me+you) go?</english>
-					<soundfile>TamiWejatigw_QamegEtaWejatigwApanguaigwMuMigwitetmun</soundfile>
+					<soundfile>TamiWejatigw</soundfile>
 				</line>
 				<line>
 					<migmaq>Qame'g eta weja'ti'gw. Apanguai'gw. Mu migwite'tmu'n?</migmaq> 	
 					<english>We (me+you) went to Campbellton. We (me+you) went (are back from) shopping. Don't you remember?</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>QamegEtaWejatigwApanguaigwMuMigwitetmun</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Tami weja'tieg?</migmaq> 	
 					<english>Where did we (2, not you) go?</english>
-					<soundfile>TamiWejatieg_MuGejuluoqGeGilewTlimigwTanWejatioq</soundfile>
+					<soundfile>TamiWejatieg</soundfile>
 				</line>
 				<line>
 					<migmaq>Mu geju'luoq. Ge' gilew tlimigw ta'n weja'tioq!</migmaq> 	
 					<english>I don't know about you guys. You guys tell me where you (2) went!</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MuGejuluoqGeGilewTlimigwTanWejatioq</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -5996,26 +5992,24 @@
 				<line>
 					<migmaq>Tami el'ta'ioq?</migmaq> 	
 					<english>Where are you (group) going?</english>
-					<soundfile>TamiEltaioq_QamegEltaiegNatanguatieg</soundfile>
+					<soundfile>TamiEltaioq</soundfile>
 				</line>
 				<line>
 					<migmaq>Qame'g el'ta'ieg. Natangua'tieg.</migmaq> 	
 					<english>We (group) are going to Campbellton. We (group) are going shopping.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>QamegEltaiegNatanguatieg</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Tami el'taigw?</migmaq> 	
 					<english>Where are we (group,+you) going?</english>
-					<soundfile>TamiEltaigw_QamegEltaigwNatanguatigwMuGeitugsp</soundfile>
+					<soundfile>TamiEltaigw</soundfile>
 				</line>
 				<line>
 					<migmaq>Qame'g el'taigw. Natangua'ti'gw. Mu geitugs'p?</migmaq> 	
 					<english>We (group) are going to Campbellton. We (group) are going shopping. You didn't know?</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>QamegEltaigwNatanguatigwMuGeitugsp</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
@@ -6023,13 +6017,12 @@
 				<line>
 					<migmaq>Tami el'ta'ieg?</migmaq> 	
 					<english>Where are we (group,-you) going?</english>
-					<soundfile>TamiEltaieg_MuGejuluoqGeGilewTlimigwTanEltaioq</soundfile>
+					<soundfile>TamiEltaieg</soundfile>
 				</line>
 				<line>
 					<migmaq>Mu geju'luoq. Ge' gilew tlimigw ta'n el'taioq.</migmaq> 	
 					<english>I don't know about you guys. You guys tell me where you (group) are going!</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MuGejuluoqGeGilewTlimigwTanEltaioq</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -6041,13 +6034,12 @@
 				<line>
 					<migmaq>Tami weita'ioq?</migmaq> 	
 					<english>Where did you (group) go?</english>
-					<soundfile>TamiWeitaioq_QamegWeitaiegApanguatieg</soundfile>
+					<soundfile>TamiWeitaioq</soundfile>
 				</line>
 				<line>
 					<migmaq>Qame'g weita'ieg. Apangua'tieg.</migmaq> 	
 					<english>We (group) went to Campbellton. We (group) went (are back from) shopping.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>QamegWeitaiegApanguatieg</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
@@ -6055,13 +6047,12 @@
 				<line>
 					<migmaq>Tami weitaigw?</migmaq> 	
 					<english>Where did we (group,+you) go?</english>
-					<soundfile>TamiWeitaigw_QamegEtaWeitaigwApanguatigwMuMigwitetmun</soundfile>
+					<soundfile>TamiWeitaigw</soundfile>
 				</line>
 				<line>
 					<migmaq>Qame'g eta weitaigw. Apangua'ti'gw. Mu migwite'tmu'n?</migmaq> 	
 					<english>We (group) went to Campbellton. We (group) went (are back from) shopping. Don't you remember?</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>QamegEtaWeitaigwApanguatigwMuMigwitetmun</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
@@ -6069,13 +6060,12 @@
 				<line>
 					<migmaq>Tami weita'ieg?</migmaq> 	
 					<english>Where did we (group,-you) go?</english>
-					<soundfile>TamiWeitaieg_MuGejuluoqGeGilewTlimigwTanWeitaioq</soundfile>
+					<soundfile>TamiWeitaieg</soundfile>
 				</line>
 				<line>
 					<migmaq>Mu geju'luoq. Ge' gilew tlimigw ta'n weita'ioq.</migmaq> 	
 					<english>I don't know about you guys. You guys tell me where you (group) went!</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MuGejuluoqGeGilewTlimigwTanWeitaioq</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -6087,65 +6077,60 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Listugujg?</migmaq> 	
 					<english>Have you ever been to Listuguj?</english>
-					<soundfile>GisGilWejienListugujg_EeGisWejieiNatelEtaTleiawi</soundfile>
+					<soundfile>GisGilWejienListugujg</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, gi's wejiei. Na'te'l eta tleiawi!</migmaq> 	
 					<english>Yes, I've been there before. That's where I'm from, after all!</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeGisWejieiNatelEtaTleiawi</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Gi's gi'l wejien Qame'g?</migmaq> 	
 					<english>Have you ever been to Campbellton?</english>
-					<soundfile>GisGilWejienQameg_EeGatuSaqMnaqWejiew</soundfile>
+					<soundfile>GisGilWejienQameg</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, gatu sa'q mnaq wejiew.</migmaq> 	
 					<english>Yes, but I haven't been there in a long time.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeGatuSaqMnaqWejiew</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Gi's gi'l wejien Qospemg?</migmaq> 	
 					<english>Have you ever been to Qospem (the lake)?</english>
-					<soundfile>GisGilWejienQospemg_EeGisWejiei</soundfile>
+					<soundfile>GisGilWejienQospemg</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, gi's wejiei.</migmaq> 	
 					<english>Yes, I've been there before.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeGisWejiei</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Gi's gi'l wejien Sipug?</migmaq> 	
 					<english>Have you ever been to Sipug (the river)?</english>
-					<soundfile>GisGilWejienSipug_MoqwaMnaqWejiew</soundfile>
+					<soundfile>GisGilWejienSipug</soundfile>
 				</line>
 				<line>
 					<migmaq>Moqwa', mnaq wejiew.</migmaq> 	
 					<english>No, I haven't been there.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MoqwaMnaqWejiew</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Gi's gi'l wejien Je'g uggampmg?</migmaq> 	
 					<english>Have you ever been to Jake's camp?</english>
-					<soundfile>GisGilWejienJegUggampmg_MoqwaMnaqWejiew</soundfile>
+					<soundfile>GisGilWejienJegUggampmg</soundfile>
 				</line>
 				<line>
 					<migmaq>Moqwa', mnaq wejiew.</migmaq> 	
 					<english>No, I've never been there?</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MoqwaMnaqWejiew</soundfile>
 				</line>
 			</dialog>
 			<linetimsig>[@20120731-JV-MAM-GisGilWejien.wav@0:08-2:42]</linetimsig>		
@@ -6153,65 +6138,60 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Metepna'giaq?</migmaq> 	
 					<english>Have you ever been to Red Bank?</english>
-					<soundfile>GisGilWejienMetepnagiaq_EeAqElgGisWejieiNatuaqaneg</soundfile>
+					<soundfile>GisGilWejienMetepnagiaq</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, aq elg gi's wejiei Natuaqaneg.</migmaq> 	
 					<english>Yes, and I've also been to Eel Ground.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeAqElgGisWejieiNatuaqaneg</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Gi's gi'l wejien Gesgapegiaq?</migmaq> 	
 					<english>Have you ever been to Gesgapegiaq?</english>
-					<soundfile>GisGilWejienGesgapegiaq_MoqwaMnaqWejiewNinGesgapegiaqGatuGisWejieiGlaqatigejg</soundfile>
+					<soundfile>GisGilWejienGesgapegiaq</soundfile>
 				</line>
 				<line>
 					<migmaq>Moqwa', mnaq wejiew ni'n Gesgapegiaq, gatu gi's wejiei Glaqatigejg.</migmaq> 	
 					<english>No, I haven't been to Gesgapegiaq, but I have been to Carleton before.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MoqwaMnaqWejiewNinGesgapegiaqGatuGisWejieiGlaqatigejg</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Gi's gi'l wejien Muliang?</migmaq> 	
 					<english>Have you ever been to Montreal?</english>
-					<soundfile>GisGilWejienMuliang_MoqwaMnaqWejiewMuliangPasgWegwasiapGepeg</soundfile>
+					<soundfile>GisGilWejienMuliang</soundfile>
 				</line>
 				<line>
 					<migmaq>Moqwa', mnaq wejiew Muliang, pas'g we'gwa'siap Gepeg.</migmaq> 	
 					<english>No, I haven't been to Montreal; I've only gotten as far as Quebec City.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MoqwaMnaqWejiewMuliangPasgWegwasiapGepeg</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Gi's gi'l wejienn 'Sgno'patijg aq Elsipugtug?</migmaq> 	
 					<english>Have you ever been to Big Cove and Burnt Church?</english>
-					<soundfile>GisGilWejiennElsipugtugAqSgnopatijg_EeGisWejieiannGatuSaqGiaspiwjieiSgnopatijg</soundfile>
+					<soundfile>GisGilWejiennElsipugtugAqSgnopatijg</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, gi's wejieiann. Gatu sa'q giaspiwjiei 'Sgno'patijg.</migmaq> 	
 					<english>Yes, I've been to them. But it's been a long time since I went to 'Sgno'patijg.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeGisWejieiannGatuSaqGiaspiwjieiSgnopatijg</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Gi's gi'l wejien Gespe'g?</migmaq> 	
 					<english>Have you ever been to the Gaspé?</english>
-					<soundfile>GisGilWejienGespeg_TalMa_NtusIWigipNatel</soundfile>
+					<soundfile>GisGilWejienGespeg</soundfile>
 				</line>
 				<line>
 					<migmaq>Tal ma'? Ntus i'-wigip na'te'l.</migmaq> 	
 					<english>How wouldn't I? My daughter used to live there.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>TalMaNtusIWigipNatel</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
@@ -6219,26 +6199,24 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Epegwitg gisna Unama'gig?</migmaq> 	
 					<english>Have you ever been to Prince Edward Island or Nova Scotia?</english>
-					<soundfile>GisGilWejienEpegwitgGisnaUnamagig_EeGisWejieiannGitg</soundfile>
+					<soundfile>GisGilWejienEpegwitgGisnaUnamagig</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, gi's wejieiann gitg.</migmaq> 	
 					<english>Yes, I've been to them both.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeGisWejieiannGitg</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Gi's gi'l wejien Esgisoqonig?</migmaq> 	
 					<english>Have you ever been to Eskasoni?</english>
-					<soundfile>GisGilWejienEsgisoqonig_EeGisWejieiTheresaWejatiegp</soundfile>
+					<soundfile>GisGilWejienEsgisoqonig</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, gi's wejiei, Theresa weja'tieg'p.</migmaq> 	
 					<english>Yes, I've been there before; I went with Theresa.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeGisWejieiTheresaWejatiegp</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
@@ -6246,13 +6224,12 @@
 				<line>
 					<migmaq>Gi's gi'l wejien S'g'pne'gatig?</migmaq> 	
 					<english>Have you ever been to Shubenacadie?</english>
-					<soundfile>GisGilWejienSgpnegatig_EeGisWejieiNewtejgegEltaiegpNajiTuatiegpNatel</soundfile>
+					<soundfile>GisGilWejienSgpnegatig</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, gi's wejiei. Newtejgeg el'ta'ieg'p naji-tu'a'tieg'p na'te'l .</migmaq> 	
 					<english>Yes, I have been there before. Once we went to go play ball there.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeGisWejieiNewtejgegEltaiegpNajiTuatiegpNatel</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
@@ -6260,13 +6237,12 @@
 				<line>
 					<migmaq>Gi's gi'l wejien Ugjigapajg?</migmaq> 	
 					<english>Have you ever been to Dead Man's Lake?</english>
-					<soundfile>GisGilWejienUgjigapajg_EeGisWejieiGisWelSaqeg</soundfile>
+					<soundfile>GisGilWejienUgjigapajg</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, gi's wejiei. Gi's wel-sa'qeg.</migmaq> 	
 					<english>Yes, I've been there before. It's been a good long time.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeGisWejieiGisWelSaqeg</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -6277,95 +6253,89 @@
 				<line>
 					<migmaq>Atel wejien nipugtug?</migmaq> 	
 					<english>Did you just come from the woods?</english>
-					<soundfile>AtelWejienNipugtug_EeAtelPegisin</soundfile>
+					<soundfile>AtelWejienNipugtug</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, atel pegisin.</migmaq> 	
 					<english>Yep, I just arrived.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeAtelPegisin</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Atel wejien sitmug?</migmaq> 	
 					<english>Did you just come from the shore?</english>
-					<soundfile>AtelWejienSitmug_EeApiTgismi</soundfile>
+					<soundfile>AtelWejienSitmug</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, api-tgismi.</migmaq> 	
 					<english>Yes, I went (am back from) swimming.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeApiTgismi</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Atel peita'jig Muliang?</migmaq> 	
 					<english>Did they (group) just arrive from Montreal?</english>
-					<soundfile>AtelPeitajigMuliang_EeAtelGisGnuatuijig</soundfile>
+					<soundfile>AtelPeitajigMuliang</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, atel gis-gnua'tuijig.</migmaq> 	
 					<english>Yes, they have just told me (let me know).</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeAtelGisGnuatuijig</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Mu nemiaws'p ti'am pemtugwi'g awtigtug?</migmaq> 	
 					<english>Didn't you see the moose running along in the road?</english>
-					<soundfile>MuNemiawspTiamPemtugwigAwtigtug_MoqwaAtelGistuei</soundfile>
+					<soundfile>MuNemiawspTiamPemtugwigAwtigtug</soundfile>
 				</line>
 				<line>
 					<migmaq>Moqwa', atel gistu'ei.</migmaq> 	
 					<english>No, I have just come outside.</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>MoqwaAtelGistuei</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Atel wejien gm'tnigtug?</migmaq> 	
 					<english>Did you just come from the mountain?</english>
-					<soundfile>AtelWejienGmtnigtug_EeAtelGisiMtoqiei</soundfile>
+					<soundfile>AtelWejienGmtnigtug</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, atel gisi-mtoqiei.</migmaq> 	
 					<english>Yes, I have just come down(hill).</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>EeAtelGisiMtoqiei</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Maja'si, naji-ilego'tu gm'po'qon.</migmaq> 	
 					<english>Go, go make your bed.</english>
-					<soundfile>MajasiNajiIlegotuGmpoqon_AtelGisiIlegotu</soundfile>
+					<soundfile>MajasiNajiIlegotuGmpoqon</soundfile>
 				</line>
 				<line>
 					<migmaq>Atel gisi-ilego'tu!</migmaq> 	
 					<english>I have just made it!</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>AtelGisiIlegotu</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Maja'si, naji-gasiptna'si.</migmaq> 	
 					<english>Go, go wash your hands.</english>
-					<soundfile>MajasiNajiGasiptnasi_AtelGisGasiptnasi</soundfile>
+					<soundfile>MajasiNajiGasiptnasi</soundfile>
 				</line>
 				<line>
 					<migmaq>Atel gis-gasiptna'si!</migmaq> 	
 					<english>I have just washed my hands!</english>
-					<soundfile>
-					</soundfile>
+					<soundfile>AtelGisGasiptnasi</soundfile>
 				</line>
 			</dialog>
 		</lesson>
 	</unit>
+	<checked/>
 	<unit>
 		<title>Exit Conversation</title>
 		<lesson>
