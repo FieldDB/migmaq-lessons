@@ -2354,13 +2354,12 @@
 					<line>
 						<migmaq>Ta'nug aji-puna'tes?</migmaq> 	
 						<english>When will you have your birthday?</english>
-						<!--<soundfile>TanugAjiPunates_NinAjiPunatesPesgunategTesugunijSqoljuigus</soundfile>-->
+						<soundfile>TanugAjiPunates0</soundfile>
 					</line>
 					<line>
 						<migmaq>Ni'n aji-puna'tes, pesgunateg te'sugunij, 'Sqoljuigu's,</migmaq> 	
 						<english>I'll have my birthday on the 9th of May.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NinAjiPunatesPesgunategTesugunijSqoljuigus</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -2368,26 +2367,24 @@
 					<line>
 						<migmaq>Ta'nug aji-puna'tes?</migmaq> 	
 						<english>When will you have your birthday?</english>
-						<!--<soundfile>TanugAjiPunates_NinAjiPunatesMetlasugunijJelNewGeptgewigus</soundfile>-->
+						<soundfile>TanugAjiPunates0</soundfile>
 					</line>
 					<line>
 						<migmaq>Ni'n aji-puna'tes metla'sugunij jel ne'w Gep't'gewigu's.</migmaq> 	
 						<english>I'll have my birthday on the 14th of November.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NinAjiPunatesMetlasugunijJelNewGeptgewigus</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'nug aji-puna'tes?</migmaq> 	
 						<english>When will you have your birthday?</english>
-						<!--<soundfile>TanugAjiPunates_NinAjiPunatesNanugunijWigumgewigus</soundfile>-->
+						<soundfile>TanugAjiPunates2</soundfile>
 					</line>
 					<line>
 						<migmaq>Ni'n aji-puna'tes, na'nugunij Wigumgewigu's.</migmaq> 	
 						<english>I'll have my birthday on the 5th of August.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NinAjiPunatesNanugunijWigumgewigus</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -2400,39 +2397,36 @@
 					<line>
 						<migmaq>Ta's-ajiet nige'?</migmaq> 	
 						<english>What time is it now?</english>
-						<!--<soundfile>TasAjietNige_AsugomAjiet</soundfile>-->
+						<soundfile>TasAjietNige0</soundfile>
 					</line>
 					<line>
 						<migmaq>Asugom ajiet.</migmaq> 	
 						<english>It's six o'clock.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>AsugomAjiet</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta's-ajiet nige'?</migmaq> 	
 						<english>What time is it now?</english>
-						<!--<soundfile>TasAjietNige_GegetNewtisgaqAjietJelNewt</soundfile>-->
+						<soundfile>TasAjietNige1</soundfile>
 					</line>
 					<line>
 						<migmaq>Geget newtisga'q ajiet jel newt.</migmaq> 	
 						<english>It is almost/coming up on eleven o'clock.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>GegetNewtisgaqAjietJelNewt</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta's-ajiet nige'?</migmaq> 	
 						<english>What time is it now?</english>
-						<!--<soundfile>TasAjietNige_MejitNanglMinitlNaNewtisgaqAjietewJelNewt</soundfile>-->
+						<soundfile>TasAjietNige2</soundfile>
 					</line>
 					<line>
-						<migmaq>Mejit nangl minitl na newtisga'q ajietew jel newt.</migmaq> 	
+						<migmaq>Mejit nangl minitl na newtisga'q ajietew jel newt.</migmaq>
 						<english>Five more minutes, then it will be eleven o'clock [= 'five to eleven'].</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MejitNanglMinitlNaNewtisgaqAjietewJelNewt</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -2440,13 +2434,12 @@
 					<line>
 						<migmaq>Ta's-ajiet nige'?</migmaq> 	
 						<english>What time is it now?</english>
-						<!--<soundfile>TasAjietNige_MejitGalNaUgumuljinAjietew</soundfile>-->
+						<soundfile>TasAjietNige3</soundfile>
 					</line>
 					<line>
 						<migmaq>Mejit ga'l na ugumuljin ajietew.</migmaq> 	
 						<english>A quarter (of an hour) more and it will be eight o'clock [='quarter to eight'].</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MejitGalNaUgumuljinAjietew</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -2454,13 +2447,12 @@
 					<line>
 						<migmaq>Ta's-ajiet nige'?</migmaq> 	
 						<english>What time is it now?</english>
-						<!--<soundfile>GalGesgMnaqUgumuljinAjiej</soundfile>-->
+						<soundfile>TasajietNige4</soundfile>
 					</line>
 					<line>
 						<migmaq>Ga'l gesg-mnaq ugumuljin ajiegw.</migmaq> 	
 						<english>It's a quarter before eight o'clock.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>GalGesgMnaqUgumuljinAjiej</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -2468,65 +2460,60 @@
 					<line>
 						<migmaq>Ta's-ajiet nige'?</migmaq> 	
 						<english>What time is it now?</english>
-						<!--<soundfile>TasAjietNige_AssmaNigePesgunategAjiet</soundfile>-->
+						<soundfile>TasAjietNige5</soundfile>
 					</line>
 					<line>
 						<migmaq>Assma nige' pesgunateg ajiet.</migmaq> 	
 						<english>It's now exactly nine o'clock.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>AssmaNigePesgunategAjiet</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta's-ajiet nige'?</migmaq> 	
 						<english>What time is it now?</english>
-						<!--<soundfile>TasAjietNige_LluignegAjietJelAqataig</soundfile>-->
+						<soundfile>TasAjietNige6</soundfile>
 					</line>
 					<line>
 						<migmaq>Lluigneg ajiet jel aqataig.</migmaq> 	
 						<english>It's half past seven [lit. 'seven plus a half'].</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>LluignegAjietJelAqataig</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta's-ajiet nige'?</migmaq> 	
 						<english>What time is it now?</english>
-						<!--<soundfile>TasAjietNige_LluignegAjietJelGal</soundfile>-->
+						<soundfile>TasAjietNige7</soundfile>
 					</line>
 					<line>
 						<migmaq>Lluigneg ajiet jel ga'l.</migmaq> 	
 						<english>It's a quarter after seven [lit. 'seven plus a quarter'].</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>LluignegAjietJelGal</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta's-ajiet nige'?</migmaq> 	
 						<english>What time is it now?</english>
-						<!--<soundfile>TasAjietNige_Aqtatpaq</soundfile>-->
+						<soundfile>TasAjietNige8</soundfile>
 					</line>
 					<line>
 						<migmaq>Aqtatpa'q.</migmaq> 	
 						<english>It's midnight.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>Aqtatpaq</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta's-ajiet nige'?</migmaq> 	
 						<english>What time is it now?</english>
-						<!--<soundfile>TasAjietNige_Mewliagweg</soundfile>-->
+						<soundfile>TasAjietNige9</soundfile>
 					</line>
 					<line>
 						<migmaq>Mewlia'gweg.</migmaq> 	
 						<english>It's noon.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>Mewliagweg</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -2534,13 +2521,12 @@
 					<line>
 						<migmaq>Ta's-ajiet nige'?</migmaq> 	
 						<english>What time is it now?</english>
-						<!--<soundfile>TasAjietNige_MuGeituEntunegGnaguseteweimeg</soundfile>-->
+						<soundfile>TasAjietNige10</soundfile>
 					</line>
 					<line>
 						<migmaq>Mu geitu. Entu'neg 'gna'gu'seteweimeg?</migmaq> 	
 						<english>I don't know. Have you lost your watch?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MuGeituEntunegGnaguseteweimeg</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -2553,13 +2539,12 @@
 					<line>
 						<migmaq>Gi's ugumuljin ajiet?</migmaq> 	
 						<english>Is it eight o'clock already?</english>
-						<!--<soundfile>GisUgumuljinAjiet_MnaqUgumuljinAjiegwMejitGalNaUgumuljinAjietew</soundfile>-->
+						<soundfile>GisUgumuljinAjiet</soundfile>
 					</line>
 					<line>
 						<migmaq>Mnaq ugumuljin ajiegw. Mejit ga'l na ugumuljin ajietew.</migmaq> 	
 						<english>It's not yet eight o'clock. A quarter (hour) more and then it will be eight o'clock.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MnaqUgumuljinAjiegwMejitGalNaUgumuljinAjietew</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -2567,32 +2552,29 @@
 					<line>
 						<migmaq>Ta'sajietew weltesgati'gw?</migmaq> 	
 						<english>What time will [it be when] we meet each other?</english>
-						<!--<soundfile>TasajietewWeltesgatigw_AsugomAjiejNaTujiwUltesgatitesnu</soundfile>-->
+						<soundfile>TasajietewWeltesgatigw</soundfile>
 					</line>
 					<line>
 						<migmaq>Asugom ajiej, na tujiw ultesgatitesnu.</migmaq> 	
 						<english>When it's six o'clock, that's when we'll meet each other.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>AsugomAjiejNaTujiwUltesgatitesnu</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta's-ajietew sapo'nug natlugwen?</migmaq> 	
 						<english>What time will it be tomorrow [when] you go to work?</english>
-						<!--<soundfile>TasAjietewSaponugNatlugwen_LluignegAjietewJelAqataiNatlugweiWijeiNaTesiGisgg_AaNinWijei</soundfile>-->
+						<soundfile>TasAjietewSaponugNatlugwen</soundfile>
 					</line>
 					<line>
 						<migmaq>Lluigneg ajietew jel aqatai natlugwei, wijei na te'si-gisg'g.</migmaq> 	
 						<english>It'll be half past seven when I go to work, same as every day.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>LluignegAjietewJelAqataiNatlugweiWijeiNaTesiGisgg</soundfile>
 					</line>
 					<line>
 						<migmaq>A'a, ni'n wijei.</migmaq> 	
 						<english>Oh, me too.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>AaNinWijei</soundfile>
 					</line>
 				</dialog>
 				<note>translation for "a'a, ni'n wijei" needs checking.</note>
