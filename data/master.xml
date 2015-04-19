@@ -2589,13 +2589,12 @@
 					<line>
 						<migmaq>Taluisin gi'l?</migmaq> 	
 						<english>What's your name?</english>
-						<!--<soundfile>SanTeluisi</soundfile>-->
+						<soundfile>TaluisinGil0</soundfile>
 					</line>
 					<line>
 						<migmaq>Sa'n teluisi.</migmaq> 	
 						<english>My name is John.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>SanTeluisi</soundfile>
 					</line>
 					<line>
 						<migmaq>Wen 'ggij?</migmaq> 	
@@ -2610,34 +2609,32 @@
 					<line>
 						<migmaq>Wen gujj?</migmaq> 	
 						<english>Who's your father?</english>
-						<soundfile>WenGujjCLP</soundfile>
+						<soundfile>WenGujj0</soundfile>
 					</line>
 					<line>
 						<migmaq>Nujj na So'se'p Nuel.</migmaq> 	
 						<english>My father is Joseph Noel.</english>
-						<!--<soundfile>NujjNaSosepNuel</soundfile>-->
+						<soundfile>NujjNaSosepNuel</soundfile>
 					</line>
 					<line>
 						<migmaq>Tami tett tleiawijig?</migmaq> 	
 						<english>Where are they from?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>TamiTettTleiawijig</soundfile>
 					</line>
 					<line>
 						<migmaq>'Ngij tleiawit Listugujg, aq nujj tleiawit Gesgapegiaq.</migmaq>
 						<english>My mother is from Listuguj, and my father is from Gesgapegiaq.</english>
-						<!--<soundfile>NgijTleiawitListugujgAqNujjTleiawitGesgapegiaq</soundfile>-->
+						<soundfile>NgijTleiawitListugujgAqNujjTleiawitGesgapegiaq</soundfile>
 					</line>
 					<line>
 						<migmaq>Tami tett wigijig?</migmaq> 	
 						<english>Where do they live?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>TamiTettWigijig</soundfile>
 					</line>
 					<line>
 						<migmaq>Listugujg wigijig, utang. Ni'n elg Listugujg wigi, wanne'g.</migmaq> 	
 						<english>They live in Listuguj, towards the town. I also live in Listuguj, towards the cove.</english>
-						<!--<soundfile>ListugujgWigijigUtangNinElgListugujgWigiWanneg</soundfile>-->
+						<soundfile>ListugujgWigijigUtangNinElgListugujgWigiWanneg</soundfile>
 					</line>
 					<line>
 						<migmaq>Taluisit gmijgamij?</migmaq> 	
@@ -2647,50 +2644,48 @@
 					<line>
 						<migmaq>Pie'l teluisipnaq.</migmaq> 	
 						<english>He (deceased) was named Peter.</english>
-						<!--<soundfile>PielTeluisipnaq</soundfile>-->
+						<soundfile>PielTeluisipnaq</soundfile>
 					</line>
 					<line>
 						<migmaq>Taluisit gugumij?</migmaq> 	
 						<english>What's your grandmother's name?</english>
-						<soundfile>TaluisitGugmij</soundfile>
+						<soundfile>TaluisitGugmij1</soundfile>
 					</line>
 					<line>
 						<migmaq>Agn's teluisipnaq.</migmaq> 	
 						<english>She (deceased) was named Agnes.</english>
-						<!--<soundfile>AgnsTeluisipnaq</soundfile>-->
+						<soundfile>AgnsTeluisipnaq</soundfile>
 					</line>
 					<line>
 						<migmaq>Ta'sijig wijigumjig? Taluisultijig?</migmaq> 	
 						<english>How many brothers and sisters do you have? What are their names?</english>
-						<!--<soundfile>TasijigWijigumjigTaluisultijig</soundfile>-->
-						<note>Later corrections of "REDONE" suggest that it may have been preferred to split these phrases up; recheck with speakers.</note>
+						<soundfile>TasijigWijigumjigTaluisultijig</soundfile>
+						<audionote>Later corrections of "REDONE" suggest that it may have been preferred to split these phrases up; recheck with speakers.</audionote>
 					</line>
 					<line>
 						<migmaq>Asugom te'sijig: Mali, So'se'p, Malia'n, Nastasi, Mise'l, aq ni'n. Mali na nmis, So'se'p na 'nsis, Malia'n aq Nastasi na 'ngwe'ji'jg aq Mise'l na 'njignam.</migmaq> 	
 						<english>There are six of them: Mary, Joseph, Mary-Ann, Anastasia, Michael, and me. Mary is my older sister, Joseph is my older brother, Mary-Ann and Anastasia are my younger sisters, and Michael is my younger brother.</english>
-						<!--<soundfile>AsugomTesijigMaliSosepMalianNastasiMiselAqNin</soundfile>-->
-						<note>Still needs final sentence spliced in; see current recordings.</note>
+						<soundfile>AsugomTesijigMaliSosepMalianNastasiMiselAqNinMali</soundfile>
 					</line>
 					<line>
 						<migmaq>Tami tett etllugwen?</migmaq> 	
 						<english>Where do you work?</english>
-						<soundfile>TamiTettEtllugwen</soundfile>
+						<soundfile>TamiTettEtllugwen0</soundfile>
 					</line>
 					<line>
 						<migmaq>Qame'g. Magasang etllugwei.</migmaq> 	
 						<english>In Campbellton/Across the river. I work in a shop.</english>
-						<!--<soundfile>QamegMagasangEtllugwei</soundfile>-->
+						<soundfile>QamegMagasangEtllugwei</soundfile>
 					</line>
 					<line>
 						<migmaq>Mu nugu' etl-gina'masiw'n?</migmaq> 	
 						<english>You aren't a student any more?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>MuNuguEtlginamasiwn</soundfile>
 					</line>
 					<line>
 						<migmaq>Moqwa': 'gtignipn gaqgina'masiapneg.</migmaq> 	
 						<english>No: last year I finished my studies.</english>
-						<!--<soundfile>MoqwaGtignipnGaqginamasiapneg</soundfile>-->
+						<soundfile>MoqwaGtignipnGaqginamasiapneg</soundfile>
 					</line>
 				</dialog>
 			</lesson>
