@@ -2154,18 +2154,17 @@
 					<line>
 						<migmaq>Ta'n ugs'tqamui's'p?</migmaq> 	
 						<english>When were you born?</english>
-						<!--<soundfile>TanUgstqamuisp_UgstqamuiapASqoljuigus</soundfile>-->
+						<soundfile>TanUgstqamuisp</soundfile>
 					</line>
 					<line>
 						<migmaq>- Ugs'tqamuiap a...'Sqoljuigu's. Gat gi'l?</migmaq> 	
 						<english>I was born in uh...May. And you?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>UgstqamuiapASqoljuigusGatGil</soundfile>
 					</line>
 					<line>
 						<migmaq>Ni'n ugs'tqamuiap a... Nipnigu's.</migmaq> 	
 						<english>I was born in uh...June.</english>
-						<!--<soundfile>GatGil_NinUgstqamuiapANipnigus</soundfile>-->
+						<soundfile>NinUgstqamuiapANipnigus</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -2175,71 +2174,71 @@
 					<line>
 						<migmaq>Pnamujuigu's</migmaq> 	
 						<english>January</english>
-						<!--<soundfile>Pnamujuigus</soundfile>-->
+						<soundfile>Pnamujuigus</soundfile>
 					</line>
 					<line>
 						<migmaq>Apignajit</migmaq> 	
 						<english>February</english>
-						<!--<soundfile>Apignajit</soundfile>-->
+						<soundfile>Apignajit</soundfile>
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>Si'gowigu's</migmaq> 	
 						<english>March</english>
-						<!--<soundfile>Sigowigus</soundfile>-->
+						<soundfile>Sigowigus</soundfile>
 					</line>
 					<line>
 						<migmaq>Penatmuigu's</migmaq> 	
 						<english>April</english>
-						<!--<soundfile>Penatmuigus</soundfile>-->
+						<soundfile>Penatmuigus</soundfile>
 					</line>
 					<line>
 						<migmaq>'Sqoljuigu's</migmaq> 	
 						<english>May</english>
-						<!--<soundfile>Sqoljuigus</soundfile>-->
+						<soundfile>Sqoljuigus</soundfile>
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>Nipnigu's</migmaq> 	
 						<english>June</english>
-						<!--<soundfile>Nipnigus</soundfile>-->
+						<soundfile>Nipnigus</soundfile>
 					</line>
 					<line>
 						<migmaq>'Ps'gewigu's</migmaq> 	
 						<english>July</english>
-						<!--<soundfile>Psgewigus</soundfile>-->
-						<note>See alternate form by JW.</note>
+						<soundfile>Psgewigus</soundfile>
+						<audionote>See alternate form by JW.</audionote>
 					</line>
 					<line>
 						<migmaq>Gisigwegewigu's</migmaq> 	
 						<english>August</english>
-						<!--<soundfile>Gisigwegewigus</soundfile>-->
+						<soundfile>Gisigwegewigus</soundfile>
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>Wigumgewigu's</migmaq> 	
 						<english>September</english>
-						<!--<soundfile>Wigumgewigus</soundfile>-->
+						<soundfile>Wigumgewigus</soundfile>
 					</line>
 					<line>
 						<migmaq>Wigewigu's</migmaq> 	
 						<english>October</english>
-						<!--<soundfile>Wigewigus</soundfile>-->
+						<soundfile>Wigewigus</soundfile>
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>Gep't'gewigu's</migmaq> 	
 						<english>November</english>
-						<!--<soundfile>Geptgewigus</soundfile>-->
+						<soundfile>Geptgewigus</soundfile>
 					</line>
 					<line>
 						<migmaq>Gesigewigu's</migmaq> 	
 						<english>December</english>
-						<!--<soundfile>Gesigewigus</soundfile>-->
+						<soundfile>Gesigewigus</soundfile>
 					</line>
 				</vocab>
 			</lesson>
