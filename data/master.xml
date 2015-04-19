@@ -2695,36 +2695,36 @@
 					<line>
 						<migmaq>Wen na ala ji'nm gaqamit awtigtug?</migmaq> 	
 						<english>Who is that man standing in the road?</english>
-						<!--<soundfile></soundfile>-->
+						<soundfile>WenNaAlaJinmGaqamitAwtigtug</soundfile>
 					</line>
 					<line>
 						<migmaq>Ala ji'nm a? Mu nenuaq.</migmaq> 	
 						<english>That man? I don't know him.</english>
-						<!--<soundfile>AlaJinmAMuNenuaq</soundfile>-->
+						<soundfile>AlaJinmAMuNenuaq</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
-						<migmaq>Wen na ala e'pit pemgopit patautigtig?</migmaq> 	
+						<migmaq>Wen na ala e'pit pemgopit patautigtug?</migmaq> 	
 						<english>Who is that woman sitting at the table?</english>
-						<!--<soundfile></soundfile>-->
+						<soundfile>WenNaAlaEpitPemgopitPatautigtug</soundfile>
 					</line>
 					<line>
 						<migmaq>Negm elg mu nenuaq. Amgwesewei tett pegisin, me' mu wen nenuaq.</migmaq> 	
 						<english>Her too I don't know. It's the first time I've come here; I still don't know anyone.</english>
-						<!--<soundfile>NegmElgMuNenuaqAmgweseweiTettPegisinMeMuWenNenuaq</soundfile>-->
+						<soundfile>NegmElgMuNenuaqAmgweseweiTettPegisinMeMuWenNenuaq</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Wen na ula napui'gnigtug?</migmaq> 	
 						<english>Who is this in the picture?</english>
-						<!--<soundfile></soundfile>-->
+						<soundfile>WenNaUlaNapuignigtug</soundfile>
 					</line>
 					<line>
 						<migmaq>Ni'n na.</migmaq> 	
 						<english>It's me.</english>
-						<!--<soundfile>NinNa</soundfile>-->
+						<soundfile>NinNa</soundfile>
 					</line>
 				</dialog>
 			</lesson>
