@@ -2252,84 +2252,73 @@
 					<line>
 						<migmaq>Ta'sugunit gisgug?</migmaq> 	
 						<english>What date is it today?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>TasugunitGisgug0</soundfile>
 					</line>
 					<line>
 						<migmaq>Gisgug amgwesewei na'gweg.</migmaq> 	
 						<english>Today is the first day [of the month].</english>
-						<!--<soundfile>GisgugAmgweseweiNagweg</soundfile>-->
+						<soundfile>GisgugAmgweseweiNagweg</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sugunit gisgug?</migmaq> 	
 						<english>What date is it today?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>TasugunitGisgug1</soundfile>
 					</line>
 					<linetimsig>[@10:09-10:11]</linetimsig>
 					<line>
 						<migmaq>Gisgug tapugunit.</migmaq> 	
 						<english>Today is the second [day].</english>
-						<!--<soundfile>GisgugTapugunit
-						</soundfile>-->
+						<soundfile>GisgugTapugunit</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sugunit gisgug?</migmaq> 	
 						<english>What date is it today?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>TasugunitGisgug2</soundfile>
 					</line>
 					<line>
 						<migmaq>Gisgug nesugunit.</migmaq> 	
 						<english>Today is the third day [of the month].</english>
-						<!--<soundfile>GisgugNesugunit
-						</soundfile>-->
+						<soundfile>GisgugNesugunit</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sugunit gisgug?</migmaq> 	
 						<english>What date is it today?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>TasugunitGisgug3</soundfile>
 					</line>
 					<line>
 						<migmaq>Gisgug metla'sugunit.</migmaq> 	
 						<english>Today is the tenth day [of the month].</english>
-						<!--<soundfile>GisgugMetlasugunit
-						</soundfile>-->
+						<soundfile>GisgugMetlasugunit</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sugunit gisgug?</migmaq> 	
 						<english>What date is it today?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>TasugunitGisgug4</soundfile>
 					</line>
 					<line>
 						<migmaq>Gisgug tapuisgegigunit jel si'st.</migmaq> 	
 						<english>Today is the twenty-third day [of the month].</english>
-						<!--<soundfile>GisgugTapuisgegigunitJelSist
-						</soundfile>-->
+						<soundfile>GisgugTapuisgegigunitJelSist</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
 					<line>
 						<migmaq>Ta'sugunit gisgug?</migmaq> 	
 						<english>What date is it today?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>TasugunitGisgug5</soundfile>
 					</line>
 					<line>
 						<migmaq>Gisgug ne'sisgegigunit jel newt.</migmaq> 	
 						<english>Today is the thirty-first day [of the month].</english>
-						<!--<soundfile>GisgugNesisgegigunitJelNewt
-						</soundfile>-->
+						<soundfile>GisgugNesisgegigunitJelNewt</soundfile>
 					</line>
 				</dialog>
 			</lesson>
@@ -2342,19 +2331,17 @@
 					<line>
 						<migmaq>Ta'sugunit gi'l aji-puna'n?</migmaq> 	
 						<english>What date do you have your birthday on?</english>
-						<!--<soundfile>TasugunitGilAjiPunan_NinAjiPunaiTapuisgegugunijJelSistGatuGil_NinAjiPunaiMetlasugunijJelNewt</soundfile>-->
+						<soundfile>TasugunitGilAjiPunan</soundfile>
 					</line>
 					<line>
 						<migmaq>Ni'n aji-puna'i tapuisgegugunij jel si'st. Gatu gi'l?</migmaq> 	
 						<english>I have my birthday on the 23rd. And you?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NinAjipunaiTapuisgegugunijJelSistGatuGil</soundfile>
 					</line>
 					<line>
 						<migmaq>Ni'n aji-puna'i metla'sugunij jel newt.</migmaq> 	
 						<english>I have my birthday on the 11th.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NinAjipunaiMetlasugunijJelNewt</soundfile>
 					</line>
 				</dialog>
 			</lesson>
