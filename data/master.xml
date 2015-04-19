@@ -1933,141 +1933,139 @@
 					<line>
 						<migmaq>Ta'si-puna'n?</migmaq> 	
 						<english>How old are you?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>TasiPunan</soundfile>
 					</line>
 					<line>
 						<migmaq>Newti-puna'i.</migmaq> 	
 						<english>I am one. (year old)</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NewtiPunai</soundfile>
 					</line>
 					<line>
 						<migmaq>Tapui-puna'i.</migmaq> 	
 						<english>I am two. (years old)</english>
-						<!--<soundfile>TapuiPunai</soundfile>-->
+						<soundfile>TapuiPunai</soundfile>
 					</line>
 					<line>
 						<migmaq>Ne'si-puna'i.</migmaq> 	
 						<english>I am three. (years old)</english>
-						<!--<soundfile>NesiPunai</soundfile>-->
+						<soundfile>NesiPunai</soundfile>
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>Ta'si-puna'n?</migmaq> 	
 						<english>How old are you?</english>
-						<!--<soundfile>TasiPunan_NewtiPunai</soundfile>-->
+						<soundfile>TasiPunan</soundfile>
 					</line>
 					<line>
 						<migmaq>Newi-puna'i.</migmaq> 	
 						<english>I am four</english>
-						<!--<soundfile>NewiPunai</soundfile>-->
+						<soundfile>NewiPunai</soundfile>
 					</line>
 					<line>
 						<migmaq>Nani-puna'i.</migmaq> 	
 						<english>I am five</english>
-						<!--<soundfile>NaniPunai</soundfile>-->
+						<soundfile>NaniPunai</soundfile>
 					</line>
 					<line>
 						<migmaq>Asugom te'si-puna'i.</migmaq> 	
 						<english>I am six.</english>
-						<!--<soundfile>AsugomTesiPunai</soundfile>-->
+						<soundfile>AsugomTesiPunai</soundfile>
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>Ta'si-puna'n?</migmaq> 	
 						<english>How old are you?</english>
-						<!--<soundfile>TasiPunan_NewtiPunai</soundfile>-->
+						<soundfile>TasiPunan</soundfile>
 					</line>
 					<line>
 						<migmaq>Lluigneg te'si-puna'i.</migmaq> 	
 						<english>I am seven.</english>
-						<!--<soundfile>LluignegTesiPunai</soundfile>-->
+						<soundfile>LluignegTesiPunai</soundfile>
 					</line>
 					<line>
 						<migmaq>Ugumuljin te'si-puna'i.</migmaq> 	
 						<english>I am eight.</english>
-						<!--<soundfile>UgumuljinTesiPunai</soundfile>-->
+						<soundfile>UgumuljinTesiPunai</soundfile>
 					</line>
 					<line>
 						<migmaq>Pesgunateg te'si-puna'i.</migmaq> 	
 						<english>I am nine.</english>
-						<!--<soundfile>PesgunategTesiPunai</soundfile>-->
+						<soundfile>PesgunategTesiPunai</soundfile>
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>Ta'si-puna'n?</migmaq> 	
 						<english>How old are you?</english>
-						<!--<soundfile>TasiPunan_NewtiPunai</soundfile>-->
+						<soundfile>TasiPunan</soundfile>
 					</line>
 					<line>
 						<migmaq>Metla'si-puna'i.</migmaq> 	
 						<english>I am ten.</english>
-						<!--<soundfile>MetlasiPunai</soundfile>-->
+						<soundfile>MetlasiPunai</soundfile>
 					</line>
 					<line>
 						<migmaq>Metla'si-puna'i jel newt.</migmaq> 	
 						<english>I am eleven. (ten + one)</english>
-						<!--<soundfile>MetlasiPunaiJelNewt</soundfile>-->
+						<soundfile>MetlasiPunaiJelNewt</soundfile>
 					</line>
 					<line>
 						<migmaq>Metla'si-puna'i jel ta'pu.</migmaq> 	
 						<english>I am twelve.</english>
-						<!--<soundfile>MetlasiPunaiJelTapu</soundfile>-->
+						<soundfile>MetlasiPunaiJelTapu</soundfile>
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>Ta'si-puna'n?</migmaq> 	
 						<english>How old are you?</english>
-						<!--<soundfile>TasiPunan_NewtiPunai</soundfile>-->
+						<soundfile>TasiPunan</soundfile>
 					</line>
 					<line>
 						<migmaq>Tapuisgegi-puna'i.</migmaq> 	
 						<english>I am twenty.</english>
-						<!--<soundfile>TapuisgegiPunai</soundfile>-->
+						<soundfile>TapuisgegiPunai</soundfile>
 					</line>
 					<line>
 						<migmaq>Tapuisgegi-puna'i jel newt.</migmaq> 	
 						<english>I am twenty-one.</english>
-						<!--<soundfile>TapuisgegiPunaiJelNewt</soundfile>-->
+						<soundfile>TapuisgegiPunaiJelNewt</soundfile>
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>Ta'si-puna'n?</migmaq> 	
 						<english>How old are you?</english>
-						<!--<soundfile>TasiPunan_NewtiPunai</soundfile>-->
+						<soundfile>TasiPunan</soundfile>
 					</line>
 					<line>
 						<migmaq>Ne'sisgegi-puna'i jel ne'w.</migmaq> 	
 						<english>I am thirty-four.</english>
-						<!--<soundfile>NesisgegiPunaiJelNew</soundfile>-->
+						<soundfile>NesisgegiPunaiJelNew</soundfile>
 					</line>
 					<line>
 						<migmaq>Newisgegi-puna'i.</migmaq> 	
 						<english>I am forty.</english>
-						<!--<soundfile>NewisgegiPunai</soundfile>-->
+						<soundfile>NewisgegiPunai</soundfile>
 					</line>
 				</vocab>
 				<vocab>
 					<line>
 						<migmaq>Ta'si-puna'n?</migmaq> 	
 						<english>How old are you?</english>
-						<!--<soundfile>TasiPunan_NewtiPunai</soundfile>-->
+						<soundfile>TasiPunan</soundfile>
 					</line>
 					<line>
 						<migmaq>Asugom te'sisgegi-puna'i jel si'st.</migmaq> 	
 						<english>I am sixty-three.</english>
-						<!--<soundfile>AsugomTesisgegiPunaiJelSist</soundfile>-->
+						<soundfile>AsugomTesisgegiPunaiJelSist</soundfile>
 					</line>
 					<line>
 						<migmaq>Ugumuljin te'sisgegi-puna'i jel newt.</migmaq> 	
 						<english>I am eighty-one.</english>
-						<!--<soundfile>UgumuljinTesisgegiPunaiJelNewt</soundfile>-->
+						<soundfile>UgumuljinTesisgegiPunaiJelNewt</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -2118,19 +2116,17 @@
 					<line>
 						<migmaq>Ta'si-puna'n?</migmaq> 	
 						<english>How old are you?</english>
-						<!--<soundfile>TasiPunan_TapuisgegiPunaiJelNewt__NaGilMeGisiguinJemuNegm_EeTeujiGisiguiA</soundfile>-->
+						<soundfile>TasiPunan</soundfile>
 					</line>
 					<line>
 						<migmaq>Tapuisgegi-puna'i jel newt.</migmaq> 	
 						<english>I'm twenty-one.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>TapuisgegiPunaiJelNewt</soundfile>
 					</line>
 					<line>
 						<migmaq>O', me' maljewejuin!</migmaq> 	
 						<english>Oh, you're still young!</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<!--<soundfile>TasiPunan_TapuisgegiPunaiJelNewt__NaGilMeGisiguinJemuNegm_EeTeujiGisiguiA</soundfile>-->
 					</line>
 					<line>
 						<migmaq>'Njignam metla'si-puna't. Gnegg el-maljewejuit aq ni'n.</migmaq> 	
