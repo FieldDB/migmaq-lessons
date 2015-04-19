@@ -2126,25 +2126,22 @@
 					<line>
 						<migmaq>O', me' maljewejuin!</migmaq> 	
 						<english>Oh, you're still young!</english>
-						<!--<soundfile>TasiPunan_TapuisgegiPunaiJelNewt__NaGilMeGisiguinJemuNegm_EeTeujiGisiguiA</soundfile>-->
+						<soundfile>OMeMalijewejuin</soundfile>
 					</line>
 					<line>
 						<migmaq>'Njignam metla'si-puna't. Gnegg el-maljewejuit aq ni'n.</migmaq> 	
 						<english>My younger brother is ten. He's far younger than me.</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NjignamMetlasipunatGneggElmaljewejuitAqnin</soundfile>
 					</line>
 					<line>
 						<migmaq>Na gi'l me' gisiguin jemu negm?</migmaq> 	
 						<english>So you're older than him?</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>NaGilMeGisiguinJemuNegm</soundfile>
 					</line>
 					<line>
 						<migmaq>E'e, te'uji-gisigui a....</migmaq> 	
 						<english>Yes, I'm so old....</english>
-						<!--<soundfile>
-						</soundfile>-->
+						<soundfile>EeTeujigisiguiA</soundfile>
 					</line>
 				</dialog>
 			</lesson>
