@@ -8,4 +8,4 @@ output: true
 dialogs:
 output: true
 exclude: [documentation, data, Makefile, README.md]
-baseurl: http://canders277.bitbucket.org/_site
+baseurl: learn.migmaq.org
