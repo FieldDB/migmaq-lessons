@@ -24,9 +24,10 @@ html, body {
 
 .navbar-header a {
   color: white;
-  *:after {
-    color: red;
-  }
+}
+
+.navbar-header a:hover { 
+  color: yellow;
 }
 
 header {
