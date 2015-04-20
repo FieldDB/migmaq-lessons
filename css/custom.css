@@ -22,6 +22,10 @@ html, body {
   padding-bottom:45px; /* this needs to be bigger than footer height*/
 }
 
+.navbar-header{
+  color: white;
+}
+
 header {
   /*min-height: 120px;*/ /*Keeps logo from overflowing header*/
   margin-bottom: 15px; /*Margin to add space before content of page */
