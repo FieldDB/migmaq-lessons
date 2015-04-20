@@ -26,7 +26,7 @@ html, body {
   color: white;
 }
 
-.navbar-header a:hover { 
+.navbar-header > a:hover { 
   color: yellow;
 }
 
