@@ -27,11 +27,7 @@ html, body {
 }
 
 .navbar-header > a:hover { 
-  color: yellow;
-}
-
-a:hover {
-  outline-color: blue;
+  color: #f57e5e;
 }
 
 header {
