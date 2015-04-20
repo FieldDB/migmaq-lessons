@@ -22,7 +22,7 @@ html, body {
   padding-bottom:45px; /* this needs to be bigger than footer height*/
 }
 
-.navbar-header{
+.navbar-header a {
   color: white;
 }
 
