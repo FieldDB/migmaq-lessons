@@ -24,6 +24,9 @@ html, body {
 
 .navbar-header a {
   color: white;
+  *:after {
+    color: red;
+  }
 }
 
 header {
