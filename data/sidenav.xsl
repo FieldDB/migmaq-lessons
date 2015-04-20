@@ -11,11 +11,9 @@
               <a>About</a>
               <ul class="dropdown-menu">
                 <li><a href="{{{{ site.baseurl }}}}/about.html">The Mi'gmaq Language</a></li>
-                <li><a href="{{{{ site.baseurl }}}}/project.html">The Project</a></li>
-                <li><a href="{{{{ site.baseurl }}}}/team.html">The Team</a></li>
+                <li><a href="{{{{ site.baseurl }}}}/project.html">How to Use this Site</a></li>
               </ul>
             </li>
-            <li><a href="{{{{ site.baseurl }}}}/use.html">How to Use this Site</a></li>
             <li class="dropdown-submenu">
               <a href="{{{{ site.baseurl }}}}/intro.html">Table of Contents</a>
               <ul class="dropdown-menu">
