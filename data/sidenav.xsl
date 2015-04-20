@@ -7,13 +7,7 @@
         <li class="dropdown-submenu">
           <a tabindex="-1" href="#">Menu</a>
           <ul class="dropdown-menu">
-            <li class="dropdown-submenu">
-              <a>About</a>
-              <ul class="dropdown-menu">
-                <li><a href="{{{{ site.baseurl }}}}/about.html">The Mi'gmaq Language</a></li>
-                <li><a href="{{{{ site.baseurl }}}}/project.html">How to Use this Site</a></li>
-              </ul>
-            </li>
+            <li><a href="{{{{ site.baseurl }}}}/project.html">How to Use this Site</a></li>
             <li class="dropdown-submenu">
               <a href="{{{{ site.baseurl }}}}/intro.html">Table of Contents</a>
               <ul class="dropdown-menu">
