@@ -4267,9 +4267,11 @@
 		</unit>
 		<unit>
 			<title>Household items and clothing; wanting and having</title>
+			<note>It's useful to be able to talk about household items, the things around you. You can walk around and point to them as you practice their names. You might even find it useful to write out labels and put them around your house to help you learn.</note>
 			<lesson>
-				<title>[Household items, clothing]-1a</title>
-				<note>All of the images are given as a single row [and then if possible, highlight each image as it is read through].</note>
+				<title>Household items</title>
+				<note>Let's learn some useful household objects. Feel free to get up and point to them as you practice if you can.</note>
+				<designnote>All of the images are given as a single row [and then if possible, highlight each image as it is read through].</designnote>
 				<timesig>@20120731-JV-MAM-HouseholdItemsAnimInanim.wav@0:11-0:36</timesig>
 				<vocab>
 					<line>
@@ -4310,8 +4312,9 @@
 				</vocab>
 			</lesson>
 			<lesson>
-				<title>[Household items, clothing]-1b</title>
-				<note>All of the images are given as a single row [and then if possible, highlight each image as it is read through].</note>
+				<title>Several household items</title>
+				<note>Let's practice the plurals for those objects now.</note>
+				<designnote>All of the images are given as a single row [and then if possible, highlight each image as it is read through].</designnote>
 				<timesig>@20120731-JV-MAM-HouseholdItemsAnimInanim.wav@0:38.5-1:00</timesig>
 				<vocab>
 					<line>
@@ -4326,12 +4329,12 @@
 					</line>
 					<line>
 						<migmaq>samqwano'qq</migmaq> 	
-						<english>water bottle</english>
+						<english>water bottles</english>
 						<soundfile>Samqwanoqq</soundfile>
 					</line>
 					<line>
 						<migmaq>la'taqsung</migmaq> 	
-						<english>pail/bucket</english>
+						<english>pails/buckets</english>
 						<soundfile>Lataqsung</soundfile>
 					</line>
 					<line>
@@ -4352,8 +4355,9 @@
 				</vocab>
 			</lesson>
 			<lesson>
-				<title>[Household items, clothing]-1c</title>
-				<note>Singular and plural rows of images lined up together, singular on top of plural</note>
+				<title>Household items practice</title>
+				<note>Let's practice household items some more.</note>
+				<designnote>Singular and plural rows of images lined up together, singular on top of plural</designnote>
 				<linetimsig> @20120731-JV-MAM-HouseholdItemsAnimInanim.wav@1:03-1:43</linetimsig>
 				<vocab>
 					<line>
@@ -4395,8 +4399,8 @@
 			</lesson>
 			<lesson>
 				<title>[Household items, clothing]-2a</title>
-				<note>Intentionally a much smaller set than easily imaginable. These are selected for basic utility in demonstrating language patterns, also with the understanding and expectation that the course teaches students how to find out more of this kind of vocabulary with regular speakers. Household items are particularly easy to learn this way, and hence we keep the set introduced here small.</note>
-				<note>All of the images are given as a single row [and then if possible, highlight each image as it is read through].</note>
+				<designnote>Intentionally a much smaller set than easily imaginable. These are selected for basic utility in demonstrating language patterns, also with the understanding and expectation that the course teaches students how to find out more of this kind of vocabulary with regular speakers. Household items are particularly easy to learn this way, and hence we keep the set introduced here small.</designnote>
+				<designnote>All of the images are given as a single row [and then if possible, highlight each image as it is read through].</designnote>
 				<timesig>@20120731-JV-MAM-HouseholdItemsAnimInanim.wav@1:46-1:59</timesig>		
 				<dialog>
 					<line>
