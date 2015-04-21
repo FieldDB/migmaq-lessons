@@ -658,6 +658,8 @@
 			<note>In this unit, you will learn how to talk about people and places. You will learn some more verbs and how to describe where people are.</note>
 			<lesson>
 				<title>Person Vocab</title>
+				<note> One cultural difference that may get lost in translation is related to the two words you just learned: "gisigu" and "gisiguisgw". The English translation we give just says "old man" and "old woman", but in English both of those phrases may not seem as respectful as the Mi'gmaq words actually are.</note>
+				<note>In Mi'gmaq it isn't insulting to be called "gisigu" or "gisiguisgw". These words indicate people who have fully matured and grown, who know as much as they are ever going to know. Somebody who is a	"gisigu" or "gisiguisgw" is to be respected; it is not insulting to use those words (unless you are talking about somebody who is clearly not elderly).</note>
 				<designnote>Introduces a core set of animate nouns starting from people, going through primary gender + stage of life. This is more than just simple vocabulary. These words will be the anchors for demonstrating many other patterns in later lessons, which is one reason why they are kept to this bare but still useful minimum. It is also why the introduction of these words is slow and repetitive over this and the next two lessons, which give the plural, then the singular and plural together. The images for each noun are crucial to making the set easy to learn and remember. They are given together as a single row, and if possible, it would help to highlight each image as its sound is read through.</designnote>
 				<timesig>@20120723-JW-RM-1thru25.wav@5:20-5:34</timesig>
 				<linetimsig>[@5:20.5-5:21.5 REDO 1st]</linetimsig>
@@ -673,7 +675,6 @@
 						<soundfile>gisiguisgw</soundfile>
 					</line>
 				</vocab>
-				<explnote> One cultural difference that may get lost in translation is related to the two words you just learned: "gisigu" and "gisiguisgw". The English translation we give just says "old man" and "old woman", but in English both of those phrases may not seem as respectful as the Mi'gmaq words actually are. In Mi'gmaq it isn't insulting to be called "gisigu" or "gisiguisgw". These words indicate people who have fully matured and grown, who know as much as they are ever going to know. Somebody who is a	"gisigu" or "gisiguisgw" is to be respected; it is not insulting to use those words (unless you are talking about somebody who is clearly not elderly).</explnote>
 				<vocab>
 					<line>
 						<migmaq>ji'nm</migmaq> 	
@@ -722,8 +723,8 @@
 			<lesson>
 				<title>People Vocab</title>
 				<note>Let's learn to talk about one than one person at a time. Pay attention to the ending of each word, and try to remember how it is different than the word for the single person.</note>
+				<note>To talk about more than one of a person (rather than a thing), you add the ending -g. (Sometimes, the -g needs a vowel in front of it, making it -ug or -ig.) (When it comes after a -a or a -q, the ending is always -q, never -g.) And if the ending is added to -i or -u, those sounds come out as -i' and -u', as in gisigu'g.</note>
 				<designnote>Introducing the animal plural pattern through the plural forms of the preceding set of words. This may work best if the exact same pattern of introduction used for the singulars is repeated here, including the use of images described above.</designnote>
-				<explnote>To talk about more than one of a person (rather than a thing), you add the ending -g. (Sometimes, the -g needs a vowel in front of it, making it -ug or -ig.) (When it comes after a -a or a -q, the ending is always -q, never -g.) And if the ending is added to -i or -u, those sounds come out as -i' and -u', as in gisigu'g.</explnote>
 				<timesig>@20120723-JW-RM-1thr.25.wav@5:36-5:53.5</timesig>
 				<vocab>
 					<line>
@@ -1018,8 +1019,10 @@
 			</lesson>
 			<lesson>
 				<title>I see [a person] in the road</title>
+				<note>In this lesson we learn two new things. The word 'nemi'g' means 'I see him/her', and can be used with any of the words for people we have learned before. The ending '-igtug' marks a word as a place or location, just like English words like 'in', 'on', or 'at'.</note>
+				<note>Mi'gmaq has ways of showing those exact different kinds of places, but '-igtug' on the end of the word is usually enough. So for example, putting it on 'awti' 'road' gets you 'in the road' or 'on the road'.</note>
+				<note>Now you can make complete full sentences on your own! Mix and match the words you know, using these patterns, and try them out with speakers!</note>
 				<designnote>This begins a series of lessons that use the key idea of 'see' to introduce the four-way pattern of 'see [{animate, inanimate} {singular, plural}]'. This lesson starts with nemi'g 'I see him/her [= animate singular]'; the later ones will work through the other three possibilities. This lesson also introduces the ending -igtug, added to mark a word as a location. Armed with these three basic components (noun, verb, location), the lesson (perhaps most importantly of all) shows learners that even this early on, they can already make their own full, complete, and real-world-useful sentences. This will be a theme in the course overall. For visuals, the original singular person images are put together with the "see" image.</designnote>
-				<explnote>In this lesson we learn two new things. The word nemi'g means 'I see him/her', and can be used with any of the words for people we have learned before. The ending -igtug marks a word as a place or location, just like English words like 'in', 'on', or 'at'. Mi'gmaq has ways of showing those exact different kinds of places, but -igtug on th end of the word is usually enough. So for example, putting it on awti 'road' gets you 'in the road' or 'on the road'. Now you can make complete full sentences on your own! Mix and match the words you know, using these patterns, and try them out with speakers!</explnote>
 				<timesig>@20120723-JW-RM-1thru25.wav@7:27-7:38</timesig>
 				<vocab>
 					<line>
