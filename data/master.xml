@@ -3599,14 +3599,9 @@
 						<soundfile>TmatosClip</soundfile>
 					</line>
 					<line>
-						<migmaq>tap'tan</migmaq> 	
-						<english>potato</english>
-						<soundfile>TaptanClip</soundfile>
-					</line>
-					<line>
-						<migmaq>wen'ju'sugapun</migmaq> 	
-						<english>turnip</english>
-						<soundfile>WenjusugapunClip</soundfile>
+						<migmaq>'pse's's</migmaq> 	
+						<english>onion</english>
+						<soundfile>PsesisClip</soundfile>
 					</line>
 					<line>
 						<migmaq>enmapejit</migmaq> 	
@@ -3614,15 +3609,12 @@
 						<soundfile>EnmapejitClip</soundfile>
 					</line>
 					<line>
-						<migmaq>'pse's's</migmaq> 	
-						<english>onion</english>
-						<soundfile>PsesisClip</soundfile>
-					</line>
-					<line>
 						<migmaq>jijjawignej</migmaq> 	
 						<english>raisin</english>
 						<soundfile>JijawignejClip</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>gmu'jmin</migmaq> 	
 						<english>raspberry</english>
@@ -3632,6 +3624,16 @@
 						<migmaq>atuomgmin</migmaq> 	
 						<english>strawberry</english>
 						<soundfile>AtuomgominClip</soundfile>
+					</line>
+					<line>
+						<migmaq>wen'ju'sugapun</migmaq> 	
+						<english>turnip</english>
+						<soundfile>WenjusugapunClip</soundfile>
+					</line>
+					<line>
+						<migmaq>tap'tan</migmaq> 	
+						<english>potato</english>
+						<soundfile>TaptanClip</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -3655,31 +3657,23 @@
 						<soundfile>TmatosgClip</soundfile>
 					</line>
 					<line>
-						<migmaq>tap'tang</migmaq> 	
-						<english>potatoes</english>
-						<soundfile>TaptangClip</soundfile>
-					</line>
-					<line>
-						<migmaq>wen'ju'sugapung</migmaq> 	
-						<english>turnips</english>
-						<soundfile>WenjusugapungClip</soundfile>
-					</line>
-					<line>
-						<migmaq>enmapejijig</migmaq> 	
-						<english>carrots</english>
-						<soundfile>EnmapejijigClip</soundfile>
-					</line>
-					<line>
 						<migmaq>'pse's'sg</migmaq> 	
 						<english>onions</english>
 						<soundfile>PsessgClip</soundfile>
 					</line>
 					<linetimsig>[@1:19.5]</linetimsig>
 					<line>
+						<migmaq>enmapejijig</migmaq> 	
+						<english>carrots</english>
+						<soundfile>EnmapejijigClip</soundfile>
+					</line>
+					<line>
 						<migmaq>jijjawignejg</migmaq> 	
 						<english>raisins</english>
 						<soundfile>JijawignejgClip</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>gmu'jming</migmaq> 	
 						<english>raspberries</english>
@@ -3689,6 +3683,16 @@
 						<migmaq>atuomgming</migmaq> 	
 						<english>strawberries</english>
 						<soundfile>AtuomgomingClip</soundfile>
+					</line>
+					<line>
+						<migmaq>wen'ju'sugapung</migmaq> 	
+						<english>turnips</english>
+						<soundfile>WenjusugapungClip</soundfile>
+					</line>
+					<line>
+						<migmaq>tap'tang</migmaq> 	
+						<english>potatoes</english>
+						<soundfile>TaptangClip</soundfile>
 					</line>
 					<line>
 						<migmaq>mlagejg</migmaq> 	
@@ -3714,32 +3718,24 @@
 						<soundfile>TmatosTmatosgClip</soundfile>
 					</line>
 					<line>
-						<migmaq>tap'tan... ...tap'tang</migmaq> 	
-						<english>potato...potatoes</english>
-						<soundfile>TaptanTaptangClip</soundfile>
-					</line>
-					<line>
-						<migmaq>wen'ju'sugapun......wen'ju'sugapung</migmaq> 	
-						<english>turnip...turnips</english>
-						<soundfile>WenjusugapunWenjusugapungClip</soundfile>
-					</line>
-					<line>
-						<migmaq>enmapejit... ...enmapejijig</migmaq> 	
-						<english>carrot...carrots</english>
-						<soundfile>EnmapejigEnmapejijigClip</soundfile>
-					</line>
-					<line>
 						<migmaq>'pse's's... ...'pse's'sg</migmaq> 	
 						<english>onion...onions</english>
 						<soundfile>PsessPsessgClip</soundfile>
 					</line>
 					<linetimsig>[@5:40-5:45]</linetimsig>
 					<line>
+						<migmaq>enmapejit... ...enmapejijig</migmaq> 	
+						<english>carrot...carrots</english>
+						<soundfile>EnmapejigEnmapejijigClip</soundfile>
+					</line>
+					<line>
 						<migmaq>jijjawignej... ...jijjawignejg</migmaq> 	
 						<english>raisin...raisins</english>
 						<soundfile>JijawignejJijawignejgClip2</soundfile>
 					</line>
 					<linetimsig>[@5:46-5:51]</linetimsig>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>gmu'jmin... ...gmu'jming</migmaq> 	
 						<english>raspberry...raspberries</english>
@@ -3750,6 +3746,16 @@
 						<migmaq>atuomgmin... ...atuomgming</migmaq> 	
 						<english>strawberry...strawberries</english>
 						<soundfile>AtuomgominAtuomgomingClip</soundfile>
+					</line>
+					<line>
+						<migmaq>wen'ju'sugapun......wen'ju'sugapung</migmaq> 	
+						<english>turnip...turnips</english>
+						<soundfile>WenjusugapunWenjusugapungClip</soundfile>
+					</line>
+					<line>
+						<migmaq>tap'tan... ...tap'tang</migmaq> 	
+						<english>potato...potatoes</english>
+						<soundfile>TaptanTaptangClip</soundfile>
 					</line>
 					<line>
 						<migmaq>...mlagejg</migmaq> 	
@@ -3770,14 +3776,31 @@
 						<soundfile>AlaweiClip</soundfile>
 					</line>
 					<line>
-						<migmaq>piesgmin</migmaq> 	
-						<english>corn</english>
-						<soundfile>PiesgminClip</soundfile>
+						<migmaq>esg'tm'gewei</migmaq> 	
+						<english>cucumber [lit. 'thing for eating raw']</english>
+						<soundfile>EsgtmgeweiClip</soundfile>
+					</line>
+					<line>
+						<migmaq>suitis</migmaq> 	
+						<english>a sweet, a piece of candy</english>
+						<soundfile>SuwitisClip</soundfile>
 					</line>
 					<line>
 						<migmaq>wa'w</migmaq> 	
 						<english>egg</english>
 						<soundfile>WawClip</soundfile>
+					</line>
+					<line>
+						<migmaq>ejgujg</migmaq> 	
+						<english>squash, pumpkin</english>
+						<soundfile>EjgujgClip</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>piesgmin</migmaq> 	
+						<english>corn</english>
+						<soundfile>PiesgminClip</soundfile>
 					</line>
 					<line>
 						<migmaq>su'n</migmaq> 	
@@ -3790,14 +3813,16 @@
 						<soundfile>WenjusunClip</soundfile>
 					</line>
 					<line>
+						<migmaq>wigun</migmaq> 	
+						<english>bean</english>
+						<soundfile>WigunClip</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
 						<migmaq>aloqoman</migmaq> 	
 						<english>grape</english>
 						<soundfile>AloqomanClip</soundfile>
-					</line>
-					<line>
-						<migmaq>ejgujg</migmaq> 	
-						<english>squash, pumpkin</english>
-						<soundfile>EjgujgClip</soundfile>
 					</line>
 					<line>
 						<migmaq>'pguman</migmaq> 	
@@ -3813,22 +3838,7 @@
 						<migmaq>petaqan</migmaq> 	
 						<english>pie</english>
 						<soundfile>PetaqanClip</soundfile>
-					</line>
-					<line>
-						<migmaq>esg'tm'gewei</migmaq> 	
-						<english>cucumber [lit. 'thing for eating raw']</english>
-						<soundfile>EsgtmgeweiClip</soundfile>
-					</line>
-					<line>
-						<migmaq>suitis</migmaq> 	
-						<english>a sweet, a piece of candy</english>
-						<soundfile>SuwitisClip</soundfile>
-					</line>
-					<line>
-						<migmaq>wigun</migmaq> 	
-						<english>bean</english>
-						<soundfile>WigunClip</soundfile>
-					</line>
+					</line>					
 				</vocab>
 			</lesson>
 			<lesson>
@@ -3843,14 +3853,31 @@
 						<soundfile>AlaweilClip</soundfile>
 					</line>
 					<line>
-						<migmaq>piesgminn</migmaq> 	
-						<english>corn</english>
-						<soundfile>PiesgminnClip</soundfile>
+						<migmaq>esg'tm'gewe'l</migmaq> 	
+						<english>cucumbers</english>
+						<soundfile>EsgtmgeweilClip</soundfile>
+					</line>
+					<line>
+						<migmaq>suitisl</migmaq> 	
+						<english>sweets, candies</english>
+						<soundfile>SuwitislClip</soundfile>
 					</line>
 					<line>
 						<migmaq>wa'wl</migmaq> 	
 						<english>eggs</english>
 						<soundfile>WawlClip</soundfile>
+					</line>
+					<line>
+						<migmaq>ejgujgl</migmaq> 	
+						<english>squashes, pumpkins</english>
+						<soundfile>EjgujglClip</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>piesgminn</migmaq> 	
+						<english>corn</english>
+						<soundfile>PiesgminnClip</soundfile>
 					</line>
 					<line>
 						<migmaq>su'nn</migmaq> 	
@@ -3863,14 +3890,16 @@
 						<soundfile>WenjusunnClip</soundfile>
 					</line>
 					<line>
+						<migmaq>wigunn</migmaq> 	
+						<english>beans</english>
+						<soundfile>WigunnClip</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
 						<migmaq>aloqomann</migmaq> 	
 						<english>grapes</english>
 						<soundfile>AloqomannClip</soundfile>
-					</line>
-					<line>
-						<migmaq>ejgujgl</migmaq> 	
-						<english>squashes, pumpkins</english>
-						<soundfile>EjgujglClip</soundfile>
 					</line>
 					<line>
 						<migmaq>'pgumann</migmaq> 	
@@ -3888,21 +3917,6 @@
 						<english>pies</english>
 						<soundfile>PetaqannClip</soundfile>
 					</line>
-					<line>
-						<migmaq>esg'tm'gewe'l</migmaq> 	
-						<english>cucumbers</english>
-						<soundfile>EsgtmgeweilClip</soundfile>
-					</line>
-					<line>
-						<migmaq>suitisl</migmaq> 	
-						<english>sweets, candies</english>
-						<soundfile>SuwitislClip</soundfile>
-					</line>
-					<line>
-						<migmaq>wigunn</migmaq> 	
-						<english>beans</english>
-						<soundfile>WigunnClip</soundfile>
-					</line>
 				</vocab>
 			</lesson>
 			<lesson>
@@ -3917,14 +3931,31 @@
 						<soundfile>AlaweiAlaweilClip</soundfile>
 					</line>
 					<line>
-						<migmaq>piesgmin...piesgminn</migmaq> 	
-						<english>corn...corns</english>
-						<soundfile>PiesgminPiesgminnClip</soundfile>
+						<migmaq>esg'tm'gewei ...esg'tm'gewe'l</migmaq> 	
+						<english>cucumber...cucumbers</english>
+						<soundfile>EsgtmgeweiEsgtmgeweilClip</soundfile>
+					</line>
+					<line>
+						<migmaq>suitis...suitisl</migmaq> 	
+						<english>candy...candies</english>
+						<soundfile>SuwitisSuwitislClip</soundfile>
 					</line>
 					<line>
 						<migmaq>wa'w...wa'wl</migmaq> 	
 						<english>egg...eggs</english>
 						<soundfile>WawWawlClip</soundfile>
+					</line>
+					<line>
+						<migmaq>ejgujg...ejgujgl</migmaq> 	
+						<english>squash...squashes</english>
+						<soundfile>EjgujgEjgujglClip</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
+						<migmaq>piesgmin...piesgminn</migmaq> 	
+						<english>corn...corns</english>
+						<soundfile>PiesgminPiesgminnClip</soundfile>
 					</line>
 					<line>
 						<migmaq>su'n...su'nn</migmaq> 	
@@ -3937,14 +3968,16 @@
 						<soundfile>WenjusunWenjusunnClip</soundfile>
 					</line>
 					<line>
+						<migmaq>wigun...wigunn</migmaq> 	
+						<english>bean...beans</english>
+						<soundfile>WigunWigunnClip</soundfile>
+					</line>
+				</vocab>
+				<vocab>
+					<line>
 						<migmaq>aloqoman...aloqomann</migmaq> 	
 						<english>grape...grapes</english>
 						<soundfile>AloqomanAloqomannClip</soundfile>
-					</line>
-					<line>
-						<migmaq>ejgujg...ejgujgl</migmaq> 	
-						<english>squash...squashes</english>
-						<soundfile>EjgujgEjgujglClip</soundfile>
 					</line>
 					<line>
 						<migmaq>'pguman...'pgumann</migmaq> 	
@@ -3960,21 +3993,6 @@
 						<migmaq>petaqan...petaqann</migmaq> 	
 						<english>pie...pies</english>
 						<soundfile>PetaqanPetaqannClip</soundfile>
-					</line>
-					<line>
-						<migmaq>esg'tm'gewei ...esg'tm'gewe'l</migmaq> 	
-						<english>cucumber...cucumbers</english>
-						<soundfile>EsgtmgeweiEsgtmgeweilClip</soundfile>
-					</line>
-					<line>
-						<migmaq>suitis...suitisl</migmaq> 	
-						<english>candy...candies</english>
-						<soundfile>SuwitisSuwitislClip</soundfile>
-					</line>
-					<line>
-						<migmaq>wigun...wigunn</migmaq> 	
-						<english>bean...beans</english>
-						<soundfile>WigunWigunnClip</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -4035,6 +4053,8 @@
 						<english>trout (meat)</english>
 						<soundfile>AtoqaseweiClip</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>lentugowei</migmaq> 	
 						<english>venison (deer meat)</english>
@@ -4267,7 +4287,8 @@
 		</unit>
 		<unit>
 			<title>Household items and clothing; wanting and having</title>
-			<note>It's useful to be able to talk about household items, the things around you. You can walk around and point to them as you practice their names. You might even find it useful to write out labels and put them around your house to help you learn.</note>
+			<note>It's useful to be able to talk about household items, the things around you.</note>
+			<note> You can walk around and point to them as you practice their names. You might even find it useful to write out labels and put them around your house to help you learn.</note>
 			<lesson>
 				<title>Household items</title>
 				<note>Let's learn some useful household objects. Feel free to get up and point to them as you practice if you can.</note>
