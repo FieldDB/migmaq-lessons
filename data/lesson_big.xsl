@@ -12,6 +12,9 @@
             <xsl:value-of select="."/><!--Display any notes about the lesson-->
           </p><!--Display any notes about the lesson-->
         </xsl:for-each>
+        <p>
+          <xsl:value-of select="explnote"/>
+        </p><!--Display note as a paragraph-->
       </div>
       <div class="col-md-4">
         <xsl:choose>
@@ -114,8 +117,5 @@
     <p>
       <xsl:value-of select="info"/><!--Display any info associated with the lesson-->
     </p>
-    <p>
-      <xsl:value-of select="explnote"/>
-    </p><!--Display note as a paragraph-->
   </xsl:template>
 </xsl:stylesheet>
