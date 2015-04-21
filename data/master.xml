@@ -1704,14 +1704,54 @@
 				<timesig>@20120723-JW-RM-26thru40.wav@1:14-2:03; REDO COMPLETELY (pronunciation + sound problems)</timesig>
 				<vocab>
 					<line>
-						<migmaq>Pituiptnnaqan, ta'pu pituiptnnaqan, si'st pituiptnnaqan, ne'w pituiptnnaqan, na'n pituiptnnaqan.</migmaq> 	
-						<english>One thousand, two thousand, three thousand, four thousand, five thousand</english>
-						<soundfile>PituiptnnaqanTapuPituiptnnaqanSistPituiptnnaqanNewPituiptnnaqan</soundfile>
+						<migmaq>pituiptnnaqan</migmaq> 	
+						<english>one thousand</english>
+						<soundfile>Pituiptnnaqan0</soundfile>
 					</line>
 					<line>
-						<migmaq>Asugom pituiptnnaqan, lluigneg pituiptnnaqan, ugumuljin pituiptnnaqan, pesgunateg pituiptnnaqan, newtisga'q pituiptnnaqan.</migmaq> 	
-						<english>Six thousand, seven thousand, eight thousand, nine thousand, ten thousand</english>
-						<soundfile>AsugomPituiptnnaqanLluignegPituiptnnaqanUgumuljinPituiptnnaqanPesgunategPituiptnnaqanNewtisgaqPituiptnnaqan</soundfile>
+						<migmaq>ta'pu pituiptnnaqan</migmaq> 	
+						<english>two thousand</english>
+						<soundfile>TapuPituiptnnaqan</soundfile>
+					</line>
+					<line>
+						<migmaq>si'st pituiptnnaqan</migmaq> 	
+						<english>three thousand</english>
+						<soundfile>SistPituiptnnaqan</soundfile>
+					</line>
+					<line>
+						<migmaq>ne'w pituiptnnaqan</migmaq> 	
+						<english>four thousand</english>
+						<soundfile>NewPituiptnnaqan</soundfile>
+					</line>
+					<line>
+						<migmaq>na'n pituiptnnaqan</migmaq> 	
+						<english>five thousand</english>
+						<!--<soundfile>NanPituiptnnaqan</soundfile>-->
+					</line>
+					<line>
+						<migmaq>asugom pituiptnnaqan</migmaq> 	
+						<english>six thousand</english>
+						<soundfile>AsugomPituiptnnaqan</soundfile>
+					</line>
+					<line>
+						<migmaq>lluigneg pituiptnnaqan</migmaq> 	
+						<english>seven thousand</english>
+						<soundfile>LluignegPituiptnnaqan</soundfile>
+					</line>
+					<line>
+						<migmaq>ugumuljin pituiptnnaqan</migmaq> 	
+						<english>eight thousand</english>
+						<soundfile>UgumuljinPituiptnnaqan</soundfile>
+					</line>
+					<line>
+						<migmaq>pesgunateg pituiptnnaqan</migmaq> 	
+						<english>nine thousand</english>
+						<soundfile>PesgunategPituiptnnaqan</soundfile>
+					</line>
+					<line>
+						<migmaq>newtisga'q pituiptnnaqan</migmaq> 	
+						<english>ten thousand</english>
+						<soundfile>NewtisgaqPituiptnnaqan</soundfile>
 					</line>
 				</vocab>
 			</lesson>
