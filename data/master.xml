@@ -3708,18 +3708,18 @@
 				<linetimsig> @20120730-JV-Mijipjewei.wav@1:33-2:21</linetimsig>
 				<vocab>
 					<line>
-						<migmaq>e's<tab/>e'sig</migmaq> 	
-						<english>clam<tab/>clams</english>
+						<migmaq>e's&#160;&#160;&#160;&#160;&#160;e'sig</migmaq> 	
+						<english>clam&#160;&#160;&#160;&#160;&#160;clams</english>
 						<soundfile>EesEesigClip</soundfile>
 					</line>
 					<line>
-						<migmaq>tmato's<tab/>tmato'sg</migmaq> 	
-						<english>tomato<tab/>tomatoes</english>
+						<migmaq>tmato's&#160;&#160;&#160;&#160;&#160;tmato'sg</migmaq> 	
+						<english>tomato&#160;&#160;&#160;&#160;&#160;tomatoes</english>
 						<soundfile>TmatosTmatosgClip</soundfile>
 					</line>
 					<line>
-						<migmaq>'pse's's... ...'pse's'sg</migmaq> 	
-						<english>onion...onions</english>
+						<migmaq>'pse's's&#160;&#160;&#160;&#160;&#160;'pse's'sg</migmaq> 	
+						<english>onion&#160;&#160;&#160;&#160;&#160;onions</english>
 						<soundfile>PsessPsessgClip</soundfile>
 					</line>
 					<linetimsig>[@5:40-5:45]</linetimsig>
