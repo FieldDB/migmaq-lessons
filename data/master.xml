@@ -5530,6 +5530,7 @@
 		</lesson>
 		<lesson>
 			<title>My [body part] hurts. (inanimate)</title>
+			<note>More pain! Oh no! Where does it hurt?</note>
 			<timesig>@20120801-JV-MAM-Gesnuguit.wav@0:55-2:41.5</timesig>
 			<vocab>
 				<line>
@@ -5662,6 +5663,7 @@
 		</lesson>
 		<lesson>
 			<title>My [body parts] hurt. (inanimate)</title>
+			<note>Here's some more practice describing body pains.</note>
 			<timesig>@20120801-JV-MAM-Gesnuguit.wav@2:43.5-3:48</timesig>
 			<vocab>
 				<line>
@@ -5982,8 +5984,11 @@
 	</unit>
 	<unit>
 		<title>Motion and position</title>
+		<note>This unit focuses on motion and position. You'll learn how to ask where people are and how to describe your position.</note>
+		<note>You'll learn some new verbs to describe what people are doing, too.</note>
 		<lesson>
 			<title>Where are you?</title>
+			<note>In this lesson, we'll practice asking where people are, and describing our location.</note>
 			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@0:01.5-0:9.5</timesig>		
 			<dialog>
 				<line>
@@ -6027,7 +6032,8 @@
 			</dialog>
 		</lesson>
 		<lesson>
-			<title>Where is she? (1)</title>
+			<title>Where is she?</title>
+			<note>Now we'll ask where other people are and talk about their locations.</note>
 			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@0:33-0:39.5</timesig>		
 			<dialog>
 				<line>
@@ -6053,7 +6059,8 @@
 			</dialog>
 		</lesson>
 		<lesson>
-			<title>Where is she? (2)</title>
+			<title>Where is everyone else?</title>
+			<note>You're very curious today and want to know where everyone is. Here's how to ask about them.</note>
 			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@0:40-0:</timesig>		
 			<dialog>
 				<line>
@@ -6094,6 +6101,7 @@
 		</lesson>
 		<lesson>
 			<title>Is your mom here?</title>
+			<note>We'll practice asking about locations some more.</note>
 			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@0:58.5-1 :07.5</timesig>		
 			<dialog>
 				<line>
@@ -6119,7 +6127,8 @@
 			</dialog>
 		</lesson>
 		<lesson>
-			<title>Positionals (1)</title>
+			<title>Position Verbs</title>
+			<note>Some verbs tell us what position people are in, whether they are standing, sitting, or lying down. We'll practice describe people's positions in this lesson.</note>
 			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@1:12-1:37</timesig>		
 			<dialog>
 				<line>
@@ -6142,11 +6151,7 @@
 					<english>Why do you want me to look at everything?</english>
 					<soundfile>GoqweiWetpualinAngaptmnMstGoqwei</soundfile>
 				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Positionals (2)</title>
-			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@1:41-1:55</timesig>		
+			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>Al'puguit gmis gujmug.</migmaq> 	
@@ -6171,7 +6176,8 @@
 			</dialog>
 		</lesson>
 		<lesson>
-			<title>Where are you going? (1)</title>
+			<title>Where are you going?</title>
+			<note>Let's practice asking where people are doing.</note>
 			<timesig>@20120731-JV-MAM-TamiElien@0:9.5-0:34</timesig>		
 			<dialog>
 				<line>
@@ -6184,11 +6190,7 @@
 					<english>I'm going to Campbellton (lit. 'across the river').</english>
 					<soundfile>QamegEliei</soundfile>
 				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Tami elien? (2)</title>
-			<timesig>@20120731-JV-MAM-TamiElien@0:9.5-0:34</timesig>		
+			</dialog>	
 			<dialog>
 				<line>
 					<migmaq>Tami elien?</migmaq> 	
@@ -6200,12 +6202,9 @@
 					<english>I'm going across. [the usual way to say 'go to Campbellton']</english>
 					<soundfile>Asoqomasi</soundfile>
 				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Tami elien? (3)</title>
-			<timesig>@20120731-JV-MAM-TamiElien@0:9.5-0:34</timesig>		
+			</dialog>	
 			<dialog>
+				<timesig>@20120731-JV-MAM-TamiElien@0:9.5-0:34</timesig>	
 				<line>
 					<migmaq>Tami elien?</migmaq> 	
 					<english>Where are you going?</english>
@@ -6220,6 +6219,7 @@
 		</lesson>
 		<lesson>
 			<title>Who's that wandering around?</title>
+			<note>Here's some more practice asking questions about where people are and what they're doing.</note>
 			<timesig>@20120731-JV-MAM-TamiElien@0:9.5-0:34</timesig>		
 			<dialog>
 				<line>
@@ -6233,11 +6233,8 @@
 					<soundfile>NjignamNaTesiGisggPasgAlasiListugujgGatuNegmMaTamSegLiegw</soundfile>
 				</line>
 			</dialog>
-		</lesson>
-		<lesson>
-			<title>Who's that coming this way?</title>
-			<timesig>@20120731-JV-MAM-TamiElien@0:34-0:56</timesig>		
 			<dialog>
+				<timesig>@20120731-JV-MAM-TamiElien@0:34-0:56</timesig>		
 				<line>
 					<migmaq>Wen ala wejgu'et?</migmaq> 	
 					<english>Who is that coming this way?</english>
@@ -6272,12 +6269,9 @@
 					<english>It's a moose. Don't go close to where it is.</english>
 					<soundfile>TiamNaMuttGigjasiwTanEig</soundfile>
 				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Where are you going/did you come from?</title>
-			<timesig>@20120731-JV-MAM-TamiElien@0:56-1:09</timesig>		
+			</dialog>	
 			<dialog>
+			<timesig>@20120731-JV-MAM-TamiElien@0:56-1:09</timesig>	
 				<line>
 					<migmaq>Tami elien?</migmaq> 	
 					<english>Where are you going?</english>
@@ -6303,7 +6297,9 @@
 			</dialog>
 		</lesson>
 		<lesson>
-			<title>Two people are going...</title>
+			<title>Two people are going</title>
+			<note>In Mi'gmaq, remember, we use different words for different 'you's and 'we's. We'll practice them in this lesson.</note>
+			<note>In this lesson, pretend that there are two people doing things together and another person asking them what they have planned.</note>
 			<timesig>@20120731-JV-MAM-TamiElien@1:44-2:04</timesig>		
 			<dialog>
 				<line>
@@ -6344,6 +6340,7 @@
 		</lesson>
 		<lesson>
 			<title>Two people are coming back...</title>
+			<note>Let's get some more practice with 'you' and 'we'. We'll pretend the two came back.</note>
 			<timesig>@20120731-JV-MAM-TamiElien@2:23-2:40</timesig>		
 			<dialog>
 				<line>
@@ -6383,7 +6380,8 @@
 			</dialog>
 		</lesson>
 		<lesson>
-			<title>Even more are going...</title>
+			<title>Even more are going</title>
+			<note>Now pretend there is a whole group of people we are talking about.</note>
 			<timesig>@20120731-JV-MAM-TamiElien@2:47-3:14</timesig>		
 			<dialog>
 				<line>
@@ -6424,7 +6422,8 @@
 			</dialog>
 		</lesson>
 		<lesson>
-			<title>Even more are coming back...</title>
+			<title>Even more are coming back</title>
+			<note>Let's get more practice, pretending that the group has returned.</note>
 			<timesig>@20120731-JV-MAM-TamiElien@3:15-3:47</timesig>		
 			<dialog>
 				<linetimsig>[@3:15-3:21]</linetimsig>
@@ -6468,6 +6467,7 @@
 		</lesson>
 		<lesson>
 			<title>Have you ever been to Gesgapegiaq?</title>
+			<note>In this lesson, we'll ask and answer questions about whether we've ever done certain things.</note>
 			<timesig>@20120731-JV-MAM-TamiElien@4:13-4:41</timesig>
 			<timesig>@20120731-JV-MAM-GisGilWejien.wav@0:08-2:42</timesig>		
 			<dialog>
@@ -6645,6 +6645,7 @@
 		</lesson>
 		<lesson>
 			<title>Did you just come from the woods?</title>
+			<note>Here's a diaog to practice what we've been learning to far.</note>
 			<timesig>@20120731-JV-MAM-Atel</timesig>		
 			<dialog>
 				<line>
@@ -6737,8 +6738,9 @@
 		<title>Exit Conversation</title>
 		<lesson>
 			<title>Let's go to the lake!</title>
+			<note>Here's a final conversation to practice. You've learned so much in this section&#8212; well done!</note>
 			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:02-0:017</timesig>
-			<note>At some point discuss 'swimming to play around' vs. 'swimming to go somewhere specific'.</note>		
+			<designnote>At some point discuss 'swimming to play around' vs. 'swimming to go somewhere specific'.</designnote>		
 			<dialog>
 				<line>
 					<migmaq>Ge' la'tinej Qospemg!</migmaq> 	
@@ -6766,10 +6768,14 @@
 </section>
 <section>
 	<title>Advanced Verbing</title>
+	<note>You've learned a lot so far! In this lesson, we'll get comfortable with some more advanced verbs.</note>
 	<unit>
 		<title>Wants and Needs</title>
+		<note>In this unit, we'll learn how to talk about what we want to do and what we need to do. These are important skills for communicating more complicated ideas than we've learned so far.</note>
 		<lesson>
-			<title>Have to... (1)</title>
+			<title>Have to</title>
+			<note>In English, we use extra verbs to say these things. For instance, we combine "need to" with another verb to mean that we need to do that verb.</note>
+			<note>In Mi'gmaq, we add 'amuj pa' before the verb.</note>
 			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:19-0:36</timesig>
 			<vocab>
 				<line>
@@ -6805,7 +6811,8 @@
 			</vocab>
 		</lesson>
 		<lesson>
-			<title>Have to... (2)</title>
+			<title>Have to practice</title>
+			<note>Let's practice 'have to' some more with some short dialogs.</note>
 			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:40-1:14</timesig>		
 			<dialog>
 				<linetimsig>[@0:40-0:48]</linetimsig>
@@ -6819,12 +6826,9 @@
 					<english>Yes, I'm going to work. I don't want to go to work, but I have to go to work.</english>
 					<soundfile>EeNatlugweiMuGetuNatlugwewGatuAmujPaNatlugwei</soundfile>
 				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Have to... (3)</title>
-			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:40-1:14</timesig>		
+			</dialog>	
 			<dialog>
+			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:40-1:14</timesig>	
 				<linetimsig>[@0:48-0:55]</linetimsig>
 				<line>
 					<migmaq>Aplugwen?</migmaq> 	
@@ -6836,12 +6840,9 @@
 					<english>Yep,I'm back from work. I'm so tired!</english>
 					<soundfile>EeAplugweiTewjiGispneiA</soundfile>
 				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Have to... (4)</title>
-			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:40-1:14</timesig>		
+			</dialog>	
 			<dialog>
+			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:40-1:14</timesig>	
 				<linetimsig>[@0:57-1:14]</linetimsig>
 				<line>
 					<migmaq>Etllugwen nige'?</migmaq> 	
@@ -6861,8 +6862,9 @@
 			</dialog>
 		</lesson>
 		<lesson>
-			<title>Want to... (1)</title>
-			<explnote>Depending on the context where you say it, the word getu' can mean either 'going to do...' or 'want to do...'. In these dialogues, we'll be using contexts that suggest getu' = 'want to do...', and some other contexts that suggest getu' = 'going to do...'. Keep your eye out for which translation goes where!</explnote>
+			<title>Want to</title>
+			<note>Now let's learn how to say 'want to'. Depending on the context where you say it, the word getu' can mean either 'going to do' or 'want to do'.</note>
+			<note>In these dialogues, we'll be using contexts that suggest 'getu'' = 'want to do', and some other contexts that suggest 'getu'' = 'going to do'. Keep your eye out for which translation goes where!</note>
 			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@1:20-1:45.5</timesig>		
 			<dialog>
 				<line>
@@ -6908,9 +6910,9 @@
 			</dialog>
 		</lesson>
 		<lesson>
-			<title>Want to... (2)</title>
-			<note>These highlight the few words that idiomatically have getu'- built into them, both to help students see the connection and not be confused by it.</note>
-			<explnote>This dialogue shows a couple words that have getu' built right into them! Can you figure out why getu' might always be a part of those words?</explnote>
+			<title>Want to practice</title>
+			<note>This dialogue shows a couple words that have getu' built right into them! Can you figure out why 'getu'' might always be a part of those words?</note>
+			<designnote>These highlight the few words that idiomatically have getu'- built into them, both to help students see the connection and not be confused by it.</designnote>
 			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@1:20-1:45.5</timesig>		
 			<dialog>
 				<linetimsig>[@1:49-2:01]</linetimsig>
@@ -6920,8 +6922,8 @@
 					<soundfile>GilGetugsinMajasiNajiNpa</soundfile>
 				</line>
 				<line>
-					<migmaq>Getu'-samqwai...</migmaq> 	
-					<english>I'm thirsty...</english>
+					<migmaq>Getu'-samqwai.</migmaq> 	
+					<english>I'm thirsty.</english>
 					<soundfile>GetuSamqwai</soundfile>
 				</line>
 				<line>
@@ -6931,11 +6933,15 @@
 				</line>
 			</dialog>
 		</lesson>
+	</unit>
+	<unit>
 		<title>Tense</title>
+		<note>In this unit, we'll how to talk about when events happened, whether they've happened, or whether they're going to happen.</note>
 		<lesson>
-			<title>I've done...</title>
-			<note>Should have explicit note that this can mean either 'have done...' or 'can do..., be able to do...', depending on context.		</note>
-			<explnote>The expression 'gi's' or 'gisi' is another word like getu' that can change its meaning a little depending on context. This dialog shows that gi's/gisi can mean 'have done...' OR 'can do.../be able to do...', just by changing what it is you're talking about.</explnote>
+			<title>I've done</title>
+			<note>Let's learn how to talk about things we've done.</note>
+			<note>The expression 'gi's' or 'gisi' is another word like getu' that can change its meaning a little depending on context. This dialog shows that gi's/gisi can mean 'have done' OR 'can do/be able to do', just by changing what it is you're talking about.</note>
+			<designnote>Should have explicit note that this can mean either 'have done...' or 'can do..., be able to do...', depending on context.</designnote>
 			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@2:05-2:23</timesig>		
 			<dialog>
 				<line>
@@ -6965,12 +6971,11 @@
 				</line>
 			</dialog>
 		</lesson>
-	</unit>
-	<unit>
-		<title>Verbing with different people; Tense</title>
 		<lesson>
 			<title>We (inclusive) vs. We (exclusive)</title>
-			<note>Recording this properly requires at least two female, two male voices; two older and two younger: possibly JV+MAM, VM+JM, and JW+RM]</note>		
+			<note>In English, 'we' can mean you and me, you and me plus some other people, or me and some other people, but not you.</note>
+			<note>In Mi'gmaq, though, there are different ways of saying 'we' including you and 'we' not including you.</note>
+			<designnote>Recording this properly requires at least two female, two male voices; two older and two younger: possibly JV+MAM, VM+JM, and JW+RM]</designnote>		
 			<dialog>
 				<line>
 					<migmaq>Ni'nen gisiguieg; gatu gi'l maljewejuin.</migmaq> 	
@@ -7013,8 +7018,12 @@
 		</lesson>
 		<lesson>
 			<title>Weather and tense</title>
+			<note>In this lesson, we'll learn how to talk about the weather in the past, present, and future. Taking the present tense as the default, the past and future show up as different endings on the verb.</note>
+			<note>In general, past = -p and future = -tew (sometimes, you see other letters hanging on to these ones to make them easier to pronouce).</note>
+			<note>For example, to talk about rainy weather... yesterday, you say:<migmaq>ulagu, gigpesaqap</migmaq><english>yesterday, it rained</english>today, you say:<migmaq>gisgug, gigpesaq</migmaq><english>today, it's raining</english> tomorrow, you say:<migmaq>sapo'nug, gigpesatew</migmaq><english>tomorrow, it will rain</english>.</note>
+			<note>One more thing about the future tense: in addition to adding "-tew" at the end of the verb, the future tense can also change the beginning of the word. It happens when the FIRST vowel of the present tense form is an "e", and the change basically just removes the "e" in the future tense. Then to make it easier to say, a ' is often added to the start of the word.</note>
+			<note>You'll get the hang of this the more you speak the language; for now, just learn these forms and watch out for the "remove e" rule in the future.</note>
 			<designnote>Already added into CAN8. May want to add 'it is/was/will be hot', to match the 'cold' series</designnote>
-			<note>In this lesson, we show how to talk about the weather in the past, present, and future. Taking the present tense as the default, the past and future show up as different endings on the verb. In general, past = -p and future = -tew (sometimes, you see other letters hanging on to these ones to make them easier to pronouce). For example, to talk about rainy weather... yesterday, you say:<migmaq>ulagu, gigpesaqap</migmaq><english>yesterday, it rained</english>today, you say:<migmaq>gisgug, gigpesaq</migmaq><english>today, it's raining</english> tomorrow, you say:<migmaq>sapo'nug, gigpesatew</migmaq><english>tomorrow, it will rain</english>. One more thing about the future tense: in addition to adding "-tew" at	the end of the verb, the future tense can also change the beginning of the word. The next three examples ("cold", "snowing", and "windy") show this change. It happens when the FIRST vowel of the present tense form is an "e", and the change basically just removes the "e" in the future tense. Then to make the e-less word easier to say, a ' is often added to the start of the word. Ex: present tense:	<migmaq>tege'g</migmaq>	<english>it's cold</english> becomes future tense:<migmaq>'tge'tew</migmaq><english>it'll be cold</english> You'll get the hang of this the more you speak the language; for now, just learn these forms and watch out for the "remove e" rule in the future.</note>
 			<timesig>@20120727-MAM-Gigpesaqap.wav@0:3.5-</timesig>
 			<vocab>
 				<line>
@@ -7155,6 +7164,7 @@
 		</lesson>
 		<lesson>
 			<title>Give me an apple!</title>
+			<note>Let's practice asking for food.</note>
 			<timesig>@20120705_JW_AV_ignmui1</timesig>		
 			<dialog>
 				<line>
@@ -7173,12 +7183,9 @@
 					<note>or: Muta getu'tm 'because I'm hungry for it'</note>
 					<!--<soundfile></soundfile>-->
 				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Give me a lobster!</title>
-			<timesig>@20120705_JW_AV_ignmui2</timesig>		
+			</dialog>	
 			<dialog>
+			<timesig>@20120705_JW_AV_ignmui2</timesig>	
 				<line>
 					<migmaq>Ge' ignmui jagej!</migmaq> 	
 					<english>Give me a lobster!</english>
@@ -7199,12 +7206,9 @@
 					<english>You must be hungry: first you ask for an apple, then now you want a lobster.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Give her an apple!</title>
-			<timesig>@20120705_JW_AV_ignmu1</timesig>		
+			</dialog>	
 			<dialog>
+			<timesig>@20120705_JW_AV_ignmu1</timesig>	
 				<line>
 					<migmaq>Ge' ignmu wen'ju'su'n!</migmaq> 	
 					<english>Give her an apple!</english>
@@ -7220,12 +7224,9 @@
 					<english>Because she's hungry.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Give her a lobster!</title>
-			<timesig>@20120705_JW_AV_ignmu2</timesig>		
+			</dialog>		
 			<dialog>
+			<timesig>@20120705_JW_AV_ignmu2</timesig>
 				<line>
 					<migmaq>Ge' ignmu jagejl!</migmaq> 	
 					<english>Give her a lobster!</english>
@@ -7255,6 +7256,7 @@
 		</lesson>
 		<lesson>
 			<title>I give you an egg...</title>
+			<note>Let's practice talking about giving people things.</note>
 			<timesig>@20120705_JW_AV_wa'w_ignmul</timesig>		
 			<dialog>
 				<line>
@@ -7292,12 +7294,9 @@
 					<english>You're giving me two potatoes? And also two apples? For one egg? Oh all right, that will be enough.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>I give him one lobster...</title>
-			<timesig>@20120705_JW_ignmaql</timesig>		
+			</dialog>	
 			<dialog>
+			<timesig>@20120705_JW_ignmaql</timesig>	
 				<line>
 					<migmaq>Te'si-gisgug, newte'jinnitl jagejl ignmaql nsis.</migmaq> 	
 					<english>Every day, I give my older brother one lobster.</english>
@@ -7332,6 +7331,7 @@
 		</lesson>
 		<lesson>
 			<title>Let me give you socks!</title>
+			<note>Here's some more practice with tense.</note>
 			<note>phonological highlighting of easy-to-miss contrast between -n and -nn</note>
 			<timesig>@20120705_JW_AV_ignmulann</timesig>		
 			<dialog>
@@ -7355,12 +7355,9 @@
 					<english>Oh, you're giving me socks. I understand now. Thanks! Since my feet are cold (I feel cold in my feet/have cold feet).</english>
 					<!--<soundfile></soundfile>-->
 				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>My sister gives me socks.</title>
-			<timesig>@20120705_JW_AV_ignmuitl</timesig>		
+			</dialog>	
 			<dialog>
+			<timesig>@20120705_JW_AV_ignmuitl</timesig>	
 				<line>
 					<migmaq>Te's-aji-puna'i, ignmuitl nmis signn.</migmaq> 	
 					<english>Every time I have a birthday, my big sister gives me socks.</english>
@@ -7381,12 +7378,9 @@
 					<english>Oh, I understand. You've done well: I don't have any socks.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>My brother gives me potatoes.</title>
-			<timesig>@20120705_JW_EM_ignmuiji</timesig>		
+			</dialog>		
 			<dialog>
+			<timesig>@20120705_JW_EM_ignmuiji</timesig>
 				<line>
 					<migmaq>Aq te's-aji-puna'i, nsis ignmuiji tap'tang.</migmaq> 	
 					<english>And every time I have a birthday, my older brother gives me potatoes.</english>
@@ -7720,8 +7714,10 @@
 	</unit>-->
 	<unit>
 		<title>Daily conversation</title>
+		<note>You've learned how to have a lot of conversations! In this unit, we'll learn even more helpful conversation phrases.</note>
 		<lesson>
 			<title>Warnings and Requests</title>
+			<note>So far, we've mostly practiced questions and answers. In this lesson, we'll learn how to give warnings and ask people to do things.</note>
 			<designnote>
 			</designnote>
 			<vocab>
@@ -7740,11 +7736,8 @@
 					<english>Come here.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
-				<line>
-					<migmaq>Giju' natnmi.</migmaq> 	
-					<english>Go see Grandma.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>Ignmui.</migmaq> 	
 					<english>Give it to me.</english>
@@ -7760,6 +7753,8 @@
 					<english>Show me it.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>Nmisge'n, nmisgu.</migmaq> 	
 					<english>Go get it.</english>
@@ -7807,6 +7802,12 @@
 					<english>Lie down.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
+			</vocab>
+		</lesson>
+		<lesson>
+			<title>Requests for children</title>
+			<note>Here are some helpful commands and requests for when you are taking care fo children.</note>
+			<vocab>
 				<line>
 					<migmaq>Esgma.</migmaq> 	
 					<english>Wait.</english>
@@ -7817,11 +7818,14 @@
 					<english>Wait for me.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
-			</vocab>
-			<vocab>
 				<line>
 					<migmaq>Puntoqsi.</migmaq> 	
 					<english>Be quiet.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Giju' natnmi.</migmaq> 	
+					<english>Go see Grandma.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
 			</vocab>
@@ -7836,8 +7840,6 @@
 					<english>Don't touch it, it's dirty!</english>
 					<!--<soundfile></soundfile>-->
 				</line>
-			</vocab>
-			<vocab>
 				<line>
 					<migmaq>Mutt 'tqamaw!</migmaq> 	
 					<english>Don't hit h/her!</english>
@@ -7849,18 +7851,16 @@
 					<english>Leave h/her alone, stop bothering h/her!</english>
 					<!--<soundfile></soundfile>-->
 				</line>
-			</vocab>
-			<vocab>
 				<line>
 					<migmaq>Puni-al'tugwie'n, nun'ji gesnugwig.</migmaq> 	
 					<english>Stop running around, I have a headache.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
 			</vocab>
-			<note>plural imperatives later....</note>
 		</lesson>
 		<lesson>
-			<title>Getting up</title>		
+			<title>Getting up</title>
+			<note>This lesson is meant to help you practice conversation you might use around children. It's a dialog about getting ready in the morning.</note>		
 			<dialog>
 				<line>
 					<migmaq>Mn'ja'si! Amuj pa naji-sgu'lewin.</migmaq> 	
@@ -7913,6 +7913,7 @@
 		</lesson>
 		<lesson>
 			<title>Using bathroom, taking baths, brushing teeth</title>
+			<note>Let's continue the previous lesson by learning bathroom phrases.</note>
 			<vocab>
 				<line>
 					<migmaq>Maja'si, naji-sgi.</migmaq> 	
@@ -7950,8 +7951,6 @@
 					<english>The water is ready.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
-			</vocab>
-			<vocab>
 				<line>
 					<migmaq>Tegpa'q.</migmaq> 	
 					<english>It's cold (water).</english>
@@ -8111,6 +8110,7 @@
 		</lesson>
 		<lesson>
 			<title>Getting dressed</title>
+			<note>Here are phrases to do with getting dressed and getting ready in the morning, particularly if you are talking to children.</note>
 			<vocab>
 				<line>
 					<migmaq>Ilaji nige'.</migmaq> 	
@@ -8156,6 +8156,8 @@
 					<english>Put this on (...).</english>
 					<!--<soundfile></soundfile>-->
 				</line>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>Tegen atla'i getu'-nasgat?</migmaq> 	
 					<english>Which shirt do you want to wear?</english>
@@ -8176,6 +8178,8 @@
 					<english>Put on a belt.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>Tami etegl 'gtisignn? Nmisge'n.</migmaq> 	
 					<english>Where are your socks? Go get them.</english>
@@ -8206,6 +8210,8 @@
 					<english>Lace up your shoes.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>Glusgulsi.</migmaq> 	
 					<english>Button yourself up.</english>
@@ -8286,8 +8292,6 @@
 					<english>Are you wearing a coat?</english>
 					<!--<soundfile></soundfile>-->
 				</line>
-			</vocab>
-			<vocab>
 				<line>
 					<migmaq>Gota'si.</migmaq> 	
 					<english>Wear a coat.</english>
@@ -8322,9 +8326,10 @@
 	</unit>
 	<unit>
 		<title>Bonus dialog</title>
+		<note>You're almost done with this section. You've learned so much! Here is a short review unit to help you remember and practice everything you've learned.</note>
 		<lesson>
 			<title>	Did you have pets?</title>
-			<explnote>This lesson features a dialogue between a man and a woman. Their voices might be slightly hard for you to understand, but don't worry about getting every word and just try to get the gist! Being able to pick things up from a conversation that is full of things you haven't studied yet is an important part of learning a new language.</explnote>
+			<note>This lesson features a dialogue between a man and a woman. Their voices might be slightly hard for you to understand, but don't worry about getting every word. Being able to pick things up from a conversation that is full of things you haven't studied yet is an important part of learning a new language.</note>
 			<dialog>
 				<line>
 					<migmaq> Eggunsip'ni'g wi'sijji'j maljewe'jewinug?</migmaq> 	
