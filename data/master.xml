@@ -32,10 +32,9 @@
 						<english>What's your name?</english>
 						<soundfile>TaluisinCLP</soundfile>
 					</line>
-					<note>Alternative: - So'sep Nuel teluisi. My name is Joseph Noel.</note>
 					<line>
-						<migmaq>[- Ni'n na So'sep Nuel.]</migmaq>	
-						<english>[I am Joseph Noel.]</english>
+						<migmaq>Sosep Nuel Teluisi.</migmaq>	
+						<english>My name is Joseph Noel</english>
 						<soundfile>SosepNuelTeluisiCLP</soundfile>
 					</line>
 				</dialog>		
