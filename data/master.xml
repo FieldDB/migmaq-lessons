@@ -3709,12 +3709,12 @@
 				<vocab>
 					<line>
 						<migmaq>e's<tab/>e'sig</migmaq> 	
-						<english>clam &#8198;&#8198;&#8198; clams</english>
+						<english>clam<tab/>clams</english>
 						<soundfile>EesEesigClip</soundfile>
 					</line>
 					<line>
-						<migmaq>tmato's &#x9; tmato'sg</migmaq> 	
-						<english>tomato &#9; tomatoes</english>
+						<migmaq>tmato's<tab/>tmato'sg</migmaq> 	
+						<english>tomato<tab/>tomatoes</english>
 						<soundfile>TmatosTmatosgClip</soundfile>
 					</line>
 					<line>
