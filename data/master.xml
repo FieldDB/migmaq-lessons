@@ -1247,8 +1247,8 @@
 			</lesson>
 			<lesson>
 				<title>How many things? 1-3, many.</title>
+				<note>In this lesson, we learn to count things: asking how many, and giving answers.</note>
 				<designnote>This lesson continues with the counting of things, again using only the minimum numbers/amounts (1, 2, 3, many) needed to show the basics of the system. Keeping the presentation identical to the preceding one should help confirm the pattern for learners. Image files again simply show these numbers: X number of countables together, either as a natural picture or a photoshopping of X number of identical images.</designnote>
-				<explnote>In this lesson, we learn to count things: asking how many, and giving answers.</explnote>
 				<timesig>@20120723-JW-RM-1thru25.wav@8:58-9:22.5</timesig>		
 				<dialog>
 					<line>
@@ -1301,6 +1301,7 @@
 			</lesson>
 			<lesson>
 				<title>How many people do you see?</title>
+				<note>Now we'll start building more complex sentences.</note>
 				<designnote>This lesson combines the earlier nemi'g(ig)/nemitu(ann) pattern with the 'how many ...?' patterns just shown. As in earlier lessons, the main aim is helping learners see how they can now build more complex sentences. Image files again simply show these numbers: X number of countables together, either as a natural picture or a photoshopping of X number of identical images.</designnote>
 				<timesig>@20120814-JM-JV-Corrections21b_24_27b</timesig>		
 				<dialog>
@@ -1354,6 +1355,7 @@
 			</lesson>
 			<lesson>
 				<title>How many things do you see?</title>
+				<note>Remember how to talk about groups of things?</note>
 				<designnote>This lesson combines the earlier nemi'g(ig)/nemitu(ann) pattern with the 'how many ...?' patterns just learned, helping learners see how they can now build more complex sentences. Image files again simply show these numbers: X number of countables together, either as a natural picture or a photoshopping of X number of identical images.</designnote>
 				<timesig>@20120723-JW-RM-1thru25.wav@9:54-10:20</timesig>		
 				<dialog>
@@ -1407,6 +1409,7 @@
 			</lesson>
 			<lesson>
 				<title>One, two, three...</title>
+				<note>Here we'll learn how to count to ten.</note>
 				<designnote>A 10x10 chart of the numbers 1 to 100 is used here and in upcoming lessons, highlighting the number or numbers that match the sound recording. Keeping consistently to this single chart helps visually underline the patterns being learned.</designnote>
 				<timesig>@20120723-JW-RM-26thru40.wav@0:01.5-0:12.5</timesig>
 				<vocab>
@@ -1424,8 +1427,9 @@
 			</lesson>
 			<lesson>
 				<title>Ten, twenty, thirty...</title>
+				<note>Listen carefully to hear how the ending -sga'q gives you 10, 20, 30 and so on.</note>
+				<note>Notice that numbers 'six' through 'nine' can't combine directly with endings. Instead they use te's- after them as a stand-in. We will see this again and again in other patterns using numbers.</note>
 				<designnote>The 10x10 chart of the numbers 1 to 100 is used again, highlighting the number or numbers that match the sound recording. This is also the first less on to introduce pattern whereby [6, 7, 8, 9] usually cannot combine directly with a word/ending, and so use a following te's- as a stand-in.</designnote>
-				<explnote>This lesson shows how the ending -sga'q gives you 10, 20, 30 and so on. Notice that numbers 'six' through 'nine' can't combine directly with endings. Instead they use te's- after them as a stand-in. We will see this again and again in other patterns using numbers.</explnote>
 				<timesig>@20120723-JW-RM-26thru40.wav@0:14-0:33; plus 0:45-0:47 for "gasg'ptnnaqan"</timesig>
 				<vocab>
 					<line>
@@ -1442,8 +1446,8 @@
 			</lesson>
 			<lesson>
 				<title>Ten plus #... Twenty plus #... Thirty plus #...</title>
+				<note>The word 'jel' basically means 'plus': so in Mi'gmaq, 'eleven' is really 'ten+one', 'twelve' is 'ten+two', and so on. It's the same again for 'twenty-one' and so on.</note>
 				<designnote>Demonstrating the use of "jel" in naming more complex numbers, we return to the 10x10 chart of the numbers 1 to 100, now highlighting the "in between" number/numbers that match the sound recording. Notice that these numbers are taught AFTER the [10, 20, 30...] progression.</designnote>
-				<explnote>The word jel basically means 'plus': so in Mi'gmaq, 'eleven' is really 'ten+one', 'twelve' is 'ten+two', and so on.Same again for 'twenty-one', and so on.</explnote>
 				<timesig>@20120814-JM-JV-Corrections21b_24_27b</timesig>
 				<vocab>
 					<line>
@@ -1487,8 +1491,8 @@
 			</lesson>
 			<lesson>
 				<title>One hundred, two hundred, three hundred...</title>
+				<note>Counting hundreds is easy: you just put the numbers next to each other without worrying about special combination patterns.</note>
 				<designnote>Same highlighting system as above, with hundreds.</designnote>
-				<explnote>Counting hundreds is easy: you just put the numbers next to each other, and do not need to worry about special combination patterns.</explnote>
 				<timesig>@20120723-JW-RM-26thru40.wav@0:49-1:13.5</timesig>
 				<vocab>
 					<line>
@@ -1505,8 +1509,8 @@
 			</lesson>
 			<lesson>
 				<title>One thousand, two thousand, three thousand...</title>
+				<note>Counting thousands is the same as hundreds: you just put the numbers next to each other without worrying about special combination patterns.</note>
 				<designnote>Same highlighting system as above, with thousands.</designnote>
-				<explnote>Counting thousands is the same as hundreds: you just put the numbers next to each other, and do not need to worry about special combination patterns.</explnote>
 				<timesig>@20120723-JW-RM-26thru40.wav@1:14-2:03; REDO COMPLETELY (pronunciation + sound problems)</timesig>
 				<vocab>
 					<line>
@@ -1523,8 +1527,9 @@
 			</lesson>
 			<lesson>
 				<title>How many people? 1-12.</title>
+				<note>Here we go back to the patterns we learned for counting people, bringing in the higher numbers we have now learned.</note>
+				<note>Pay special attention to 'te's-' again being used with [6, 7, 8, 9], and the usual use of 'jel'. Notice also that the ending you learned on its own as '-sga'q' comes out here as '-sgeg-'.</note>
 				<designnote>This lesson combines the patterns of the original minimal [1, 2, 3, many] people-counting system with the above higher number patterns to show learners how to count up to ninety-nine people.</designnote>
-				<explnote>Here we go back to the patterns we learned for counting people, bringing in the higher numbers we have now learned. Pay special attention to te's- again being used with [6, 7, 8, 9], and the usual use of jel. Notice also that the ending you learned on its own as -sga'q comes out here as -sgeg-.</explnote>
 				<timesig>@20120723-JW-RM-26thru40.wav@2:35-4:04.5</timesig>		
 				<dialog>
 					<linetimsig>[@2:35]</linetimsig>
@@ -1609,7 +1614,6 @@
 						<english>How many men are there?</english>
 						<soundfile>TasijigJinmug4</soundfile>
 					</line>
-
 					<line>
 						<migmaq>Lluigneg te'sijig. Lluigneg te'sijig ji'nmug.</migmaq> 	
 						<english>Seven. There are seven men.</english>
@@ -1669,7 +1673,8 @@
 			</lesson>
 			<lesson>
 				<title>How many things? 1-12.</title>
-				<explnote>Here we go back to the patterns we learned for counting things, bringing in the higher numbers we have now learned. Pay special attention to te's- again being used with [6, 7, 8, 9], and the usual use of jel. Notice also that the ending you learned on its own as -sga'q stays as -sga'q-, but will add the matching -l. The combination can also be said and written as -sqa'qal.</explnote>
+				<note>Here we go back to the patterns we learned for counting things, bringing in the higher numbers we have now learned.</note>
+				<note>Pay special attention to 'te's-'' again being used with [6, 7, 8, 9], and the usual use of 'jel'. Notice also that the ending you learned on its own as '-sga'q' stays as '-sga'q-', but will add the matching '-l'. The combination can also be said and written as '-sqa'qal'.</note>
 				<timesig>@20120723-JW-RM-26thru40.wav@4:14.5-5:33.5</timesig>		
 				<dialog>
 					<line>
@@ -1735,7 +1740,7 @@
 						<soundfile>NanglNanglMutputil</soundfile>
 					</line>
 				</dialog>
-				<note>For these higher numbers, it may be easier for the image to be simply the explicit numeral/math expressin "100 x" before a single image, and so on.</note>		
+				<designnote>For these higher numbers, it may be easier for the image to be simply the explicit numeral/math expressin "100 x" before a single image, and so on.</designnote>
 				<dialog>
 					<line>
 						<migmaq>Ta's'gl mutputi'l?</migmaq> 	
@@ -1803,7 +1808,7 @@
 						<soundfile>TasglMutputil9</soundfile>
 					</line>
 					<line>
-						<migmaq>Newtisga'ql jel ta'pu. Newtisga'ql jel ta'pu mutputi'l.</migmaq> 
+						<migmaq>Newtisga'ql jel ta'pu. Newtisga'ql jel ta'pu mutputi'l.</migmaq>
 						<english>Twelve. There are twelve chairs.</english>
 						<soundfile>NewtisgaqlJelTapuNewtisgaqlJelTapuMutputil</soundfile>
 					</line>
@@ -1811,6 +1816,7 @@
 			</lesson>
 			<lesson>
 				<title>How many people do you see? Large numbers.</title>
+				<note>Let's practice counting some bigger groups of people.</note>
 				<designnote>Here we combine the 'see' patterns with the larger numbers for counting people (and similarly-treated words like 'star'). The larger numbers have been intentionally selected for easy visual/image presentation. Hence "25" as editing a single image of a child into a 5x5 configuration.</designnote>
 				<timesig>@20120730-JV-MAM-34-TasijigNemijig.wav; see end for corrections</timesig>
 				<dialog>
@@ -1876,6 +1882,7 @@
 			</lesson>
 			<lesson>
 				<title>How many things do you see? Large numbers.</title>
+				<note>Now let's practice counting things.</note>
 				<designnote>Here we combine the 'see' patterns with the larger numbers for counting things. The larger numbers have been intentionally selected for easy visual/image presentation. Hence "36" as editing a single image of a rock into a 6x6 configuration.</designnote>
 				<timesig>@20120730-JV-MAM-35-TasglNemitunn.wav; see end for corrections</timesig>
 				<dialog>
@@ -1945,8 +1952,9 @@
 			<title>Ages, Months, Dates, and Times</title>
 			<lesson>
 				<title>How old are you?</title>
+				<note>In this lesson, as you learn how to say how old you are, notice one thing: the word you might expect for 'ten' has been replaced with an older one with the same meaning.</note>
+				<note>Keep an eye out for this older word: you will see it pop up in a few other places in Mi'gmaq.</note>
 				<designnote>Introducing another ta's- 'how many...?' pattern with -puna' 'be ... years old' to show learners how to ask and give ages. Reinforces the 'me' and 'you' endings, as well as all the number patterns, including the older, now idiomatic element metla's- for 'ten'. Images use photos of people matching the age said: baby-toddler-kid-older kid-young adult-adult-older adult</designnote>
-				<explnote>In this lesson, as you learn how to say how old you are, notice one thing: the word you might expect for 'ten' has been replaced with an older one with the same meaning. Keep an eye out for this older word: you will see it pop up in a few other places in Mi'gmaq.</explnote>
 				<timesig>@20120730-JV-MAM-36thru38.wav@0:00.5-1:33</timesig>
 				<vocab>
 					<line>
@@ -2090,8 +2098,10 @@
 			</lesson>
 			<lesson>
 				<title>How old is your mother?</title>
+				<note>Here is a short conversation we can have about ages. There are two important points to notice.</note>
+				<note>First, the word 'me'' is used a lot in Mi'gmaq. Here it means 'still...'. You will see it later on also meaning 'more..., ...-er'.</note>
+				<note>Second, look at the last word, 'tapuisgegi-puna'p'. When you replace the usual '-t' for 's/he' with '-p', it changes the meaning from 'she IS twenty years old' to 'she WAS twenty years old'.</note>
 				<designnote>Same as above, but reviewing the -t ending for 's/he'. The final dialogue is just gives a few naturally related expressions as is, and brings another brief and simple introduction to the P-past endings.</designnote>
-				<explnote>Here is a short conversation we can have about ages. Two important points: - The word me' is used a lot in Mi'gmaq. Here it means 'still...'. You	will see it later on also meaning 'more..., ...-er'. - Look at the last word, "tapuisgegi-puna'p". When you replace the usual -t for 's/he' with -p, it changes the meaning from 'she IS twenty years old' to 'she WAS twenty years old'.</explnote>
 				<timesig>@20120730-JV-MAM-36thru38.wav@1:34.5-1:57; see end for corrections</timesig>		
 				<dialog>
 					<line>
@@ -2128,8 +2138,10 @@
 			</lesson>
 			<lesson>
 				<title>How old are you? (Conversation)</title>
+				<note>In this lesson we will again talk about two ideas: young, and old. Try to work out from the dialogue which words each mean which. Remember that their endings will tell you who is young, and who is old.</note>
+				<note>Once you have worked that out, you can see two common ways to say '(more)...than...'. Both of them start with 'me'', which here means 'more..., ...-er'.</note>
+				<note>Then you can use either 'aq' (which also you know as 'and') or 'jemu' for the idea of 'than...'. So the patterns for 'more ... than ...' are: -me' ... aq ... -me' ... jemu ...</note>
 				<designnote>Taking the form of a single unbroken conversation, this lesson starts from the basic opposites gisigui- 'be old' and maljewejui- 'be young', and uses them to introduces two ways to say '(more)...than...': - me' ... aq ... - me' ... jemu ... It also introduces the related idea of 'so (much)...', expressed by te'uji- / tew'ji-. And also the very different sense of 'so, then ...' that the word na is used for.</designnote>
-				<explnote>In this lesson we will again talk about two ideas: young, and old. Try to work out from the dialogue which words each mean which. Remember that their endings will tell you WHO is young, and WHO is old.	Once you have worked that out, you can see two common ways to say '(more)...than...'. Both of them start with me', which here means 'more..., ...-er'. Then you can use either aq (which also you know as 'and') or jemu for the idea of 'than...'. So the patterns for 'more ... than ...' are: - me' ... aq ... - me' ... jemu ...</explnote>
 				<timesig>@20120730-JV-MAM-36thru38.wav@2:00-2:18</timesig>		
 				<dialog>
 					<line>
@@ -2166,8 +2178,10 @@
 			</lesson>
 			<lesson>
 				<title>When were you born?</title>
+				<note>In this lesson, we see the S- and P-pasts again. And like before, the S-past is used here to ask a question, and the P-past is used to give a direct statement: the answer to that question.</note>
+				<note>So here we see -'s'p to ask a question about 'you' in the past. And then we see -ap to give the answer (or just make a statement) about 'me' in the past.</note>
+				<note>Pay close attention to the word "ta'n". It has many uses; here we see it used to ask 'when...?' about the past.</note>
 				<designnote>Reviewing 'me' and 'you' past forms, through their natural conversational use around asking the month of someone's birth.</designnote>
-				<explnote>In this lesson, we see the S- and P-pasts again. And like before, the S-past is used here to ask a question, and the P-past is used to give a direct statement: the answer to that question. So here we see -'s'p to ask a question about 'you' in the past. And then we see -ap to give the answer (or just make a statement) about 'me' in the past. Pay close attention to the word "ta'n". It has many uses; here we see it used to ask 'when...?' about the past.</explnote>
 				<timesig>@20120723-JW-RM-26thru40.wav@:9:34.5-9:52</timesig>		
 				<dialog>
 					<line>
@@ -2263,9 +2277,9 @@
 			</lesson>
 			<lesson>
 				<title>What's the date today?</title>
+				<note>In this lesson we learn the ending for what day of the month (what date it is) it is today. It should be easy to work out which word means 'today'; try to figure out also the words for 'first' and 'day'.</note>
 				<designnote>Introducing the -uguni-t ending for 'Xth date of the month', building again on number system. Also introducing amgwesewei 'first', na'gweg 'day', and especially, gisgug 'today'. An improved version might take the opportunity to introduce ugtejgewei 'last' in contrast to amgwesewei 'first', if it is in fact natural to say things like ugtejgewei na'gweg 'the last day'. For each, the image is a calendar with the actual date marked on it.</designnote>
-				<explnote>In this lesson we learn the ending for what day of the month (what date it is) it is today. It should be easy to work out which word means 'today'; try to figure out also the words for 'first' and 'day'.</explnote>
-				<note> Later corrections suggested that "- Gisgug amgwesewei na'gweg ula tepgunset." and "- Gisgug amgwesewei na'gweg 'Ps'gewigu's." would be improved responses to the 1st question. May be worth recording and adding those in.</note>
+				<designnote> Later corrections suggested that "- Gisgug amgwesewei na'gweg ula tepgunset." and "- Gisgug amgwesewei na'gweg 'Ps'gewigu's." would be improved responses to the 1st question. May be worth recording and adding those in.</designnote>
 				<timesig>@20120723-JW-RM-26thru40.wav@9:52-</timesig>		
 				<dialog>
 					<line>
@@ -2343,8 +2357,9 @@
 			</lesson>
 			<lesson>
 				<title>What date is your birthday?</title>
+				<note>Now that you know how to talk about your birthday and about specific dates, this conversation will show you how to put those together naturally.</note>
+				<note>Notice also the word 'gatu', which can mean 'but..., however...' but is also used to shift the topic of the conversation from one person/thing to another.</note>
 				<designnote>This is a simple review lesson, combining talking about birthdays with the naming of dates. In particular, it reworks the previous lesson's list-based material in the form of an actual simple conversation. It also brings to the front the use of gatu 'but, however; as for...' in its 'as for...' topic-shifting sense. Again use the exact calendar date pictures for each speaker.</designnote>
-				<explnote>Now that you know how to talk about your birthday and about specific dates, this conversation will show you how to put those together naturally. Notice also the word gatu, which can mean 'but..., however...' but is also used to shift the topic of the conversation from one person/thing	to another.	</explnote>
 				<timesig>@20120730-JV-MAM-41thru43.wav@0:05-0:16.5</timesig>		
 				<dialog>
 					<line>
@@ -2366,8 +2381,9 @@
 			</lesson>
 			<lesson>
 				<title>When will your birthday be?</title>
+				<note>A few lessons back we saw "ta'n" used to ask "when...?" about the past. Here we see "ta'nug", which is used to ask "when...?" about the future.</note>
+				<note>And yes, you guessed right: the endings for talking about "me" and	"you" in the future are (for many speakers, at least) the same. The	context of the conversation usually makes clear which one you mean,	and you can always add in ni'n 'me' or gi'l 'you' if you need.</note>
 				<designnote> Again use the exact calendar date picture, with an arrow indicating ahead, or some other indicator of the future.</designnote>
-				<explnote>A few lessons back we saw "ta'n" used to ask "when...?" about the past. Here we see "ta'nug", which is used to ask 		"when...?" about the future. And yes, you guessed right: the endings for talking about "me" and	"you" in the future are (for many speakers, at least) the same. The	context of the conversation usually makes clear which one you mean,	and you can always add in ni'n 'me' or gi'l 'you' if you need.</explnote>
 				<timesig>@20120730-JV-MAM-41thru43.wav@0:21-0:49</timesig>		
 				<dialog>
 					<line>
@@ -2409,8 +2425,9 @@
 			</lesson>
 			<lesson>
 				<title>What time is it now?</title>
+				<note>Some hints for this lesson: '-geget' = 'almost', for something that will happen; '-mejit' = '...more', until something happens; '-ga'l' = 'quarter'.</note>
+				<note>Notice that end of the basic word 'ajiet' changes a bit: in one case to match	the word 'mu' 'not yet/before', in another to show the future. Can you find both of these?</note>
 				<designnote>Introducing basic expressions for time. "Asugom ajiet" is specifically chosen as the main example to confirm that (at least for some speakers) that the placeholdern(/classifier?) te's- is not needed in this pattern. Learners are encouraged to start working out some of the new patterns involved on their own, but the focus remains on the key ajie- element. Images: show clock faces with the time.</designnote>
-				<explnote>Some hints for this lesson: - geget = 'almost [for something that will happen]' - mejit = '...more [until something happens]' - ga'l = 'quarter'. Notice that end of the basic word ajiet changes a bit: in one case to match	the word mu 'not yet/before', in another to show the future. Can you find both of these?</explnote>
 				<timesig>@20120730-JV-MAM-41thru43.wav@0:52-</timesig>		
 				<dialog>
 					<line>
@@ -2551,8 +2568,8 @@
 			</lesson>
 			<lesson>
 				<title>What time will it be?</title>
+				<note>In this lesson we will learn to ask about times in the future. Look for how the endings change for this meaning, and also especially for expressing '[at the time] when...'.</note>
 				<designnote>This lesson focuses on using 'o'clock' expressions in the future: 'what time will it be?'. It introduces a number of future forms, but puts off explicit explanations for a future lessons: the goal here is to make those forms already somewhat familiar when the specific lesson on future endings is reached.</designnote>
-				<explnote>In this lesson we will learn to ask about times in the future. Look for how the endings change for this meaning, and also especially for expressing '[at the time] when...'</explnote>
 				<timesig>@20120730-JV-MAM-44</timesig>		
 				<dialog>
 					<line>
@@ -2603,6 +2620,7 @@
 			<title>Review</title>
 			<lesson>
 				<title>Exit interview</title>
+				<note>Practice this dialog and see how much you've learned in this section!</note>
 				<designnote>This lesson gives learners the chance to see how much they have learned as the unit has progressed.</designnote>
 				<dialog>
 					<line>
@@ -2709,7 +2727,8 @@
 				</dialog>
 			</lesson>
 			<lesson>
-				<title>Who is that?</title>		
+				<title>Who is that?</title>	
+				<note>Here's one last bonus dialog for you to practice.</note>	
 				<dialog>
 					<line>
 						<migmaq>Wen na ala ji'nm gaqamit awtigtug?</migmaq> 	
