@@ -3993,6 +3993,11 @@
 						<english>water</english>
 						<soundfile>SamqwanClip</soundfile>
 					</line>
+					<line>
+						<migmaq>mlageju'mi</migmaq> 	
+						<english>butter</english>
+						<soundfile>MlagejumiClip</soundfile>
+					</line>
 					<linetimsig>[@6:30-6:35]</linetimsig>
 					<line>
 						<migmaq>p'tewei, petewei</migmaq> 	
@@ -4000,6 +4005,15 @@
 						<soundfile>PeteweiClip</soundfile>
 					</line>
 					<linetimsig>[@4:54-4:56]</linetimsig>
+				</vocab>
+			</lesson>
+			<lesson>
+				<title>Meat</title>
+				<note>In English, we often use the same word for an animal, and the meat that comes from the animal. For instance, think of salmon (in the river) and salmon (with lemon juice). Sometimes, we also have unpredictable words, like "venison" meaning "deer 	meat".</note>
+				<note>In Mi'gmaq, there are different words for the animals and their meat,that follow a predictable rule. The rule goes like this: Simply add "-ewei" to the end of the animal's name, and that makes the word for the animal's meat. For example, 'lentug' + '-ewei' = 'lentugowei' "deer" + ("coming from" = "deer meat" "belonging to")</note>
+				<note>Sometimes, like above, the first vowel "-ewei" is pronounced in different ways, but they still mean the same thing!</note>
+				<note>Bonus info: you can use the same ending, "ewei", with a pronoun or person's name if you want to make the possessive form of those words! It works a lot like the English 's. Mali + -ewei = Maliewei | ni'n + -ewei = ni'newei "Mary" + "belonging to" = "Mary's" | "me" + "belonging to" = "mine".</note>
+				<vocab>
 					<line>
 						<migmaq>gulgwi'suei</migmaq> 	
 						<english>pork (pig meat)</english>
@@ -4041,16 +4055,11 @@
 						<english>lobster (meat)</english>
 						<soundfile>JagejueiClip</soundfile>
 					</line>
-					<line>
-						<migmaq>mlageju'mi</migmaq> 	
-						<english>butter</english>
-						<soundfile>MlagejumiClip</soundfile>
-					</line>
 				</vocab>
-				<explnote>In English, we often use the same word for an animal, and the meat that comes from the animal. For instance, think of salmon (in the river) and salmon (with lemon juice). Sometimes, we also have unpredictable words, like "venison" meaning "deer 	meat". In Mi'gmaq, there are different words for the animals and their meat,that follow a predictable rule. The rule goes like this: Simply add "-ewei" to the end of the animal's name, and that makes the word for the animal's meat. Ex: lentug + -ewei = lentugowei "deer" + ("coming from" = "deer meat" "belonging to") Sometimes, like above, the first vowel "-ewei" is pronounced in different ways, but tshey still mean the same thing! Bonus info: you can use the same ending, "ewei", with a pronoun or person's name if you want to make the possessive form of those words! It works a lot like the English 's. Mali + -ewei = Maliewei | ni'n + -ewei = ni'newei "Mary" + "belonging to" = "Mary's" | "me" + "belonging to" = "mine".</explnote>
 			</lesson>
 			<lesson>
 				<title>Taste good to you?(animate)</title>
+				<note>What food do you like? Let's talk about it!</note>
 				<timesig>@20120731-JV-MAM-Wigpt2Getupt@0:02-0:21</timesig>		
 				<dialog>
 					<line>
@@ -4103,6 +4112,7 @@
 			</lesson>
 			<lesson>
 				<title>Taste good to you? (inanimate)</title>
+				<note>How about these foods? Do you like them, or not?</note>
 				<timesig>@20120731-JV-MAM-Wigpt2Getupt@0:21-41.5</timesig>		
 				<dialog>
 					<line>
@@ -4155,6 +4165,7 @@
 			</lesson>
 			<lesson>
 				<title>What do you want to eat? (animate)</title>
+				<note>Are you hungry yet? What sounds good to you?</note>
 				<timesig>@20120731-JV-MAM-Wigpt2Getupt@0:42.5-1:01</timesig>		
 				<dialog>
 					<line>
