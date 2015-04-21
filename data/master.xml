@@ -1414,14 +1414,54 @@
 				<timesig>@20120723-JW-RM-26thru40.wav@0:01.5-0:12.5</timesig>
 				<vocab>
 					<line>
-						<migmaq>Newt, ta'pu, si'st, ne'w, na'n.</migmaq> 	
-						<english>One, two, three, four, five.</english>
-						<soundfile>NewtTapuSistNewNan</soundfile>
+						<migmaq>newt</migmaq>
+						<english>one</english>
+						<soundfile>Newt</soundfile>
 					</line>
 					<line>
-						<migmaq>Asugom, lluigneg, ugumuljin, pesgunateg, newtisga'q.</migmaq> 	
-						<english>Six, seven, eight, nine, ten.</english>
-						<soundfile>AsugomLluignegUgumuljinPesgunategNewtisgaq</soundfile>
+						<migmaq>ta'pu</migmaq>
+						<english>two</english>
+						<soundfile>Tapu</soundfile>
+					</line>
+					<line>
+						<migmaq>si'st</migmaq>
+						<english>three</english>
+						<soundfile>Sist</soundfile>
+					</line>
+					<line>
+						<migmaq>ne'w</migmaq>
+						<english>four</english>
+						<soundfile>New</soundfile>
+					</line>
+					<line>
+						<migmaq>na'n</migmaq> 	
+						<english>five</english>
+						<soundfile>Nan</soundfile>
+					</line>
+					<line>
+						<migmaq>asugom</migmaq> 	
+						<english>six</english>
+						<soundfile>asugom</soundfile>
+					</line>
+					<line>
+						<migmaq>lluigneg</migmaq> 	
+						<english>seven</english>
+						<soundfile>lluigneg</soundfile>
+					</line>
+					<line>
+						<migmaq>ugumuljin</migmaq> 	
+						<english>eight</english>
+						<soundfile>ugumuljin</soundfile>
+					</line>
+					<line>
+						<migmaq>pesgunateg</migmaq> 	
+						<english>nine</english>
+						<soundfile>pesgunateg</soundfile>
+					</line>
+					<line>
+						<migmaq>newtisga'q</migmaq> 	
+						<english>ten</english>
+						<soundfile>newtisgaq</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -1433,14 +1473,54 @@
 				<timesig>@20120723-JW-RM-26thru40.wav@0:14-0:33; plus 0:45-0:47 for "gasg'ptnnaqan"</timesig>
 				<vocab>
 					<line>
-						<migmaq>Newtisga'q, tapuisga'q, ne'sisga'q, newisga'q, na'nisga'q.</migmaq>
-						<english>Ten, twenty, thirty, forty, fifty.</english>
-						<soundfile>NewtisgaqTapuisgaqNesisgaqNewisgaqNanisgaq</soundfile>
+						<migmaq>newtisga'q</migmaq>
+						<english>ten</english>
+						<soundfile>Newtisgaq</soundfile>
 					</line>
 					<line>
-						<migmaq>Asugom te'sisga'q, lluigneg te'sisga'q, ugumuljin te'sisga'q, pesgunateg te'sisga'q, gasg'ptnnaqan.</migmaq>
-						<english>Sixty, seventy, eighty, ninety, one hundred.</english>
-						<soundfile>AsugomTesisgaqLluignegTesisgaqUgumuljinTesisgaqPesgunategTesisgaq</soundfile>
+						<migmaq>tapuisga'q</migmaq>
+						<english>twenty</english>
+						<soundfile>Tapuisgaq</soundfile>
+					</line>
+					<line>
+						<migmaq>ne'sisga'q</migmaq>
+						<english>thirty</english>
+						<soundfile>Nesisgaq</soundfile>
+					</line>
+					<line>
+						<migmaq>newisga'q</migmaq>
+						<english>forty</english>
+						<soundfile>Newisgaq</soundfile>
+					</line>
+					<line>
+						<migmaq>na'nisga'q</migmaq>
+						<english>fifty</english>
+						<soundfile>Nanisgaq</soundfile>
+					</line>
+					<line>
+						<migmaq>asugom te'sisga'q</migmaq>
+						<english>sixty</english>
+						<soundfile>asugomTesisgaq</soundfile>
+					</line>
+					<line>
+						<migmaq>lluigneg te'sisga'q</migmaq>
+						<english>seventy</english>
+						<soundfile>LluignegTesisgaq</soundfile>
+					</line>
+					<line>
+						<migmaq>ugumuljin te'sisga'q</migmaq>
+						<english>eighty</english>
+						<soundfile>UgumuljinTesisgaq</soundfile>
+					</line>
+					<line>
+						<migmaq>pesgunateg te'sisga'q</migmaq>
+						<english>ninety</english>
+						<soundfile>PesgunategTesisgaq</soundfile>
+					</line>
+					<line>
+						<migmaq>gasg'ptnnaqan</migmaq>
+						<english>one hundred</english>
+						<!--<soundfile>Gasgptnnaqan</soundfile>-->
 					</line>
 				</vocab>
 			</lesson>
@@ -1456,14 +1536,49 @@
 						<soundfile>Newtisgaq</soundfile>
 					</line>
 					<line>
-						<migmaq>Newtisga'q jel newt, newtisga'q jel ta'pu, newtisga'q jel si'st, newtisga'q jel ne'w, newtisga'q jel na'n.</migmaq> 	
-						<english>Eleven, twelve, thirteen, fourteen, fifteen.</english>
-						<soundfile>NewtisgaqJelNewtNewtisgaqJelTapuNewtisgaqJelSistNewtisgaqJelNewNewtisgaqJelNan</soundfile>
+						<migmaq>newtisga'q jel newt</migmaq> 	
+						<english>eleven</english>
+						<soundfile>NewtisgaqJelNewt</soundfile>
 					</line>
 					<line>
-						<migmaq>Newtisga'q jel asugom, newtisga'q jel lluigneg, newtisga'q jel ugumuljin, newtisga'q jel pesgunateg.</migmaq>
-						<english>Sixteen, seventeen, eighteen, nineteen.</english>
-						<soundfile>NewtisgaqJelAsugomNewtisgaqJelLluignegNewtisgaqJelUgumuljinNewtisgaqJelPesgunateg</soundfile>
+						<migmaq>newtisga'q jel ta'pu</migmaq> 	
+						<english>twelve</english>
+						<soundfile>NewtisgaqJelTapu</soundfile>
+					</line>
+					<line>
+						<migmaq>newtisga'q jel si'st</migmaq> 	
+						<english>thirteen</english>
+						<soundfile>NewtisgaqJelSist</soundfile>
+					</line>
+					<line>
+						<migmaq>newtisga'q jel ne'w</migmaq> 	
+						<english>fourteen</english>
+						<soundfile>NewtisgaqJelNew</soundfile>
+					</line>
+					<line>
+						<migmaq>newtisga'q jel na'n</migmaq> 	
+						<english>fifteen</english>
+						<soundfile>NewtisgaqJelNan</soundfile>
+					</line>
+					<line>
+						<migmaq>newtisga'q jel asugom</migmaq>
+						<english>sixteen</english>
+						<soundfile>NewtisgaqJelAsugom</soundfile>
+					</line>
+					<line>
+						<migmaq>newtisga'q jel lluigneg</migmaq>
+						<english>seventeen</english>
+						<soundfile>NewtisgaqJelLluigneg</soundfile>
+					</line>
+					<line>
+						<migmaq>newtisga'q jel ugumuljin</migmaq>
+						<english>eighteen</english>
+						<soundfile>NewtisgaqJelUgumuljin</soundfile>
+					</line>
+					<line>
+						<migmaq>newtisga'q jel pesgunateg</migmaq>
+						<english>nineteen</english>
+						<soundfile>NewtisgaqJelPesgunateg</soundfile>
 					</line>
 				</vocab>
 				<vocab>
@@ -1473,14 +1588,49 @@
 						<soundfile>Tapuisgaq</soundfile>
 					</line>
 					<line>
-						<migmaq>Tapuisga'q jel newt, tapuisga'q jel si'st, tapuisga'q jel ne'w, tapuisga'q jel na'n.</migmaq> 	
-						<english>Twenty-one, twenty-two, twenty-three, twenty-four, twenty-five.</english>
-						<soundfile>TapuisgaqJelNewtTapuisgaqJelTapuTapuisgaqJelSistTapuisgaqJelNewTapuisgaqJelNan</soundfile>
+						<migmaq>tapuisga'q jel newt</migmaq> 	
+						<english>twenty-one</english>
+						<soundfile>TapuisgaqJelNewt</soundfile>
 					</line>
 					<line>
-						<migmaq>Tapuisga'q jel asugom, tapuisga'q jel lluigneg, tapuisga'q jel ugumuljin, tapuisga'q jel pesgunateg.</migmaq>
-						<english>Twenty-six, twenty-seven, twenty-eight, twenty-nine.</english>
-						<soundfile>TapuisgaqJelAsugomTapuisgaqJelLluignegTapuisgaqJelUgumuljinTapuisgaqJelPesgunateg</soundfile>
+						<migmaq>tapuisga'q jel tapu</migmaq> 	
+						<english>twenty-one</english>
+						<soundfile>TapuisgaqJelTapu</soundfile>
+					</line>
+					<line>
+						<migmaq>tapuisga'q jel si'st</migmaq> 	
+						<english>twenty-three</english>
+						<soundfile>TapuisgaqJelSist</soundfile>
+					</line>
+					<line>
+						<migmaq>tapuisga'q jel ne'w</migmaq> 	
+						<english>twenty-four</english>
+						<soundfile>TapuisgaqJelNew</soundfile>
+					</line>
+					<line>
+						<migmaq>tapuisga'q jel na'n.</migmaq> 	
+						<english>twenty-five</english>
+						<soundfile>TapuisgaqJelNan</soundfile>
+					</line>
+					<line>
+						<migmaq>tapuisga'q jel asugom</migmaq>
+						<english>twenty-six</english>
+						<soundfile>TapuisgaqJelAsugom</soundfile>
+					</line>
+					<line>
+						<migmaq>tapuisga'q jel lluigneg</migmaq>
+						<english>twenty-seven</english>
+						<soundfile>TapuisgaqJelLluigneg</soundfile>
+					</line>
+					<line>
+						<migmaq>tapuisga'q jel ugumuljin</migmaq>
+						<english>twenty-eight</english>
+						<soundfile>TapuisgaqJelUgumuljin</soundfile>
+					</line>
+					<line>
+						<migmaq>tapuisga'q jel pesgunateg</migmaq>
+						<english>twenty-nine</english>
+						<soundfile>TapuisgaqJelPesgunateg</soundfile>
 					</line>
 					<line>
 						<migmaq>Ne'sisga'q</migmaq> 	
@@ -1496,14 +1646,54 @@
 				<timesig>@20120723-JW-RM-26thru40.wav@0:49-1:13.5</timesig>
 				<vocab>
 					<line>
-						<migmaq>Gasg'ptnnaqan, ta'pu gasg'ptnnaqan, si'st gasg'ptnnaqan, ne'w gasg'ptnnaqan, na'n gasg'ptnnaqan.</migmaq> 
-						<english>One hundred, two hundred, three hundred, four hundred, five hundred</english>
-						<soundfile>GasgptnaqanTapuGasgptnaqanSistGasgptnaqanNewGasgptnaqanNanGasgptnaqan</soundfile>
+						<migmaq>gasg'ptnnaqan</migmaq> 
+						<english>one hundred</english>
+						<soundfile>GasgptnaqanTapu</soundfile>
 					</line>
 					<line>
-						<migmaq>Asugom gasg'ptnnaqan, lluigneg gasg'ptnnaqan, ugumuljin gasg'ptnnaqan, pesgunateg gasg'ptnnaqan, pituiptnnaqan.</migmaq>
-						<english>Six hundred, seven hundred, eight hundred, nine hundred, one thousand</english>
-						<soundfile>AsugomGasgptnaqanLluignegGasgptnaqanUgumuljinGasgptnaqanPesgunategGasgptnaqan</soundfile>
+						<migmaq>ta'pu gasg'ptnnaqan</migmaq> 
+						<english>two hundred</english>
+						<soundfile>GasgptnaqanSist</soundfile>
+					</line>
+					<line>
+						<migmaq>si'st gasg'ptnnaqan</migmaq> 
+						<english>three hundred</english>
+						<soundfile>GasgptnaqanNew</soundfile>
+					</line>
+					<line>
+						<migmaq>ne'w gasg'ptnnaqan</migmaq> 
+						<english>four hundred</english>
+						<soundfile>GasgptnaqanNan</soundfile>
+					</line>
+					<line>
+						<migmaq>na'n gasg'ptnnaqan</migmaq> 
+						<english>five hundred</english>
+						<soundfile>Gasgptnaqan</soundfile>
+					</line>
+					<line>
+						<migmaq>asugom gasg'ptnnaqan</migmaq>
+						<english>six hundred</english>
+						<soundfile>asugomGasgptnaqan</soundfile>
+					</line>
+					<line>
+						<migmaq>lluigneg gasg'ptnnaqan</migmaq>
+						<english>seven hundred</english>
+						<soundfile>LluignegGasgptnaqan</soundfile>
+					</line>
+					<line>
+						<migmaq>ugumuljin gasg'ptnnaqan</migmaq>
+						<english>eight hundred</english>
+						<soundfile>UgumuljinGasgptnaqan</soundfile>
+					</line>
+					<line>
+						<migmaq>pesgunateg gasg'ptnnaqan</migmaq>
+						<english>nine hundred</english>
+						<soundfile>PesgunategGasgptnaqan</soundfile>
+					</line>
+					<line>
+						<migmaq>pituiptnnaqan</migmaq>
+						<english>one thousand</english>
+						<!--<soundfile>pituiptnnaqan</soundfile>-->
 					</line>
 				</vocab>
 			</lesson>
