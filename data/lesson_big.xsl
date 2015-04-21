@@ -7,9 +7,11 @@
     </h1><!--Display unit title at top of page-->
     <div class="row">
       <div class="col-md-8">     
-        <p>
-          <xsl:value-of select="note"/><!--Display any notes about the lesson-->
-        </p>
+          <xsl:for-each select="note">
+          <p>
+            <xsl:value-of select="."/><!--Display any notes about the lesson-->
+          </p><!--Display any notes about the lesson-->
+        </xsl:for-each>
       </div>
       <div class="col-md-4">
         <xsl:choose>
