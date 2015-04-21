@@ -4353,6 +4353,8 @@
 						<english>water bottles</english>
 						<soundfile>Samqwanoqq</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>la'taqsung</migmaq> 	
 						<english>pails/buckets</english>
@@ -4396,6 +4398,8 @@
 						<english>water bottle&#160;&#160;&#160;&#160;&#160;water bottles</english>
 						<soundfile>Samqwanoq_Samqwanoqq</soundfile>
 					</line>
+				</vocab>
+				<vocab>
 					<line>
 						<migmaq>la'taqsun&#160;&#160;&#160;&#160;&#160;la'taqsung</migmaq> 	
 						<english>pail/bucket&#160;&#160;&#160;&#160;&#160;pails/buckets</english>
@@ -4419,7 +4423,9 @@
 				</vocab>
 			</lesson>
 			<lesson>
-				<title>[Household items, clothing]-2a</title>
+				<title>More household items</title>
+				<note>Let's learn some more terms for household items.</note>
+				<note>There are plenty more useful words that we won't learn here. If you have a speaker of the language around, you can use the question phrases we've learned so far to ask them for more names of things you might like to know.</note>
 				<designnote>Intentionally a much smaller set than easily imaginable. These are selected for basic utility in demonstrating language patterns, also with the understanding and expectation that the course teaches students how to find out more of this kind of vocabulary with regular speakers. Household items are particularly easy to learn this way, and hence we keep the set introduced here small.</designnote>
 				<designnote>All of the images are given as a single row [and then if possible, highlight each image as it is read through].</designnote>
 				<timesig>@20120731-JV-MAM-HouseholdItemsAnimInanim.wav@1:46-1:59</timesig>		
@@ -4447,8 +4453,9 @@
 				</dialog>
 			</lesson>
 			<lesson>
-				<title>[Household items, clothing]-2b</title>
-				<note>All of the images are given as a single row [and then if possible, highlight each image as it is read through].</note>
+				<title>More household item plurals</title>
+				<note>Can you guess the plural forms for the words you've learned so far?</note>
+				<designnote>All of the images are given as a single row [and then if possible, highlight each image as it is read through].</designnote>
 				<timesig>@20120731-JV-MAM-HouseholdItemsAnimInanim.wav@2:02-2:14.5</timesig>
 				<vocab>
 					<line>
@@ -4474,8 +4481,9 @@
 				</vocab>
 			</lesson>
 			<lesson>
-				<title>[Household items, clothing]-2c</title>
-				<note>Singular and plural rows of images lined up together, singular on top of plural</note>
+				<title>More household item practice</title>
+				<note>Let's practice the household vocabulary some more.</note>
+				<designnote>Singular and plural rows of images lined up together, singular on top of plural</designnote>
 				<timesig>@20120731-JV-MAM-HouseholdItemsAnimInanim.wav@2:16-2:35.5</timesig>
 				<vocab>
 					<line>
@@ -4502,6 +4510,7 @@
 			</lesson>
 			<lesson>
 				<title>What do you want?</title>
+				<note>Let's learn how to ask for objects.</note>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@0:06-0:19.5</timesig>		
 				<dialog>
 					<linetimsig>[@0:06-0:9.5]</linetimsig>
@@ -4532,6 +4541,7 @@
 			</lesson>
 			<lesson>
 				<title>Do you want a [thing]?</title>
+				<note>Is there anything you need? How do you ask for things?</note>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@0:31-43.5</timesig>		
 				<dialog>
 					<line>
@@ -4572,6 +4582,7 @@
 			</lesson>
 			<lesson>
 				<title>Do you want [things]?</title>
+				<note>Maybe you need a few things. Here's how to ask.</note>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@0:44-1:04.5</timesig>		
 				<dialog>
 					<linetimsig>[@0:44-0:49]</linetimsig>
@@ -4614,6 +4625,7 @@
 			</lesson>
 			<lesson>
 				<title>Do you want a [thing]? (inanimate)</title>
+				<note>Let's practice saying that you want more things.</note>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@1:05-1:19.5</timesig>		
 				<dialog>
 					<line>
@@ -4654,6 +4666,7 @@
 			</lesson>
 			<lesson>
 				<title>Do you want [things]? (inanimate)</title>
+				<note>Do you want some of these things?</note>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@1:26.5-1:44.5</timesig>		
 				<dialog>
 					<line>
@@ -4694,6 +4707,7 @@
 			</lesson>
 			<lesson>
 				<title>What do you have?</title>
+				<note>What things do you have? Can you tell me?</note>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@1:45-1:54.5</timesig>		
 				<dialog>
 					<line>
@@ -4722,6 +4736,7 @@
 			</lesson>
 			<lesson>
 				<title>Do you have a [thing]? (animate)</title>
+				<note>How about these things? Do you have them?</note>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@2:10-2:27</timesig>		
 				<dialog>
 					<line>
@@ -4762,6 +4777,7 @@
 			</lesson>
 			<lesson>
 				<title>Do you have [things]? (animate)</title>
+				<note>What else do you have?</note>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@2:28-2:46</timesig>		
 				<dialog>
 					<line>
@@ -4802,6 +4818,7 @@
 			</lesson>
 			<lesson>
 				<title>Do you have a [thing]? (inanimate)</title>
+				<note>What about these things?</note>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@2:46.5-3:01</timesig>		
 				<dialog>
 					<line>
@@ -4842,6 +4859,7 @@
 			</lesson>
 			<lesson>
 				<title>Do you have [things]? (inanimate)</title>
+				<note>Some more practice.</note>
 				<timesig>@20120731-JV-MAM-Pewatmn2Geggunmn.wav@3:02</timesig>		
 				<dialog>
 					<line>
