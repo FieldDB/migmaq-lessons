@@ -4992,14 +4992,14 @@
 <section>
 	<title>Motion, routines, sports</title>
 	<note>Now that you've gained a foundation in several conversation topics, we'll start focusing more on actions. Verbs are very important in Mi'gmaq: they contain a lot of information.</note>
-	<note>In this section, we'll talk about many of the activities you carry out in your daily life. We'll also learn some ways of talking to children.</note>
+	<note>In this section, we'll talk about many of the activities you carry out in your daily life. We'll also learn some ways of talking to children. We'll learn words for parts of the body, and how to describe how you feel. We'll end by learning even more ways to ask about where people are going and what they are doing.</note>
 	<note>By now, you can carry out simple conversations with speakers. Try to find some other learners or speakers to practice with&#8212; it'll really help you improve!</note>
 	<unit>
 		<title>Child care, daily routine, house-care, and commands</title>
 		<note>Now let's talk about some of the things we do every day.</note>
 		<note>A good way to practice this vocabulary is to narrate your actions to yourself (out loud or in your head) as you get ready in the morning.</note>
 		<lesson>
-			<title>Every day...</title>
+			<title>Describing your routine</title>
 			<timesig>@20120801-JV-MAM-Tesigisgg1.wav@0:01-1:57</timesig>	
 			<audionote>Full dialog in Tesigisgg1</audionote>	
 			<dialog>
@@ -5028,6 +5028,8 @@
 					<english>Then I get dressed.</english>
 					<soundfile>ToqojiwGegnasi</soundfile>
 				</line>
+			</dialog>
+			<dialog>
 				<line>
 					<migmaq>Gisgna'si, na tujiw wissugwai.</migmaq> 	
 					<english>After I get dressed, then I cook for myself.</english>
@@ -5063,6 +5065,8 @@
 					<english>Then I go back to work.</english>
 					<soundfile>ToqojiwApatlugwei</soundfile>
 				</line>
+			</dialog>
+			<dialog>
 				<line>
 					<migmaq>Ta'n tujiw gaqlugwei, na enmiei.</migmaq> 	
 					<english>When I finish work, then I go home.</english>
@@ -5095,6 +5099,8 @@
 					<english>Then I take a nap.</english>
 					<soundfile>ToqojiwNepajiji</soundfile>
 				</line>
+			</dialog>
+			<dialog>
 				<line>
 					<migmaq>Ta'n tujiw tugwiei, na 'ntiga'taqang naji-matu'lugwei.</migmaq> 	
 					<english>When I wake up, then I go putter around in my garden.</english>
@@ -5126,6 +5132,10 @@
 					<soundfile>ToqojiwNepai</soundfile>
 				</line>
 			</dialog>
+		</lesson>
+		<lesson>
+			<title>Describing another person's routine</title>
+			<note>Now pretend that you are repeating someone else's description of their daily routine back to them.</note>
 			<timesig>@20120801-JV-MAM-Tesigisgg2.wav@0:02-2:15</timesig>
 			<designnote>Note slight variations in the responder's forms: she says "egiljen" instead of "egijjen". Both are common versions of 'read'. Similarly, "engosin" and "engopin" are both versions of "pemgopi".</designnote>	
 			<audionote>Whole dialog in Tesgisgg2</audionote>	
@@ -5155,6 +5165,8 @@
 					<english>Then you get dressed.</english>
 					<soundfile>ToqojiwGegnasin</soundfile>
 				</line>
+			</dialog>
+			<dialog>
 				<line>
 					<migmaq>Gisgna'sin, na tujiw wissugwan.</migmaq> 	
 					<english>After you get dressed, then you cook for yourself.</english>
@@ -5190,6 +5202,8 @@
 					<english>Then you go back to work.</english>
 					<soundfile>ToqojiwApatlugwen</soundfile>
 				</line>
+			</dialog>
+			<dialog>
 				<line>
 					<migmaq>Ta'n tujiw gaqlugwen, na enmien.</migmaq> 	
 					<english>When you finish work, then you go home.</english>
@@ -5222,6 +5236,8 @@
 					<soundfile>ToqojiwNepajijin</soundfile>
 				</line>
 				<linetimsig>[@1:45-1:50 .5]</linetimsig>
+			</dialog>
+			<dialog>
 				<line>
 					<migmaq>Ta'n tujiw tugwien, na 'gtiga'taqang naji-matu'lugwen.</migmaq> 	
 					<english>When you wake up, then you go putter around in your garden.</english>
@@ -5257,21 +5273,13 @@
 	</unit>
 	<unit>
 		<title>Body parts, how they hurt, and possession</title>
+		<note>In this unit, you'll learn the names for the parts of your body. You'll see how to talk about them if they are hurting. You'll also pick up on how possession works in Mi'gmaq.</note>
 		<lesson>
 			<title>My body parts</title>
-			<note>Words are given in singular, plural, or both, depending on how commonly each is used.</note>
+			<note>Here are the names for some of our body parts.</note>
+			<designnote>Words are given in singular, plural, or both, depending on how commonly each is used.</designnote>
 			<timesig>@20120801-JV-MAM-Gtinin.wav@0:02-2:21</timesig>
 			<vocab>
-				<line>
-					<migmaq>nun'ji</migmaq> 	
-					<english>my head</english>
-					<soundfile>Nunji</soundfile>
-				</line>
-				<line>
-					<migmaq>nusapun&#160;&#160;&#160;&#160;&#160;nusapunn</migmaq> 	
-					<english>my (single) hair&#160;&#160;&#160;&#160;&#160;my hair(s)</english>
-					<soundfile>Nusapun_Nusapunn</soundfile>
-				</line>
 				<line>
 					<migmaq>'ns'tuaqan&#160;&#160;&#160;&#160;&#160;'ns'tuaqann</migmaq> 	
 					<english>my ear&#160;&#160;&#160;&#160;&#160;my ears</english>
@@ -5307,15 +5315,27 @@
 					<english>my tooth&#160;&#160;&#160;&#160;&#160;my teeth</english>
 					<soundfile>Nipit_Nipitl</soundfile>
 				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>nusapun&#160;&#160;&#160;&#160;&#160;nusapunn</migmaq> 	
+					<english>my (single) hair&#160;&#160;&#160;&#160;&#160;my hair(s)</english>
+					<soundfile>Nusapun_Nusapunn</soundfile>
+				</line>
+				<line>
+					<migmaq>nun'ji</migmaq> 	
+					<english>my head</english>
+					<soundfile>Nunji</soundfile>
+				</line>
 				<line>
 					<migmaq>'ntugwejan</migmaq> 	
 					<english>my forehead</english>
 					<soundfile>Ntugwejan</soundfile>
 				</line>
 				<line>
-					<migmaq>'ntugwape'gn</migmaq> 	
-					<english>my chin</english>
-					<soundfile>Ntugwapegn</soundfile>
+					<migmaq>'nsisgw</migmaq> 	
+					<english>my face</english>
+					<soundfile>Nsisgw</soundfile>
 				</line>
 				<line>
 					<migmaq>nijinuan&#160;&#160;&#160;&#160;&#160;nijinuann</migmaq> 	
@@ -5324,15 +5344,17 @@
 				</line>
 				<linetimsig>[@0:42-0: 43.5]</linetimsig>
 				<line>
-					<migmaq>'nsisgw</migmaq> 	
-					<english>my face</english>
-					<soundfile>Nsisgw</soundfile>
+					<migmaq>'ntugwape'gn</migmaq> 	
+					<english>my chin</english>
+					<soundfile>Ntugwapegn</soundfile>
 				</line>
 				<line>
 					<migmaq>'nqotaqan</migmaq> 	
 					<english>my throat</english>
 					<soundfile>Nqotaqan</soundfile>
 				</line>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>'nji'taqan</migmaq> 	
 					<english>my neck</english>
@@ -5365,6 +5387,8 @@
 					<english>my thumb&#160;&#160;&#160;&#160;&#160;my thumbs</english>
 					<soundfile>Ntijin_Ntijinn</soundfile>
 				</line>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>'npusgun</migmaq> 	
 					<english>my chest</english>
@@ -5385,6 +5409,8 @@
 					<english>my bellybutton</english>
 					<soundfile>Nili</soundfile>
 				</line>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>'ngat&#160;&#160;&#160;&#160;&#160;'ngatl</migmaq> 	
 					<english>my foot/leg&#160;&#160;&#160;&#160;&#160;my feet/legs</english>
@@ -5405,18 +5431,20 @@
 					<english>my lower leg&#160;&#160;&#160;&#160;&#160;my l ower legs</english>
 					<soundfile>Ngajign_Ngajignn</soundfile>
 				</line>
-				<note>still missing 'calf'</note>
+				<designnote>still missing 'calf'</designnote>
 				<line>
 					<migmaq>'nqon&#160;&#160;&#160;&#160;&#160;nqong</migmaq> 	
 					<english>my heel&#160;&#160;&#160;&#160;&#160;my heels</english>
 					<soundfile>Nqon_Nqong</soundfile>
 				</line>
-				<note>still missing 'ankle'</note>
+				<designnote>still missing 'ankle'</designnote>
 				<line>
-					<migmaq>nmaqaqjigeweim&#160;&#160;&#160;&#160;&#160;nmaqaqjigeweiml</migmaq> 		
+					<migmaq>nmaqaqjigeweim&#160;&#160;&#160;&#160;&#160;nmaqaqjigeweiml</migmaq>
 					<english>my big toe&#160;&#160;&#160;&#160;&#160;my big toes</english>
 					<soundfile>Nmaqaqjigeweim_Nmaqaqjigeweiml</soundfile>
 				</line>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>'ngamlamun</migmaq> 		
 					<english>my heart</english>
@@ -5437,6 +5465,7 @@
 		</lesson>
 		<lesson>
 			<title>My [body part] hurts. (animate)</title>
+			<note>Ouch! What hurts?</note>
 			<timesig>@20120801-JV-MAM-Gesnuguit.wav@0:05-0:37</timesig>
 			<vocab>
 				<line>
@@ -5474,6 +5503,7 @@
 		</lesson>
 		<lesson>
 			<title>My [body parts] hurt. (animate)</title>
+			<note>Oh no! What else hurts?</note>
 			<timesig>@20120801-JV-MAM-Gesnuguit.wav@0:40-0:53</timesig>
 			<vocab>
 				<line>
@@ -5502,11 +5532,6 @@
 			<title>My [body part] hurts. (inanimate)</title>
 			<timesig>@20120801-JV-MAM-Gesnuguit.wav@0:55-2:41.5</timesig>
 			<vocab>
-				<line>
-					<migmaq>Gesnuguig nun'ji.</migmaq> 	
-					<english>My head hurts.</english>
-					<soundfile>GesnuguigNunji</soundfile>
-				</line>
 				<line>
 					<migmaq>Gesnuguig 'ns'tuaqan.</migmaq> 	
 					<english>My ear hurts.</english>
@@ -5542,16 +5567,25 @@
 					<english>My jaw hurts.</english>
 					<soundfile>GesnuguigNtugwapegn</soundfile>
 				</line>
+			</vocab>
+			<vocab>
 				<line>
-					<migmaq>Gesnuguig 'nijinuan.</migmaq> 	
-					<english>My cheek hurts.</english>
-					<soundfile>GesnuguigNijinuan</soundfile>
+					<migmaq>Gesnuguig nun'ji.</migmaq> 	
+					<english>My head hurts.</english>
+					<soundfile>GesnuguigNunji</soundfile>
 				</line>
 				<line>
 					<migmaq>Gesnuguig 'nsisgw.</migmaq> 	
 					<english>My face hurts.</english>
 					<soundfile>GesnuguigNsisgw</soundfile>
 				</line>
+				<line>
+					<migmaq>Gesnuguig 'nijinuan.</migmaq> 	
+					<english>My cheek hurts.</english>
+					<soundfile>GesnuguigNijinuan</soundfile>
+				</line>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>Gesnuguig 'ntlmaqan.</migmaq> 	
 					<english>My shoulder hurts.</english>
@@ -5574,6 +5608,8 @@
 					<english>My thumb hurts.</english>
 					<soundfile>GesnuguigNtijin</soundfile>
 				</line>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>Gesnuguig 'npusgun.</migmaq> 	
 					<english>My chest hurts.</english>
@@ -5595,6 +5631,13 @@
 					<soundfile>GesnuguigNili</soundfile>
 				</line>
 				<line>
+					<migmaq>Gesnuguig 'ngamlamun.</migmaq> 	
+					<english>My heart hurts.</english>
+					<soundfile>GesnuguigNgamlamun</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
 					<migmaq>Gesnuguig 'ngat.</migmaq> 	
 					<english>My leg/foot hurts.</english>
 					<soundfile>GesnuguigNgat</soundfile>
@@ -5615,11 +5658,6 @@
 					<soundfile>GesnuguigNmaqaqjigeweim</soundfile>
 				</line>
 				<linetimsig>[@2:39-2:41.5]</linetimsig>
-				<line>
-					<migmaq>Gesnuguig 'ngamlamun.</migmaq> 	
-					<english>My heart hurts.</english>
-					<soundfile>GesnuguigNgamlamun</soundfile>
-				</line>
 			</vocab>
 		</lesson>
 		<lesson>
@@ -5646,6 +5684,8 @@
 					<english>My teeth hurt.</english>
 					<soundfile>GesnuguiglNipitl</soundfile>
 				</line>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>Gesnuguigl 'ntlmaqann.</migmaq> 	
 					<english>My shoulders hurt.</english>
@@ -5667,6 +5707,8 @@
 					<english>My thumbs hurt.</english>
 					<soundfile>GesnuguiglNtijinn</soundfile>
 				</line>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>Gesnuguigl 'ngatl.</migmaq> 	
 					<english>My legs/feet hurt.</english>
@@ -5692,10 +5734,14 @@
 		</lesson>
 		<lesson>
 			<title>Understanding 'my..., your..., his/her...'</title>
+			<note>What's yours and what's mine?</note>
+			<note>You probably already know how to say 'my...' and 'your...' in Mi'gmaq: you just add the first letter of 'ni'n' 'me' or of 'gi'l' 'you', that is, just 'n-' and 'g-'.</note>
+			<note>As you'll see in our second set of words, though, when words start with a vowel a /-t-/ sound usually is added to link everything together.</note>
+			<note>Only a few words that are either parts of the body (like your teeth) or parts of your family (like your father) do not need this /-t-/ added in before a vowel. A word starting in consonants just adds the n- and g- right before it, nothing else.</note>
+			<note>But you will notice that when the combination of n- or g- with the following consonant needs some help to make it pronounceable, a /'/ sound comes in to make it easier to say. When this happens, you'll notice that the 'n- sound in particular sounds sort of "stopped", almost like "nt" at the end of a word in English.</note>
 			<timesig>@20120801-JV-MAM-UnderstandingMyYourHHer.wav@0:06.5-0.34.5-</timesig>
 			<designnote>Good to follow body parts, as reinforcing possession morphosyntax. This lesson introduces the three basic patterns of possession marking (n-V-, 'nt-V-, and n-C-). It starts with the rarest case: the n-V- pattern of nujj 'my father' rather than the broadest case ('n-C-) for two reasons. First is that nujj 'my father' and similar family relationship terms are ones learners are likely to already be somewhat familiar with. Second is that they are somewhat exceptional, and introducing the exceptions before the broad pattern helps prevent learners from overusing the broad pattern.</designnote>
 			<vocab>
-				<expltext>You probably already know how to say 'my...' and 'your...' in Mi'gmaq: you just add the first letter of ni'n 'me' or of gi'l you, that is, just n- and g-. For example:</expltext>
 				<line>
 					<migmaq>n-ujj</migmaq>
 					<english>my father</english>
@@ -5717,7 +5763,8 @@
 					<english>your teeth</english>
 					<soundfile>Gipitl</soundfile>
 				</line>
-				<expltext>For most words that start in a vowel, though, a /-t-/ sound comes in to link everything together:</expltext>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>a'su'n</migmaq>
 					<english>blanket</english>
@@ -5733,7 +5780,8 @@
 					<english>my blanket</english>
 					<soundfile>Gtasunm</soundfile>
 				</line>
-				<expltext>Only a few words that are either parts of the body (like your teeth) or parts of your family (like your father) do not need this /-t-/ added in before a vowel. A word starting in consonants just adds the n- and g- right before it, nothing else. But you will notice that when the combination of n- or g- with the following consonant needs some help to make it pronounceable, a /'/ sound comes in to make it easier to say. So for example, we have:</expltext>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>'n-gij</migmaq>
 					<english>my mother</english>
@@ -5754,14 +5802,16 @@
 					<english>your older brother</english>
 					<soundfile>Gsis</soundfile>
 				</line>
-				<expltext>When this happens, you'll notice that the 'n- sound in particular sounds sort of "stopped", almost like "nt" at the end of a word in English.</expltext>
 			</vocab>
 		</lesson>
 		<lesson>
-			<title>The -m</title>
+			<title>The -m mystery</title>
+			<note>If you know the word a'su'n 'blanket', you might be wondering why this -m is added when it is possessed.</note>
+			<note>There is a simple reason for this, which goes back to how precise the Mi'gmaq language tends to be about different kinds of relations. Words for parts of the body (like your teeth) or parts of your family (like your father) are naturally related to you. But most other things in the world are not.</note>
+			<note>Mi'gmaq allows you to set up any old word as related to you (or me) by adding -m to it. From there, you can then just add on the n- or g- and so forth as usual.</note>
+			<note>This is not a 100% rule. A few body parts and family members actually do use -m, and a few things that aren't actually don't use the -m. But by and large, when in doubt, if you use the -m, you will be correct, and at worst, just a little over-correct, and fluent speakers will easily set you straight.</note>
 			<timesig>@20120801-JV-MAM-UnderstandingMyYourHHer.wav@0:36-0:42.5</timesig>
 			<vocab>
-				<expltext>If you know the word a'su'n 'blanket', you might be wondering why this -m popped up on its end:</expltext>
 				<line>
 					<migmaq>a'su'n</migmaq>
 					<english>blanket</english>
@@ -5777,20 +5827,20 @@
 					<english>your blanket</english>
 					<soundfile>Gtasunm</soundfile>
 				</line>
-				<expltext>There is a simple reason for this, which goes back to how precise the Mi'gmaq language tends to be about different kinds of relations. Words for parts of the body (like your teeth) or parts of your family (like your father) are naturally related to you. But most other things in the world are not. Mi'gmaq allows you to set up any old word as related to you (or me, etc.) by adding -m to it. From there, you can then just add on the n- or g- and so forth as usual. This is not a 100% rule. A few body parts and family members actually do use -m, and a few things that aren't actually don't use the -m. But by and large, when in doubt, if you use the -m, you will be correct, and at worst, just a little over-correct, and fluent speakers will easily set you straight.</expltext>
 			</vocab>
 		</lesson>
 		<lesson>
 			<title>Understanding the 'his/her...' sound</title>
+			<note>For 'his' and 'her', the added sound is usually 'w-'.</note>
+			<note>However, if the 'w-'' comes before a consonant, it is pronounced (and spelled) 'ug-'.</note>
+			<note>Try saying "wpaqam" (especially with that noticeable "stopped" sound) and you'll see how "ugpaqam" is a much easier and more natural way to get the sound across.</note>
 			<timesig>@20120801-JV-MAM-UnderstandingMyYourHHer.wav@0:47.5-0:57.5</timesig>
 			<vocab>
-				<expltext>Now for 'his/her...', the basic sound is w-.</expltext>
 				<line>
 					<migmaq>w-ipitl</migmaq>
 					<english>his/her teeth</english>
 					<soundfile>Wipitl</soundfile>
 				</line>
-				<expltext>However, if the w- comes before a consonant, it is pronounced (and spelled) ug-:</expltext>
 				<line>
 					<migmaq>'n-paqam</migmaq>
 					<english>my back</english>
@@ -5806,14 +5856,18 @@
 					<english>his/her back</english>
 					<soundfile>Ugpaqam</soundfile>
 				</line>
-				<expltext>Try saying "wpaqam" (especially with that noticeable "stopped" sound) and you'll see how "ugpaqam" is a much easier and more natural way to get the sound across.</expltext>
 			</vocab>
 		</lesson>
 		<lesson>
-			<title>Understanding the 'his/her...' mystery -1</title>
+			<title>Understanding the 'his/her' mystery, part 1</title>
+			<note>So what about 'his/her father'? Well, we held off on this for a two reasons.</note>
+			<note>First is that /w/ and /u/ are basically two versions of the same sound in Mi'gmaq, which makes /w-/ drop out completely before /u/. The 'w-' can sometimes change /g/ to /gw/ as well.</note>
+			<note>Second is, as you may have noticed, this -l on the end. It sounds exactly the same as the plural for things, but because it's used on people, it has a completely different meaning.</note>
+			<note>When you hear the -l on the end of a word naming a person, it tells us two things.</note>
+			<note>First, that there is some main person we are thinking of first, as our starting point.</note>
+			<note>Second is that we start from that main person to get to the person with the '-l' on them. It shows that the person we are talking about it related to the main person in some way.</note>
 			<timesig>@20120801-JV-MAM-UnderstandingMyYourHHer.wav@0:59.5-1:35</timesig>
 			<vocab>
-				<expltext>So what about 'his/her father'? Well, we held off on this for a two reasons. First is that /w/ and /u/ are basically two versions of the same sound in Mi'gmaq. Which makes /w-/ drop out completely before /u/:</expltext>
 				<line>
 					<migmaq>n-ujj</migmaq>
 					<english>my father</english>
@@ -5829,13 +5883,8 @@
 					<english>his/her father</english>
 					<soundfile>Ujjl</soundfile>
 				</line>
-				<expltext>Second is, as you may have noticed, this -l on the end. It sounds exactly the same as how you show more than one of most things (Things), but because it's used on people (People), it has a completely different meaning. Remember that Mi'gmaq is a language that cares a lot about relationships. When you hear the -l on the end of a word naming a person, it tells us two things.</expltext>
-				<expltext>First, that there is some main person we are thinking of first, as our starting point.</expltext>
-				<expltext>Second is that we start from and go through that main person to THEN get to the person with the -l on them. It shows who we are thinking of first, and then who is related to them in some way.</expltext>
-				<expltext>So for example whenever we say 'her father', we must be thinking of whoever "she/her" is first, in order to then go on and talk about the father. And if we say 'his mother', we must be thinking of whoever "he/his" is first, in order to then go on and talk about the mother.</expltext>
-				<expltext>(This is why we will always hear the -l on person words if they have a 'his/her...' on them, since that always means we're not going directly to the person, but instead	starting from/through whoever that 'his/her...' is talking about.)</expltext>
-				<expltext>Since there is nothing like this in English, this may take some	getting used to. But as you go along, you will find that it is actually a very simple idea (and in the end you	may wonder why English doesn't have it). And for now, it will be enough to recognize that the -l on a person (Person)	word tells you that we are viewing them by way of someone else who is, for	the moment, first in our minds.</expltext>
-				<expltext>Another way to learn it is just to memorize simple	patterns like the ones below just by ear. Then the -l will come in naturally when it is needed without having to think through why it's there: it will just sound right.</expltext>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>'n-gij</migmaq>
 					<english>my mother</english>
@@ -5851,7 +5900,8 @@
 					<english>his/her mother</english>
 					<soundfile>Uggwijl</soundfile>
 				</line>
-				<expltext>Notice the above: the w- can sometimes change /g/ to /gw/.</expltext>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>'n-tus</migmaq>
 					<english>my daughter</english>
@@ -5867,6 +5917,34 @@
 					<english>his/her daughter</english>
 					<soundfile>Ugtusl</soundfile>
 				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>'n-gwis</migmaq>
+					<english>my son</english>
+					<soundfile>Ngwis</soundfile>
+				</line>
+				<line>
+					<migmaq>'g-gwis</migmaq>
+					<english>your son</english>
+					<soundfile>Ggwis</soundfile>
+				</line>
+				<line>
+					<migmaq>ug-gwis-l</migmaq>
+					<english>his/her son</english>
+					<soundfile>Uggwisl</soundfile>
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
+			<title>Understanding the 'his/her' mystery, part 2</title>
+			<note>Here's an example to walk through slowly.</note>
+			<note>Whenever we say 'her father', we must be thinking of whoever "she/her" is first, in order to talk about the father. If we say 'his mother', we must be thinking of whoever "he/his" is first, in order to talk about the mother.</note>
+			<note>(This is why we will always hear the -l on person words if they have a 'his/her', since that always means we're not going directly to the person, but instead	starting from/through whoever that 'his/her' is talking about.)</note>
+			<note>Since there is nothing like this in English, this may take some getting used to. But as you go along, you will find that it is actually a very simple idea (and in the end, you may wonder why English doesn't have it).</note>
+			<note>For now, it will be enough to recognize that the -l on a person word tells you that we are viewing them by way of someone else who is, for the moment, first in our minds.</note>
+			<note>Another way to learn it is just to memorize simple patterns like the ones below just by ear. Then the -l will come in naturally when it is needed without having to think through why it's there: it will just sound right.</note>
+			<vocab>
 				<line>
 					<migmaq>n-ujj</migmaq>
 					<english>my father</english>
@@ -5882,20 +5960,22 @@
 					<english>his/her father</english>
 					<soundfile>Ujjl</soundfile>
 				</line>
+			</vocab>
+			<vocab>
 				<line>
-					<migmaq>'n-gwis</migmaq>
-					<english>my son</english>
-					<soundfile>Ngwis</soundfile>
+					<migmaq>'n-gij</migmaq>
+					<english>my mother</english>
+					<soundfile>Ngij</soundfile>
 				</line>
 				<line>
-					<migmaq>'g-gwis</migmaq>
-					<english>your son</english>
-					<soundfile>Ggwis</soundfile>
+					<migmaq>'g-gij</migmaq>
+					<english>your mother</english>
+					<soundfile>Ggij</soundfile>
 				</line>
 				<line>
-					<migmaq>ug-gwis-l</migmaq>
-					<english>his/her son</english>
-					<soundfile>Uggwisl</soundfile>
+					<migmaq>ug-gwij-l</migmaq>
+					<english>his/her mother</english>
+					<soundfile>Uggwijl</soundfile>
 				</line>
 			</vocab>
 		</lesson>
