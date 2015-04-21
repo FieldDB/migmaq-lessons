@@ -3708,7 +3708,7 @@
 				<linetimsig> @20120730-JV-Mijipjewei.wav@1:33-2:21</linetimsig>
 				<vocab>
 					<line>
-						<migmaq>e's &#8198; e'sig</migmaq> 	
+						<migmaq>e's<tab/>e'sig</migmaq> 	
 						<english>clam &#8198;&#8198;&#8198; clams</english>
 						<soundfile>EesEesigClip</soundfile>
 					</line>
