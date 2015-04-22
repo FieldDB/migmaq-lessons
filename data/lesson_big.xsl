@@ -126,4 +126,7 @@
       <xsl:value-of select="info"/><!--Display any info associated with the lesson-->
     </p>
   </xsl:template>
+  <xsl:template match="m">
+    <strong><xsl:value-of select="m"/></strong>
+    </xsl:template>
 </xsl:stylesheet>
