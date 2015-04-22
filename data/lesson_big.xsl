@@ -19,7 +19,6 @@
       <div class="{$divClass}">
           <xsl:for-each select="note">
             <p>
-              <xsl:value-of select="."/><!--Display any notes about the lesson-->
               <xsl:apply-templates/>
             </p><!--Display any notes about the lesson-->
           </xsl:for-each>
