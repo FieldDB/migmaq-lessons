@@ -57,7 +57,6 @@
                   <div class="media-body">
                     <h2 class="media-heading">
                       <xsl:value-of select="migmaq"/>
-                      <xsl:apply-templates/>
                     </h2><!--Display Mi'gmaq-->
                     <h4 class="media-heading">
                       <xsl:value-of select="english"/>
@@ -101,7 +100,6 @@
                   <div class="media-body">
                     <h2 class="media-heading">
                       <xsl:value-of select="migmaq"/>
-                      <xsl:apply-templates/>
                     </h2><!--Display Mi'gmaq-->
                     <h4 class="media-heading">
                       <xsl:value-of select="english"/>
@@ -127,6 +125,6 @@
     </p>
   </xsl:template>
   <xsl:template match="m">
-    <strong><xsl:value-of select="."/></strong>
+    <strong><xsl:value-of select="."/></strong>strong>
     </xsl:template>
 </xsl:stylesheet>
