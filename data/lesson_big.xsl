@@ -127,6 +127,6 @@
     </p>
   </xsl:template>
   <xsl:template match="m">
-    <strong>hihi<xsl:value-of select="m"/></strong>
+    <strong><xsl:value-of select="."/></strong>
     </xsl:template>
 </xsl:stylesheet>
