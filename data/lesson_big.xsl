@@ -6,27 +6,35 @@
       <xsl:value-of select="title"/>
     </h1><!--Display unit title at top of page-->
     <div class="row">
-      <div class="col-md-8">     
-          <xsl:for-each select="note">
-          <p>
-            <xsl:value-of select="."/><!--Display any notes about the lesson-->
-          </p><!--Display any notes about the lesson-->
-        </xsl:for-each>
-        <p>
-          <xsl:value-of select="explnote"/>
-        </p><!--Display note as a paragraph-->
-      </div>
-      <div class="col-md-4">
+      <xsl:variable name="divClass">
         <xsl:choose>
           <xsl:when test="img"><!--Display image if there is one, else display default-->
-            <xsl:variable name="imgurl"><xsl:value-of select="img"/></xsl:variable>
-            <img class="img-responsive thumbnail" src="{$imgurl}" alt="Trees" style="max-width: 75%"></img>
+            col-md-8
           </xsl:when>
           <xsl:otherwise>
-           <img class="img-responsive thumbnail" src="{{{{ site.baseurl }}}}/img/wikiimage.png" alt="Trees" style="max-width: 75%"></img>
+            col-md-10
           </xsl:otherwise>
         </xsl:choose>
-      </div>
+      </xsl:variable>
+      <div class="{$divClass}">
+          <xsl:for-each select="note">
+            <p>
+              <xsl:value-of select="."/><!--Display any notes about the lesson-->
+            </p><!--Display any notes about the lesson-->
+          </xsl:for-each>
+          <p>
+            <xsl:value-of select="explnote"/>
+          </p><!--Display note as a paragraph-->
+        </div>
+      <xsl:choose>
+        <xsl:when test="img"><!--Display image if there is one, else display default-->
+          <div class="col-md-4">
+            <img class="img-responsive thumbnail" src="{$img}" alt="Trees" style="max-width: 75%"></img>
+          </div>
+        </xsl:when>
+        <xsl:otherwise>
+        </xsl:otherwise>
+      </xsl:choose>
     </div>
     <xsl:if test="dialog"><!--if there are dialogs, display them-->
       <div class="well well-lg">
