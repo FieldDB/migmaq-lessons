@@ -20,11 +20,9 @@
           <xsl:for-each select="note">
             <p>
               <xsl:value-of select="."/><!--Display any notes about the lesson-->
+              <xsl:apply-templates/>
             </p><!--Display any notes about the lesson-->
           </xsl:for-each>
-          <p>
-            <xsl:value-of select="explnote"/>
-          </p><!--Display note as a paragraph-->
         </div>
       <xsl:choose>
         <xsl:when test="img"><!--Display image if there is one, else display default-->
@@ -59,6 +57,7 @@
                   <div class="media-body">
                     <h2 class="media-heading">
                       <xsl:value-of select="migmaq"/>
+                      <xsl:apply-templates/>
                     </h2><!--Display Mi'gmaq-->
                     <h4 class="media-heading">
                       <xsl:value-of select="english"/>
@@ -102,6 +101,7 @@
                   <div class="media-body">
                     <h2 class="media-heading">
                       <xsl:value-of select="migmaq"/>
+                      <xsl:apply-templates/>
                     </h2><!--Display Mi'gmaq-->
                     <h4 class="media-heading">
                       <xsl:value-of select="english"/>
@@ -127,6 +127,6 @@
     </p>
   </xsl:template>
   <xsl:template match="m">
-    <strong><xsl:value-of select="m"/></strong>
+    <strong>hihi<xsl:value-of select="m"/></strong>
     </xsl:template>
 </xsl:stylesheet>
