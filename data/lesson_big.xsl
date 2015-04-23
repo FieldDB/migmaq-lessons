@@ -8,15 +8,11 @@
     <div class="row">
       <xsl:variable name="divClass">
         <xsl:choose>
-          <xsl:when test="img">
-            col-md-8
-          </xsl:when>
-          <xsl:otherwise>
-            col-md-10
-          </xsl:otherwise>
+          <xsl:when test="img">col-md-8</xsl:when>
+          <xsl:otherwise>col-md-10</xsl:otherwise>
         </xsl:choose>
       </xsl:variable>
-      <div class="{$divClass}">
+      <div class="{$divClass}">&#160;
         <xsl:for-each select="note">
           <p>
             <xsl:apply-templates/>
@@ -24,7 +20,7 @@
         </xsl:for-each>
       </div>
       <xsl:choose>
-        <xsl:when test="img">--><!--Display image if there is one, else display default-->
+        <xsl:when test="img"><!--Display image if there is one, else display default-->
           <div class="col-md-4">
             <xsl:variable name="main_img"><xsl:value-of select="img"/></xsl:variable>
             <img class="img-responsive thumbnail" src="{$main_img}" alt="Trees" style="max-width: 75%"/>
