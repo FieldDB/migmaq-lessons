@@ -8311,6 +8311,7 @@
 					<migmaq>'Spisuna'si.</migmaq> 	
 					<english>Put on a belt.</english>
 					<!--<soundfile></soundfile>-->
+					<img>belt.gif</img>
 				</line>
 			</vocab>
 			<vocab>
@@ -8318,6 +8319,7 @@
 					<migmaq>Tami etegl 'gtisignn? Nmisge'n.</migmaq> 	
 					<english>Where are your socks? Go get them.</english>
 					<!--<soundfile></soundfile>-->
+					<img>socks.gif</img>
 				</line>
 				<line>
 					<migmaq>Tami epijig gmugsng? Nmisgu.</migmaq> 	
