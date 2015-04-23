@@ -3652,6 +3652,7 @@
 						<migmaq>enmapejit</migmaq> 	
 						<english>carrot</english>
 						<soundfile>EnmapejitClip</soundfile>
+						<img>carrot.img</img>
 					</line>
 					<line>
 						<migmaq>jijjawignej</migmaq> 	
@@ -3827,6 +3828,7 @@
 						<migmaq>esg'tm'gewei</migmaq> 	
 						<english>cucumber [lit. 'thing for eating raw']</english>
 						<soundfile>EsgtmgeweiClip</soundfile>
+						<img>cucumber.gif</img>
 					</line>
 					<line>
 						<migmaq>suitis</migmaq> 	
@@ -4096,6 +4098,7 @@
 						<migmaq>gulgwi'suei</migmaq> 	
 						<english>pork (pig meat)</english>
 						<soundfile>GulgwiseweiClip</soundfile>
+						<img>ham.gif</img>
 					</line>
 					<line>
 						<migmaq>go'qoli'gwejuei</migmaq> 	
@@ -4113,6 +4116,7 @@
 						<migmaq>atoqwa'suei</migmaq> 	
 						<english>trout (meat)</english>
 						<soundfile>AtoqaseweiClip</soundfile>
+						<img>fish.gif</img>
 					</line>
 				</vocab>
 				<vocab>
@@ -4130,6 +4134,7 @@
 						<migmaq>wen'jitia'muei</migmaq> 	
 						<english>beef (= cow-meat)</english>
 						<soundfile>WenjitiamueiClip</soundfile>
+						<img>beef.gif</img>
 					</line>
 					<line>
 						<migmaq>jagejuei</migmaq> 	
@@ -4148,6 +4153,7 @@
 						<migmaq>Wigp't na enmapejit?</migmaq> 	
 						<english>Do you like (the taste of) that carrot?</english>
 						<soundfile>WigptNaEnmapejit</soundfile>
+						<img>carrot.gif</img>
 					</line>
 					<line>
 						<migmaq>E'e, wigp'g.</migmaq> 	
@@ -4220,6 +4226,7 @@
 						<migmaq>Wigtmn wen'jitia'muei?</migmaq> 	
 						<english>Do you like the (taste of) beef?</english>
 						<soundfile>WigtmnWenjitiamuei</soundfile>
+						<img>beef.gif</img>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu wigtmu.</migmaq> 	
@@ -4246,6 +4253,7 @@
 						<migmaq>Wigtmnn wigunn?</migmaq> 	
 						<english>Do you like the (taste of) beans?</english>
 						<soundfile>WigtmnnWigunn</soundfile>
+						<img>beans.gif</img>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu wigtmuann.</migmaq> 	
@@ -4277,6 +4285,7 @@
 						<migmaq>Getupt a...enmapejit?</migmaq> 	
 						<english>Do you want to eat uh...a carrot?</english>
 						<soundfile>GetuptAEnmapejit</soundfile>
+						<img>carrot.gif</img>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu getupaq.</migmaq> 	
@@ -4301,6 +4310,7 @@
 						<migmaq>Getupjig e's'g?</migmaq> 	
 						<english>Do you want to eat some clams?</english>
 						<soundfile>GetupjigEsg</soundfile>
+						<img>clam.gif</img>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu getupaqig.</migmaq> 	
@@ -4326,6 +4336,7 @@
 						<migmaq>Getutmn wen'jitia'muei?</migmaq> 	
 						<english>Do you want to eat beef?</english>
 						<soundfile>GetutmnWenjitiamuei</soundfile>
+						<img>beef.gif</img>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu getutmu.</migmaq> 	
@@ -4350,6 +4361,7 @@
 						<migmaq>Getutmnn wigunn?</migmaq> 	
 						<english>Do you want to eat beans?</english>
 						<soundfile>GetutmnnWigunn</soundfile>
+						<img>beans.gif</img>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu getutmuann.</migmaq> 	
@@ -4373,11 +4385,13 @@
 						<migmaq>pu'tai</migmaq> 	
 						<english>bottle</english>
 						<soundfile>Putai</soundfile>
+						<img>bottle.gif</img>
 					</line>
 					<line>
 						<migmaq>eptaqan</migmaq> 	
 						<english>dish/plate</english>
 						<soundfile>Eptaqan</soundfile>
+						<img>plate.gif</img>
 					</line>
 					<line>
 						<migmaq>samqwano'q</migmaq> 	
@@ -4632,6 +4646,7 @@
 						<migmaq>Pu'tai pewalt?</migmaq> 	
 						<english>Do you want a bottle?</english>
 						<soundfile>PutaiPewalt</soundfile>
+						<img>bottle.gif</img>
 					</line>
 					<line>
 						<migmaq>E'e, pewalg pu'tai.</migmaq> 	
@@ -4644,6 +4659,7 @@
 						<migmaq>Eptaqan pewalt?</migmaq> 	
 						<english>Do you want a dish?</english>
 						<soundfile>EptaqanPewalt</soundfile>
+						<img>plate.gif</img>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu pewalaq eptaqan.</migmaq> 	
@@ -4831,6 +4847,7 @@
 						<migmaq>Pu'tai geggunt?</migmaq> 	
 						<english>Do you have a bottle?</english>
 						<soundfile>PutaiGeggunt</soundfile>
+						<img>bottle.gif</img>
 					</line>
 					<line>
 						<migmaq>E'e, geggung pu'tai.</migmaq> 	
@@ -4843,6 +4860,7 @@
 						<migmaq>Eptaqan geggunt?</migmaq> 	
 						<english>Do you have a dish?</english>
 						<soundfile>EptaqanGeggunt</soundfile>
+						<img>plate.gif</img>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu geggunaq eptaqan.</migmaq> 	
@@ -7278,6 +7296,7 @@
 					<migmaq>Ge' ignmui wen'ju'su'n!</migmaq> 	
 					<english>Give me an apple!</english>
 					<!--<soundfile></soundfile>-->
+					<img>apple.png</img>
 				</line>
 				<line>
 					<migmaq>Goqwei ugjit?</migmaq> 	
@@ -7297,6 +7316,7 @@
 					<migmaq>Ge' ignmui jagej!</migmaq> 	
 					<english>Give me a lobster!</english>
 					<!--<soundfile></soundfile>-->
+					<img>lobster.gif</img>
 				</line>
 				<line>
 					<migmaq>Goqwei ugjit?</migmaq> 	
@@ -7320,6 +7340,7 @@
 					<migmaq>Ge' ignmu wen'ju'su'n!</migmaq> 	
 					<english>Give her an apple!</english>
 					<!--<soundfile></soundfile>-->
+					<img>apple.png</img>
 				</line>
 				<line>
 					<migmaq>Goqwei ugjit?</migmaq> 	
@@ -7338,6 +7359,7 @@
 					<migmaq>Ge' ignmu jagejl!</migmaq> 	
 					<english>Give her a lobster!</english>
 					<!--<soundfile></soundfile>-->
+					<img>lobster.gif</img>
 				</line>
 				<line>
 					<migmaq>Goqwei ugjit?</migmaq> 	
@@ -7428,6 +7450,7 @@
 					<migmaq>Aq te'si-gisgug, nsis ignmuatl nmisnenn negla jagejl.</migmaq> 	
 					<english>And every day, my older brother gives our older sister that lobster.</english>
 					<!--<soundfile></soundfile>-->
+					<img>lobster.gif</img>
 				</line>
 				<line>
 					<migmaq>Aq nmis ignmuaji nsisinenn negla atugwa'su'g.</migmaq> 	
@@ -7456,6 +7479,7 @@
 					<migmaq>Teluap, "Ignmulann signn"! Signn, mu sign.</migmaq> 	
 					<english>I said, "I'm giving you socks"! Socks, not sock.</english>
 					<!--<soundfile></soundfile>-->
+					<img>socks.gif</img>
 				</line>
 				<line>
 					<migmaq>A', ignmuinn signn. Nestasi nige'. Wela'lin! Muta gewtaqsigi.</migmaq> 	
@@ -8410,6 +8434,7 @@
 					<migmaq>Gota'si.</migmaq> 	
 					<english>Wear a coat.</english>
 					<!--<soundfile></soundfile>-->
+					<img>coat.gif</img>
 				</line>
 				<line>
 					<migmaq>'Ggotm nasa'l.</migmaq> 	
@@ -8427,6 +8452,7 @@
 					<migmaq>A'gusna'si!</migmaq> 	
 					<english>Wear a hat.</english>
 					<!--<soundfile></soundfile>-->
+					<img>hat.gif</img>
 				</line>
 			</vocab>
 			<vocab>
