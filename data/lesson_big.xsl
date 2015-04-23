@@ -27,7 +27,7 @@
         <xsl:when test="img"><!--Display image if there is one, else display default-->
           <div class="col-md-4">
             <xsl:variable name="main_img"><xsl:value-of select="img"/></xsl:variable>
-            <img class="img-responsive thumbnail" src="{$main_img}" alt="Trees" style="max-width: 75%"></img>
+            <img class="img-responsive thumbnail" src="{$main_img}" alt="Trees" style="max-width: 75%"/>
           </div>
         </xsl:when>
         <xsl:otherwise>
@@ -67,7 +67,7 @@
                       <div class="col-md-4">
                         <xsl:if test="img">
                           <xsl:variable name="d_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
-                          <img class="img-responsive thumbnail" src="{$d_img}" alt="Trees" style="max-width: 75%"></img>
+                          <img class="img-responsive thumbnail" src="{$d_img}" alt="Trees" style="max-width: 75%"/>
                         </xsl:if>   
                       </div> 
                     </div> 
@@ -109,18 +109,18 @@
                   </xsl:if>
                   <div class="media-body">
                     <div class="col-md-8">
-                    <h2 class="media-heading">
-                      <xsl:value-of select="migmaq"/>
-                    </h2><!--Display Mi'gmaq-->
-                    <h4 class="media-heading">
-                      <xsl:value-of select="english"/>
-                    </h4><!--Display English-->  
-                  </div>
-                  <div class="col-md-4">
-                    <xsl:if test="img">
-                      <xsl:variable name="v_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
-                      <img class="img-responsive thumbnail" src="{$v_img}" alt="Trees" style="max-width: 75%"></img>
-                    </xsl:if>  
+                      <h2 class="media-heading">
+                        <xsl:value-of select="migmaq"/>
+                      </h2><!--Display Mi'gmaq-->
+                      <h4 class="media-heading">
+                        <xsl:value-of select="english"/>
+                      </h4><!--Display English-->  
+                    </div>
+                    <div class="col-md-4">
+                      <xsl:if test="img">
+                        <xsl:variable name="v_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
+                        <img class="img-responsive thumbnail" src="{$v_img}" alt="Trees" style="max-width: 75%"/>
+                      </xsl:if>  
                     </div>          
                   </div>
                 </div>
