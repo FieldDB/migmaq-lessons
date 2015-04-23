@@ -108,6 +108,7 @@
                     </div>
                   </xsl:if>
                   <div class="media-body">
+                    <div class="row">
                     <div class="col-md-8">
                       <h2 class="media-heading">
                         <xsl:value-of select="migmaq"/>
@@ -121,7 +122,8 @@
                         <xsl:variable name="v_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
                         <img class="img-responsive thumbnail" src="{$v_img}" alt="Trees" style="max-width: 75%"/>
                       </xsl:if>  
-                    </div>          
+                    </div>  
+                    </div>        
                   </div>
                 </div>
               </xsl:for-each>
