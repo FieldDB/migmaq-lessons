@@ -59,7 +59,10 @@
                     </h2><!--Display Mi'gmaq-->
                     <h4 class="media-heading">
                       <xsl:value-of select="english"/>
-                    </h4><!--Display English-->            
+                    </h4><!--Display English-->       
+                    <xsl:if test="img">
+                      <img class="img-responsive thumbnail" src="img" alt="Trees" style="max-width: 75%"></img>
+                    </xsl:if>     
                   </div>
                 </div>
               </xsl:for-each>
@@ -102,7 +105,10 @@
                     </h2><!--Display Mi'gmaq-->
                     <h4 class="media-heading">
                       <xsl:value-of select="english"/>
-                    </h4><!--Display English-->            
+                    </h4><!--Display English-->  
+                    <xsl:if test="img">
+                      <img class="img-responsive thumbnail" src="img" alt="Trees" style="max-width: 75%"></img>
+                    </xsl:if>             
                   </div>
                 </div>
               </xsl:for-each>
