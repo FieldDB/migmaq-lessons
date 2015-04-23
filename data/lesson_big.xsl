@@ -95,7 +95,7 @@
             <div class="container"><!-- if you want to display 1 line at a time, remove this div-->
               <xsl:for-each select="line">
                 <div class="row"><!--Make a media object with the audio file-->
-                  <div class="col-md-2">
+                  <div class="col-md-1">
                     <xsl:if test="soundfile"><!-- Link to audio file if there is one-->
                       <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/>.mp3</xsl:variable>
                       <button class="btn btn-default" type="button">
@@ -107,7 +107,7 @@
                       </button>
                     </xsl:if>
                   </div>
-                  <div class="col-md-8">
+                  <div class="col-md-6">
                     <h2 class="media-heading">
                       <xsl:value-of select="migmaq"/>
                     </h2><!--Display Mi'gmaq-->
