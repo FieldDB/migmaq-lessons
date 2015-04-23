@@ -17,18 +17,18 @@
         </xsl:choose>
       </xsl:variable>
       <div class="{$divClass}">
-          <xsl:for-each select="note">
-            <p>
-              <xsl:apply-templates/>
-            </p><!--Display any notes about the lesson-->
-          </xsl:for-each>
-        </div>
+        <xsl:for-each select="note">
+          <p>
+            <xsl:apply-templates/>
+          </p><!--Display any notes about the lesson-->
+        </xsl:for-each>
+      </div>
       <xsl:choose>
-        <xsl:when test="img"><!--Display image if there is one, else display default-->
-          <div class="col-md-4">
-            <!--<xsl:variable name="main_img"><xsl:value-of select="img"/></xsl:variable>
-            <img class="img-responsive thumbnail" src="{$main_img}" alt="Trees" style="max-width: 75%"/>-->
-          </div>
+        <xsl:when test="img">--><!--Display image if there is one, else display default-->
+          <!--<div class="col-md-4">
+            <xsl:variable name="main_img"><xsl:value-of select="img"/></xsl:variable>
+            <img class="img-responsive thumbnail" src="{$main_img}" alt="Trees" style="max-width: 75%"/>
+          </div>-->
         </xsl:when>
         <xsl:otherwise>
         </xsl:otherwise>
@@ -64,12 +64,12 @@
                           <xsl:value-of select="english"/>
                         </h4><!--Display English-->
                       </div> 
-                      <div class="col-md-4">
+                      <!--<div class="col-md-4">
                         <xsl:if test="img">
-                          <!--<xsl:variable name="d_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
-                          <img class="img-responsive thumbnail" src="{$d_img}" alt="Trees" style="max-width: 75%"/>-->
+                          <xsl:variable name="d_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
+                          <img class="img-responsive thumbnail" src="{$d_img}" alt="Trees" style="max-width: 75%"/>
                         </xsl:if>   
-                      </div> 
+                      </div>-->
                     </div> 
                   </div>
                 </div>
@@ -117,12 +117,12 @@
                           <xsl:value-of select="english"/>
                         </h4><!--Display English-->  
                       </div>
-                      <div class="col-md-4">
+                      <!--<div class="col-md-4">
                         <xsl:if test="img">
-                          <!--<xsl:variable name="v_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
-                          <img class="img-responsive thumbnail" src="{$v_img}" alt="Trees" style="max-width: 75%"/>-->
+                          <xsl:variable name="v_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
+                          <img class="img-responsive thumbnail" src="{$v_img}" alt="Trees" style="max-width: 75%"/>
                         </xsl:if>  
-                      </div>  
+                      </div>-->
                     </div>        
                   </div>
                 </div>
