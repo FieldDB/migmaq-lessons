@@ -37,10 +37,10 @@
 	  });
 	}
 
-	scrolly("Vocabulary Section", $("#allVocabs > div[class=media]"), $("#vocabHeading"),
+	scrolly("Vocabulary Section", $("#allVocabs > div[class=container]"), $("#vocabHeading"),
 		        $("#nextVocab"), $("#prevVocab"));
 
-	scrolly("Dialog", $("#allDialogs > div[class=media]"), $("#dialogHeading"),
+	scrolly("Dialog", $("#allDialogs > div[class=container]"), $("#dialogHeading"),
 		        $("#nextDialog"), $("#prevDialog"));
 
 })();
