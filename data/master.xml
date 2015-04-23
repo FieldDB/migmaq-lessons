@@ -2615,6 +2615,7 @@
 						<migmaq>Ta'sugunit gi'l aji-puna'n?</migmaq> 	
 						<english>What date do you have your birthday on?</english>
 						<soundfile>TasugunitGilAjiPunan</soundfile>
+						<img>1F382.png</img>
 					</line>
 					<line>
 						<migmaq>Ni'n aji-puna'i tapuisgegugunij jel si'st. Gatu gi'l?</migmaq> 	
@@ -2639,6 +2640,7 @@
 						<migmaq>Ta'nug aji-puna'tes?</migmaq> 	
 						<english>When will you have your birthday?</english>
 						<soundfile>TanugAjiPunates0</soundfile>
+						<img>1F382.png</img>
 					</line>
 					<line>
 						<migmaq>Ni'n aji-puna'tes, pesgunateg te'sugunij, 'Sqoljuigu's,</migmaq>
@@ -2652,6 +2654,7 @@
 						<migmaq>Ta'nug aji-puna'tes?</migmaq> 	
 						<english>When will you have your birthday?</english>
 						<soundfile>TanugAjiPunates0</soundfile>
+						<img>1F382.png</img>
 					</line>
 					<line>
 						<migmaq>Ni'n aji-puna'tes metla'sugunij jel ne'w Gep't'gewigu's.</migmaq> 	
@@ -2664,6 +2667,7 @@
 						<migmaq>Ta'nug aji-puna'tes?</migmaq> 	
 						<english>When will you have your birthday?</english>
 						<soundfile>TanugAjiPunates2</soundfile>
+						<img>1F382.png</img>
 					</line>
 					<line>
 						<migmaq>Ni'n aji-puna'tes, na'nugunij Wigumgewigu's.</migmaq> 	
@@ -4148,6 +4152,7 @@
 						<migmaq>Mu wigpawt na tmato's?</migmaq> 	
 						<english>Do you not like (the taste of) that tomato?</english>
 						<soundfile>MuWigpawtNaTmatos</soundfile>
+						<img>1F345.png</img>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu wigpaq.</migmaq> 	
@@ -4192,6 +4197,7 @@
 						<migmaq>Wigtmn pipnaqan?</migmaq> 	
 						<english>Do you like the (taste of) bread?</english>
 						<soundfile>WigtmnPipnaqan</soundfile>
+						<img>1F35E.png</img>
 					</line>
 					<line>
 						<migmaq>E'e, wigtm.</migmaq> 	
@@ -4254,6 +4260,7 @@
 						<migmaq>Getupg tmato's.</migmaq> 	
 						<english>I want to eat a tomato.</english>
 						<soundfile>GetupgTmatos</soundfile>
+						<img>1F345.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -4297,6 +4304,7 @@
 						<migmaq>Getutmn pipnaqan?</migmaq> 	
 						<english>Do you want to eat bread?</english>
 						<soundfile>GetutmnPipnaqan</soundfile>
+						<img>1F35E.png</img>
 					</line>
 					<line>
 						<migmaq>E'e, getutm.</migmaq> 	
@@ -4588,6 +4596,7 @@
 						<migmaq>Pewatm wasueg.</migmaq> 	
 						<english>I want a flower.</english>
 						<soundfile>PewatmWasueg</soundfile>
+						<img>1F33C.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -4601,6 +4610,7 @@
 						<migmaq>Pewalg atla'i.</migmaq> 	
 						<english>I want a shirt.</english>
 						<soundfile>PewalgAtlai</soundfile>
+						<img>1F45A.png</img>
 					</line>
 				</dialog>
 			</lesson>
@@ -4697,10 +4707,11 @@
 						<migmaq>Tepaqan pewatmn?</migmaq> 	
 						<english>Do you want a car?</english>
 						<soundfile>TepaqanPewatmn</soundfile>
+						<img>1F698.png</img>
 					</line>
 					<line>
 						<migmaq>E'e, pewatm tepaqan.</migmaq> 	
-						<english>Yes, I want a car?</english>
+						<english>Yes, I want a car.</english>
 						<soundfile>EePewatmTepaqan</soundfile>
 					</line>
 				</dialog>		
@@ -4709,6 +4720,7 @@
 						<migmaq>A'gusn pewatmn?</migmaq> 	
 						<english>Do you want a hat?</english>
 						<soundfile>AgusnPewatmn</soundfile>
+						<img>1F452.png</img>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu pewatmu a'gusn.</migmaq> 	
@@ -4784,6 +4796,7 @@
 						<migmaq>Geggunm wasueg.</migmaq> 	
 						<english>I have a flower.</english>
 						<soundfile>GeggunmWasueg</soundfile>
+						<img>1F33C.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -4796,6 +4809,7 @@
 						<migmaq>Geggung atla'i.</migmaq> 	
 						<english>I have a shirt.</english>
 						<soundfile>GeggungAtlai</soundfile>
+						<img>1F45A.png</img>
 					</line>
 				</dialog>
 			</lesson>
@@ -4890,6 +4904,7 @@
 						<migmaq>Tepaqan geggunmn?</migmaq> 	
 						<english>Do you have a car?</english>
 						<soundfile>TepaqanGeggunmn</soundfile>
+						<img>1F698.png</img>
 					</line>
 					<line>
 						<migmaq>E'e, geggunm tepaqan.</migmaq> 	
@@ -4902,6 +4917,7 @@
 						<migmaq>A'gusn geggunmn?</migmaq> 	
 						<english>Do you have a hat?</english>
 						<soundfile>AgusnGeggunmn</soundfile>
+						<img>1F452.png</img>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu geggunmu a'gusn.</migmaq> 	
@@ -4982,6 +4998,7 @@
 						<migmaq>Gi'l na gisi-pettaqte'muin. Goqwei pewatmu's'p?</migmaq> 	
 						<english>You're the one that's called me. What did you want?</english>
 						<!--<soundfile></soundfile>-->
+						<img>260E.png</img>
 					</line>
 					<line>
 						<migmaq>A' getu'-wije'win qame'g?</migmaq> 	
