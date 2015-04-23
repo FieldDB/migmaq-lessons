@@ -95,8 +95,8 @@
             <div class="container"><!-- if you want to display 1 line at a time, remove this div-->
               <xsl:for-each select="line">
                 <div class="media"><!--Make a media object with the audio file-->
-                  <xsl:if test="soundfile"><!-- Link to audio file if there is one-->
-                    <div class="media-left">
+                  <div class="media-left">
+                    <xsl:if test="soundfile"><!-- Link to audio file if there is one-->
                       <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/>.mp3</xsl:variable>
                       <button class="btn btn-default" type="button">
                         <span class="glyphicon glyphicon-play" aria-hidden="true">
@@ -105,24 +105,24 @@
                           </audio>
                         </span>
                       </button>
-                    </div>
-                  </xsl:if>
+                    </xsl:if>
+                  </div>
                   <div class="media-body">
                     <div class="row">
-                    <div class="col-md-8">
-                      <h2 class="media-heading">
-                        <xsl:value-of select="migmaq"/>
-                      </h2><!--Display Mi'gmaq-->
-                      <h4 class="media-heading">
-                        <xsl:value-of select="english"/>
-                      </h4><!--Display English-->  
-                    </div>
-                    <div class="col-md-4">
-                      <xsl:if test="img">
-                        <xsl:variable name="v_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
-                        <img class="img-responsive thumbnail" src="{$v_img}" alt="Trees" style="max-width: 75%"/>
-                      </xsl:if>  
-                    </div>  
+                      <div class="col-md-8">
+                        <h2 class="media-heading">
+                          <xsl:value-of select="migmaq"/>
+                        </h2><!--Display Mi'gmaq-->
+                        <h4 class="media-heading">
+                          <xsl:value-of select="english"/>
+                        </h4><!--Display English-->  
+                      </div>
+                      <div class="col-md-4">
+                        <xsl:if test="img">
+                          <xsl:variable name="v_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
+                          <img class="img-responsive thumbnail" src="{$v_img}" alt="Trees" style="max-width: 75%"/>
+                        </xsl:if>  
+                      </div>  
                     </div>        
                   </div>
                 </div>
