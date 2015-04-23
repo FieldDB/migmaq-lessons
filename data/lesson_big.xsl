@@ -62,7 +62,7 @@
                       <xsl:value-of select="english"/>
                     </h4><!--Display English-->       
                     <xsl:if test="img">
-                      <xsl:variable name="d_img"><xsl:value-of select="img"/></xsl:variable>
+                      <xsl:variable name="d_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
                       <img class="img-responsive thumbnail" src="{$d_img}" alt="Trees" style="max-width: 75%"></img>
                     </xsl:if>     
                   </div>
@@ -109,7 +109,7 @@
                       <xsl:value-of select="english"/>
                     </h4><!--Display English-->  
                     <xsl:if test="img">
-                      <xsl:variable name="v_img"><xsl:value-of select="img"/></xsl:variable>
+                      <xsl:variable name="v_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
                       <img class="img-responsive thumbnail" src="{$v_img}" alt="Trees" style="max-width: 75%"></img>
                     </xsl:if>             
                   </div>
