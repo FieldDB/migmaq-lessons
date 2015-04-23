@@ -2523,11 +2523,13 @@
 						<migmaq>Ta'sugunit gisgug?</migmaq> 	
 						<english>What date is it today?</english>
 						<soundfile>TasugunitGisgug0</soundfile>
+						<img></img>
 					</line>
 					<line>
 						<migmaq>Gisgug amgwesewei na'gweg.</migmaq> 	
 						<english>Today is the first day [of the month].</english>
 						<soundfile>GisgugAmgweseweiNagweg</soundfile>
+						<img>1F4C5.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -2717,7 +2719,6 @@
 					</line>
 				</dialog>		
 				<dialog>
-					<linetimsig>[@STILL UNRECORDED for 1st, but can simply splice in copy of any other "Ta's-ajiet nige'"]</linetimsig>
 					<line>
 						<migmaq>Ta's-ajiet nige'?</migmaq> 	
 						<english>What time is it now?</english>
@@ -2778,6 +2779,7 @@
 						<migmaq>Aqtatpa'q.</migmaq> 	
 						<english>It's midnight.</english>
 						<soundfile>Aqtatpaq</soundfile>
+						<img>1F55B.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -2790,6 +2792,7 @@
 						<migmaq>Mewlia'gweg.</migmaq> 	
 						<english>It's noon.</english>
 						<soundfile>Mewliagweg</soundfile>
+						<img>1F55B.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -2817,6 +2820,7 @@
 						<migmaq>Gi's ugumuljin ajiet?</migmaq> 	
 						<english>Is it eight o'clock already?</english>
 						<soundfile>GisUgumuljinAjiet</soundfile>
+						<img>1F557.png</img>
 					</line>
 					<line>
 						<migmaq>Mnaq ugumuljin ajiegw. Mejit ga'l na ugumuljin ajietew.</migmaq>
@@ -2835,6 +2839,7 @@
 						<migmaq>Asugom ajiej, na tujiw ultesgatitesnu.</migmaq> 	
 						<english>When it's six o'clock, that's when we'll meet each other.</english>
 						<soundfile>AsugomAjiejNaTujiwUltesgatitesnu</soundfile>
+						<img>1F555.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -2847,6 +2852,7 @@
 						<migmaq>Lluigneg ajietew jel aqatai natlugwei, wijei na te'si-gisg'g.</migmaq> 	
 						<english>It'll be half past seven when I go to work, same as every day.</english>
 						<soundfile>LluignegAjietewJelAqataiNatlugweiWijeiNaTesiGisgg</soundfile>
+						<img>1F562.png</img>
 					</line>
 					<line>
 						<migmaq>A'a, ni'n wijei.</migmaq> 	
@@ -2964,6 +2970,7 @@
 						<migmaq>Moqwa': 'gtignipn gaqgina'masiapneg.</migmaq> 	
 						<english>No: last year I finished my studies.</english>
 						<soundfile>MoqwaGtignipnGaqginamasiapneg</soundfile>
+						<img>1F393.png</img>
 					</line>
 				</dialog>
 			</lesson>
