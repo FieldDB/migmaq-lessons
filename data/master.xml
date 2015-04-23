@@ -575,9 +575,8 @@
 					<line>
 						<migmaq>Mu elugwew, etl-gina'masi.</migmaq> 	
 						<english>I don't work, I'm a student [lit. 'I am studying/learning']</english>
-						<soundfile>
-							MuElugwewEtlGinamasi
-						</soundfile>
+						<soundfile>MuElugwewEtlGinamasi</soundfile>
+						<img>1F4DA.png</img>
 					</line>
 					<line>
 						<migmaq>Goqwei etl-gina'masin?</migmaq> 	
@@ -2971,11 +2970,13 @@
 						<migmaq>Qame'g. Magasang etllugwei.</migmaq> 	
 						<english>In Campbellton/Across the river. I work in a shop.</english>
 						<soundfile>QamegMagasangEtllugwei</soundfile>
+						<img>1F3EC.png</img>
 					</line>
 					<line>
 						<migmaq>Mu nugu' etl-gina'masiw'n?</migmaq> 	
 						<english>You aren't a student any more?</english>
 						<soundfile>MuNuguEtlginamasiwn</soundfile>
+						<img>1F4DA.png</img>
 					</line>
 					<line>
 						<migmaq>Moqwa': 'gtignipn gaqgina'masiapneg.</migmaq> 	
@@ -4055,6 +4056,7 @@
 						<migmaq>samqwan</migmaq> 	
 						<english>water</english>
 						<soundfile>SamqwanClip</soundfile>
+						<img>26F2.png</img>
 					</line>
 					<line>
 						<migmaq>mlageju'mi</migmaq> 	
@@ -4137,6 +4139,7 @@
 						<migmaq>E'e, wigp'g.</migmaq> 	
 						<english>Yes, I like (the taste of) it.</english>
 						<soundfile>EeWigpg</soundfile>
+						<img>1F61B.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -4149,6 +4152,7 @@
 						<migmaq>Moqwa', mu wigpaq.</migmaq> 	
 						<english>No, I don't like (the taste of) it.</english>
 						<soundfile>MoqwaMuWigpaq</soundfile>
+						<img>1F61D.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -4161,6 +4165,7 @@
 						<migmaq>E'e, wigp'gig.</migmaq> 	
 						<english>Yes, I like (the taste of) them.</english>
 						<soundfile>EeWigpgig</soundfile>
+						<img>1F61B.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -4173,6 +4178,7 @@
 						<migmaq>Moqwa', mu wigpaqig.</migmaq> 	
 						<english>No, I don't like (the taste of) them</english>
 						<soundfile>MoqwaMuWigpaqig</soundfile>
+						<img>1F61D.png</img>
 					</line>
 				</dialog>
 			</lesson>
@@ -4190,6 +4196,7 @@
 						<migmaq>E'e, wigtm.</migmaq> 	
 						<english>Yes, I like (the taste of) it.</english>
 						<soundfile>EeWigtm</soundfile>
+						<img>1F61B.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -4202,6 +4209,7 @@
 						<migmaq>Moqwa', mu wigtmu.</migmaq> 	
 						<english>No, I don't like (the taste of) it.</english>
 						<soundfile>MoqwaMuWigtmu</soundfile>
+						<img>1F61D.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -4214,6 +4222,7 @@
 						<migmaq>E'e, wigtmann.</migmaq> 	
 						<english>Yes, I like (the taste of) them.</english>
 						<soundfile>EeWigtmann</soundfile>
+						<img>1F61B.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -4226,6 +4235,7 @@
 						<migmaq>Moqwa', mu wigtmuann.</migmaq> 	
 						<english>No, I don't like (the taste of) them.</english>
 						<soundfile>MoqwaMuWigtmuann</soundfile>
+						<img>1F61D.png</img>
 					</line>
 				</dialog>
 			</lesson>
@@ -5011,6 +5021,7 @@
 						<migmaq>Getu'-natanguai.</migmaq> 	
 						<english>I want to go shopping.</english>
 						<!--<soundfile></soundfile>-->
+						<img>1F4B8.png</img>
 					</line>
 					<line>
 						<migmaq>Etugjel Sobey-eg.</migmaq> 	
