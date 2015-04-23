@@ -3126,7 +3126,7 @@
 						<migmaq>paqt'sm</migmaq> 	
 						<english>wolf</english>
 						<soundfile>Paqtesm</soundfile>
-						<img>1F434.png</img>
+						<img>1F43A.png</img>
 					</line>
 				</vocab>
 				<vocab>
@@ -3622,6 +3622,7 @@
 						<migmaq>tmato's</migmaq> 	
 						<english>tomato</english>
 						<soundfile>TmatosClip</soundfile>
+						<img>1F345.png</img>
 					</line>
 					<line>
 						<migmaq>'pse's's</migmaq> 	
@@ -3649,6 +3650,7 @@
 						<migmaq>atuomgmin</migmaq> 	
 						<english>strawberry</english>
 						<soundfile>AtuomgominClip</soundfile>
+						<img>1F353.png</img>
 					</line>
 					<line>
 						<migmaq>wen'ju'sugapun</migmaq> 	
@@ -3809,16 +3811,19 @@
 						<migmaq>suitis</migmaq> 	
 						<english>a sweet, a piece of candy</english>
 						<soundfile>SuwitisClip</soundfile>
+						<img>1F36C.png</img>
 					</line>
 					<line>
 						<migmaq>wa'w</migmaq> 	
 						<english>egg</english>
 						<soundfile>WawClip</soundfile>
+						<img>1F373.png</img>
 					</line>
 					<line>
 						<migmaq>ejgujg</migmaq> 	
 						<english>squash, pumpkin</english>
 						<soundfile>EjgujgClip</soundfile>
+						<img>1F348.png</img>
 					</line>
 				</vocab>
 				<vocab>
@@ -3826,6 +3831,7 @@
 						<migmaq>piesgmin</migmaq> 	
 						<english>corn</english>
 						<soundfile>PiesgminClip</soundfile>
+						<img>1F33D.png</img>
 					</line>
 					<line>
 						<migmaq>su'n</migmaq> 	
@@ -3836,6 +3842,7 @@
 						<migmaq>wen'ju'su'n</migmaq> 	
 						<english>apple [lit. 'French cranberry']</english>
 						<soundfile>WenjusunClip</soundfile>
+						<img>1F34F.png</img>
 					</line>
 					<line>
 						<migmaq>wigun</migmaq> 	
@@ -3848,6 +3855,7 @@
 						<migmaq>aloqoman</migmaq> 	
 						<english>grape</english>
 						<soundfile>AloqomanClip</soundfile>
+						<img>1F347.png</img>
 					</line>
 					<line>
 						<migmaq>'pguman</migmaq> 	
@@ -3858,6 +3866,7 @@
 						<migmaq>pipnaqan</migmaq> 	
 						<english>bread</english>
 						<soundfile>PipnaqanClip</soundfile>
+						<img>1F35E.png</img>
 					</line>
 					<line>
 						<migmaq>petaqan</migmaq> 	
@@ -4066,6 +4075,7 @@
 						<migmaq>go'qoli'gwejuei</migmaq> 	
 						<english>chicken (meat)</english>
 						<soundfile>GoqoligwejeweiClip</soundfile>
+						<img>1F357.png</img>
 					</line>
 					<line>
 						<migmaq>plamuei</migmaq> 	
@@ -4346,6 +4356,7 @@
 						<migmaq>atla'i</migmaq> 	
 						<english>shirt</english>
 						<soundfile>Atlai</soundfile>
+						<img>1F45A.png</img>
 					</line>
 					<line>
 						<migmaq>la'jijjaqan</migmaq> 	
@@ -4356,6 +4367,7 @@
 						<migmaq>mg'sn</migmaq> 	
 						<english>shoe</english>
 						<soundfile>Mgsn</soundfile>
+						<img>1F45F.png</img>
 					</line>
 				</vocab>
 			</lesson>
@@ -4461,21 +4473,25 @@
 						<migmaq>wasueg</migmaq> 	
 						<english>flower</english>
 						<soundfile>Wasueg</soundfile>
+						<img>1F33C.png</img>
 					</line>
 					<line>
 						<migmaq>tepaqan</migmaq> 	
 						<english>car</english>
 						<soundfile>Tepaqan</soundfile>
+						<img>1F698.png</img>
 					</line>
 					<line>
 						<migmaq>a'gusn</migmaq> 	
 						<english>hat</english>
 						<soundfile>Agusn</soundfile>
+						<img>1F452.png</img>
 					</line>
 					<line>
 						<migmaq>magot</migmaq> 	
 						<english>dress</english>
 						<soundfile>Magot</soundfile>
+						<img>1F457.png</img>
 					</line>
 				</dialog>
 			</lesson>
@@ -5309,6 +5325,7 @@
 					<migmaq>'ns'tuaqan&#160;&#160;&#160;&#160;&#160;'ns'tuaqann</migmaq> 	
 					<english>my ear&#160;&#160;&#160;&#160;&#160;my ears</english>
 					<soundfile>Nstuaqan_Nstuaqann</soundfile>
+					<img>1F442.png</img>
 				</line>
 				<line>
 					<migmaq>'npugug&#160;&#160;&#160;&#160;&#160;'npugugl</migmaq> 	
@@ -5319,6 +5336,7 @@
 					<migmaq>'nsisqon</migmaq> 	
 					<english>my nose</english>
 					<soundfile>Nsisqon</soundfile>
+					<img>1F443.png</img>
 				</line>
 				<line>
 					<migmaq>nitn&#160;&#160;&#160;&#160;&#160;nitnn</migmaq> 	
@@ -5329,11 +5347,13 @@
 					<migmaq>ntun</migmaq> 	
 					<english>my mouth</english>
 					<soundfile>Ntun</soundfile>
+					<img>1F444.png</img>
 				</line>
 				<line>
 					<migmaq>'nsi&#160;&#160;&#160;&#160;&#160;'nsi'l</migmaq> 	
 					<english>my lip&#160;&#160;&#160;&#160;&#160;my lips</english>
 					<soundfile>Nsi_Nsil</soundfile>
+					<img>1F488.png</img>
 				</line>
 				<line>
 					<migmaq>nipit&#160;&#160;&#160;&#160;&#160;nipitl</migmaq> 	
@@ -5346,11 +5366,13 @@
 					<migmaq>nusapun&#160;&#160;&#160;&#160;&#160;nusapunn</migmaq> 	
 					<english>my (single) hair&#160;&#160;&#160;&#160;&#160;my hair(s)</english>
 					<soundfile>Nusapun_Nusapunn</soundfile>
+					<img>1F487.png</img>
 				</line>
 				<line>
 					<migmaq>nun'ji</migmaq> 	
 					<english>my head</english>
 					<soundfile>Nunji</soundfile>
+					<img>1F646.png</img>
 				</line>
 				<line>
 					<migmaq>'ntugwejan</migmaq> 	
@@ -5396,6 +5418,7 @@
 					<migmaq>'npitnoqom&#160;&#160;&#160;&#160;&#160;npitnoqoml</migmaq> 	
 					<english>my arm&#160;&#160;&#160;&#160;&#160;my arms</english>
 					<soundfile>Npitnoqom_Npitnoqoml</soundfile>
+					<img>1F4AA.png</img>
 				</line>
 				<line>
 					<migmaq>'ntlusgnignm&#160;&#160;&#160;&#160;&#160;'ntlusgnignmg</migmaq> 	
@@ -5406,11 +5429,13 @@
 					<migmaq>'npitn&#160;&#160;&#160;&#160;&#160;'npitnn</migmaq> 	
 					<english>my hand&#160;&#160;&#160;&#160;&#160;my hands</english>
 					<soundfile>Npitn_Npitnn</soundfile>
+					<img>1F44F.png</img>
 				</line>
 				<line>
 					<migmaq>'ntijin&#160;&#160;&#160;&#160;&#160;ntijinn</migmaq> 	
 					<english>my thumb&#160;&#160;&#160;&#160;&#160;my thumbs</english>
 					<soundfile>Ntijin_Ntijinn</soundfile>
+					<img>1F44D.png</img>
 				</line>
 			</vocab>
 			<vocab>
@@ -5474,6 +5499,7 @@
 					<migmaq>'ngamlamun</migmaq> 		
 					<english>my heart</english>
 					<soundfile>Ngamlamun</soundfile>
+					<img>2764.png</img>
 				</line>
 				<linetimsig>[@2:09-2:14]</linetimsig>
 				<line>
@@ -6092,6 +6118,7 @@
 					<migmaq>Tam' eig 'nmu'j?</migmaq> 	
 					<english>Where's the dog?</english>
 					<soundfile>TamEigNmuj</soundfile>
+					<img>1F415.png</img>
 				</line>
 				<line>
 					<migmaq>Ge'gwe'g. Nepat.</migmaq> 	
@@ -6116,6 +6143,7 @@
 					<migmaq>Tam' eig gajuewj?</migmaq> 	
 					<english>Where's the cat?</english>
 					<soundfile>TamEigGajuewj</soundfile>
+					<img>1F408.png</img>
 				</line>
 				<line>
 					<migmaq>Mutputigtug. Nepat.</migmaq> 	
@@ -6909,7 +6937,7 @@
 				</line>
 				<line>
 					<migmaq>E'e, wije'wult's, gatu tmg getu'-'lqawei.</migmaq> 	
-					<english>Yes, I will go with you,but first I want to hang out the laundry.</english>
+					<english>Yes, I will go with you, but first I want to hang out the laundry.</english>
 					<soundfile>EeWijewultsGatuTmgGetuLqawei</soundfile>
 				</line>
 				<line>
@@ -7060,6 +7088,7 @@
 					<migmaq>Gigpesaq.</migmaq> 	
 					<english>It is raining.</english>
 					<!--<soundfile></soundfile>-->
+					<img>2614.png</img>
 				</line>
 				<line>
 					<migmaq>Gigpesatew.</migmaq> 	
@@ -7077,6 +7106,7 @@
 					<migmaq>Alugwig.</migmaq> 	
 					<english>It is cloudy.</english>
 					<!--<soundfile></soundfile>-->
+					<img>2601.png</img>
 				</line>
 				<line>
 					<migmaq>Alugwitew.</migmaq> 	
@@ -7094,6 +7124,7 @@
 					<migmaq>Wasoqotesg, aq gaqtugwewig</migmaq> 	
 					<english>There is lightning and (there is) thunder.</english>
 					<!--<soundfile></soundfile>-->
+					<img>26A1.png</img>
 				</line>
 				<line>
 					<migmaq>Wasoqotest'tew, aq gaqtugwewitew</migmaq> 	
@@ -7111,10 +7142,11 @@
 					<migmaq>Na'gu'setewig</migmaq> 	
 					<english>It is sunny.</english>
 					<!--<soundfile></soundfile>-->
+					<img>2600.png</img>
 				</line>
 				<line>
 					<migmaq>Na'gu'setewitew</migmaq> 	
-					<english>It will be cloudy.</english>
+					<english>It will be sunny.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
 			</vocab>
@@ -7162,6 +7194,7 @@
 					<migmaq>Pesaq</migmaq> 	
 					<english>It is snowing.</english>
 					<!--<soundfile></soundfile>-->
+					<img>2744.png</img>
 				</line>
 				<line>
 					<migmaq>'Psatew</migmaq> 	
@@ -7944,6 +7977,7 @@
 					<migmaq>Maja'si, naji-sgi.</migmaq> 	
 					<english>Go, go pee.</english>
 					<!--<soundfile></soundfile>-->
+					<img>1F6BD.png</img>
 				</line>
 			</vocab>
 			<vocab>
@@ -8044,6 +8078,7 @@
 					<migmaq>'Gsispalsi.</migmaq> 	
 					<english>Wash yourself / take a bath.</english>
 					<!--<soundfile></soundfile>-->
+					<img>1F6C0.png</img>
 				</line>
 				<line>
 					<migmaq>Gasigwa'si.</migmaq> 	
@@ -8125,6 +8160,7 @@
 					<migmaq>G'psoqwa'tu samqwan.</migmaq> 	
 					<english>Turn off the water.</english>
 					<!--<soundfile></soundfile>-->
+					<img>1F6BF.png</img>
 				</line>
 				<line>
 					<migmaq>Apaji-gp'soqwa'tu.</migmaq> 	
@@ -8224,6 +8260,7 @@
 					<migmaq>'Mg'sn nasa'l.</migmaq> 	
 					<english>Put on the shoe.</english>
 					<!--<soundfile></soundfile>-->
+					<img>1F45F.png</img>
 				</line>
 				<line>
 					<migmaq>'Mg'sna'si.</migmaq> 	
@@ -8263,11 +8300,13 @@
 					<migmaq>O', mu nugu' welgmu'n ula magot. Segg'teg.</migmaq> 	
 					<english>Oh, this dress doesn't fit you any more. It's tight.</english>
 					<!--<soundfile></soundfile>-->
+					<img>1F457.png</img>
 				</line>
 				<line>
 					<migmaq>Wesam-pita'qal.</migmaq> 	
 					<english>They (pants) are too long.</english>
 					<!--<soundfile></soundfile>-->
+					<img>1F456.png</img>
 				</line>
 				<line>
 					<migmaq>Wesami-tqwaqji'jgl.</migmaq> 	
@@ -8285,6 +8324,7 @@
 					<migmaq>Gesipguet 'ntatla'im.</migmaq> 	
 					<english>My shirt is itchy.</english>
 					<!--<soundfile></soundfile>-->
+					<img>1F45A.png</img>
 				</line>
 				<line>
 					<migmaq>Gesipguwigl 'ntisignn.</migmaq> 	
