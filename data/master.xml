@@ -356,6 +356,7 @@
 						<migmaq>Ula na ga'qan.</migmaq> 	
 						<english>This is a door.</english>
 						<soundfile>UlaNaGaqan</soundfile>
+						<img>1F6AA.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -368,6 +369,7 @@
 						<migmaq>Ala na tuo'p'ti.</migmaq> 	
 						<english>This is a window.</english>
 						<soundfile>AlaNaTuopti</soundfile>
+						<img>1F532.png</img>
 					</line>
 				</dialog>
 			</lesson>
@@ -860,11 +862,13 @@
 						<migmaq>tuo'p'ti</migmaq> 	
 						<english>window</english>
 						<soundfile>Tuopti</soundfile>
+						<img>1F532.png</img>
 					</line>
 					<line>
 						<migmaq>mutputi</migmaq>	 
 						<english>chair</english>
 						<soundfile>Mutputi</soundfile>
+						<img>1F4BA.png</img>
 					</line>
 				</vocab>
 				<vocab>
@@ -872,6 +876,7 @@
 						<migmaq>ga'qan</migmaq> 	
 						<english>door</english>
 						<soundfile>Gaqan</soundfile>
+						<img>1F6AA.png</img>
 					</line>
 					<line>
 						<migmaq>llutaqan</migmaq> 	
@@ -899,6 +904,7 @@
 						<migmaq>gun'tew</migmaq> 	
 						<english>stone, rock</english>
 						<soundfile>Guntew</soundfile>
+						<img>1F31A.png</img>
 					</line>
 				</vocab>
 			</lesson>
@@ -2670,6 +2676,7 @@
 						<migmaq>Asugom ajiet.</migmaq> 	
 						<english>It's six o'clock.</english>
 						<soundfile>AsugomAjiet</soundfile>
+						<img>1F555.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -2733,6 +2740,7 @@
 						<migmaq>Assma nige' pesgunateg ajiet.</migmaq> 	
 						<english>It's now exactly nine o'clock.</english>
 						<soundfile>AssmaNigePesgunategAjiet</soundfile>
+						<img>1F558.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -2745,6 +2753,7 @@
 						<migmaq>Lluigneg ajiet jel aqataig.</migmaq> 	
 						<english>It's half past seven [lit. 'seven plus a half'].</english>
 						<soundfile>LluignegAjietJelAqataig</soundfile>
+						<img>1F562.png</img>
 					</line>
 				</dialog>		
 				<dialog>
@@ -2794,6 +2803,7 @@
 						<migmaq>Mu geitu. Entu'neg 'gna'gu'seteweimeg?</migmaq> 	
 						<english>I don't know. Have you lost your watch?</english>
 						<soundfile>MuGeituEntunegGnaguseteweimeg</soundfile>
+						<img>231A.png</img>
 					</line>
 				</dialog>
 			</lesson>
