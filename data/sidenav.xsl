@@ -36,6 +36,7 @@
               </ul>
             </li>
             <li><a href="{{{{ site.baseurl }}}}/resources.html">Resources</a></li>
+            <li><a href="{{{{ site.baseurl }}}}/welalieg.html">Wela'lieg</a></li>
           </ul>
         </li>
       </ul>
