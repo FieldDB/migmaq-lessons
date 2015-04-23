@@ -3646,6 +3646,7 @@
 						<migmaq>'pse's's</migmaq> 	
 						<english>onion</english>
 						<soundfile>PsesisClip</soundfile>
+						<img>onion.gif</img>
 					</line>
 					<line>
 						<migmaq>enmapejit</migmaq> 	
@@ -3679,6 +3680,7 @@
 						<migmaq>tap'tan</migmaq> 	
 						<english>potato</english>
 						<soundfile>TaptanClip</soundfile>
+						<img>potato.gif</img>
 					</line>
 				</vocab>
 			</lesson>
@@ -3819,6 +3821,7 @@
 						<migmaq>alawei</migmaq> 	
 						<english>pea</english>
 						<soundfile>AlaweiClip</soundfile>
+						<img>peas.gif</img>
 					</line>
 					<line>
 						<migmaq>esg'tm'gewei</migmaq> 	
@@ -3866,6 +3869,7 @@
 						<migmaq>wigun</migmaq> 	
 						<english>bean</english>
 						<soundfile>WigunClip</soundfile>
+						<img>beans.gif</img>
 					</line>
 				</vocab>
 				<vocab>
@@ -3890,6 +3894,7 @@
 						<migmaq>petaqan</migmaq> 	
 						<english>pie</english>
 						<soundfile>PetaqanClip</soundfile>
+						<img>pie.gif</img>
 					</line>					
 				</vocab>
 			</lesson>
@@ -4068,12 +4073,14 @@
 						<migmaq>mlageju'mi</migmaq> 	
 						<english>butter</english>
 						<soundfile>MlagejumiClip</soundfile>
+						<img>butter.gif</img>
 					</line>
 					<linetimsig>[@6:30-6:35]</linetimsig>
 					<line>
 						<migmaq>p'tewei, petewei</migmaq> 	
 						<english>tea</english>
 						<soundfile>PeteweiClip</soundfile>
+						<img>tea.gif</img>
 					</line>
 					<linetimsig>[@4:54-4:56]</linetimsig>
 				</vocab>
@@ -4128,6 +4135,7 @@
 						<migmaq>jagejuei</migmaq> 	
 						<english>lobster (meat)</english>
 						<soundfile>JagejueiClip</soundfile>
+						<img>lobster.gif</img>
 					</line>
 				</vocab>
 			</lesson>
