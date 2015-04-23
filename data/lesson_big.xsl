@@ -119,8 +119,8 @@
                       </div>
                       <div class="col-md-4">
                         <xsl:if test="img">
-                          <xsl:variable name="v_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
-                          <img class="img-responsive thumbnail" src="{$v_img}" alt="Trees" style="max-width: 75%"/>
+                          <!--<xsl:variable name="vimg">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
+                          <img class="img-responsive thumbnail" src="{$vimg}" alt="Trees" style="max-width: 75%"/>-->
                         </xsl:if>  
                       </div>
                     </div>        
