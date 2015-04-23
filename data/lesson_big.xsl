@@ -42,7 +42,7 @@
             <div class="container"><!-- if you want to display 1 line at a time, remove this div-->
               <xsl:for-each select="line">
                 <div class="row">
-                  <div class="col-md-1">
+                  <div class="col-md-1">&#160;
                     <xsl:if test="soundfile"><!-- Link to audio file if there is one-->
                       <button class="btn btn-default" type="button">
                         <span class="glyphicon glyphicon-play" aria-hidden="true">
@@ -62,7 +62,7 @@
                       <xsl:value-of select="english"/>
                     </h4><!--Display English-->
                   </div> 
-                  <div class="col-md-2">
+                  <div class="col-md-2">&#160;
                     <xsl:if test="img">
                       <xsl:variable name="d_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
                       <img class="img-responsive thumbnail" src="{$d_img}" alt="Trees" style="max-width: 75%"/>
@@ -91,7 +91,7 @@
             <div class="container"><!-- if you want to display 1 line at a time, remove this div-->
               <xsl:for-each select="line">
                 <div class="row">
-                  <div class="col-md-1">
+                  <div class="col-md-1">&#160;
                     <xsl:if test="soundfile"><!-- Link to audio file if there is one-->
                       <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="soundfile"/>.mp3</xsl:variable>
                       <button class="btn btn-default" type="button">
