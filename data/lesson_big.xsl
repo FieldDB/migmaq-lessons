@@ -116,10 +116,10 @@
                     </h4><!--Display English-->  
                   </div>
                   <div class="col-md-2">
-                    <xsl:if test="img">
+                    <!--<xsl:if test="img">-->
                       <!--<xsl:variable name="vimg">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
                       <img class="img-responsive thumbnail" src="{$vimg}" alt="Trees" style="max-width: 75%"/>-->
-                    b</xsl:if>
+                    <!--b</xsl:if>-->
                   </div>
                 </div>
               </xsl:for-each>
