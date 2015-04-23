@@ -107,7 +107,7 @@
                       </button>
                     </div>
                   </xsl:if>
-                  <div class="media-body row">
+                  <div class="media-body">
                     <div class="col-md-8">
                     <h2 class="media-heading">
                       <xsl:value-of select="migmaq"/>
