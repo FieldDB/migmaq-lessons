@@ -179,6 +179,11 @@ header {
     }
 
  .social {
-  max-width: 70px;
+  max-width: 80px;
   margin: 20px;
+}
+
+.social-icon {
+ width: 40px;
+ height: 40px;
 }
