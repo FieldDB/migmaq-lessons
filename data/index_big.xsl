@@ -21,13 +21,13 @@
     </div>
     <div class="row">
       <div class="col-md-10"> 
-        <h2>Outline:</h2><!--Outline is just a list of child node titles and links to their pages-->
+        <h3>Outline:</h3><!--Outline is just a list of child node titles and links to their pages-->
         <xsl:for-each select="unit"><!--Find all unit children-->
           <xsl:variable name="unadd">{{ site.baseurl }}/units/<xsl:value-of select="$fileprefix"/><xsl:value-of select="count(preceding-sibling::unit)+1"/>.html</xsl:variable><!--Create filename for unit child webpage-->
-          <a href="{$unadd}"><h3><xsl:value-of select="*[1]"/></h3></a><!--List unit titles as links to their webpages-->
+          <a href="{$unadd}"><h4><xsl:value-of select="*[1]"/></h4></a><!--List unit titles as links to their webpages-->
           <xsl:for-each select="lesson"><!--Find all lesson children-->
             <xsl:variable name="lessadd">{{ site.baseurl }}/lessons/<xsl:value-of select="$fileprefix"/><xsl:value-of select="count(../preceding-sibling::unit)+1"/>.<xsl:value-of select="count(preceding-sibling::lesson)+1"/>.html</xsl:variable><!--Create filename for lesson child webpage-->
-            <a href="{$lessadd}"><h4><xsl:value-of select="*[1]"/></h4></a><!--List lesson titles as links to their webpages-->
+            <a href="{$lessadd}"><h5><xsl:value-of select="*[1]"/></h5></a><!--List lesson titles as links to their webpages-->
           </xsl:for-each>
         </xsl:for-each>
         <xsl:for-each select="lesson"><!--Find all lesson children-->
