@@ -191,3 +191,11 @@ header {
 a {
   color: inherit;
   }
+
+.start {
+  width: 80%; 
+  background-color: #F47D5C;
+  color: white;
+  border-radius: 10px;
+  font-weight: bold;
+}
