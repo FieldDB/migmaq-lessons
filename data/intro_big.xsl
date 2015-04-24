@@ -4,15 +4,17 @@
   <xsl:template match="/lessonset"><!--Match on lessonset-->
     <h2>Outline:</h2><!--Outline is a list of child node titles and links to their pages-->
     <div class="row">
-      <div class="col-md-6">&#160;
+      <div class="col-md-3">&#160;
       </div>
       <div class="col-md-6">
         <div class="btn-group btn-group-justified" role="group" aria-label="...">
           <xsl:variable name="start">{{ site.baseurl }}/sections/1.html</xsl:variable>
-          <button type="button btn-lg" style="width: 80%" class="btn btn-default">
-            <a href="{$start}">Get Started!</a>
-          </button>
+          <a href="{$start}">
+            <button type="button btn-lg" style="width: 80%" class="btn btn-default">Get Started!</button>
+          </a>
         </div>
+      </div>
+      <div class="col-md-3">&#160;
       </div>
   </div>
     <xsl:for-each select="section"><!--Find all section children-->
@@ -38,9 +40,10 @@
       <div class="col-md-12">
         <div class="btn-group btn-group-justified" role="group" aria-label="...">
           <xsl:variable name="start">{{ site.baseurl }}/sections/1.html</xsl:variable>
-          <button type="button btn-lg" style="width: 60%" class="btn btn-default">
-            <a href="{$start}">Get Started!</a>
-          </button>
+          <a href="{$start}">
+            <button type="button btn-lg" style="width: 60%" class="btn btn-default">
+            Get Started!</button>
+          </a>
         </div>
       </div>
     </div>
