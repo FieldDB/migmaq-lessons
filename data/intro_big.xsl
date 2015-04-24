@@ -22,9 +22,9 @@
           </xsl:for-each>
         </div>
       </xsl:for-each>
-      <div>
+      <div class="btn-group btn-group-justified" role="group" aria-label="...">
         <xsl:variable name="start">{{ site.baseurl }}/sections/1.html</xsl:variable>
-        <button type="button" class="btn btn-default"><a href="{$start}">Get Started!</a></button>
+        <button type="button btn-lg" class="btn btn-default"><a href="{$start}">Get Started!</a></button>
       </div>
   </xsl:template>
 </xsl:stylesheet>
