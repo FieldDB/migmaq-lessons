@@ -198,4 +198,8 @@ a {
   color: white;
   border-radius: 10px;
   font-weight: bold;
+  a:active,
+  a:hover {
+    outline: 0;
+}
 }
