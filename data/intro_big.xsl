@@ -2,14 +2,14 @@
 <!--This transformation creates an intro page for the lessons. It displays the intro text and an index showing all child sections, subsections, lessons, and units. It applies to the lessonset node. The index displays the name of each subsection as a link to the relevant webpage.-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:template match="/lessonset"><!--Match on lessonset-->
+    <h2>Outline:</h2><!--Outline is a list of child node titles and links to their pages-->
     <div class="row">
-      <div class="col-md-6">
-        <h2>Outline:</h2><!--Outline is a list of child node titles and links to their pages-->
+      <div class="col-md-6">&#160;
       </div>
       <div class="col-md-6">
         <div class="btn-group btn-group-justified" role="group" aria-label="...">
           <xsl:variable name="start">{{ site.baseurl }}/sections/1.html</xsl:variable>
-          <button type="button btn-lg width: 60%" class="btn btn-default">
+          <button type="button btn-lg" style="width: 80%" class="btn btn-default">
             <a href="{$start}">Get Started!</a>
           </button>
         </div>
@@ -38,7 +38,7 @@
       <div class="col-md-12">
         <div class="btn-group btn-group-justified" role="group" aria-label="...">
           <xsl:variable name="start">{{ site.baseurl }}/sections/1.html</xsl:variable>
-          <button type="button btn-lg width: 60%" class="btn btn-default">
+          <button type="button btn-lg" style="width: 60%" class="btn btn-default">
             <a href="{$start}">Get Started!</a>
           </button>
         </div>
