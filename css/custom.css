@@ -200,7 +200,12 @@ a {
   font-weight: bold;
 }
 
-.start > a:hover, a:focus {
+.start > a:hover {
+  color: #F47D5C;
+  text-decoration: underline;
+}
+
+.start > a:focus {
   color: #F47D5C;
   text-decoration: underline;
 }
