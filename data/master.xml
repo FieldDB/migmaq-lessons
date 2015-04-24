@@ -277,9 +277,72 @@
 					</line>
 				</vocab>
 			</lesson>
+			<lesson>
+				<title>Speaking Native</title>
+				<note>Mi'gmaq is a language where speakers often draw on the knowledge that they share as members of the same (or a closely related) community. For this reason, some normal ways of talking in Mi'gmaq can seem not as specific as what English speakers are used to.</note>
+				<note>In Listuguj, for example, <m>qame'g</m> 'across (the river)' can often specifically mean Campbellton, and <m>gm'tnigtug</m> 'at the mountain' can often specifically mean the Sugarloaf. This way of talking is effective because speakers draw on their common understanding of where they are and which specific places would naturally tie to those words.</note>
+				<note>For the same reason, it is normal and in fact more natural in Mi'gmaq to say 'speak Native' when talking about speaking the Mi'gmaq language. More specific expressions are possible, but are usually only used when really needed, say, to talk about speaking different kinds of Native languages.</note>
+				<designnote>Introducing 'speak &#95;&#95;&#95;' verb in the form of 'speak Native'. Pointing out that 'speak Native' is the more common/natural way for Mi'gmaq speaks to convey what would usually be said in English as 'speak Mi'gmaq'. Also briefly introducing <m>nige'</m> 'now' and <m>getu'-</m> 'want to, going to', and the <m>-nej</m> 'let's...' patterns.</designnote>
+				<timesig>@20120723-JW-RM-1thru25.wav@4:30-4:39</timesig>		
+				<dialog>
+					<line>
+						<migmaq>Nnui'sin gi'l?</migmaq> 	
+						<english>Do you speak Native [lit. 'speak Native', but used where English would say 'speak Mi'gmaw']</english>
+						<soundfile>NnuisinGil</soundfile>
+					</line>
+					<line>
+						<migmaq>E'e, 'nnui'si.</migmaq> 	
+						<english>Yes, I speak Native.</english>
+						<soundfile>EeNnuisi</soundfile>
+					</line>
+					<line>
+						<migmaq>Getu'-nnuisin nige'?</migmaq> 	
+						<english>Do you want to speak Native now?</english>
+						<soundfile>GetuNnuisinNige</soundfile>
+					</line>
+					<line>
+						<migmaq>E'e, 'nnui'sinej.</migmaq> 	
+						<english>Yes, let's speak Native.</english>
+						<soundfile>EeNnuisinej</soundfile>
+					</line>
+				</dialog>
+			</lesson>
+			<lesson>
+				<title>Afraid to speak Native</title>
+				<note>It can be a difficult thing to learn a language. Sometimes these fears keep learners from practicing because they are embarrassed. But in reality, most learners are feeling the same way.</note>
+				<designnote>Building on the preceding lesson, but now to address the most common problem faced by learners: embarrassment or fear of being laughed at. Also introduces 'everybody' and some basic terms for feelings; these will all be taught again in more detail in later lessons.</designnote>
+				<timesig>@20120723-JW-RM-1thru25.wav@4:40-4:59</timesig>		
+				<dialog>
+					<line>
+						<migmaq>Nnui'sin gi'l?</migmaq> 	
+						<english>Do you speak Native?</english>
+						<soundfile>NnuisinGil</soundfile>
+					</line>
+					<line>
+						<migmaq>E'e, 'nnui'si.</migmaq> 	
+						<english>Yes, I speak Native</english>
+						<soundfile>EeNnuisi</soundfile>
+					</line>
+					<line>
+						<migmaq>Getu'-nnui'sin nige'?</migmaq> 	
+						<english>Do you want to speak Native now?</english>
+						<soundfile>GetuNnuisinNige</soundfile>
+					</line>
+					<line>
+						<migmaq>Jipatm nnui'sin, muta maligamiten.</migmaq> 	
+						<english>I'm afraid to speak Native, because I will be laughed at.</english>
+						<soundfile>JipatmNnuisinMutaMaligamiten</soundfile>
+					</line>
+					<line>
+						<migmaq>'Ms't wen wijei telo'teget, amgwesewei.</migmaq> 	
+						<english>Everyone feels that way, at first.</english>
+						<soundfile>MstWenWijeiTelotegetAmgwesewei</soundfile>
+					</line>
+				</dialog>
+			</lesson>
 		</unit>
 		<unit>
-			<title>Introductions, Family, Speaking the Language</title>
+			<title>Talking about Family</title>
 			<note>In this unit, you will learn how to talk about your family and how to name basic objects around you. The vocabulary in this unit will give us basic building blocks for building more complex sentences later. As always, you should practice speaking along with the recordings in each lesson.
 			</note>
 			<lesson>
@@ -588,69 +651,6 @@
 						<migmaq>'Nnui'suti etl-gina'masi.</migmaq> 	
 						<english>I am studying Mi'gmaq [lit. 'Native language'].</english>
 						<soundfile>NnuisutiEtlGinamasi</soundfile>
-					</line>
-				</dialog>
-			</lesson>
-			<lesson>
-				<title>Speaking Native</title>
-				<note>Mi'gmaq is a language where speakers often draw on the knowledge that they share as members of the same (or a closely related) community. For this reason, some normal ways of talking in Mi'gmaq can seem not as specific as what English speakers are used to.</note>
-				<note>In Listuguj, for example, <m>qame'g</m> 'across (the river)' can often specifically mean Campbellton, and <m>gm'tnigtug</m> 'at the mountain' can often specifically mean the Sugarloaf. This way of talking is effective because speakers draw on their common understanding of where they are and which specific places would naturally tie to those words.</note>
-				<note>For the same reason, it is normal and in fact more natural in Mi'gmaq to say 'speak Native' when talking about speaking the Mi'gmaq language. More specific expressions are possible, but are usually only used when really needed, say, to talk about speaking different kinds of Native languages.</note>
-				<designnote>Introducing 'speak &#95;&#95;&#95;' verb in the form of 'speak Native'. Pointing out that 'speak Native' is the more common/natural way for Mi'gmaq speaks to convey what would usually be said in English as 'speak Mi'gmaq'. Also briefly introducing <m>nige'</m> 'now' and <m>getu'-</m> 'want to, going to', and the <m>-nej</m> 'let's...' patterns.</designnote>
-				<timesig>@20120723-JW-RM-1thru25.wav@4:30-4:39</timesig>		
-				<dialog>
-					<line>
-						<migmaq>Nnui'sin gi'l?</migmaq> 	
-						<english>Do you speak Native [lit. 'speak Native', but used where English would say 'speak Mi'gmaw']</english>
-						<soundfile>NnuisinGil</soundfile>
-					</line>
-					<line>
-						<migmaq>E'e, 'nnui'si.</migmaq> 	
-						<english>Yes, I speak Native.</english>
-						<soundfile>EeNnuisi</soundfile>
-					</line>
-					<line>
-						<migmaq>Getu'-nnuisin nige'?</migmaq> 	
-						<english>Do you want to speak Native now?</english>
-						<soundfile>GetuNnuisinNige</soundfile>
-					</line>
-					<line>
-						<migmaq>E'e, 'nnui'sinej.</migmaq> 	
-						<english>Yes, let's speak Native.</english>
-						<soundfile>EeNnuisinej</soundfile>
-					</line>
-				</dialog>
-			</lesson>
-			<lesson>
-				<title>Afraid to speak Native</title>
-				<note>It can be a difficult thing to learn a language. Sometimes these fears keep learners from practicing because they are embarrassed. But in reality, most learners are feeling the same way.</note>
-				<designnote>Building on the preceding lesson, but now to address the most common problem faced by learners: embarrassment or fear of being laughed at. Also introduces 'everybody' and some basic terms for feelings; these will all be taught again in more detail in later lessons.</designnote>
-				<timesig>@20120723-JW-RM-1thru25.wav@4:40-4:59</timesig>		
-				<dialog>
-					<line>
-						<migmaq>Nnui'sin gi'l?</migmaq> 	
-						<english>Do you speak Native?</english>
-						<soundfile>NnuisinGil</soundfile>
-					</line>
-					<line>
-						<migmaq>E'e, 'nnui'si.</migmaq> 	
-						<english>Yes, I speak Native</english>
-						<soundfile>EeNnuisi</soundfile>
-					</line>
-					<line>
-						<migmaq>Getu'-nnui'sin nige'?</migmaq> 	
-						<english>Do you want to speak Native now?</english>
-						<soundfile>GetuNnuisinNige</soundfile>
-					</line>
-					<line>
-						<migmaq>Jipatm nnui'sin, muta maligamiten.</migmaq> 	
-						<english>I'm afraid to speak Native, because I will be laughed at.</english>
-						<soundfile>JipatmNnuisinMutaMaligamiten</soundfile>
-					</line>
-					<line>
-						<migmaq>'Ms't wen wijei telo'teget, amgwesewei.</migmaq> 	
-						<english>Everyone feels that way, at first.</english>
-						<soundfile>MstWenWijeiTelotegetAmgwesewei</soundfile>
 					</line>
 				</dialog>
 			</lesson>
