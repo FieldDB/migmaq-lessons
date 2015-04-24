@@ -33,7 +33,7 @@ html, body {
 header {
   /*min-height: 120px;*/ /*Keeps logo from overflowing header*/
   margin-bottom: 15px; /*Margin to add space before content of page */
-  background: rgba(240, 69, 22, 0.85);
+  background: #f04516;
 }
 
 .icon-bar{
@@ -195,17 +195,17 @@ a {
 .start {
   width: 80%; 
   background-color: #F47D5C;
-  color: white;
+  color: #f04516;
   border-radius: 10px;
   font-weight: bold;
 }
 
 .start:hover {
   color: #F47D5C;
-  text-decoration: underline;
+  background-color: #FFCAA9;
 }
 
 .start:focus {
   color: #F47D5C;
-  text-decoration: underline;
+  background-color: #FFCAA9;
 }
