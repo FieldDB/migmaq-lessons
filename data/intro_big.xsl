@@ -10,7 +10,7 @@
         <div class="btn-group btn-group-justified" role="group" aria-label="...">
           <xsl:variable name="start">{{ site.baseurl }}/sections/1.html</xsl:variable>
           <a href="{$start}">
-            <button type="button btn-lg" style="width: 80% color: #F47D5C" class="btn btn-default">Get Started!</button>
+            <button type="button btn-lg" style="width: 80%; color: #F47D5C" class="btn btn-default">Get Started!</button>
           </a>
         </div>
       </div>
