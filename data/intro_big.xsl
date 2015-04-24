@@ -2,11 +2,7 @@
 <!--This transformation creates an intro page for the lessons. It displays the intro text and an index showing all child sections, subsections, lessons, and units. It applies to the lessonset node. The index displays the name of each subsection as a link to the relevant webpage.-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:template match="/lessonset"><!--Match on lessonset-->
-    <head>
-      <title><xsl:value-of select="title"/></title><!--Title is lessonset title-->
-    </head>
-    <body>
-      <h2>Outline:</h2><!--Outline is just a list of child node titles and links to their pages-->
+    <h2>Outline:</h2><!--Outline is just a list of child node titles and links to their pages-->
       <xsl:for-each select="section"><!--Find all section children-->
         <div class="row">
           <xsl:variable name="secadd">sections/<xsl:value-of select="count(preceding-sibling::section)+1"/>.html</xsl:variable><!--Create filename for section child webpage-->
@@ -26,6 +22,9 @@
           </xsl:for-each>
         </div>
       </xsl:for-each>
-    </body>
+      <div>
+        <xsl:variable name="start">{{ site.baseurl }}/sections/1.html</xsl:variable>
+        <button type="button" class="btn btn-default"><a href="{$start}">Get Started!</a></button>
+      </div>
   </xsl:template>
 </xsl:stylesheet>
