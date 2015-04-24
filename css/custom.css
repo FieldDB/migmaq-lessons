@@ -198,9 +198,9 @@ a {
   color: white;
   border-radius: 10px;
   font-weight: bold;
-  
-  a:active,
-  a:hover {
-    color: #F47D5C;
-  }
+}
+
+.start > a:hover, a:focus {
+  color: #F47D5C;
+  text-decoration: underline;
 }
