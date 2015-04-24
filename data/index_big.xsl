@@ -31,12 +31,13 @@
           </xsl:for-each>
         </div>
       </xsl:for-each>
+      <div class="col-md-3">
       <xsl:for-each select="lesson"><!--Find all lesson children-->
-        <div class="col-md-3">
+        
             <xsl:variable name="lessadd">{{ site.baseurl }}/lessons/<xsl:value-of select="$fileprefix"/><xsl:value-of select="count(preceding-sibling::lesson)+1"/>.html</xsl:variable><!--Create filename for lesson child webpage-->
             <a href="{$lessadd}"><h4><xsl:value-of select="*[1]"/></h4></a><!--List lesson titles as links to their webpages-->
-        </div>
       </xsl:for-each>
+        </div>
     </div>
   </xsl:template>
 </xsl:stylesheet>
