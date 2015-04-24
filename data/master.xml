@@ -11,15 +11,11 @@
 		<note>Welcome to Learn Mi'gmaq Online! In this first section, you will learn the basics of the language. We'll start by learning the sounds of the language. After working on pronunciation and listening, you will learn basic introductions. Next, we will look at how to talk about people. This will help you pick up on some grammatical concepts, like how to talk about different kinds of groups of people, how to count, and how to build basic sentences. This section also includes some tips on how to study Mi'gmaq.</note>
 		<note>It's important to practice along as you hear dialogs. Learning how to speak and understand Mi'gmaq is the primary goal of this website. Although many speakers feel nervous about speaking because everyone makes mistakes as they are learning, the best way to improve your pronunciation is just to practice. Every time you hear a sentence, you should repeat it out loud until you have mastered the rhythm and sounds of the words.</note>
 		<unit>
-			<title>Sounds, Rhythms of Mi'gmaq</title>
+			<title>Introduction to Mi'gmaq</title>
+			<note>This unit will introduce you to Mi'gmaq by teaching you how to introduce yourself. You'll learn some useful phrases for doing language-learning in the language. You'll also see some tips for how to practice the language effectively.</note>
 			<lesson>
 				<title>Pronunciation</title>
 			</lesson>
-		</unit>
-		<unit>
-			<title>Introductions, Lang-learning, Family, Speaking the Language</title>
-			<note>In this unit, you will learn how to introduce yourself, how to talk about your family, and how to name basic objects around you. The vocabulary in this unit will give us basic building blocks for building more complex sentences later. As always, you should practice speaking along with the recordings in each lesson.
-			</note>
 			<lesson>
 				<title>Introductions</title>
 				<note>This lesson will teach you the basics of how to describe yourself and your relations. You will learn how to describe yourself, your family, your home, and your work to others. These are important skills to learn at the beginning, because once you have mastered these basics, you will be able to begin conversations and introduce yourself to other Mi'gmaq speakers when you meet them.
@@ -281,6 +277,11 @@
 					</line>
 				</vocab>
 			</lesson>
+		</unit>
+		<unit>
+			<title>Introductions, Family, Speaking the Language</title>
+			<note>In this unit, you will learn how to talk about your family and how to name basic objects around you. The vocabulary in this unit will give us basic building blocks for building more complex sentences later. As always, you should practice speaking along with the recordings in each lesson.
+			</note>
 			<lesson>
 				<title>Identifying people</title>
 				<note>In this lesson, you will learn to ask about and identify people around you. You will also be able to describe your family and answer basic questions about them.
