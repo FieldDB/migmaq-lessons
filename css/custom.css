@@ -195,17 +195,12 @@ a {
 .start {
   width: 80%; 
   background-color: #F47D5C;
-  color: #f04516;
+  color: #FFCAA9;
   border-radius: 10px;
   font-weight: bold;
 }
 
-.start:hover {
-  color: #F47D5C;
-  background-color: #FFCAA9;
-}
-
-.start:focus {
+.start:hover,.start:focus{
   color: #F47D5C;
   background-color: #FFCAA9;
 }
