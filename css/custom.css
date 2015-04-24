@@ -195,7 +195,7 @@ a {
 .start {
   width: 80%; 
   background-color: #F47D5C;
-  color: #FFCAA9;
+  color: white;
   border-radius: 10px;
   font-weight: bold;
 }
@@ -203,4 +203,5 @@ a {
 .start:hover,.start:focus{
   color: #F47D5C;
   background-color: #FFCAA9;
+  text-decoration: 3px;
 }
