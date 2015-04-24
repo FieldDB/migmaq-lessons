@@ -20,21 +20,23 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-md-10"> 
-        <h3>Outline:</h3><!--Outline is just a list of child node titles and links to their pages-->
-        <xsl:for-each select="unit"><!--Find all unit children-->
+      <h3>Outline:</h3><!--Outline is just a list of child node titles and links to their pages-->
+      <xsl:for-each select="unit"><!--Find all unit children-->
+        <div class="col-md-3">
           <xsl:variable name="unadd">{{ site.baseurl }}/units/<xsl:value-of select="$fileprefix"/><xsl:value-of select="count(preceding-sibling::unit)+1"/>.html</xsl:variable><!--Create filename for unit child webpage-->
           <a href="{$unadd}"><h4><xsl:value-of select="*[1]"/></h4></a><!--List unit titles as links to their webpages-->
           <xsl:for-each select="lesson"><!--Find all lesson children-->
             <xsl:variable name="lessadd">{{ site.baseurl }}/lessons/<xsl:value-of select="$fileprefix"/><xsl:value-of select="count(../preceding-sibling::unit)+1"/>.<xsl:value-of select="count(preceding-sibling::lesson)+1"/>.html</xsl:variable><!--Create filename for lesson child webpage-->
             <a href="{$lessadd}"><h5><xsl:value-of select="*[1]"/></h5></a><!--List lesson titles as links to their webpages-->
           </xsl:for-each>
-        </xsl:for-each>
-        <xsl:for-each select="lesson"><!--Find all lesson children-->
+        </div>
+      </xsl:for-each>
+      <xsl:for-each select="lesson"><!--Find all lesson children-->
+        <div class="col-md-3">
             <xsl:variable name="lessadd">{{ site.baseurl }}/lessons/<xsl:value-of select="$fileprefix"/><xsl:value-of select="count(preceding-sibling::lesson)+1"/>.html</xsl:variable><!--Create filename for lesson child webpage-->
             <a href="{$lessadd}"><h4><xsl:value-of select="*[1]"/></h4></a><!--List lesson titles as links to their webpages-->
-          </xsl:for-each>
-      </div>
+        </div>
+      </xsl:for-each>
     </div>
   </xsl:template>
 </xsl:stylesheet>
