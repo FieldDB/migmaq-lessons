@@ -12,7 +12,7 @@
           </p>
         </xsl:for-each>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4">&#160;
         <xsl:if test="/img">
           <xsl:variable name="imgurl"><xsl:value-of select="img"/></xsl:variable>
           <img class="img-responsive thumbnail" src="{$imgurl}" alt="Trees" style="max-width: 75%"></img>
