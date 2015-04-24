@@ -94,8 +94,6 @@ header {
     margin: 5px;
     float: right;
   }
-
-
   
 #page-content-wrapper{
   margin: 10px 30px 10px 130px; /*Extra margin to create a "column" for the menu button */
@@ -111,7 +109,6 @@ header {
     height: 40px;
     padding-top: 2px;
   }
-
 
 .navbar-header{
   height: 80px;
@@ -182,3 +179,8 @@ header {
     }
 }
 
+.social {
+  width: 60px;
+  height: 60px;
+  margin: 20px;
+}
