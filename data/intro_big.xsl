@@ -7,12 +7,7 @@
       <div class="col-md-3">&#160;
       </div>
       <div class="col-md-6">
-        <div class="btn-group btn-group-justified" role="group" aria-label="...">
-          <xsl:variable name="start">{{ site.baseurl }}/sections/1.html</xsl:variable>
-          <a href="{$start}">
-            <button class="btn btn-default btn-lg start" type="button">Get Started!</button>
-          </a>
-        </div>
+        {% include start.html %}
       </div>
       <div class="col-md-3">&#160;
       </div>
