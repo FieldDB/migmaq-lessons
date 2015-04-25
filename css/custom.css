@@ -41,7 +41,7 @@ header {
   margin: 5px;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .icon-bar {
     display: none;
   }
