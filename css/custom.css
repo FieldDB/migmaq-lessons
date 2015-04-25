@@ -91,7 +91,7 @@ header {
     margin-left: 0;
   } 
 
-  .navbar-collapse.collapse>ul>li {
+  .mini-menu>ul>li {
     color: white;
     padding: 0px;
   }
