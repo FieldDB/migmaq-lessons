@@ -3,7 +3,7 @@ var activeAudio = null;
 addPlay();
 
 function addPlay() {
-    var buttons = document.getElementsByTagName("button");
+    var buttons = document.getElementsByClassName("btn");
     console.log(buttons);
     for (var i = 0; i < buttons.length; i++){
          buttons[i].addEventListener("click", function(event) {play(event.currentTarget); }, false);
