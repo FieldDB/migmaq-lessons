@@ -61,7 +61,7 @@ header {
 
 @media (max-width: 768px) {
   #page-content-wrapper {
-    margin: 0px;
+    margin: none;
   }
 }
 
@@ -118,9 +118,11 @@ header {
     margin: 5px;
     float: right;
   }
-  
-#page-content-wrapper{
-  margin: 10px 30px 10px 130px; /*Extra margin to create a "column" for the menu button */
+ 
+@media (min-width: 768px) { 
+  #page-content-wrapper{
+    margin: 10px 30px 10px 130px; /*Extra margin to create a "column" for the menu button */
+  }
 }
 
   footer{
