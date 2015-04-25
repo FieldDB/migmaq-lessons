@@ -47,6 +47,12 @@ header {
   }
 }
 
+@media (max-width: 768px) {
+  .sidebar-wrapper {
+    display: none;
+  }
+}
+
 .list-inline{
   margin-top: 12px;
   margin-bottom: 12px;
