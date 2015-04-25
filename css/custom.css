@@ -115,7 +115,7 @@ header {
 }
 
 @media (min-width: 768px) {
-  #menu-collapse {
+  .mini-menu {
     display: none;
   }
   }
