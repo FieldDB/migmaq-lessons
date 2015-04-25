@@ -42,7 +42,7 @@ header {
 }
 
 @media (max-width: 768px) {
-  .icon-bar {
+  .iconbar {
     display: none;
   }
 }
