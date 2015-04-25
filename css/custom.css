@@ -44,11 +44,8 @@ header {
 @media (max-width: 768px) {
   .icon-bar {
     display: none;
-  }
+  };
   .contact {
-    display: none;
-  }
-  .sidebar-wrapper {
     display: none;
   }
 }
