@@ -52,7 +52,7 @@ header {
   }
 }
 @media (max-width: 768px) {
-  .sidebar-wrapper {
+  #sidebar-wrapper {
     display: none;
   }
 }
