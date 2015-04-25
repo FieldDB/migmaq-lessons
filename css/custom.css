@@ -114,12 +114,11 @@ header {
   color: gray;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 768px) {
   #menu-collapse {
     display: none;
   }
   }
-
 
   .navbar-nav,
   .navbar-nav > li,
