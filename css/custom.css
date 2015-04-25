@@ -44,10 +44,14 @@ header {
 @media (max-width: 768px) {
   .icon-bar {
     display: none;
-  };
+  }
+}
+@media (max-width: 768px) {
   .contact {
     display: none;
-  };
+  }
+}
+@media (max-width: 768px) {
   .sidebar-wrapper {
     display: none;
   }
