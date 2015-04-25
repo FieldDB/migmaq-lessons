@@ -91,6 +91,10 @@ header {
     margin-left: 0;
   } 
 
+  .navbar-collapse.collapse>ul>li {
+    color: white;
+  }
+
 .navbar-toggle {
   position: relative;
   float: right;
