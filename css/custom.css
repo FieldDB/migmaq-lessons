@@ -41,6 +41,12 @@ header {
   margin: 5px;
 }
 
+@media (min-width: 768px) {
+  .icon-bar {
+    display: none;
+  }
+}
+
 .list-inline{
   margin-top: 12px;
   margin-bottom: 12px;
