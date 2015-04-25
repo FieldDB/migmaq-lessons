@@ -91,6 +91,19 @@ header {
     margin-left: 0;
   } 
 
+.navbar-toggle {
+  position: relative;
+  float: right;
+  margin-right: 15px;
+  padding: 9px 10px;
+  margin-top: 5.5px;
+  margin-bottom: 5.5px;
+  background-color: white;
+  background-image: none;
+  border: 1px solid gray;
+  border-radius: 3px;
+}
+
   .navbar-nav,
   .navbar-nav > li,
   .navbar-left,
