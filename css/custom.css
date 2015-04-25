@@ -47,6 +47,9 @@ header {
   };
   .contact {
     display: none;
+  };
+  .sidebar-wrapper {
+    display: none;
   }
 }
 
