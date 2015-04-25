@@ -102,6 +102,7 @@ header {
   background-image: none;
   border: 1px solid gray;
   border-radius: 3px;
+  color: gray;
 }
 
   .navbar-nav,
