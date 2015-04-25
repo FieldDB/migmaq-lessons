@@ -96,6 +96,11 @@ header {
     padding: 0px;
   }
 
+  .navbar-collapse.collapse>ul>li:hover {
+    color: white;
+    background-color: transparent;
+  }
+
 .navbar-toggle {
   position: relative;
   float: right;
