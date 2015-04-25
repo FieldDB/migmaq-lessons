@@ -54,7 +54,10 @@ header {
 @media (max-width: 768px) {
   #sidebar-wrapper {
     display: none;
-  }
+  };
+  #page-content-wrapper{
+  margin: 0px;
+};
 }
 
 .list-inline{
