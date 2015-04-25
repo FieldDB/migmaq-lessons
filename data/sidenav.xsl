@@ -37,6 +37,7 @@
             </li>
             <li><a href="{{{{ site.baseurl }}}}/resources.html">Resources</a></li>
             <li><a href="{{{{ site.baseurl }}}}/welalieg.html">Wela'lieg</a></li>
+            <li><a href="https://docs.google.com/forms/d/1BaVNaewifUYSSrlbkPviUZuyFUALTI7_1gLw-Nop2n0/viewform?usp=send_form">Contact Us</a></li>
           </ul>
         </li>
       </ul>
