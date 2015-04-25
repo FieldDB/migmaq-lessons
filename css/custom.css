@@ -59,6 +59,12 @@ header {
   }
 }
 
+@media (min-width: 768px) {
+  .mini-menu {
+    display: none;
+  }
+  }
+
 .list-inline{
   margin-top: 12px;
   margin-bottom: 12px;
@@ -68,6 +74,8 @@ header {
   padding: 5px 15px;
   }
 
+
+@media (max-width: 768px) {
   .navbar-collapse{
     height: auto;
     border-top: 0;
@@ -85,6 +93,8 @@ header {
   .navbar-collapse.in {
     overflow-x: visible;
   }
+}
+
   .navbar-horizontal {
     max-width:300px;
     margin-right: 0;
@@ -113,12 +123,6 @@ header {
   border-radius: 3px;
   color: gray;
 }
-
-@media (min-width: 768px) {
-  .mini-menu {
-    display: none;
-  }
-  }
 
   .navbar-nav,
   .navbar-nav > li,
