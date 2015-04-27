@@ -116,6 +116,7 @@
 						<migmaq>Qamawtig a's'tuo'guomg.</migmaq>	
 						<english>Across from the church.</english>
 						<soundfile>QamawtigAstuoguomg</soundfile>
+						<img>26EA.png</img>
 					</line>
 				</dialog>
 			</lesson>
@@ -1423,11 +1424,13 @@
 						<migmaq>newt</migmaq>
 						<english>one</english>
 						<soundfile>Newt</soundfile>
+						<img>261D.png</img>
 					</line>
 					<line>
 						<migmaq>ta'pu</migmaq>
 						<english>two</english>
 						<soundfile>Tapu</soundfile>
+						<img>270C.png</img>
 					</line>
 					<line>
 						<migmaq>si'st</migmaq>
@@ -1443,6 +1446,7 @@
 						<migmaq>na'n</migmaq> 	
 						<english>five</english>
 						<soundfile>Nan</soundfile>
+						<img>270B.png</img>
 					</line>
 				</vocab>
 				<vocab>
@@ -1544,6 +1548,7 @@
 						<migmaq>Newtisga'q</migmaq> 	
 						<english>Ten</english>
 						<soundfile>Newtisgaq</soundfile>
+						<img>1F450.png</img>
 					</line>
 					<line>
 						<migmaq>newtisga'q jel newt</migmaq> 	
@@ -4083,7 +4088,7 @@
 						<migmaq>p'tewei, petewei</migmaq> 	
 						<english>tea</english>
 						<soundfile>PeteweiClip</soundfile>
-						<img>tea.gif</img>
+						<img>1F375.png</img>
 					</line>
 					<linetimsig>[@4:54-4:56]</linetimsig>
 				</vocab>
@@ -5190,6 +5195,7 @@
 					<migmaq>Toqo-jiw pegisin nignaq.</migmaq> 	
 					<english>Then I arrive home [lit. 'at our house'].</english>
 					<soundfile>ToqojiwPegisinNignaq</soundfile>
+					<img>1F3E0.png</img>
 				</line>
 				<linetimsig>[@1:12.5-1:15.5]</linetimsig>
 				<line>
@@ -5224,6 +5230,7 @@
 					<migmaq>Apaji-pisgwa'i, toqo engopa'si, aq egijjei.</migmaq> 	
 					<english>I go back inside, then I sit down, and I read.</english>
 					<soundfile>ApajipisgwaiToqoEngopasiAqEgijjei</soundfile>
+					<img>1F4D6.png</img>
 				</line>
 				<line>
 					<migmaq>Glapis getugsiei.</migmaq> 	
@@ -5327,6 +5334,7 @@
 					<migmaq>Toqo-jiw pegisinn giguaq.</migmaq> 	
 					<english>Then you arrive home [lit. 'at your (group's) house'].</english>
 					<soundfile>ToqojiwPegisinnGiguaq</soundfile>
+					<img>1F3E0.png</img>
 				</line>
 				<linetimsig>[@1:23.5-1:25.5]</linetimsig>
 				<line>
@@ -5361,6 +5369,7 @@
 					<migmaq>Apaji-pisgwa'n, toqo engopa'sin, aq egijjen.</migmaq> 	
 					<english>You go back inside, then you sit down, and you read.</english>
 					<soundfile>ApajipisgwanToqoEngopasinAqEgijjen</soundfile>
+					<img>1F4D6.png</img>
 				</line>
 				<line>
 					<migmaq>Glapis getugsien.</migmaq> 	
@@ -6370,6 +6379,7 @@
 					<migmaq>Mui'n na. Ugsmugwanej!</migmaq> 	
 					<english>It's a bear. Let's get out of here [lit. 'Let's run away']!</english>
 					<soundfile>MuinNaUgsmugwanej</soundfile>
+					<img>1F43B.png</img>
 				</line>
 			</dialog>		
 			<dialog>
@@ -6407,6 +6417,7 @@
 					<migmaq>Qame'g eliei. Natanguai.</migmaq> 	
 					<english>I'm going to Campbellton. I'm going shopping.</english>
 					<soundfile>QamegElieiNatanguai</soundfile>
+					<img>1F4B8.png</img>
 				</line>
 			</dialog>		
 			<dialog>
@@ -6700,7 +6711,7 @@
 					<soundfile>GisGilWejiennElsipugtugAqSgnopatijg</soundfile>
 				</line>
 				<line>
-					<migmaq>E'e, gi's wejieiann. Gatu sa'q giaspiwjiei 'Sgno'patijg.</migmaq> 	
+					<migmaq>E'e, gi's wejieiann. Gatu sa'q giaspiwjiei 'Sgno'patijg.</migmaq>
 					<english>Yes, I've been to them. But it's been a long time since I went to 'Sgno'patijg.</english>
 					<soundfile>EeGisWejieiannGatuSaqGiaspiwjieiSgnopatijg</soundfile>
 				</line>
@@ -6795,6 +6806,7 @@
 					<migmaq>E'e, api-tgismi.</migmaq> 	
 					<english>Yes, I went (am back from) swimming.</english>
 					<soundfile>EeApiTgismi</soundfile>
+					<img>1F3CA.png</img>
 				</line>
 			</dialog>		
 			<dialog>
@@ -6882,6 +6894,7 @@
 					<migmaq>Qospemg! Naji-tgisminej!</migmaq> 	
 					<english>To the lake! Let's go swimming!</english>
 					<soundfile>QospemgNajitgisminej</soundfile>
+					<img>1F3CA.png</img>
 				</line>
 				<line>
 					<migmaq>Ge' tmg magasang la'tinej...getu'-nattelmann suitisl.</migmaq> 	
@@ -7004,9 +7017,10 @@
 					<soundfile>TamiTettElien2</soundfile>
 				</line>
 				<line>
-					<migmaq>Getu'-asoqoma'si. Getu'-nmisgm Pastungeweiei suliewei.</migmaq> 	
+					<migmaq>Getu'-asoqoma'si. Getu'-nmisgm Pastungeweiei suliewei.</migmaq>
 					<english>I'm going across [to Campbellton]. I want to get some U.S. money.</english>
 					<soundfile>GetuAsoqomasiGetuNmisgmPastungeweieiSuliewei</soundfile>
+					<img>1F4B0.png</img>
 				</line>
 				<line>
 					<migmaq>E'e, wije'wult's, gatu tmg getu'-'lqawei.</migmaq> 	
@@ -7086,7 +7100,7 @@
 					<soundfile>TalGis</soundfile>
 				</line>
 				<line>
-					<migmaq>Muta mu gisgitmu ta'n goqwei ula 'gtuteminu gisui'g'g.</migmaq> 	
+					<migmaq>Muta mu gisgitmu ta'n goqwei ula 'gtuteminu gisui'g'g.</migmaq>
 					<english>Because I can't read what this (non-Native) friend of ours has written.</english>
 					<soundfile>MutaMuGisgitmuTanGoqweiUlaGtuteminuGisuigg</soundfile>
 				</line>
@@ -7410,7 +7424,7 @@
 					<!--<soundfile></soundfile>-->
 				</line>
 				<line>
-					<migmaq>Na to'q, nige' tapu'gl wen'ju'su'nn ignmulann. Tepiatew?</migmaq> 	
+					<migmaq>Na to'q, nige' tapu'gl wen'ju'su'nn ignmulann. Tepiatew?</migmaq>
 					<english>Okay, now I'm giving you two apples. Will it be enough?</english>
 					<!--<soundfile></soundfile>-->
 				</line>
@@ -7443,7 +7457,7 @@
 					<!--<soundfile></soundfile>-->
 				</line>
 				<line>
-					<migmaq>Aq te'si-gisgug, tapusinnijig atugwa'su'g ignmaqi nmis.</migmaq> 	
+					<migmaq>Aq te'si-gisgug, tapusinnijig atugwa'su'g ignmaqi nmis.</migmaq>
 					<english>And every day, I give my older sister two trout.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
@@ -8013,6 +8027,7 @@
 					<migmaq>Tetaqa'tega, jijuaqa messa'tut's 'gpas'm.</migmaq> 	
 					<english>Hurry up, you'll miss your bus.</english>
 					<!--<soundfile></soundfile>-->
+					<img>1F68D.png</img>
 				</line>
 			</dialog>		
 			<dialog>
@@ -8076,11 +8091,13 @@
 					<migmaq>Pana'tu samqwan.</migmaq> 	
 					<english>Turn on/open the water.</english>
 					<!--<soundfile></soundfile>-->
+					<img>1F6B0.png</img>
 				</line>
 				<line>
 					<migmaq>Ilta'tu samqwan.</migmaq> 	
 					<english>Turn off/close the water.</english>
 					<!--<soundfile></soundfile>-->
+					<img>1F6B1.png</img>
 				</line>
 			</vocab>
 			<vocab>
@@ -8239,7 +8256,7 @@
 					<migmaq>G'psoqwa'tu samqwan.</migmaq> 	
 					<english>Turn off the water.</english>
 					<!--<soundfile></soundfile>-->
-					<img>1F6BF.png</img>
+					<img>1F6B1.png</img>
 				</line>
 				<line>
 					<migmaq>Apaji-gp'soqwa'tu.</migmaq> 	
