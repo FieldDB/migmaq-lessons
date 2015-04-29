@@ -78,6 +78,18 @@
 				<timesig>@20120723-JW-RM-1thru25.wav@0:01.5-0:39.5</timesig>		
 				<dialog>
 					<line>
+						<migmaq>Me'talein?</migmaq>
+						<english>How are you?</english>
+						<soundfile>me'talein</soundfile>
+					</line>
+					<line>
+						<migmaq>Welei</migmaq>
+						<english>I'm fine.</english>
+						<soundfile>welei</soundfile>
+					</line>
+				</dialog>
+				<dialog>
+					<line>
 						<migmaq>Taluisin?</migmaq> 	
 						<english>What's your name?</english>
 						<soundfile>TaluisinCLP</soundfile>
@@ -583,12 +595,12 @@
 					<line>
 						<migmaq>Taluisit 'gtlamugsis?</migmaq> 	
 						<english>What is your uncle's name?</english>
-						<soundfile>NEEDSEDIT-TaluisitGtlamugsis</soundfile>
+						<soundfile>TaluisitGtlamugsis</soundfile>
 					</line>
 					<line>
 						<migmaq>Ntlamugsis Ta'pit teluisit.</migmaq> 	
 						<english>My uncle's name is David.</english>
-						<soundfile>NEEDSEDIT-NtlamugsisTapitTeluisit</soundfile>
+						<soundfile>NtlamugsisTapitTeluisit</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
@@ -1725,27 +1737,27 @@
 					<line>
 						<migmaq>gasg'ptnnaqan</migmaq> 
 						<english>one hundred</english>
-						<soundfile>GasgptnaqanTapu</soundfile>
+						<soundfile>Gasgptnaqan</soundfile>
 					</line>
 					<line>
 						<migmaq>ta'pu gasg'ptnnaqan</migmaq> 
 						<english>two hundred</english>
-						<soundfile>GasgptnaqanSist</soundfile>
+						<soundfile>TapuGasgptnaqan</soundfile>
 					</line>
 					<line>
 						<migmaq>si'st gasg'ptnnaqan</migmaq> 
 						<english>three hundred</english>
-						<soundfile>GasgptnaqanNew</soundfile>
+						<soundfile>SistGasgptnaqan</soundfile>
 					</line>
 					<line>
 						<migmaq>ne'w gasg'ptnnaqan</migmaq> 
 						<english>four hundred</english>
-						<soundfile>GasgptnaqanNan</soundfile>
+						<soundfile>NewGasgptnaqan</soundfile>
 					</line>
 					<line>
 						<migmaq>na'n gasg'ptnnaqan</migmaq> 
 						<english>five hundred</english>
-						<soundfile>Gasgptnaqan</soundfile>
+						<soundfile>NanGasgptnaqan</soundfile>
 					</line>
 				</vocab>
 				<vocab>
@@ -1772,7 +1784,7 @@
 					<line>
 						<migmaq>pituiptnnaqan</migmaq>
 						<english>one thousand</english>
-						<!--<soundfile>pituiptnnaqan</soundfile>-->
+						<soundfile>pituiptnaqan</soundfile>
 					</line>
 				</vocab>
 			</lesson>
@@ -1805,7 +1817,7 @@
 					<line>
 						<migmaq>na'n pituiptnnaqan</migmaq> 	
 						<english>five thousand</english>
-						<!--<soundfile>NanPituiptnnaqan</soundfile>-->
+						<soundfile>NanPituiptnnaqan</soundfile>
 					</line>
 				</vocab>
 				<vocab>
@@ -5170,7 +5182,7 @@
 	<note>In this section, we'll talk about many of the activities you carry out in your daily life. We'll also learn some ways of talking to children. We'll learn words for parts of the body, and how to describe how you feel. We'll end by learning even more ways to ask about where people are going and what they are doing.</note>
 	<note>By now, you can carry out simple conversations with speakers. Try to find some other learners or speakers to practice with&#8212; it'll really help you improve!</note>
 	<unit>
-		<title>Child care, daily routine, house-care, and commands</title>
+		<title>Daily routine</title>
 		<note>Now let's talk about some of the things we do every day.</note>
 		<note>A good way to practice this vocabulary is to narrate your actions to yourself (out loud or in your head) as you get ready in the morning.</note>
 		<lesson>
@@ -5320,7 +5332,7 @@
 				<line>
 					<migmaq>A', te'si-gisg'g, tugwien.</migmaq> 	
 					<english>Ah, every morning, you wake up.</english>
-					<soundfile>Tesigisgg2</soundfile>
+					<soundfile>ATesigisggTugwien</soundfile>
 				</line>
 				<line>
 					<migmaq>Gnpoqoneg elisinn.</migmaq> 	
@@ -7042,7 +7054,7 @@
 				<line>
 					<migmaq>Etllugwen nige'?</migmaq> 	
 					<english>Are you working now?</english>
-					<soundfile>EtllugwenNige_EeEtllugweiTesiGisggNaNewAjietGaqlugweiGatuGisgugNanAjietew_NinMuAmujPaNaElugwewGisgugNmultsToqNanAjiej</soundfile>
+					<soundfile>EtllugwenNige</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e, etllugwei. Te'si-gisg'g na ne'w ajiet gaqlugwei, gatu gisgug na'n ajietew.</migmaq> 	
@@ -7123,7 +7135,7 @@
 					<soundfile>GetuSamqwai</soundfile>
 				</line>
 				<line>
-					<migmaq>Maja'si natsamqwa, toqo smtug naji-'lsma'sit's!</migmaq> 	
+					<migmaq>Maja'si natsamqwa, toqo smtug naji-'lsma'sit's!</migmaq>
 					<english>Go, go have a drink, then you'll go lie down right away!</english>
 					<soundfile>MajasiNatsamqwaToqoSmtugNajiLsmasits</soundfile>
 				</line>
@@ -7920,8 +7932,8 @@
 		</lesson>
 	</unit>-->
 	<unit>
-		<title>Daily conversation</title>
-		<note>You've learned how to have a lot of conversations! In this unit, we'll learn even more helpful conversation phrases.</note>
+		<title>Child care</title>
+		<note>You've learned how to have a lot of conversations! In this unit, we'll learn even more helpful conversation phrases, particularly ones you might use when taking care of children.</note>
 		<lesson>
 			<title>Warnings and Requests</title>
 			<note>So far, we've mostly practiced questions and answers. In this lesson, we'll learn how to give warnings and ask people to do things.</note>
