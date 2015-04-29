@@ -3716,7 +3716,6 @@
 						<migmaq>enmapejit</migmaq> 	
 						<english>carrot</english>
 						<soundfile>EnmapejitClip</soundfile>
-						<img>carrot.gif</img>
 					</line>
 					<line>
 						<migmaq>jijjawignej</migmaq> 	
@@ -3778,6 +3777,7 @@
 						<migmaq>enmapejijig</migmaq> 	
 						<english>carrots</english>
 						<soundfile>EnmapejijigClip</soundfile>
+						<img>carrots.gif</img>
 					</line>
 					<line>
 						<migmaq>jijjawignejg</migmaq> 	
@@ -4217,7 +4217,6 @@
 						<migmaq>Wigp't na enmapejit?</migmaq> 	
 						<english>Do you like (the taste of) that carrot?</english>
 						<soundfile>WigptNaEnmapejit</soundfile>
-						<img>carrot.gif</img>
 					</line>
 					<line>
 						<migmaq>E'e, wigp'g.</migmaq> 	
@@ -4349,7 +4348,6 @@
 						<migmaq>Getupt a...enmapejit?</migmaq> 	
 						<english>Do you want to eat uh...a carrot?</english>
 						<soundfile>GetuptAEnmapejit</soundfile>
-						<img>carrot.gif</img>
 					</line>
 					<line>
 						<migmaq>Moqwa', mu getupaq.</migmaq> 	
