@@ -1,0 +1,189 @@
+<lessonset>
+	<title>Mi'gmaq Language Lessons</title>
+	<generalintro>
+		<genintrotitle>How to use this course</genintrotitle>
+		<genintrotext>Goal, structure of the course, etc.</genintrotext>
+	</generalintro>
+	<section>
+		<title>Beginning Mi'gmaq</title>
+		<note>Welcome to Learn Mi'gmaq Online! In this first section, you will learn the basics of the language. We'll start by learning the sounds of the language. After working on pronunciation and listening, you will learn basic introductions. Next, we will look at how to talk about people. This will help you pick up on some grammatical concepts, like how to talk about different kinds of groups of people, how to count, and how to build basic sentences. This section also includes some tips on how to study Mi'gmaq.</note>
+		<note>It's important to practice along as you hear dialogs. Learning how to speak and understand Mi'gmaq is the primary goal of this website. Although many speakers feel nervous about speaking because everyone makes mistakes as they are learning, the best way to improve your pronunciation is just to practice. Every time you hear a sentence, you should repeat it out loud until you have mastered the rhythm and sounds of the words.</note>
+		<unit>
+			<title>Introduction to Mi'gmaq</title>
+			<note>This unit will introduce you to Mi'gmaq by teaching you how to introduce yourself. You'll learn some useful phrases for doing language-learning in the language. You'll also see some tips for how to practice the language effectively.</note>
+			<lesson>
+				<title>Pronunciation</title>
+				<note>Many of the sounds in Mi'gmaq are just like the sounds in English, so we won't spend a lot of time looking at them on their own.</note>
+				<note>This lesson isn't about learning new vocabulary, so don't worry if you can't remember these words later. We're picking up the sounds of the language before the meaning, just like babies do.</note>
+				<note>The vowels are:</note>
+				<note>'u' as in 'food'</note>
+				<note>'e' as in Canadian 'eh'</note>
+				<note>'i' as in 'fee'</note>
+				<note>'o' as in 'snow'</note>
+				<note>'a' as in 'father'</note>
+				<note>plus a special one written as apostrophe, ', that is pronounced like the 'uh' sound in 'potato'.</note>
+				<note>Vowels mostly sound like their English equivalents. However, there is one sound in Mi'gmaq that doesn't exist in English, the Mi'gmaq sound <m>q</m>.</note>
+				<note>Here are some words with <m>q</m>. Practice saying them to yourself until you feel comfortable with the sound. It's a gutteral sound that you make in the back of your throat.</note>
+				<note>Don't worry if you don't say it perfectly! As you speak more Mi'gmaq, the sound will come more and more easily.</note>
+				<vocab>
+					<line>
+						<migmaq>goqwei</migmaq>
+						<english>what</english>
+						<soundfile>Goqwei</soundfile>
+					</line>
+					<line>
+						<migmaq>aloqoman</migmaq>
+						<english>grape</english>
+						<soundfile>AloqomanClip</soundfile>
+					</line>
+					<line>
+						<migmaq>petaqan</migmaq>
+						<english>pie</english>
+						<soundfile>PetaqanClip</soundfile>
+					</line>
+					<line>
+						<migmaq>pipnaqan</migmaq>
+						<english>bread</english>
+						<soundfile>PipnaqanClip</soundfile>
+					</line>
+				</vocab>
+			</lesson>
+			<lesson>
+				<title>Rhythm</title>
+				<note>Here we will introduce you to the sounds and rhythms of the language. Most of the basic sounds of Mi'gmaq are the same as English: only a few are different.</note>
+				<note>The length of many Mi'gmaq words can scare people, but big words become much easier if you first just focus on catching their rhythm.</note>
+				<note>Rhythm is the main goal of this section. Once you pick up on word-rhythms, it will also help you in picking up the important differences in long and short sounds.</note>
+				<note>The examples below pair words with long and short sounds. The first word, <m>epit</m>, starts with a short <m>e</m>, while <m>e'pit</m> starts with a long <m>e</m>. In the second pair, <m>agusn</m> ends in a short <m>n</m> while <m>agusnn</m> ends in a long one.</note>
+				<note>Think of the patterns of long sound-short sound as rhythm patterns in music, and you will find that you can say them quickly, easily, and accurately.</note>
+				<vocab>
+					<line>
+						<migmaq>epit&#160;&#160;&#160;&#160;&#160;e'pit</migmaq>
+						<english>she/he sits&#160;&#160;&#160;&#160;&#160;woman</english>
+						<!--<soundfile></soundfile>-->
+					</line>
+					<line>
+						<migmaq>agusn&#160;&#160;&#160;&#160;&#160;agusnn</migmaq>
+						<english>hat&#160;&#160;&#160;&#160;&#160;hats</english>
+						<soundfile>Agusn_Agusnn</soundfile>
+					</line>
+				</vocab>
+			</lesson>
+			<lesson>
+				<title>Introductions</title>
+				<note>This lesson will teach you the basics of how to describe yourself and your relations. You will learn how to describe yourself, your family, your home, and your work to others. These are important skills to learn at the beginning, because once you have mastered these basics, you will be able to begin conversations and introduce yourself to other Mi'gmaq speakers when you meet them.
+				</note>
+				<designnote>This lesson starts learners out in the language with the main ways they can describe themselves and their relations: their name, their parents, and where they come from, where they live, and where they work.	Being about to name their parents (and where they come from) right off is a particularly important part of self-introduction for learners, since this allows older speakers from their community to place them	among the people they know.</designnote>
+				<timesig>@20120723-JW-RM-1thru25.wav@0:01.5-0:39.5</timesig>		
+				<dialog>
+					<line>
+						<migmaq>Me'talein?</migmaq>
+						<english>How are you?</english>
+						<soundfile>me'talein</soundfile>
+					</line>
+					<line>
+						<migmaq>Welei</migmaq>
+						<english>I'm fine.</english>
+						<soundfile>welei</soundfile>
+					</line>
+				</dialog>
+				<dialog>
+					<line>
+						<migmaq>Taluisin?</migmaq> 	
+						<english>What's your name?</english>
+						<soundfile>TaluisinCLP</soundfile>
+					</line>
+					<line>
+						<migmaq>Sosep Nuel Teluisi.</migmaq>	
+						<english>My name is Joseph Noel</english>
+						<soundfile>SosepNuelTeluisiCLP</soundfile>
+					</line>
+				</dialog>		
+				<dialog>
+					<line>
+						<migmaq>Wen 'ggij?</migmaq>	
+						<english>Who is your mother?</english>
+						<soundfile>WenGgijCLP</soundfile>
+					</line>
+					<line>
+						<migmaq>'Ngij na Susan Nuel.</migmaq>	
+						<english>My mother is Susan Noel.</english>
+						<soundfile>NgijNaSusanNuelCLP</soundfile>
+					</line>
+				</dialog>		
+				<dialog>
+					<line>
+						<migmaq>Wen gujj?</migmaq>	
+						<english>Who is your father?</english>
+						<soundfile>WenGujjCLP</soundfile>
+					</line>
+					<line>
+						<migmaq>Nujj na Piel Nuel.</migmaq>	
+						<english>My father is Peter Noel.</english>
+						<soundfile>NujjNaPielNuel</soundfile>
+					</line>
+				</dialog>		
+				<dialog>
+					<line>
+						<migmaq>Tami tett tleiawin?</migmaq>	
+						<english>Where are you from?</english>
+						<soundfile>TamiTettTleiawinCLP</soundfile>
+					</line>
+					<line>
+						<migmaq>Listugujg tleiawi.</migmaq>	
+						<english>I am from Listuguj.</english>
+						<soundfile>ListugujgTleiawiCLP</soundfile>
+					</line>
+				</dialog>		
+				<dialog>
+					<line>
+						<migmaq>Tami tett tleiawit 'ggij?</migmaq>	
+						<english>Where is your mother from?</english>
+						<soundfile>TamiTettTleiawitGgijCLP</soundfile>
+					</line>
+					<line>
+						<migmaq>'Ngij Listugujg tleiawit.</migmaq>	
+						<english>My mother is from Listuguj.</english>
+						<soundfile>NgijListugujgTleiawitCLP</soundfile>
+					</line>
+				</dialog>		
+				<dialog>
+					<line>
+						<migmaq>Tami tett tleiawit gujj?</migmaq>	
+						<english>Where is your father from?</english>
+						<soundfile>TamiTettTleiawitGujjCLP</soundfile>
+					</line>
+					<line>
+						<migmaq>'Nujj elg Listugujg tleiawit.</migmaq>	
+						<english>My father is also from Listuguj.</english>
+						<soundfile>NujjElgListugujgTleiawitCLP</soundfile>
+					</line>
+				</dialog>		
+				<dialog>
+					<line>
+						<migmaq>Tami tett wigin?</migmaq>	
+						<english>Where do you live?</english>
+						<soundfile>TamiTettWiginCLP</soundfile>
+					</line>
+					<line>
+						<migmaq>Listugujg wigi.</migmaq>	
+						<english>I live in Listuguj.</english>
+						<soundfile>ListugujgWigiCLP</soundfile>
+					</line>
+				</dialog>		
+				<dialog>
+					<line>
+						<migmaq>Tami tett etllugwen?</migmaq>	
+						<english>Where do you work?</english>
+						<soundfile>TamiTettEtllugwenCLP</soundfile>
+					</line>
+					<line>
+						<migmaq>Qamawtig a's'tuo'guomg.</migmaq>	
+						<english>Across from the church.</english>
+						<soundfile>QamawtigAstuoguomg</soundfile>
+						<img>26EA.png</img>
+					</line>
+				</dialog>
+			</lesson>
+		</unit>
+	</section>
+</lessonset>
