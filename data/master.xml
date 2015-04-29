@@ -15,6 +15,60 @@
 			<note>This unit will introduce you to Mi'gmaq by teaching you how to introduce yourself. You'll learn some useful phrases for doing language-learning in the language. You'll also see some tips for how to practice the language effectively.</note>
 			<lesson>
 				<title>Pronunciation</title>
+				<note>Many of the sounds in Mi'gmaq are just like the sounds in English, so we won't spend a lot of time looking at them on their own.</note>
+				<note>This lesson isn't about learning new vocabulary, so don't worry if you can't remember these words later. We're picking up the sounds of the language before the meaning, just like babies do.</note>
+				<note>The vowels are:</note>
+				<note>'u' as in 'food'</note>
+				<note>'e' as in Canadian 'eh'</note>
+				<note>'i' as in 'fee'</note>
+				<note>'o' as in 'snow'</note>
+				<note>'a' as in 'father'</note>
+				<note>plus a special one written as apostrophe, ', that is pronounced like the 'uh' sound in 'potato'.</note>
+				<note>Vowels mostly sound like their English equivalents. However, there is one sound in Mi'gmaq that doesn't exist in English, the Mi'gmaq sound <m>q</m>.</note>
+				<note>Here are some words with <m>q</m>. Practice saying them to yourself until you feel comfortable with the sound. It's a gutteral sound that you make in the back of your throat.</note>
+				<note>Don't worry if you don't say it perfectly! As you speak more Mi'gmaq, the sound will come more and more easily.</note>
+				<vocab>
+					<line>
+						<migmaq>goqwei</migmaq>
+						<english>what</english>
+						<soundfile>Goqwei</soundfile>
+					</line>
+					<line>
+						<migmaq>aloqoman</migmaq>
+						<english>grape</english>
+						<soundfile>AloqomanClip</soundfile>
+					</line>
+					<line>
+						<migmaq>petaqan</migmaq>
+						<english>pie</english>
+						<soundfile>PetaqanClip</soundfile>
+					</line>
+					<line>
+						<migmaq>pipnaqan</migmaq>
+						<english>bread</english>
+						<soundfile>PipnaqanClip</soundfile>
+					</line>
+				</vocab>
+			</lesson>
+			<lesson>
+				<title>Rhythm</title>
+				<note>Here we will introduce you to the sounds and rhythms of the language. Most of the basic sounds of Mi'gmaq are the same as English: only a few are different.</note>
+				<note>The length of many Mi'gmaq words can scare people, but big words become much easier if you first just focus on catching their rhythm.</note>
+				<note>Rhythm is the main goal of this section. Once you pick up on word-rhythms, it will also help you in picking up the important differences in long and short sounds.</note>
+				<note>The examples below pair words with long and short sounds. The first word, <m>epit</m>, starts with a short <m>e</m>, while <m>e'pit</m> starts with a long <m>e</m>. In the second pair, <m>agusn</m> ends in a short <m>n</m> while <m>agusnn</m> ends in a long one.</note>
+				<note>Think of the patterns of long sound-short sound as rhythm patterns in music, and you will find that you can say them quickly, easily, and accurately.</note>
+				<vocab>
+					<line>
+						<migmaq>epit&#160;&#160;&#160;&#160;&#160;e'pit</migmaq>
+						<english>she/he sits&#160;&#160;&#160;&#160;&#160;woman</english>
+						<!--<soundfile></soundfile>-->
+					</line>
+					<line>
+						<migmaq>agusn&#160;&#160;&#160;&#160;&#160;agusnn</migmaq>
+						<english>hat&#160;&#160;&#160;&#160;&#160;hats</english>
+						<soundfile>Agusn_Agusnn</soundfile>
+					</line>
+				</vocab>
 			</lesson>
 			<lesson>
 				<title>Introductions</title>
@@ -283,7 +337,7 @@
 				<note>Mi'gmaq is a language where speakers often draw on the knowledge that they share as members of the same (or a closely related) community. For this reason, some normal ways of talking in Mi'gmaq can seem not as specific as what English speakers are used to.</note>
 				<note>In Listuguj, for example, <m>qame'g</m> 'across (the river)' can often specifically mean Campbellton, and <m>gm'tnigtug</m> 'at the mountain' can often specifically mean the Sugarloaf. This way of talking is effective because speakers draw on their common understanding of where they are and which specific places would naturally tie to those words.</note>
 				<note>For the same reason, it is normal and in fact more natural in Mi'gmaq to say 'speak Native' when talking about speaking the Mi'gmaq language. More specific expressions are possible, but are usually only used when really needed, say, to talk about speaking different kinds of Native languages.</note>
-				<designnote>Introducing 'speak &#95;&#95;&#95;' verb in the form of 'speak Native'. Pointing out that 'speak Native' is the more common/natural way for Mi'gmaq speaks to convey what would usually be said in English as 'speak Mi'gmaq'. Also briefly introducing <m>nige'</m> 'now' and <m>getu'-</m> 'want to, going to', and the <m>-nej</m> 'let's...' patterns.</designnote>
+				<designnote>Introducing 'speak &#95;&#95;&#95;' verb in the form of 'speak Native'. Pointing out that 'speak Native' is the more common/natural way for Mi'gmaq speaks to convey what would usually be said in English as 'speak Mi'gmaq'. Also briefly introducing <m>nige'</m> 'now' and <m>getu'-</m> 'want to, going to', and the <m>-nej</m> 'let's&#95;&#95;&#95;' patterns.</designnote>
 				<timesig>@20120723-JW-RM-1thru25.wav@4:30-4:39</timesig>		
 				<dialog>
 					<line>
