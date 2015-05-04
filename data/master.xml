@@ -7225,6 +7225,460 @@
 			</dialog>
 		</lesson>
 		<lesson>
+			<title>Weather Vocabulary</title>
+			<note>Let's learn some words to talk about weather. We'll use these in the next lesson to explore tense.</note>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg0</soundfile>
+				</line>
+				<line>
+					<migmaq>Etug getu' gaqtugawig.</migmaq>
+					<english>It might thunder.</english>
+					<soundfile>thunderClouds</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg1</soundfile>
+				</line>
+				<line>
+					<migmaq>Ewlams'n nemi'g aq elt wasoq'tesg.</migmaq>
+					<english>Looks like tornadoes and lightning.</english>
+					<soundfile>TornadoLighti</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg2</soundfile>
+				</line>
+				<line>
+					<migmaq>Wasoq'tesg aq gaqtugawig.</migmaq>
+					<english>Thunder and lightning.</english>
+					<soundfile>lightningThunder</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg3</soundfile>
+				</line>
+				<line>
+					<migmaq>Pesaq.</migmaq>
+					<english>Snowing.</english>
+					<soundfile>Snowing</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taliag?</migmaq>
+					<english>What's happening?</english>
+					<soundfile>Taliag0</soundfile>
+				</line>
+				<line>
+					<migmaq>Nujgma'q wastew.</migmaq>
+					<english>Melting snow.</english>
+					<soundfile>MeltingSnow</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg4</soundfile>
+				</line>
+				<line>
+					<migmaq>'Msi'gug</migmaq>
+					<english>Hail</english>
+					<soundfile>Hail</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Tami na tet?</migmaq>
+					<english>Where is this?</english>
+					<soundfile>TamiNaTet0</soundfile>
+				</line>
+				<line>
+					<migmaq>Nipugtug.</migmaq>
+					<english>Woods.</english>
+					<soundfile>woods</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg5</soundfile>
+				</line>
+				<line>
+					<migmaq>Epteg.</migmaq>
+					<english>Hot.</english>
+					<soundfile>Hot</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taliula'gw?</migmaq>
+					<english></english>
+					<soundfile>Taliulagw0</soundfile>
+				</line>
+				<line>
+					<migmaq>Weliula'gw.</migmaq>
+					<english>Nice evening.</english>
+					<soundfile>NiceEvening</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg6</soundfile>
+				</line>
+				<line>
+					<migmaq>Saqaniaq.</migmaq>
+					<english>Melting snow.</english>
+					<soundfile>Melting</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun1</soundfile>
+				</line>
+				<line>
+					<migmaq>Walqwan.</migmaq>
+					<english>Rainbow.</english>
+					<soundfile>Rainbow</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'g?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun2</soundfile>
+				</line>
+				<line>
+					<migmaq>Etlpanigs'g.</migmaq>
+					<english>Drifting snow.</english>
+					<soundfile>DriftingSnow</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg7</soundfile>
+				</line>
+				<line>
+					<migmaq>Gigpesaq.</migmaq>
+					<english>Raining.</english>
+					<soundfile>Rain</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun3</soundfile>
+				</line>
+				<line>
+					<migmaq>Ewlams'n.</migmaq>
+					<english>A tornado.</english>
+					<soundfile>Tornado</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun4</soundfile>
+				</line>
+				<line>
+					<migmaq>Wenji'guom aq tepgunset.</migmaq>
+					<english>A house moon.</english>
+					<soundfile>HouseMoon</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun5</soundfile>
+				</line>
+				<line>
+					<migmaq>Emaptoq.</migmaq>
+					<english>Tracks.</english>
+					<soundfile>Tracks</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun6</soundfile>
+				</line>
+				<line>
+					<migmaq>Sisguwig.</migmaq>
+					<english>Muddy.</english>
+					<soundfile>Muddy</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg8</soundfile>
+				</line>
+				<line>
+					<migmaq>Na'gu 'setewig aq alugwiaq.</migmaq>
+					<english>Sunny and cloudy.</english>
+					<soundfile>SunnyCloudy</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun7</soundfile>
+				</line>
+				<line>
+					<migmaq>'Tgu'g.</migmaq>
+					<english>Waves.</english>
+					<soundfile>Waves</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg9</soundfile>
+				</line>
+				<line>
+					<migmaq>Ma 'munitge'g.</migmaq>
+					<english>Very cold.</english>
+					<soundfile>VeryCold</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg10</soundfile>
+				</line>
+				<line>
+					<migmaq>Gigpesa'ji'g.</migmaq>
+					<english>Showers.</english>
+					<soundfile>Showers</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg11</soundfile>
+				</line>
+				<line>
+					<migmaq>Alugigisg'g.</migmaq>
+					<english>Cloudy.</english>
+					<soundfile>Cloudy</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun8</soundfile>
+				</line>
+				<line>
+					<migmaq>Miti'sg.</migmaq>
+					<english>Trees.</english>
+					<soundfile>Trees</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'un?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun9</soundfile>
+				</line>
+				<line>
+					<migmaq>Nipugt aq gospem.</migmaq>
+					<english>Woods and lake.</english>
+					<soundfile>WoodsLake</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg12</soundfile>
+				</line>
+				<line>
+					<migmaq>Gaqtugwawig.</migmaq>
+					<english>Thundering.</english>
+					<soundfile>Thundering</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'un?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun10</soundfile>
+				</line>
+				<line>
+					<migmaq>Na'gu'set nemi'g.</migmaq>
+					<english>I see the sun.</english>
+					<soundfile>Sun</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg13</soundfile>
+				</line>
+				<line>
+					<migmaq>Na'gu'setewig.</migmaq>
+					<english>Sunny.</english>
+					<soundfile>Sunny</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'un?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun11</soundfile>
+				</line>
+				<line>
+					<migmaq>Na'gu'set qalqwasiet.</migmaq>
+					<english>The setting sun.</english>
+					<soundfile>SettingSun</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg14</soundfile>
+				</line>
+				<line>
+					<migmaq>Tegigisg'g.</migmaq>
+					<english>Cold.</english>
+					<soundfile>Cold</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'un?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun12</soundfile>
+				</line>
+				<line>
+					<migmaq>Gegpewisg.</migmaq>
+					<english>Dew.</english>
+					<soundfile>Dew</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Talitge'g?</migmaq>
+					<english></english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>Tege'ji'jg.</migmaq>
+					<english>Cool.</english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg15</soundfile>
+				</line>
+				<line>
+					<migmaq>U'nig.</migmaq>
+					<english>Foggy.</english>
+					<soundfile></soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg16</soundfile>
+				</line>
+				<line>
+					<migmaq>Saqpigisg'g.</migmaq>
+					<english>Foggy day.</english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What's visible?</english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>Maqtawamugsit tepgnuset.</migmaq>
+					<english>A dark moon.</english>
+					<soundfile></soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg17</soundfile>
+				</line>
+				<line>
+					<migmaq>Mesie'waq.</migmaq>
+					<english>Drizzle.</english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>Taliaq?</migmaq>
+					<english>What's going on?</english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>Mespo'qeg.</migmaq>
+					<english>Flooding.</english>
+					<soundfile></soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg18</soundfile>
+				</line>
+				<line>
+					<migmaq>Epteg.</migmaq>
+					<english>Hot.</english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg19</soundfile>
+				</line>
+				<line>
+					<migmaq>Ewlansn wejgu'wet.</migmaq>
+					<english>Hurricane.</english>
+					<soundfile></soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What's visible?</english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>'Mgumi'gnig nipug.</migmaq>
+					<english>Icy woods.</english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg20</soundfile>
+				</line>
+				<line>
+					<migmaq>Etlwasoqotesg.</migmaq>
+					<english>Lightning.</english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What's visible?</english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>Wastew etlnujgma'q.</migmaq>
+					<english>Melting snow.</english>
+					<soundfile></soundfile>
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
 			<title>Weather and tense</title>
 			<note>In this lesson, we'll learn how to talk about the weather in the past, present, and future. Taking the present tense as the default, the past and future show up as different endings on the verb.</note>
 			<note>In general, past = <m>-p</m> and future = <m>-tew</m> (sometimes, you see other letters hanging on to these ones to make them easier to pronouce).</note>
@@ -8463,7 +8917,7 @@
 			</vocab>
 			<vocab>
 				<line>
-					<migmaq>O', mu nugu' welgmu'n ula magot. Segg'teg.</migmaq> 	
+					<migmaq>O', mu nugu' welgmu'n ula magot. Segg'teg.</migmaq>
 					<english>Oh, this dress doesn't fit you any more. It's tight.</english>
 					<!--<soundfile></soundfile>-->
 					<img>1F457.png</img>
