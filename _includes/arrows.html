@@ -1,15 +1,14 @@
 <!--this bit goes at the bottom of the content loaded, so we can navigate between different exercises -->
   <div class = "container-fluid">
     <ul class="pager">
-      <!--need to chage these links to refer to the previous and next pages-->
       <li class = "previous">
-      	<a href={{ page.prev }}><span aria-hidden="true">&larr;</span>Previous {{ include.type }}</a>
+      	<a href={{ page.prev }}><span>&larr;</span>Previous {{ include.type }}</a>
       </li>
       <li class="pager">
         <a href="https://docs.google.com/forms/d/1NQDrKk0ksvVxuLoMstkXfVfqiDH-v9pyPzChdkfnyvo/viewform?entry.1313424995={{ page.url }}&entry.518697292&entry.427234773&entry.495380909&entry.1071010874">Correct a Mistake</a>
       </li>
       <li class = "next">
-      	<a href = {{ page.foll }}>Next {{ include.type }}<span aria-hidden="true">&rarr;</span>
+      	<a href = {{ page.foll }}>Next {{ include.type }}<span>&rarr;</span>
       	</a>
       </li>
     </ul>
