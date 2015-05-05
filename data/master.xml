@@ -7615,6 +7615,120 @@
 			</dialog>
 		</lesson>
 		<lesson>
+			<title>Living room vocabulary</title>
+			<note>Here are words to describe a living room.</note>
+			<vocab>
+				<line>
+					<migmaq>a'se'g</migmaq>
+					<english>Living room</english>
+					<soundfile>LivingRoom1</soundfile>
+				</line>
+				<line>
+					<migmaq>saq'mawo'guom</migmaq>
+					<english>Living room</english>
+					<soundfile>LivingRoom2</soundfile>
+				</line>
+				<line>
+					<migmaq>wijigmatultijig</migmaq>
+					<english>family</english>
+					<soundfile>Family</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>tuop'ti</migmaq>
+					<english>window</english>
+					<soundfile>Window</soundfile>
+				</line>
+				<line>
+					<migmaq>legepilaqan</migmaq>
+					<english>curtain</english>
+					<soundfile>Curtain</soundfile>
+				</line>
+				<line>
+					<migmaq>gegna'juej</migmaq>
+					<english>carpet</english>
+					<soundfile>Carpet</soundfile>
+				</line>
+				<line>
+					<migmaq>pugto'guom</migmaq>
+					<english>fireplace</english>
+					<soundfile>Fireplace</soundfile>
+				</line>
+				<line>
+					<migmaq>gastesgemgewei</migmaq>
+					<english>rug</english>
+					<soundfile>Rug</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>amalaptaqan</migmaq>
+					<english>television</english>
+					<soundfile>Television</soundfile>
+				</line>
+				<line>
+					<migmaq>jigs'tm'gewei</migmaq>
+					<english>radio</english>
+					<soundfile>Radio</soundfile>
+				</line>
+				<line>
+					<migmaq>gesigawapaqamgewe'l</migmaq>
+					<english>speakers</english>
+					<soundfile>Speakers</soundfile>
+				</line>
+				<line>
+					<migmaq>altaqte'gemgewei</migmaq>
+					<english>phone</english>
+					<soundfile>Phone</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>wi'gatign</migmaq>
+					<english>book</english>
+					<soundfile>Book</soundfile>
+				</line>
+				<line>
+					<migmaq>wi'gatign</migmaq>
+					<english>magazine</english>
+					<soundfile>Magazine</soundfile>
+				</line>
+				<line>
+					<migmaq>amalwi'gaqan</migmaq>
+					<english>painting</english>
+					<soundfile>Painting</soundfile>
+				</line>
+				<line>
+					<migmaq>napwi'gn</migmaq>
+					<english>picture</english>
+					<soundfile>Photograph-Pic</soundfile>
+				</line>
+				<line>
+					<migmaq>napwi'gignei palgaqan</migmaq>
+					<english>picture frame</english>
+					<soundfile>PictureFrame</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq></migmaq>
+					<english>candle</english>
+					<soundfile>Candle</soundfile>
+				</line>
+				<line>
+					<migmaq>patawti'j</migmaq>
+					<english>coffee table</english>
+					<soundfile>CoffeeTable</soundfile>
+				</line>
+				<line>
+					<migmaq>wasuego'q</migmaq>
+					<english>vase</english>
+					<soundfile>Vase</soundfile>
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
 			<title>Want to practice</title>
 			<note>This dialogue shows a couple words that have getu' built right into them! Can you figure out why <m>getu'</m> might always be a part of those words?</note>
 			<designnote>These highlight the few words that idiomatically have <m>getu'-</m> built into them, both to help students see the connection and not be confused by it.</designnote>
@@ -7815,6 +7929,96 @@
 		<title>Daily routine for children</title>
 		<note>You've learned how to have a lot of conversations! In this unit, we'll talk through a parent's morning routine with their children. Along the way, we'll practice the household vocabulary we've been learning.</note>
 		<lesson>
+			<title>Bedroom vocabulary</title>
+			<note>Here are words to describe a bedroom.</note>
+			<vocab>
+				<line>
+					<migmaq>etlne'p'timg</migmaq>
+					<english>bedroom</english>
+					<soundfile>etlne'p'timg</soundfile>
+				</line>
+				<line>
+					<migmaq>etlinpamg</migmaq>
+					<english>bedroom</english>
+					<soundfile>etlinpamg</soundfile>
+				</line>
+				<line>
+					<migmaq>aligewo'uomji'j</migmaq>
+					<english>closet</english>
+					<soundfile>Closet</soundfile>
+				</line>
+				<line>
+					<migmaq>wasoq'testaqan</migmaq>
+					<english>lightswitch</english>
+					<soundfile>LightSwitch</soundfile>
+				</line>
+				<line>
+					<migmaq>wasoqmamgewei</migmaq>
+					<english>lamp</english>
+					<soundfile>Lamp</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>'mpo'qon</migmaq>
+					<english>bed</english>
+					<soundfile>Bed</soundfile>
+				</line>
+				<line>
+					<migmaq>naqsung</migmaq>
+					<english>bedsheets</english>
+					<soundfile>BedSheets</soundfile>
+				</line>
+				<line>
+					<migmaq>a'su'n</migmaq>
+					<english>blanket</english>
+					<soundfile>Blanket</soundfile>
+				</line>
+				<line>
+					<migmaq>tu'gwesmun</migmaq>
+					<english>pillow</english>
+					<soundfile>Pillow</soundfile>
+				</line>
+				<line>
+					<migmaq>tu'gwesmunei</migmaq>
+					<english>pillowcase</english>
+					<soundfile>PillowCase</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>wi'gatigno'guom</migmaq>
+					<english>bookcase</english>
+					<soundfile>wi'gatigno'guom</soundfile>
+				</line>
+				<line>
+					<migmaq>epwi'gigemgewei</migmaq>
+					<english>desk</english>
+					<soundfile>Desk</soundfile>
+				</line>
+				<line>
+					<migmaq>masqo'tegemgewei</migmaq>
+					<english>dresser</english>
+					<soundfile>masqo'tegemgewei</soundfile>
+				</line>
+				<line>
+					<migmaq>ugsuateja'taqanei</migmaq>
+					<english>dresser</english>
+					<soundfile>ugsuateja'taqanei</soundfile>
+				</line>
+				<line>
+					<migmaq>plu'jaqamati</migmaq>
+					<english>mirror</english>
+					<soundfile>Mirror2</soundfile>
+				</line>
+				<line>
+					<migmaq>napwi'gign</migmaq>
+					<english>poster</english>
+					<soundfile>Poster</soundfile>
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
 			<title>Getting up</title>
 			<note>This lesson is meant to help you practice conversation you might use around children. It's a dialog about getting ready in the morning.</note>		
 			<dialog>
@@ -7869,7 +8073,7 @@
 			</dialog>
 		</lesson>
 		<lesson>
-			<title>Using bathroom, taking baths, brushing teeth</title>
+			<title>Using the bathroom</title>
 			<note>Let's continue the previous lesson by learning bathroom phrases.</note>
 			<vocab>
 				<line>
@@ -7877,6 +8081,11 @@
 					<english>Go, go pee.</english>
 					<!--<soundfile></soundfile>-->
 					<img>1F6BD.png</img>
+				</line>
+				<line>
+					<migmaq>Gasiptna'si.</migmaq> 	
+					<english>Wash your hands.</english>
+					<!--<soundfile></soundfile>-->
 				</line>
 			</vocab>
 			<vocab>
@@ -7888,6 +8097,11 @@
 				<line>
 					<migmaq>Ge' gasigo'tlulap.</migmaq> 	
 					<english>Let me wash your face.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Gasigwa'si.</migmaq> 	
+					<english>Wash your face.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
 			</vocab>
@@ -7903,6 +8117,178 @@
 					<english>Turn off/close the water.</english>
 					<!--<soundfile></soundfile>-->
 					<img>1F6B1.png</img>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>'Gsispa'tu gipitl.</migmaq> 	
+					<english>Brush your teeth.</english>
+				<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Tami eteg 'gtoothbrushm?</migmaq> 	
+					<english>Where's your toothbrush?</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>G'psoqwa'tu samqwan.</migmaq> 	
+					<english>Turn off the water.</english>
+					<!--<soundfile></soundfile>-->
+					<img>1F6B1.png</img>
+				</line>
+				<line>
+					<migmaq>Apaji-gp'soqwa'tu.</migmaq> 	
+					<english>Put the cap back on (the toothpaste).</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
+			<title>Bathroom vocabulary</title>
+			<note>Here are some useful bathroom words.</note>
+			<vocab>
+				<line>
+					<migmaq>elugaqtmamgewei</migmaq>
+					<english>bathroom</english>
+					<soundfile>Bathroom</soundfile>
+				</line>
+				<line>
+					<migmaq>etlapalsimg</migmaq>
+					<english>bathtub</english>
+					<soundfile>BathTub</soundfile>
+				</line>
+				<line>
+					<migmaq>gasiga'wsuitio'q</migmaq>
+					<english>sink</english>
+					<soundfile>Sink</soundfile>
+				</line>
+				<line>
+					<migmaq>samqwanwijijuig</migmaq>
+					<english>faucet</english>
+					<soundfile>Faucet</soundfile>
+				</line>
+				<line>
+					<migmaq>mi'jano'guti</migmaq>
+					<english>toilet</english>
+					<soundfile>Toilet</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>wipitei waqam'taqan</migmaq>
+					<english>toothpaste</english>
+					<soundfile>Toothpaste</soundfile>
+				</line>
+				<line>
+					<migmaq>wipitei plos</migmaq>
+					<english>toothbrush</english>
+					<soundfile>Toothbrush</soundfile>
+				</line>
+				<line>
+					<migmaq>ga'jijo'qn</migmaq>
+					<english>toilet paper</english>
+					<soundfile>ToiletPaper</soundfile>
+				</line>
+				<line>
+					<migmaq>a'jijgopilaqanji'j</migmaq>
+					<english>bandage</english>
+					<soundfile>Bandage</soundfile>
+				</line>
+				<line>
+					<migmaq>elapaqignei</migmaq>
+					<english>scale</english>
+					<soundfile>Scale</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>suspanign</migmaq>
+					<english>soap</english>
+					<soundfile>Soap</soundfile>
+				</line>
+				<line>
+					<migmaq>sapun niwnmegewei</migmaq>
+					<english>shower cap</english>
+					<soundfile>ShowerCap</soundfile>
+				</line>
+				<line>
+					<migmaq>usapunei suspanign</migmaq>
+					<english>shampoo</english>
+					<soundfile>Shampoo</soundfile>
+				</line>
+				<line>
+					<migmaq>gasigo's'ti'l etlipiasmg</migmaq>
+					<english>towel rack</english>
+					<soundfile>TowelRack</soundfile>
+				</line>
+				<line>
+					<migmaq>gasigo's'ti</migmaq>
+					<english>towel</english>
+					<soundfile>Towel2</soundfile>
+				</line>
+				<line>
+					<migmaq>ewtpugua'timgewei</migmaq>
+					<english>bath mat</english>
+					<soundfile>BathMat</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>plu'jaqamati</migmaq>
+					<english>mirror</english>
+					<soundfile>Mirror</soundfile>
+				</line>
+				<line>
+					<migmaq>newjoqsuti</migmaq>
+					<english>fan</english>
+					<soundfile>newjoqsuti</soundfile>
+				</line>
+				<line>
+					<migmaq>ugju'snei</migmaq>
+					<english>fan</english>
+					<soundfile>ugju'snei</soundfile>
+				</line>
+				<line>
+					<migmaq>'npisuno'guomji'j</migmaq>
+					<english>cabinet</english>
+					<soundfile>Cabinet</soundfile>
+				</line>
+				<line>
+					<migmaq>ge'gupo'tasimgewei</migmaq>
+					<english>counter</english>
+					<soundfile>Counter</soundfile>
+				</line>
+				<line>
+					<migmaq>mutputi'j-jimpegnewemgewei</migmaq>
+					<english>stool</english>
+					<soundfile>Stool</soundfile>
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
+			<title>Taking a bath or shower</title>
+			<note>Here is how to talk about washing.</note>
+			<vocab>
+				<line>
+					<migmaq>'Gsispalsi.</migmaq> 	
+					<english>Wash yourself / take a bath.</english>
+					<!--<soundfile></soundfile>-->
+					<img>1F6C0.png</img>
+				</line>
+				<line>
+					<migmaq>'Gsispa'tu gusapunn.</migmaq> 	
+					<english>Wash your hair.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Gwija'si.</migmaq> 	
+					<english>Get into the water [= the tub].</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Gwija'si samqwanigtug aq 'gsispalsi.</migmaq> 	
+					<english>Get into the water and wash yourself.</english>
+					<!--<soundfile></soundfile>-->
 				</line>
 			</vocab>
 			<vocab>
@@ -7964,41 +8350,6 @@
 			</vocab>
 			<vocab>
 				<line>
-					<migmaq>Gwija'si.</migmaq> 	
-					<english>Get into the water [= the tub].</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Gwija'si samqwanigtug aq 'gsispalsi.</migmaq> 	
-					<english>Get into the water and wash yourself.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>'Gsispalsi.</migmaq> 	
-					<english>Wash yourself / take a bath.</english>
-					<!--<soundfile></soundfile>-->
-					<img>1F6C0.png</img>
-				</line>
-				<line>
-					<migmaq>Gasigwa'si.</migmaq> 	
-					<english>Wash your face.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Gasiptna'si.</migmaq> 	
-					<english>Wash your hands.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>'Gsispa'tu gusapunn.</migmaq> 	
-					<english>Wash your hair.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-			<vocab>
-				<line>
 					<migmaq>Ge' gesispa'tulapnn gusapunn.</migmaq> 	
 					<english>Let me wash your hair.</english>
 					<!--<soundfile></soundfile>-->
@@ -8046,27 +8397,47 @@
 					<!--<soundfile></soundfile>-->
 				</line>
 			</vocab>
+		</lesson>
+		<lesson>
+			<title>Taking care of clothes</title>
+			<note>Here is some vocabulary for taking care of clothes.</note>
 			<vocab>
 				<line>
-					<migmaq>'Gsispa'tu gipitl.</migmaq> 	
-					<english>Brush your teeth.</english>
-				<!--<soundfile></soundfile>-->
+					<migmaq>'gsistaqanewemgeweio'q</migmaq>
+					<english>laundry hamper</english>
+					<soundfile>LaundryBasket</soundfile>
 				</line>
 				<line>
-					<migmaq>Tami eteg 'gtoothbrushm?</migmaq> 	
-					<english>Where's your toothbrush?</english>
-					<!--<soundfile></soundfile>-->
+					<migmaq>gesistaqanewemgewei</migmaq>
+					<english>washing machine</english>
+					<soundfile>WashingMachine</soundfile>
 				</line>
 				<line>
-					<migmaq>G'psoqwa'tu samqwan.</migmaq> 	
-					<english>Turn off the water.</english>
-					<!--<soundfile></soundfile>-->
-					<img>1F6B1.png</img>
+					<migmaq>gispasewemgewei</migmaq>
+					<english>clothes dryer</english>
+					<soundfile>ClothesDryer</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>ugsuateja'taqan</migmaq>
+					<english>drawer</english>
+					<soundfile>Drawer</soundfile>
 				</line>
 				<line>
-					<migmaq>Apaji-gp'soqwa'tu.</migmaq> 	
-					<english>Put the cap back on (the toothpaste).</english>
-					<!--<soundfile></soundfile>-->
+					<migmaq>jitnaqe'gn</migmaq>
+					<english>iron</english>
+					<soundfile>jitnaqe'gn</soundfile>
+				</line>
+				<line>
+					<migmaq>jitnaqe'gnei</migmaq>
+					<english>iron</english>
+					<soundfile>jitnaqe'gnei</soundfile>
+				</line>
+				<line>
+					<migmaq>wesgijinaqei'gemg</migmaq>
+					<english>ironing board</english>
+					<soundfile>IroningBoard</soundfile>
 				</line>
 			</vocab>
 		</lesson>
@@ -9290,6 +9661,7 @@
 					<migmaq>'mtawegn</migmaq>
 					<english>flag</english>
 					<soundfile>flag</soundfile>
+					<img>1F6A9.png</img>
 				</line>
 				<line>
 					<migmaq>ala'lugwa'lueg</migmaq>
