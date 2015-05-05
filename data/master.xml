@@ -7018,8 +7018,159 @@
 	<title>Childcare</title>
 	<note>You've learned a lot so far! In this lesson, we'll practice some more advanced verb forms to help express desire and necessity. The vocabulary in this section will focus on childcare and words to practice with children.</note>
 	<unit>
+		<title>Taking care of children</title>
+		<note>This unit teaches how to give warnings and commands to children. It also practices some vocabulary that is useful around children.</note>
+		<lesson>
+			<title>Warnings and Requests</title>
+			<note>So far, we've mostly practiced questions and answers. In this lesson, we'll learn how to give warnings and ask people to do things.</note>
+			<designnote>
+			</designnote>
+			<vocab>
+				<line>
+					<migmaq>Ango'te'n!</migmaq> 	
+					<english>Take care! Watch out!</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Apoqonmultes.</migmaq> 	
+					<english>I'll help you.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Jugu'a.</migmaq> 	
+					<english>Come here.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Ignmui.</migmaq> 	
+					<english>Give it to me.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Jugua'tui.</migmaq> 	
+					<english>Bring me it.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Musga'tui.</migmaq> 	
+					<english>Show me it.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Nmisge'n, nmisgu.</migmaq> 	
+					<english>Go get it.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Iga'tu.</migmaq> 	
+					<english>Put it down, let it go.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Ugsua'tu.</migmaq> 	
+					<english>Take it.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Jugwa'tu.</migmaq> 	
+					<english>Bring it here.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Masgwa'tu.</migmaq> 	
+					<english>Show it.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Pa'si.</migmaq> 	
+					<english>Sit down.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Qama'si.</migmaq> 	
+					<english>Stand up.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Qami na'te'l.</migmaq> 	
+					<english>Stand there.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Lsma'si.</migmaq> 	
+					<english>Lie down.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
+			<title>Requests for children</title>
+			<note>Here are some helpful commands and requests for when you are taking care fo children.</note>
+			<vocab>
+				<line>
+					<migmaq>Esgma.</migmaq> 	
+					<english>Wait.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Esgmali.</migmaq> 	
+					<english>Wait for me.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Puntoqsi.</migmaq> 	
+					<english>Be quiet.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Giju' natnmi.</migmaq> 	
+					<english>Go see Grandma.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Mutt sama'tu, epteg!</migmaq> 	
+					<english>Don't touch it, it's hot!</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Mutt sama'tu, mejige'g!</migmaq> 	
+					<english>Don't touch it, it's dirty!</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Mutt 'tqamaw!</migmaq> 	
+					<english>Don't hit h/her!</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<designnote>Punta'! 'Stop hitting h/her!'</designnote>
+				<line>
+					<migmaq>Punajeiu!</migmaq> 	
+					<english>Leave h/her alone, stop bothering h/her!</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Puni-al'tugwie'n, nun'ji gesnugwig.</migmaq> 	
+					<english>Stop running around, I have a headache.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
+			<title>Colors</title>
+			<note>Here are the names of colors.</note>
+		</lesson>
+	</unit>
+	<unit>
 		<title>Wants and Needs, Advanced</title>
-		<note>In this unit, we'll learn how to talk about what we want to do and what we need to do. These are important skills for communicating more complicated ideas than we've learned so far.</note>
+		<note>In this unit, we'll learn how to talk about what we want to do and what we need to do. These are important skills for communicating more complicated ideas than we've learned so far. We'll also practice explaining our requests.</note>
 		<lesson>
 			<title>Have to</title>
 			<note>In English, we use extra verbs to say these things. For instance, we combine "need to" with another verb to mean that we need to do that verb.</note>
@@ -7058,7 +7209,6 @@
 				</line>
 			</vocab>
 		</lesson>
-		
 		<lesson>
 			<title>Want to</title>
 			<note>Now let's learn how to say 'want to'. Depending on the context where you say it, the word <m>getu'</m> can mean either 'going to do' or 'want to do'.</note>
@@ -7132,10 +7282,6 @@
 				</line>
 			</dialog>
 		</lesson>
-	</unit>
-	<unit>
-		<title>Asking for and meeting needs</title>
-		<note>This unit practices asking for things that we want or need, and explaining our requests.</note>
 		<lesson>
 			<title>Give me an apple!</title>
 			<note>Let's practice asking for food.</note>
@@ -7312,149 +7458,6 @@
 	<unit>
 		<title>Daily routine for children</title>
 		<note>You've learned how to have a lot of conversations! In this unit, we'll learn even more helpful conversation phrases, particularly ones you might use when taking care of children. These next few lessons will also teach you how to give commands to children.</note>
-		<lesson>
-			<title>Warnings and Requests</title>
-			<note>So far, we've mostly practiced questions and answers. In this lesson, we'll learn how to give warnings and ask people to do things.</note>
-			<designnote>
-			</designnote>
-			<vocab>
-				<line>
-					<migmaq>Ango'te'n!</migmaq> 	
-					<english>Take care! Watch out!</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Apoqonmultes.</migmaq> 	
-					<english>I'll help you.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Jugu'a.</migmaq> 	
-					<english>Come here.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Ignmui.</migmaq> 	
-					<english>Give it to me.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Jugua'tui.</migmaq> 	
-					<english>Bring me it.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Musga'tui.</migmaq> 	
-					<english>Show me it.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Nmisge'n, nmisgu.</migmaq> 	
-					<english>Go get it.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Iga'tu.</migmaq> 	
-					<english>Put it down, let it go.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Ugsua'tu.</migmaq> 	
-					<english>Take it.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Jugwa'tu.</migmaq> 	
-					<english>Bring it here.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Masgwa'tu.</migmaq> 	
-					<english>Show it.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Pa'si.</migmaq> 	
-					<english>Sit down.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Qama'si.</migmaq> 	
-					<english>Stand up.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Qami na'te'l.</migmaq> 	
-					<english>Stand there.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Lsma'si.</migmaq> 	
-					<english>Lie down.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-		</lesson>
-		<lesson>
-			<title>Requests for children</title>
-			<note>Here are some helpful commands and requests for when you are taking care fo children.</note>
-			<vocab>
-				<line>
-					<migmaq>Esgma.</migmaq> 	
-					<english>Wait.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Esgmali.</migmaq> 	
-					<english>Wait for me.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Puntoqsi.</migmaq> 	
-					<english>Be quiet.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Giju' natnmi.</migmaq> 	
-					<english>Go see Grandma.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Mutt sama'tu, epteg!</migmaq> 	
-					<english>Don't touch it, it's hot!</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Mutt sama'tu, mejige'g!</migmaq> 	
-					<english>Don't touch it, it's dirty!</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Mutt 'tqamaw!</migmaq> 	
-					<english>Don't hit h/her!</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<designnote>Punta'! 'Stop hitting h/her!'</designnote>
-				<line>
-					<migmaq>Punajeiu!</migmaq> 	
-					<english>Leave h/her alone, stop bothering h/her!</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Puni-al'tugwie'n, nun'ji gesnugwig.</migmaq> 	
-					<english>Stop running around, I have a headache.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-		</lesson>
 		<lesson>
 			<title>Getting up</title>
 			<note>This lesson is meant to help you practice conversation you might use around children. It's a dialog about getting ready in the morning.</note>		
