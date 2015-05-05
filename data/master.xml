@@ -2806,6 +2806,7 @@
 						<migmaq>Newt ajiet</migmaq> 	
 						<english>It's one o'clock.</english>
 						<soundfile>1oclock</soundfile>
+						<img>1F550.png</img>
 					</line>
 				</dialog>
 				<dialog>
@@ -2818,6 +2819,7 @@
 						<migmaq>Ta'pu ajiet</migmaq> 	
 						<english>It's two o'clock.</english>
 						<soundfile>2oclock</soundfile>
+						<img>1F551.png</img>
 					</line>
 				</dialog>
 				<dialog>
@@ -2830,6 +2832,7 @@
 						<migmaq>Si'st ajiet</migmaq> 	
 						<english>It's three o'clock.</english>
 						<soundfile>3oclock</soundfile>
+						<img>1F552.png</img>
 					</line>
 				</dialog>
 				<dialog>
@@ -2842,6 +2845,7 @@
 						<migmaq>Ne'w ajiet</migmaq> 	
 						<english>It's four o'clock.</english>
 						<soundfile>4oclock</soundfile>
+						<img>1F553.png</img>
 					</line>
 				</dialog>	
 				<dialog>
@@ -2854,6 +2858,7 @@
 						<migmaq>Na'n ajiet</migmaq> 	
 						<english>It's five o'clock.</english>
 						<soundfile>5oclock</soundfile>
+						<img>1F554.png</img>
 					</line>
 				</dialog>
 				<dialog>
