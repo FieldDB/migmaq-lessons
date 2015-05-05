@@ -2753,6 +2753,47 @@
 				</dialog>
 			</lesson>
 			<lesson>
+				<title>Days of the Week</title>
+				<note>Here are the names for the days of the week.</note>
+				<vocab>
+					<line>
+						<migmaq>amgwes elugutimg</migmaq>
+						<english>Monday</english>
+						<soundfile>monday</soundfile>
+					</line>
+					<line>
+						<migmaq>ta'puowei</migmaq>
+						<english>Tuesday</english>
+						<soundfile>tuesday</soundfile>
+					</line>
+					<line>
+						<migmaq>si'stewei</migmaq>
+						<english>Wednesday</english>
+						<soundfile>wednesday</soundfile>
+					</line>
+					<line>
+						<migmaq>ne'wowei</migmaq>
+						<english>Thursday</english>
+						<soundfile>thursday</soundfile>
+					</line>
+					<line>
+						<migmaq>weltamultimg</migmaq>
+						<english>Friday</english>
+						<soundfile>friday</soundfile>
+					</line>
+					<line>
+						<migmaq>gesp'teg</migmaq>
+						<english>Saturday</english>
+						<soundfile>saturday</soundfile>
+					</line>
+					<line>
+						<migmaq>aqantie'umg</migmaq>
+						<english>Sunday</english>
+						<soundfile>sunday</soundfile>
+					</line>
+				</vocab>
+			</lesson>
+			<lesson>
 				<title>What time is it now?</title>
 				<note>Some hints for this lesson: <m>-geget</m> = 'almost', for something that will happen; <m>-mejit</m> = 'more', until something happens; <m>-ga'l</m> = 'quarter'.</note>
 				<note>Notice that end of the basic word <m>ajiet</m> changes a bit: in one case to match the word <m>mu</m> 'not yet/before', in another to show the future. Can you find both of these?</note>
@@ -6974,10 +7015,10 @@
 	</unit>
 </section>
 <section>
-	<title>Advanced Verbing</title>
-	<note>You've learned a lot so far! In this lesson, we'll get comfortable with some more advanced verbs.</note>
+	<title>Childcare</title>
+	<note>You've learned a lot so far! In this lesson, we'll practice some more advanced verb forms to help express desire and necessity. The vocabulary in this section will focus on childcare and words to practice with children.</note>
 	<unit>
-		<title>Wants and Needs, Again</title>
+		<title>Wants and Needs, Advanced</title>
 		<note>In this unit, we'll learn how to talk about what we want to do and what we need to do. These are important skills for communicating more complicated ideas than we've learned so far.</note>
 		<lesson>
 			<title>Have to</title>
@@ -7143,693 +7184,8 @@
 		</lesson>
 	</unit>
 	<unit>
-		<title>Tense</title>
-		<note>In this unit, we'll how to talk about when events happened, whether they've happened, or whether they're going to happen.</note>
-		<lesson>
-			<title>I've done</title>
-			<note>Let's learn how to talk about things we've done.</note>
-			<note>The expression <m>gi's</m> or <m>gisi</m> is another word like <m>getu'</m> that can change its meaning a little depending on context. This dialog shows that <m>gi's</m>/<m>gisi</m> can mean 'have done' OR 'can do/be able to do', just by changing what it is you're talking about.</note>
-			<designnote>Should have explicit note that this can mean either 'have done' or 'can do, be able to do', depending on context.</designnote>
-			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@2:05-2:23</timesig>		
-			<dialog>
-				<line>
-					<migmaq>Gi's gisa'tu'n 'gtlugowaqan?</migmaq> 	
-					<english>Have you finished your work?</english>
-					<soundfile>GisGisatunGtlugowaqan</soundfile>
-				</line>
-				<line>
-					<migmaq>Gi's ta's'g gisa'tu. Gatu mu gis-gaqa'tu.</migmaq> 	
-					<english>I have done some of it. But I can't finish it.</english>
-					<soundfile>GisTasgGisatuGatuMuGisgaqatu</soundfile>
-				</line>
-				<line>
-					<migmaq>Tal gis?</migmaq> 	
-					<english>How come?</english>
-					<soundfile>TalGis</soundfile>
-				</line>
-				<line>
-					<migmaq>Muta mu gisgitmu ta'n goqwei ula 'gtuteminu gisui'g'g.</migmaq>
-					<english>Because I can't read what this (non-Native) friend of ours has written.</english>
-					<soundfile>MutaMuGisgitmuTanGoqweiUlaGtuteminuGisuigg</soundfile>
-				</line>
-				<line>
-					<migmaq>Ni'n gisi-apoqonmult's, gulaman gis-gaqa'tut's.</migmaq> 	
-					<english>I will be able to help you, so that you can finish it.</english>
-					<soundfile>NinGisiapoqonmultsGulamanGisgaqatuts</soundfile>
-				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>We (inclusive) vs. We (exclusive)</title>
-			<note>In English, 'we' can mean you and me, you and me plus some other people, or me and some other people, but not you.</note>
-			<note>In Mi'gmaq, though, there are different ways of saying 'we' including you and 'we' not including you.</note>
-			<designnote>Recording this properly requires at least two female, two male voices; two older and two younger: possibly JV+MAM, VM+JM, and JW+RM]</designnote>		
-			<dialog>
-				<line>
-					<migmaq>Ni'nen gisiguieg; gatu gi'l maljewejuin.</migmaq> 	
-					<english>We are old; while you (one person) are young.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Ni'nen e'pitewieg; gatu gi'l ji'nmuin.</migmaq> 	
-					<english>We are women; while you are a man.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Ni'nen ji'nmuieg; gatu gi'l e'pitewin.</migmaq> 	
-					<english>We are men; while you are a woman.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</dialog>		
-			<dialog>
-				<line>
-					<migmaq>Ginu gisigui'gw: gi'l gisiguin, aq ni'n elg gisigui.</migmaq> 	
-					<english>We are old: you are old, and I too am old.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Ginu maljewejui'gw: gi'l maljewejuin, aq ni'n elg maljewejui.</migmaq>
-					<english>We are young: you are young, and I too am young.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Ginu e'pitewi'gw: gi'l e'pitewin, aq ni'n elg e'pitewi.</migmaq> 	
-					<english>We are women: you are a woman, and I too am a woman.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Ginu ji'nmui'gw: gi'l ji'nmuin, aq ni'n elg ji'nmui.</migmaq>
-					<english>We are men: you are a man, and I too am a man.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Weather Vocabulary</title>
-			<note>Let's learn some words to talk about weather. We'll use these in the next lesson to explore tense.</note>
-			<vocab>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What is the weather like?</english>
-					<soundfile>Taligisgg0</soundfile>
-				</line>
-				<line>
-					<migmaq>Etug getu' gaqtugawig.</migmaq>
-					<english>It might thunder.</english>
-					<soundfile>thunderClouds</soundfile>
-				</line>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What is the weather like?</english>
-					<soundfile>Taligisgg1</soundfile>
-				</line>
-				<line>
-					<migmaq>Ewlams'n nemi'g aq elt wasoq'tesg.</migmaq>
-					<english>Looks like tornadoes and lightning.</english>
-					<soundfile>TornadoLighti</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What is the weather like?</english>
-					<soundfile>Taligisgg2</soundfile>
-				</line>
-				<line>
-					<migmaq>Wasoq'tesg aq gaqtugawig.</migmaq>
-					<english>Thunder and lightning.</english>
-					<soundfile>lightningThunder</soundfile>
-				</line>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What is the weather like?</english>
-					<soundfile>Taligisgg3</soundfile>
-				</line>
-				<line>
-					<migmaq>Pesaq.</migmaq>
-					<english>Snowing.</english>
-					<soundfile>Snowing</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Taliag?</migmaq>
-					<english>What's happening?</english>
-					<soundfile>Taliag0</soundfile>
-				</line>
-				<line>
-					<migmaq>Nujgma'q wastew.</migmaq>
-					<english>Melting snow.</english>
-					<soundfile>MeltingSnow</soundfile>
-				</line>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What is the weather like?</english>
-					<soundfile>Taligisgg4</soundfile>
-				</line>
-				<line>
-					<migmaq>'Msi'gug</migmaq>
-					<english>Hail</english>
-					<soundfile>Hail</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Tami na tet?</migmaq>
-					<english>Where is this?</english>
-					<soundfile>TamiNaTet0</soundfile>
-				</line>
-				<line>
-					<migmaq>Nipugtug.</migmaq>
-					<english>Woods.</english>
-					<soundfile>woods</soundfile>
-				</line>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What is the weather like?</english>
-					<soundfile>Taligisgg5</soundfile>
-				</line>
-				<line>
-					<migmaq>Epteg.</migmaq>
-					<english>Hot.</english>
-					<soundfile>Hot</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Taliula'gw?</migmaq>
-					<english></english>
-					<soundfile>Taliulagw0</soundfile>
-				</line>
-				<line>
-					<migmaq>Weliula'gw.</migmaq>
-					<english>Nice evening.</english>
-					<soundfile>NiceEvening</soundfile>
-				</line>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What is the weather like?</english>
-					<soundfile>Taligisgg6</soundfile>
-				</line>
-				<line>
-					<migmaq>Saqaniaq.</migmaq>
-					<english>Melting snow.</english>
-					<soundfile>Melting</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun1</soundfile>
-				</line>
-				<line>
-					<migmaq>Walqwan.</migmaq>
-					<english>Rainbow.</english>
-					<soundfile>Rainbow</soundfile>
-				</line>
-				<line>
-					<migmaq>Goqwei nemitu'g?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun2</soundfile>
-				</line>
-				<line>
-					<migmaq>Etlpanigs'g.</migmaq>
-					<english>Drifting snow.</english>
-					<soundfile>DriftingSnow</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What is the weather like?</english>
-					<soundfile>Taligisgg7</soundfile>
-				</line>
-				<line>
-					<migmaq>Gigpesaq.</migmaq>
-					<english>Raining.</english>
-					<soundfile>Rain</soundfile>
-				</line>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun3</soundfile>
-				</line>
-				<line>
-					<migmaq>Ewlams'n.</migmaq>
-					<english>A tornado.</english>
-					<soundfile>Tornado</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun4</soundfile>
-				</line>
-				<line>
-					<migmaq>Wenji'guom aq tepgunset.</migmaq>
-					<english>A house moon.</english>
-					<soundfile>HouseMoon</soundfile>
-				</line>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun5</soundfile>
-				</line>
-				<line>
-					<migmaq>Emaptoq.</migmaq>
-					<english>Tracks.</english>
-					<soundfile>Tracks</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun6</soundfile>
-				</line>
-				<line>
-					<migmaq>Sisguwig.</migmaq>
-					<english>Muddy.</english>
-					<soundfile>Muddy</soundfile>
-				</line>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What's the weather like?</english>
-					<soundfile>Taligisgg8</soundfile>
-				</line>
-				<line>
-					<migmaq>Na'gu 'setewig aq alugwiaq.</migmaq>
-					<english>Sunny and cloudy.</english>
-					<soundfile>SunnyCloudy</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun7</soundfile>
-				</line>
-				<line>
-					<migmaq>'Tgu'g.</migmaq>
-					<english>Waves.</english>
-					<soundfile>Waves</soundfile>
-				</line>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What's the weather like?</english>
-					<soundfile>Taligisgg9</soundfile>
-				</line>
-				<line>
-					<migmaq>Ma 'munitge'g.</migmaq>
-					<english>Very cold.</english>
-					<soundfile>VeryCold</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What's the weather like?</english>
-					<soundfile>Taligisgg10</soundfile>
-				</line>
-				<line>
-					<migmaq>Gigpesa'ji'g.</migmaq>
-					<english>Showers.</english>
-					<soundfile>Showers</soundfile>
-				</line>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What's the weather like?</english>
-					<soundfile>Taligisgg11</soundfile>
-				</line>
-				<line>
-					<migmaq>Alugigisg'g.</migmaq>
-					<english>Cloudy.</english>
-					<soundfile>Cloudy</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun8</soundfile>
-				</line>
-				<line>
-					<migmaq>Miti'sg.</migmaq>
-					<english>Trees.</english>
-					<soundfile>Trees</soundfile>
-				</line>
-				<line>
-					<migmaq>Goqwei nemitu'un?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun9</soundfile>
-				</line>
-				<line>
-					<migmaq>Nipugt aq gospem.</migmaq>
-					<english>Woods and lake.</english>
-					<soundfile>WoodsLake</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What's the weather like?</english>
-					<soundfile>Taligisgg12</soundfile>
-				</line>
-				<line>
-					<migmaq>Gaqtugwawig.</migmaq>
-					<english>Thundering.</english>
-					<soundfile>Thundering</soundfile>
-				</line>
-				<line>
-					<migmaq>Goqwei nemitu'un?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun10</soundfile>
-				</line>
-				<line>
-					<migmaq>Na'gu'set nemi'g.</migmaq>
-					<english>I see the sun.</english>
-					<soundfile>Sun</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What's the weather like?</english>
-					<soundfile>Taligisgg13</soundfile>
-				</line>
-				<line>
-					<migmaq>Na'gu'setewig.</migmaq>
-					<english>Sunny.</english>
-					<soundfile>Sunny</soundfile>
-				</line>
-				<line>
-					<migmaq>Goqwei nemitu'un?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun11</soundfile>
-				</line>
-				<line>
-					<migmaq>Na'gu'set qalqwasiet.</migmaq>
-					<english>The setting sun.</english>
-					<soundfile>SettingSun</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What's the weather like?</english>
-					<soundfile>Taligisgg14</soundfile>
-				</line>
-				<line>
-					<migmaq>Tegigisg'g.</migmaq>
-					<english>Cold.</english>
-					<soundfile>Cold</soundfile>
-				</line>
-				<line>
-					<migmaq>Goqwei nemitu'un?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun12</soundfile>
-				</line>
-				<line>
-					<migmaq>Gegpewisg.</migmaq>
-					<english>Dew.</english>
-					<soundfile>Dew</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Talitge'g?</migmaq>
-					<english></english>
-					<soundfile>Talitgeg</soundfile>
-				</line>
-				<line>
-					<migmaq>Tege'ji'jg.</migmaq>
-					<english>Cool.</english>
-					<soundfile>cool</soundfile>
-				</line>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What's visible?</english>
-					<soundfile>GoqweiNemitun13</soundfile>
-				</line>
-				<line>
-					<migmaq>Maqtawamugsit tepgnuset.</migmaq>
-					<english>A dark moon.</english>
-					<soundfile>DarkMoon</soundfile>
-				</line>
-			</vocab>
-			<!--Can't find-->
-			<vocab>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What's the weather like?</english>
-					<!--<soundfile>Taligisgg15</soundfile>-->
-				</line>
-				<line>
-					<migmaq>U'nig.</migmaq>
-					<english>Foggy.</english>
-					<!--<soundfile>Foggy</soundfile>-->
-				</line>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What's the weather like?</english>
-					<!--<soundfile>Taligisgg16</soundfile>-->
-				</line>
-				<line>
-					<migmaq>Saqpigisg'g.</migmaq>
-					<english>Foggy day.</english>
-					<!--<soundfile>FoggyDay</soundfile>-->
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What's the weather like?</english>
-					<soundfile>Taligisgg17</soundfile>
-				</line>
-				<line>
-					<migmaq>Mesie'waq.</migmaq>
-					<english>Drizzle.</english>
-					<soundfile>Drizzle</soundfile>
-				</line>
-				<line>
-					<migmaq>Taliaq?</migmaq>
-					<english>What's going on?</english>
-					<soundfile>Taliag1</soundfile>
-				</line>
-				<line>
-					<migmaq>Mespo'qeg.</migmaq>
-					<english>Flooding.</english>
-					<soundfile>Flooded</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What's the weather like?</english>
-					<!--<soundfile>Taligisgg18</soundfile>-->
-				</line>
-				<line>
-					<migmaq>Epteg.</migmaq>
-					<english>Hot.</english>
-					<!--<soundfile>Epteg</soundfile>-->
-				</line>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What's the weather like?</english>
-					<soundfile>Taligisgg19</soundfile>
-				</line>
-				<line>
-					<migmaq>Ewlansn wejgu'wet.</migmaq>
-					<english>Hurricane.</english>
-					<soundfile>Hurricane</soundfile>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What's visible?</english>
-					<soundfile>GoqweiNemitun14</soundfile>
-				</line>
-				<line>
-					<migmaq>'Mgumi'gnig nipug.</migmaq>
-					<english>Icy woods.</english>
-					<soundfile>IcyWoods</soundfile>
-				</line>
-				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What's the weather like?</english>
-					<soundfile>Taligisgg20</soundfile>
-				</line>
-				<line>
-					<migmaq>Etlwasoqotesg.</migmaq>
-					<english>Lightning.</english>
-					<soundfile>Lightning</soundfile>
-				</line>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What's visible?</english>
-					<soundfile>GoqweiNemitun15</soundfile>
-				</line>
-				<line>
-					<migmaq>Wastew etlnujgma'q.</migmaq>
-					<english>Melting snow.</english>
-					<soundfile>Melt</soundfile>
-				</line>
-			</vocab>
-		</lesson>
-		<lesson>
-			<title>Weather and tense</title>
-			<note>In this lesson, we'll learn how to talk about the weather in the past, present, and future. Taking the present tense as the default, the past and future show up as different endings on the verb.</note>
-			<note>In general, past = <m>-p</m> and future = <m>-tew</m> (sometimes, you see other letters hanging on to these ones to make them easier to pronouce).</note>
-			<note>For example, to talk about rainy weather yesterday, you say:<m>ulagu, gigpesaqap</m>: yesterday, it rained; today, you say:<m>gisgug, gigpesaq</m>: today, it's raining; tomorrow, you say:<m>sapo'nug, gigpesatew</m>: tomorrow, it will rain.</note>
-			<note>One more thing about the future tense: in addition to adding <m>-tew</m> at the end of the verb, the future tense can also change the beginning of the word. It happens when the FIRST vowel of the present tense form is an <m>e</m>, and the change basically just removes the <m>e</m> in the future tense. Then to make it easier to say, a <m>'</m> is often added to the start of the word.</note>
-			<note>You'll get the hang of this the more you speak the language; for now, just learn these forms and watch out for the "remove <m>e</m>" rule in the future.</note>
-			<designnote>Already added into CAN8. May want to add 'it is/was/will be hot', to match the 'cold' series</designnote>
-			<timesig>@20120727-MAM-Gigpesaqap.wav@0:3.5-</timesig>
-			<vocab>
-				<line>
-					<migmaq>Gigpesaqap.</migmaq> 	
-					<english>It rained.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Gigpesaq.</migmaq> 	
-					<english>It is raining.</english>
-					<!--<soundfile></soundfile>-->
-					<img>2614.png</img>
-				</line>
-				<line>
-					<migmaq>Gigpesatew.</migmaq> 	
-					<english>It will rain.</english>
-				<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Alugwig'p.</migmaq> 	
-					<english>It was cloudy.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Alugwig.</migmaq> 	
-					<english>It is cloudy.</english>
-					<!--<soundfile></soundfile>-->
-					<img>2601.png</img>
-				</line>
-				<line>
-					<migmaq>Alugwitew.</migmaq> 	
-					<english>It will be cloudy.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Wasoqotesg'p, aq gaqtugwewig'p</migmaq> 	
-					<english>There was lightning and (there was) thunder.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Wasoqotesg, aq gaqtugwewig</migmaq> 	
-					<english>There is lightning and (there is) thunder.</english>
-					<!--<soundfile></soundfile>-->
-					<img>26A1.png</img>
-				</line>
-				<line>
-					<migmaq>Wasoqotest'tew, aq gaqtugwewitew</migmaq> 	
-					<english>There will be lightning and (there will be) thunder.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Na'gu'setewig'p</migmaq> 	
-					<english>It was sunny.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Na'gu'setewig</migmaq> 	
-					<english>It is sunny.</english>
-					<!--<soundfile></soundfile>-->
-					<img>2600.png</img>
-				</line>
-				<line>
-					<migmaq>Na'gu'setewitew</migmaq> 	
-					<english>It will be sunny.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Weju's'g'p</migmaq> 	
-					<english>It was windy, the wind was blowing.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Weju's'g</migmaq> 	
-					<english>It is windy, the wind is blowing.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Ugju's'gt'tew</migmaq> 	
-					<english>It will be windy, the wind will blow.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>U'nig'p</migmaq> 	
-					<english>It was foggy.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>U'nig</migmaq> 	
-					<english>It is foggy.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>U'nitew</migmaq> 	
-					<english>It will be foggy.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Pesaqap</migmaq> 	
-					<english>It was snowing.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Pesaq</migmaq> 	
-					<english>It is snowing.</english>
-					<!--<soundfile></soundfile>-->
-					<img>2744.png</img>
-				</line>
-				<line>
-					<migmaq>'Psatew</migmaq> 	
-					<english>It will snow.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Tege'g'p</migmaq> 	
-					<english>It was cold.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Tege'g</migmaq> 	
-					<english>It is cold.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>'Tge'tew</migmaq> 	
-					<english>It will be cold.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</vocab>
-		</lesson>
+		<title>Asking for needs</title>
+		<note>This unit practices asking for things that we want or need, and explaining our requests.</note>
 		<lesson>
 			<title>Give me an apple!</title>
 			<note>Let's practice asking for food.</note>
@@ -8002,393 +7358,10 @@
 				</line>
 			</dialog>
 		</lesson>
-		<lesson>
-			<title>Let me give you socks!</title>
-			<note>Here's some more practice with tense.</note>
-			<designnote>phonological highlighting of easy-to-miss contrast between -n and -nn</designnote>
-			<timesig>@20120705_JW_AV_ignmulann</timesig>		
-			<dialog>
-				<line>
-					<migmaq>Gisgug aji-puna'n! Ge' to'q ignmulapnn signn!</migmaq> 	
-					<english>Today you're having your birthday! Let me give you socks!</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Ignmuin sign? Goqwei ugjit? Ma' ulapetmu newte' sign.</migmaq> 	
-					<english>You're giving me a sock? What for? I won't get good use out of one sock.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Teluap, "Ignmulann signn"! Signn, mu sign.</migmaq> 	
-					<english>I said, "I'm giving you socks"! Socks, not sock.</english>
-					<!--<soundfile></soundfile>-->
-					<img>socks.gif</img>
-				</line>
-				<line>
-					<migmaq>A', ignmuinn signn. Nestasi nige'. Wela'lin! Muta gewtaqsigi.</migmaq> 	
-					<english>Oh, you're giving me socks. I understand now. Thanks! Since my feet are cold (I feel cold in my feet/have cold feet).</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</dialog>	
-			<dialog>
-			<timesig>@20120705_JW_AV_ignmuitl</timesig>	
-				<line>
-					<migmaq>Te's-aji-puna'i, ignmuitl nmis signn.</migmaq> 	
-					<english>Every time I have a birthday, my big sister gives me socks.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Sign? Ma' ulapetmu'n newte' sign.</migmaq> 	
-					<english>A sock? You won't get good use out of one sock.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Teluap, "Ignmuitl signn"! Signn ignmuitl, mu sign.</migmaq> 	
-					<english>I said, "She gives me socks"! Socks she gives me, not (a) sock.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>A', nestasi. Wellugwen: mu (g)eggunmuann signn.</migmaq> 	
-					<english>Oh, I understand. You've done well: I don't have any socks.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</dialog>		
-			<dialog>
-			<timesig>@20120705_JW_EM_ignmuiji</timesig>
-				<line>
-					<migmaq>Aq te's-aji-puna'i, nsis ignmuiji tap'tang.</migmaq> 	
-					<english>And every time I have a birthday, my older brother gives me potatoes.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>Tap'tang? Ignmasgi tap'tang?</migmaq> 	
-					<english>Potatoes? He gives you potatoes?</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
-					<migmaq>E'e. Tap'tang ignmuiji. Muta apjiw al'guwisin.</migmaq> 	
-					<english>Yes. He gives me potatoes. Because I'm always going around hungry.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-			</dialog>
-		</lesson>
 	</unit>
-	<!--<unit>
-		<title>Practice Drama</title>
-		<lesson>
-			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>
-			<title>	Gesalul: a Can-8 drama in 6 acts!</title>
-			<note>This is mean to tie into and follow from the "give me..." series in introducing how participants in the verbal action change the form of the verb.</note>
-			<note>Basically we want to encourage learners to go over this drama many, many times: act it, memorize it as lines in a play. So that instead of having to refer to mental grammar chart in their heads (never fun or effective), they simply have to remember the scene in the play, and what was said, and, roughly speaking, just try to make their current verb match the ending used with "love" in that specific situation.</note>
-		</lesson>
-		<lesson>
-			<title>Opening scene</title>
-			<note>0.1 [lovelorn boy in a field, with a flower, pulling petals]</note>
-			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
-			<dialog>
-				<line>
-					<migmaq>Gesalit...mu gesaligw. Gesalit...mu gesaligw. Gesalit...mu 	gesaligw...gesalit!!!</migmaq> 	
-					<english>She loves me...she loves me not. She loves me...she loves me not. She loves me...she loves me not. She loves me!!!</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>First act: first attempt</title>
-			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
-			<dialog>
-				<note>1.1 [lovelorn boy to a somewhat uninterested girl]</note>
-				<line>
-					<migmaq>Gesalul! Gesalin?</migmaq> 	
-					<english>I love you! Do you love me?</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>		
-			<dialog>
-				<note>1.2 [the girl, back to him]</note>
-				<line>
-					<migmaq>Mu gesalulnu.</migmaq> 	
-					<english>I don't love you.</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>		
-			<dialog>
-				<note>1.3 [the boy, surprised]</note>
-				<line>
-					<migmaq>Mu gesaliw'n?</migmaq> 	
-					<english>You don't love me?</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>		
-			<dialog>
-				<note>1.4 [the girl, making it clear...]</note>
-				<line>
-					<migmaq>E'e, mu gesalulnu.</migmaq> 	
-					<english>Yes, I don't love you.</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>
-			<title>Second act, second attempt</title>		
-			<dialog>
-				<note>2.1 [the boy, offering flowers]</note>
-				<line>
-					<migmaq>Gesalin nige'?</migmaq> 	
-					<english>Do you love me now?</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>		
-			<dialog>
-				<note>2.2 [the girl, taking the flowers]</note>
-				<line>
-					<migmaq>Wela'lin. Gatu me' mu gesalulnu.</migmaq> 	
-					<english>Thank you. But I still don't love you.</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>
-			<title>Third act, with a friend</title>		
-			<dialog>
-				<note>3.1 [the boy, to a sympathetic friend]</note>
-				<line>
-					<migmaq>Gesalg...gatu mu gesaligw.</migmaq> 	
-					<english>I love her...but she doesn't love me.</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>		
-			<dialog>
-				<note>3.2 [the friend, not getting it]</note>
-				<line>
-					<migmaq>Gesal'sg, gisna mu gesalulug?</migmaq> 	
-					<english>She loves you, or she doesn't love you?</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>		
-			<dialog>
-				<note>3.3 [the boy, sadly]</note>
-				<line>
-					<migmaq>Mu gesaligw. Gesalg...gatu mu gesaligw.</migmaq> 	
-					<english>She doesn't love me. I love her...but she doesn't love me.</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>		
-			<dialog>
-				<note>3.4 [the friend, getting it]</note>
-				<line>
-					<migmaq>O', nestasi: gesalt, gatu mu gesalulug.</migmaq> 	
-					<english>Oh, I understand: you love her, but she doesn't love you.</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>		
-			<dialog>
-				<note>3.5 [the boy, confirming]</note>
-				<line>
-					<migmaq>Ehe, gesalg, gatu mu gesaligw.</migmaq> 	
-					<english>Yes, I love her, but she doesn't love me.</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Fourth act, other people's perspectives</title>
-			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
-			<dialog>
-				<note>4.1 [the girl, to us, gesturing back to the boy]</note>
-				<line>
-					<migmaq>Gesalit, gatu mu gesalaq.</migmaq> 	
-					<english>He loves me, but I don't love him.</english>
-					<soundfile>
-					</soundfile>
-				</line>
-				<designnote>Should have an explicit note here drawing out the perspective-taking effect of "gesalatl" vs. "gesaltl", etc.</designnote>
-				<note>4.2 [the friend, to us, gesturing back to the boy]</note>
-				<line>
-					<migmaq>Gesalatl, gatu mu gesalgugl.</migmaq> 	
-					<english>He loves her, but she doesn't love him [or: 'but he isn't loved by her'].</english>
-					<soundfile>
-					</soundfile>
-				</line>
-				<note>4.3 [the friend, to us, gesturing back to the girl]</note>
-				<line>
-					<migmaq>Mu gesalagwl, gatu gesaltl.</migmaq> 	
-					<english>She doesn't love him, but he loves her [or: 'but she is loved by him']</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Fifth act, a final attempt, and success!!!</title>
-			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
-			<dialog>
-				<note>5.1 [the boy, after many repetitions]</note>
-				<line>
-					<migmaq>Gesalin nige'?</migmaq> 	
-					<english>Do you love me now?</english>
-					<soundfile>
-					</soundfile>
-				</line>
-				<note>5.2 [the girl, having been won over by his heartfelt but not stalkerish persistence, and/or a hilarious stack of gifts (hearts, chocolate, stuffed animals), etc.]</note>
-				<line>
-					<migmaq>Ehe, nige' gesalul.</migmaq> 	
-					<english>Yes, now I love you.</english>
-					<soundfile>
-					</soundfile>
-				</line>
-				<note>5.3 [the boy, full of joy]</note>
-				<line>
-					<migmaq>Gesalin!!!</migmaq> 	
-					<english>You love me!!!</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Final act, the friend concludes it for us</title>
-			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
-			<dialog>
-				<note>6.1 [the friend, to us, after love is won</note>
-				<line>
-					<migmaq>Gesalatl, aq nige', gesaltl.</migmaq> 	
-					<english>He love her, and now, she loves him [or: 'now, he is loved by her']</english>
-					<soundfile>
-					</soundfile>
-				</line>
-				<note>6.2 [the friend, to them</note>
-				<line>
-					<migmaq>Gesaltioq!!!</migmaq> 	
-					<english>You (2) love each other!!!</english>
-					<soundfile>
-					</soundfile>
-				</line>
-				<note>6.3 [the two, back to the friend</note>
-				<line>
-					<migmaq>Ehe, gesaltieg!</migmaq> 	
-					<english>Yes, we (2, -you) love each other!!!</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Some dramatic up and down options, if we want to keep this soap opera going</title>		
-			<dialog>
-				<line>
-					<migmaq>Welamul, gatu mu gesalulnu.</migmaq> 	
-					<english>I think well of you, but I don't love you.</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog> 
-			<dialog>	
-				<line>
-					<migmaq>Mu gesalulnu nugu'... [Gesalulap, ... gatu]</migmaq> 	
-					<english>I don't love you anymore.</english>
-					<soundfile>
-					</soundfile>
-				</line>
-				<note>The following translations remain to be done and checked:</note> 
-				<line>
-					<migmaq>Goqwei ugjit/Tal gi's?</migmaq> 	
-					<english>What for/How now?</english>
-					<soundfile>
-					</soundfile>
-				</line>
-				<line>
-					<migmaq>[...muta] mu apoqonmuiw'n, mu goqwei telimiw'n, mu nestuiw'n...</migmaq> 	
-					<english>[Because] you don't help me, you don't tell me anything, you don't understand me...</english>
-					<soundfile>
-					</soundfile>
-				</line>
-				<line>
-					<migmaq>[...aq muta] nun'gi'gug mu wel'te'lmulugig.</migmaq> 	
-					<english>
-					</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>		
-			<dialog>
-				<line>
-					<migmaq>Tew'ji-ulamgusin! Gesalul!</migmaq> 	
-					<english>
-					</english>
-					<soundfile>
-					</soundfile>
-				</line>
-				<line>
-					<migmaq>Mu tal-ulamgusiw'n! Mu gesalulnu.</migmaq> 	
-					<english>
-					</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>		
-			<dialog>
-				<line>
-					<migmaq>"Wen na ala ji'nm(ji'j)? Welamg. [Ma'mun-ulamg]. Ge' apoqonmui: jugua'l."</migmaq> 	
-					<english>
-					</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>		
-			<dialog>
-				<line>
-					<migmaq>Alternative interaction with friend:</migmaq> 	
-					<english>
-					</english>
-					<soundfile>
-					</soundfile>
-				</line>
-				<line>
-					<migmaq>"Gesal'sg? Moqwa'! Gi'l gesalt."</migmaq> 	
-					<english>
-					</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>		
-			<dialog>
-				<note>Alternative comment from friend:</note>
-				<line>
-					<migmaq>"Ne'gaw gesalatl, aq nige', gesaltl."</migmaq> 	
-					<english>
-					</english>
-					<soundfile>
-					</soundfile>
-				</line>
-				<note>Alternative final conclusion from freind, with the two hugging in the background:</note>
-				<line>
-					<migmaq>"Gesaltijig [nige']."</migmaq> 	
-					<english>
-					</english>
-					<soundfile>
-					</soundfile>
-				</line>
-			</dialog>
-		</lesson>
-	</unit>-->
 	<unit>
 		<title>Child care</title>
-		<note>You've learned how to have a lot of conversations! In this unit, we'll learn even more helpful conversation phrases, particularly ones you might use when taking care of children.</note>
+		<note>You've learned how to have a lot of conversations! In this unit, we'll learn even more helpful conversation phrases, particularly ones you might use when taking care of children. These next few lessons will also teach you how to give commands to children.</note>
 		<lesson>
 			<title>Warnings and Requests</title>
 			<note>So far, we've mostly practiced questions and answers. In this lesson, we'll learn how to give warnings and ask people to do things.</note>
@@ -9012,6 +7985,1090 @@
 			</vocab>
 		</lesson>
 	</unit>
+</section>
+<section>
+	<title>Advanced Topics</title>
+	<note>In this section, we will practice some advanced topics. We'll practice talking about different groups of people. In the unit on Time, we will focus on understanding the timing of events. We'll work on expressing things that have already happened, are happening, or will happen in the future.</note>
+	<unit>
+		<title>Time</title>
+		<note>In this unit, we'll learn how to talk about events that have already happened.</note>
+		<lesson>
+			<title>I've done</title>
+			<note>Let's learn how to talk about things we've done.</note>
+			<note>The expression <m>gi's</m> or <m>gisi</m> is another word like <m>getu'</m> that can change its meaning a little depending on context. This dialog shows that <m>gi's</m>/<m>gisi</m> can mean 'have done' OR 'can do/be able to do', just by changing what it is you're talking about.</note>
+			<designnote>Should have explicit note that this can mean either 'have done' or 'can do, be able to do', depending on context.</designnote>
+			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@2:05-2:23</timesig>		
+			<dialog>
+				<line>
+					<migmaq>Gi's gisa'tu'n 'gtlugowaqan?</migmaq> 	
+					<english>Have you finished your work?</english>
+					<soundfile>GisGisatunGtlugowaqan</soundfile>
+				</line>
+				<line>
+					<migmaq>Gi's ta's'g gisa'tu. Gatu mu gis-gaqa'tu.</migmaq> 	
+					<english>I have done some of it. But I can't finish it.</english>
+					<soundfile>GisTasgGisatuGatuMuGisgaqatu</soundfile>
+				</line>
+				<line>
+					<migmaq>Tal gis?</migmaq> 	
+					<english>How come?</english>
+					<soundfile>TalGis</soundfile>
+				</line>
+				<line>
+					<migmaq>Muta mu gisgitmu ta'n goqwei ula 'gtuteminu gisui'g'g.</migmaq>
+					<english>Because I can't read what this (non-Native) friend of ours has written.</english>
+					<soundfile>MutaMuGisgitmuTanGoqweiUlaGtuteminuGisuigg</soundfile>
+				</line>
+				<line>
+					<migmaq>Ni'n gisi-apoqonmult's, gulaman gis-gaqa'tut's.</migmaq> 	
+					<english>I will be able to help you, so that you can finish it.</english>
+					<soundfile>NinGisiapoqonmultsGulamanGisgaqatuts</soundfile>
+				</line>
+			</dialog>
+		</lesson>
+	</unit>
+	<unit>
+		<title>Distinguishing groups of people</title>
+		<note></note>
+		<lesson>
+			<title>We (inclusive) vs. We (exclusive)</title>
+			<note>In English, 'we' can mean you and me, you and me plus some other people, or me and some other people, but not you.</note>
+			<note>In Mi'gmaq, though, there are different ways of saying 'we' including you and 'we' not including you.</note>
+			<designnote>Recording this properly requires at least two female, two male voices; two older and two younger: possibly JV+MAM, VM+JM, and JW+RM]</designnote>		
+			<dialog>
+				<line>
+					<migmaq>Ni'nen gisiguieg; gatu gi'l maljewejuin.</migmaq> 	
+					<english>We are old; while you (one person) are young.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Ni'nen e'pitewieg; gatu gi'l ji'nmuin.</migmaq> 	
+					<english>We are women; while you are a man.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Ni'nen ji'nmuieg; gatu gi'l e'pitewin.</migmaq> 	
+					<english>We are men; while you are a woman.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</dialog>		
+			<dialog>
+				<line>
+					<migmaq>Ginu gisigui'gw: gi'l gisiguin, aq ni'n elg gisigui.</migmaq> 	
+					<english>We are old: you are old, and I too am old.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Ginu maljewejui'gw: gi'l maljewejuin, aq ni'n elg maljewejui.</migmaq>
+					<english>We are young: you are young, and I too am young.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Ginu e'pitewi'gw: gi'l e'pitewin, aq ni'n elg e'pitewi.</migmaq> 	
+					<english>We are women: you are a woman, and I too am a woman.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Ginu ji'nmui'gw: gi'l ji'nmuin, aq ni'n elg ji'nmui.</migmaq>
+					<english>We are men: you are a man, and I too am a man.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</dialog>
+		</lesson>
+		<lesson>
+			<title>Let me give you socks!</title>
+			<note>Let's practice distinguishing between single objects and groups of objects now.</note>
+			<designnote>phonological highlighting of easy-to-miss contrast between -n and -nn</designnote>
+			<timesig>@20120705_JW_AV_ignmulann</timesig>		
+			<dialog>
+				<line>
+					<migmaq>Gisgug aji-puna'n! Ge' to'q ignmulapnn signn!</migmaq> 	
+					<english>Today you're having your birthday! Let me give you socks!</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Ignmuin sign? Goqwei ugjit? Ma' ulapetmu newte' sign.</migmaq> 	
+					<english>You're giving me a sock? What for? I won't get good use out of one sock.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Teluap, "Ignmulann signn"! Signn, mu sign.</migmaq> 	
+					<english>I said, "I'm giving you socks"! Socks, not sock.</english>
+					<!--<soundfile></soundfile>-->
+					<img>socks.gif</img>
+				</line>
+				<line>
+					<migmaq>A', ignmuinn signn. Nestasi nige'. Wela'lin! Muta gewtaqsigi.</migmaq> 	
+					<english>Oh, you're giving me socks. I understand now. Thanks! Since my feet are cold (I feel cold in my feet/have cold feet).</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</dialog>	
+			<dialog>
+			<timesig>@20120705_JW_AV_ignmuitl</timesig>	
+				<line>
+					<migmaq>Te's-aji-puna'i, ignmuitl nmis signn.</migmaq> 	
+					<english>Every time I have a birthday, my big sister gives me socks.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Sign? Ma' ulapetmu'n newte' sign.</migmaq> 	
+					<english>A sock? You won't get good use out of one sock.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Teluap, "Ignmuitl signn"! Signn ignmuitl, mu sign.</migmaq> 	
+					<english>I said, "She gives me socks"! Socks she gives me, not (a) sock.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>A', nestasi. Wellugwen: mu (g)eggunmuann signn.</migmaq> 	
+					<english>Oh, I understand. You've done well: I don't have any socks.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</dialog>		
+			<dialog>
+			<timesig>@20120705_JW_EM_ignmuiji</timesig>
+				<line>
+					<migmaq>Aq te's-aji-puna'i, nsis ignmuiji tap'tang.</migmaq> 	
+					<english>And every time I have a birthday, my older brother gives me potatoes.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Tap'tang? Ignmasgi tap'tang?</migmaq> 	
+					<english>Potatoes? He gives you potatoes?</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>E'e. Tap'tang ignmuiji. Muta apjiw al'guwisin.</migmaq> 	
+					<english>Yes. He gives me potatoes. Because I'm always going around hungry.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</dialog>
+		</lesson>
+	</unit>
+	<unit>
+		<title>Weather</title>
+		<note>In this unit, we'll continue to practice expressing the timing of events by discussing the weather.</note>
+		<lesson>
+			<title>Weather Vocabulary</title>
+			<note>Let's learn some words to talk about weather. We'll use these in the next lesson to explore tense.</note>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg0</soundfile>
+				</line>
+				<line>
+					<migmaq>Etug getu' gaqtugawig.</migmaq>
+					<english>It might thunder.</english>
+					<soundfile>thunderClouds</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg1</soundfile>
+				</line>
+				<line>
+					<migmaq>Ewlams'n nemi'g aq elt wasoq'tesg.</migmaq>
+					<english>Looks like tornadoes and lightning.</english>
+					<soundfile>TornadoLighti</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg2</soundfile>
+				</line>
+				<line>
+					<migmaq>Wasoq'tesg aq gaqtugawig.</migmaq>
+					<english>Thunder and lightning.</english>
+					<soundfile>lightningThunder</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg3</soundfile>
+				</line>
+				<line>
+					<migmaq>Pesaq.</migmaq>
+					<english>Snowing.</english>
+					<soundfile>Snowing</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taliag?</migmaq>
+					<english>What's happening?</english>
+					<soundfile>Taliag0</soundfile>
+				</line>
+				<line>
+					<migmaq>Nujgma'q wastew.</migmaq>
+					<english>Melting snow.</english>
+					<soundfile>MeltingSnow</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg4</soundfile>
+				</line>
+				<line>
+					<migmaq>'Msi'gug</migmaq>
+					<english>Hail</english>
+					<soundfile>Hail</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Tami na tet?</migmaq>
+					<english>Where is this?</english>
+					<soundfile>TamiNaTet0</soundfile>
+				</line>
+				<line>
+					<migmaq>Nipugtug.</migmaq>
+					<english>Woods.</english>
+					<soundfile>woods</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg5</soundfile>
+				</line>
+				<line>
+					<migmaq>Epteg.</migmaq>
+					<english>Hot.</english>
+					<soundfile>Hot</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taliula'gw?</migmaq>
+					<english></english>
+					<soundfile>Taliulagw0</soundfile>
+				</line>
+				<line>
+					<migmaq>Weliula'gw.</migmaq>
+					<english>Nice evening.</english>
+					<soundfile>NiceEvening</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg6</soundfile>
+				</line>
+				<line>
+					<migmaq>Saqaniaq.</migmaq>
+					<english>Melting snow.</english>
+					<soundfile>Melting</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun1</soundfile>
+				</line>
+				<line>
+					<migmaq>Walqwan.</migmaq>
+					<english>Rainbow.</english>
+					<soundfile>Rainbow</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'g?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun2</soundfile>
+				</line>
+				<line>
+					<migmaq>Etlpanigs'g.</migmaq>
+					<english>Drifting snow.</english>
+					<soundfile>DriftingSnow</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg7</soundfile>
+				</line>
+				<line>
+					<migmaq>Gigpesaq.</migmaq>
+					<english>Raining.</english>
+					<soundfile>Rain</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun3</soundfile>
+				</line>
+				<line>
+					<migmaq>Ewlams'n.</migmaq>
+					<english>A tornado.</english>
+					<soundfile>Tornado</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun4</soundfile>
+				</line>
+				<line>
+					<migmaq>Wenji'guom aq tepgunset.</migmaq>
+					<english>A house moon.</english>
+					<soundfile>HouseMoon</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun5</soundfile>
+				</line>
+				<line>
+					<migmaq>Emaptoq.</migmaq>
+					<english>Tracks.</english>
+					<soundfile>Tracks</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun6</soundfile>
+				</line>
+				<line>
+					<migmaq>Sisguwig.</migmaq>
+					<english>Muddy.</english>
+					<soundfile>Muddy</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg8</soundfile>
+				</line>
+				<line>
+					<migmaq>Na'gu 'setewig aq alugwiaq.</migmaq>
+					<english>Sunny and cloudy.</english>
+					<soundfile>SunnyCloudy</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun7</soundfile>
+				</line>
+				<line>
+					<migmaq>'Tgu'g.</migmaq>
+					<english>Waves.</english>
+					<soundfile>Waves</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg9</soundfile>
+				</line>
+				<line>
+					<migmaq>Ma 'munitge'g.</migmaq>
+					<english>Very cold.</english>
+					<soundfile>VeryCold</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg10</soundfile>
+				</line>
+				<line>
+					<migmaq>Gigpesa'ji'g.</migmaq>
+					<english>Showers.</english>
+					<soundfile>Showers</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg11</soundfile>
+				</line>
+				<line>
+					<migmaq>Alugigisg'g.</migmaq>
+					<english>Cloudy.</english>
+					<soundfile>Cloudy</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun8</soundfile>
+				</line>
+				<line>
+					<migmaq>Miti'sg.</migmaq>
+					<english>Trees.</english>
+					<soundfile>Trees</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'un?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun9</soundfile>
+				</line>
+				<line>
+					<migmaq>Nipugt aq gospem.</migmaq>
+					<english>Woods and lake.</english>
+					<soundfile>WoodsLake</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg12</soundfile>
+				</line>
+				<line>
+					<migmaq>Gaqtugwawig.</migmaq>
+					<english>Thundering.</english>
+					<soundfile>Thundering</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'un?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun10</soundfile>
+				</line>
+				<line>
+					<migmaq>Na'gu'set nemi'g.</migmaq>
+					<english>I see the sun.</english>
+					<soundfile>Sun</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg13</soundfile>
+				</line>
+				<line>
+					<migmaq>Na'gu'setewig.</migmaq>
+					<english>Sunny.</english>
+					<soundfile>Sunny</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'un?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun11</soundfile>
+				</line>
+				<line>
+					<migmaq>Na'gu'set qalqwasiet.</migmaq>
+					<english>The setting sun.</english>
+					<soundfile>SettingSun</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg14</soundfile>
+				</line>
+				<line>
+					<migmaq>Tegigisg'g.</migmaq>
+					<english>Cold.</english>
+					<soundfile>Cold</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'un?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun12</soundfile>
+				</line>
+				<line>
+					<migmaq>Gegpewisg.</migmaq>
+					<english>Dew.</english>
+					<soundfile>Dew</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Talitge'g?</migmaq>
+					<english></english>
+					<soundfile>Talitgeg</soundfile>
+				</line>
+				<line>
+					<migmaq>Tege'ji'jg.</migmaq>
+					<english>Cool.</english>
+					<soundfile>cool</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What's visible?</english>
+					<soundfile>GoqweiNemitun13</soundfile>
+				</line>
+				<line>
+					<migmaq>Maqtawamugsit tepgnuset.</migmaq>
+					<english>A dark moon.</english>
+					<soundfile>DarkMoon</soundfile>
+				</line>
+			</vocab>
+			<!--Can't find-->
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<!--<soundfile>Taligisgg15</soundfile>-->
+				</line>
+				<line>
+					<migmaq>U'nig.</migmaq>
+					<english>Foggy.</english>
+					<!--<soundfile>Foggy</soundfile>-->
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<!--<soundfile>Taligisgg16</soundfile>-->
+				</line>
+				<line>
+					<migmaq>Saqpigisg'g.</migmaq>
+					<english>Foggy day.</english>
+					<!--<soundfile>FoggyDay</soundfile>-->
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg17</soundfile>
+				</line>
+				<line>
+					<migmaq>Mesie'waq.</migmaq>
+					<english>Drizzle.</english>
+					<soundfile>Drizzle</soundfile>
+				</line>
+				<line>
+					<migmaq>Taliaq?</migmaq>
+					<english>What's going on?</english>
+					<soundfile>Taliag1</soundfile>
+				</line>
+				<line>
+					<migmaq>Mespo'qeg.</migmaq>
+					<english>Flooding.</english>
+					<soundfile>Flooded</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<!--<soundfile>Taligisgg18</soundfile>-->
+				</line>
+				<line>
+					<migmaq>Epteg.</migmaq>
+					<english>Hot.</english>
+					<!--<soundfile>Epteg</soundfile>-->
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg19</soundfile>
+				</line>
+				<line>
+					<migmaq>Ewlansn wejgu'wet.</migmaq>
+					<english>Hurricane.</english>
+					<soundfile>Hurricane</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What's visible?</english>
+					<soundfile>GoqweiNemitun14</soundfile>
+				</line>
+				<line>
+					<migmaq>'Mgumi'gnig nipug.</migmaq>
+					<english>Icy woods.</english>
+					<soundfile>IcyWoods</soundfile>
+				</line>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg20</soundfile>
+				</line>
+				<line>
+					<migmaq>Etlwasoqotesg.</migmaq>
+					<english>Lightning.</english>
+					<soundfile>Lightning</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What's visible?</english>
+					<soundfile>GoqweiNemitun15</soundfile>
+				</line>
+				<line>
+					<migmaq>Wastew etlnujgma'q.</migmaq>
+					<english>Melting snow.</english>
+					<soundfile>Melt</soundfile>
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
+			<title>Weather and tense</title>
+			<note>In this lesson, we'll learn how to talk about the weather in the past, present, and future. Taking the present tense as the default, the past and future show up as different endings on the verb.</note>
+			<note>In general, past = <m>-p</m> and future = <m>-tew</m> (sometimes, you see other letters hanging on to these ones to make them easier to pronouce).</note>
+			<note>For example, to talk about rainy weather yesterday, you say:<m>ulagu, gigpesaqap</m>: yesterday, it rained; today, you say:<m>gisgug, gigpesaq</m>: today, it's raining; tomorrow, you say:<m>sapo'nug, gigpesatew</m>: tomorrow, it will rain.</note>
+			<note>One more thing about the future tense: in addition to adding <m>-tew</m> at the end of the verb, the future tense can also change the beginning of the word. It happens when the FIRST vowel of the present tense form is an <m>e</m>, and the change basically just removes the <m>e</m> in the future tense. Then to make it easier to say, a <m>'</m> is often added to the start of the word.</note>
+			<note>You'll get the hang of this the more you speak the language; for now, just learn these forms and watch out for the "remove <m>e</m>" rule in the future.</note>
+			<designnote>Already added into CAN8. May want to add 'it is/was/will be hot', to match the 'cold' series</designnote>
+			<timesig>@20120727-MAM-Gigpesaqap.wav@0:3.5-</timesig>
+			<vocab>
+				<line>
+					<migmaq>Gigpesaqap.</migmaq> 	
+					<english>It rained.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Gigpesaq.</migmaq> 	
+					<english>It is raining.</english>
+					<!--<soundfile></soundfile>-->
+					<img>2614.png</img>
+				</line>
+				<line>
+					<migmaq>Gigpesatew.</migmaq> 	
+					<english>It will rain.</english>
+				<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Alugwig'p.</migmaq> 	
+					<english>It was cloudy.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Alugwig.</migmaq> 	
+					<english>It is cloudy.</english>
+					<!--<soundfile></soundfile>-->
+					<img>2601.png</img>
+				</line>
+				<line>
+					<migmaq>Alugwitew.</migmaq> 	
+					<english>It will be cloudy.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Wasoqotesg'p, aq gaqtugwewig'p</migmaq> 	
+					<english>There was lightning and (there was) thunder.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Wasoqotesg, aq gaqtugwewig</migmaq> 	
+					<english>There is lightning and (there is) thunder.</english>
+					<!--<soundfile></soundfile>-->
+					<img>26A1.png</img>
+				</line>
+				<line>
+					<migmaq>Wasoqotest'tew, aq gaqtugwewitew</migmaq> 	
+					<english>There will be lightning and (there will be) thunder.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Na'gu'setewig'p</migmaq> 	
+					<english>It was sunny.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Na'gu'setewig</migmaq> 	
+					<english>It is sunny.</english>
+					<!--<soundfile></soundfile>-->
+					<img>2600.png</img>
+				</line>
+				<line>
+					<migmaq>Na'gu'setewitew</migmaq> 	
+					<english>It will be sunny.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Weju's'g'p</migmaq> 	
+					<english>It was windy, the wind was blowing.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Weju's'g</migmaq> 	
+					<english>It is windy, the wind is blowing.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Ugju's'gt'tew</migmaq> 	
+					<english>It will be windy, the wind will blow.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>U'nig'p</migmaq> 	
+					<english>It was foggy.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>U'nig</migmaq> 	
+					<english>It is foggy.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>U'nitew</migmaq> 	
+					<english>It will be foggy.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Pesaqap</migmaq> 	
+					<english>It was snowing.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Pesaq</migmaq> 	
+					<english>It is snowing.</english>
+					<!--<soundfile></soundfile>-->
+					<img>2744.png</img>
+				</line>
+				<line>
+					<migmaq>'Psatew</migmaq> 	
+					<english>It will snow.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Tege'g'p</migmaq> 	
+					<english>It was cold.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Tege'g</migmaq> 	
+					<english>It is cold.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>'Tge'tew</migmaq> 	
+					<english>It will be cold.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+		</lesson>
+	</unit>
+	<!--<unit>
+		<title>Practice Drama</title>
+		<lesson>
+			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>
+			<title>	Gesalul: a Can-8 drama in 6 acts!</title>
+			<note>This is mean to tie into and follow from the "give me..." series in introducing how participants in the verbal action change the form of the verb.</note>
+			<note>Basically we want to encourage learners to go over this drama many, many times: act it, memorize it as lines in a play. So that instead of having to refer to mental grammar chart in their heads (never fun or effective), they simply have to remember the scene in the play, and what was said, and, roughly speaking, just try to make their current verb match the ending used with "love" in that specific situation.</note>
+		</lesson>
+		<lesson>
+			<title>Opening scene</title>
+			<note>0.1 [lovelorn boy in a field, with a flower, pulling petals]</note>
+			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
+			<dialog>
+				<line>
+					<migmaq>Gesalit...mu gesaligw. Gesalit...mu gesaligw. Gesalit...mu 	gesaligw...gesalit!!!</migmaq> 	
+					<english>She loves me...she loves me not. She loves me...she loves me not. She loves me...she loves me not. She loves me!!!</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>
+		</lesson>
+		<lesson>
+			<title>First act: first attempt</title>
+			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
+			<dialog>
+				<note>1.1 [lovelorn boy to a somewhat uninterested girl]</note>
+				<line>
+					<migmaq>Gesalul! Gesalin?</migmaq> 	
+					<english>I love you! Do you love me?</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>		
+			<dialog>
+				<note>1.2 [the girl, back to him]</note>
+				<line>
+					<migmaq>Mu gesalulnu.</migmaq> 	
+					<english>I don't love you.</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>		
+			<dialog>
+				<note>1.3 [the boy, surprised]</note>
+				<line>
+					<migmaq>Mu gesaliw'n?</migmaq> 	
+					<english>You don't love me?</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>		
+			<dialog>
+				<note>1.4 [the girl, making it clear...]</note>
+				<line>
+					<migmaq>E'e, mu gesalulnu.</migmaq> 	
+					<english>Yes, I don't love you.</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>
+		</lesson>
+		<lesson>
+			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>
+			<title>Second act, second attempt</title>		
+			<dialog>
+				<note>2.1 [the boy, offering flowers]</note>
+				<line>
+					<migmaq>Gesalin nige'?</migmaq> 	
+					<english>Do you love me now?</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>		
+			<dialog>
+				<note>2.2 [the girl, taking the flowers]</note>
+				<line>
+					<migmaq>Wela'lin. Gatu me' mu gesalulnu.</migmaq> 	
+					<english>Thank you. But I still don't love you.</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>
+		</lesson>
+		<lesson>
+			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>
+			<title>Third act, with a friend</title>		
+			<dialog>
+				<note>3.1 [the boy, to a sympathetic friend]</note>
+				<line>
+					<migmaq>Gesalg...gatu mu gesaligw.</migmaq> 	
+					<english>I love her...but she doesn't love me.</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>		
+			<dialog>
+				<note>3.2 [the friend, not getting it]</note>
+				<line>
+					<migmaq>Gesal'sg, gisna mu gesalulug?</migmaq> 	
+					<english>She loves you, or she doesn't love you?</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>		
+			<dialog>
+				<note>3.3 [the boy, sadly]</note>
+				<line>
+					<migmaq>Mu gesaligw. Gesalg...gatu mu gesaligw.</migmaq> 	
+					<english>She doesn't love me. I love her...but she doesn't love me.</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>		
+			<dialog>
+				<note>3.4 [the friend, getting it]</note>
+				<line>
+					<migmaq>O', nestasi: gesalt, gatu mu gesalulug.</migmaq> 	
+					<english>Oh, I understand: you love her, but she doesn't love you.</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>		
+			<dialog>
+				<note>3.5 [the boy, confirming]</note>
+				<line>
+					<migmaq>Ehe, gesalg, gatu mu gesaligw.</migmaq> 	
+					<english>Yes, I love her, but she doesn't love me.</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>
+		</lesson>
+		<lesson>
+			<title>Fourth act, other people's perspectives</title>
+			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
+			<dialog>
+				<note>4.1 [the girl, to us, gesturing back to the boy]</note>
+				<line>
+					<migmaq>Gesalit, gatu mu gesalaq.</migmaq> 	
+					<english>He loves me, but I don't love him.</english>
+					<soundfile>
+					</soundfile>
+				</line>
+				<designnote>Should have an explicit note here drawing out the perspective-taking effect of "gesalatl" vs. "gesaltl", etc.</designnote>
+				<note>4.2 [the friend, to us, gesturing back to the boy]</note>
+				<line>
+					<migmaq>Gesalatl, gatu mu gesalgugl.</migmaq> 	
+					<english>He loves her, but she doesn't love him [or: 'but he isn't loved by her'].</english>
+					<soundfile>
+					</soundfile>
+				</line>
+				<note>4.3 [the friend, to us, gesturing back to the girl]</note>
+				<line>
+					<migmaq>Mu gesalagwl, gatu gesaltl.</migmaq> 	
+					<english>She doesn't love him, but he loves her [or: 'but she is loved by him']</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>
+		</lesson>
+		<lesson>
+			<title>Fifth act, a final attempt, and success!!!</title>
+			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
+			<dialog>
+				<note>5.1 [the boy, after many repetitions]</note>
+				<line>
+					<migmaq>Gesalin nige'?</migmaq> 	
+					<english>Do you love me now?</english>
+					<soundfile>
+					</soundfile>
+				</line>
+				<note>5.2 [the girl, having been won over by his heartfelt but not stalkerish persistence, and/or a hilarious stack of gifts (hearts, chocolate, stuffed animals), etc.]</note>
+				<line>
+					<migmaq>Ehe, nige' gesalul.</migmaq> 	
+					<english>Yes, now I love you.</english>
+					<soundfile>
+					</soundfile>
+				</line>
+				<note>5.3 [the boy, full of joy]</note>
+				<line>
+					<migmaq>Gesalin!!!</migmaq> 	
+					<english>You love me!!!</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>
+		</lesson>
+		<lesson>
+			<title>Final act, the friend concludes it for us</title>
+			<timesig>@20120613-JW-MX-MAM-Gesalul.mp3</timesig>		
+			<dialog>
+				<note>6.1 [the friend, to us, after love is won</note>
+				<line>
+					<migmaq>Gesalatl, aq nige', gesaltl.</migmaq> 	
+					<english>He love her, and now, she loves him [or: 'now, he is loved by her']</english>
+					<soundfile>
+					</soundfile>
+				</line>
+				<note>6.2 [the friend, to them</note>
+				<line>
+					<migmaq>Gesaltioq!!!</migmaq> 	
+					<english>You (2) love each other!!!</english>
+					<soundfile>
+					</soundfile>
+				</line>
+				<note>6.3 [the two, back to the friend</note>
+				<line>
+					<migmaq>Ehe, gesaltieg!</migmaq> 	
+					<english>Yes, we (2, -you) love each other!!!</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>
+		</lesson>
+		<lesson>
+			<title>Some dramatic up and down options, if we want to keep this soap opera going</title>		
+			<dialog>
+				<line>
+					<migmaq>Welamul, gatu mu gesalulnu.</migmaq> 	
+					<english>I think well of you, but I don't love you.</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog> 
+			<dialog>	
+				<line>
+					<migmaq>Mu gesalulnu nugu'... [Gesalulap, ... gatu]</migmaq> 	
+					<english>I don't love you anymore.</english>
+					<soundfile>
+					</soundfile>
+				</line>
+				<note>The following translations remain to be done and checked:</note> 
+				<line>
+					<migmaq>Goqwei ugjit/Tal gi's?</migmaq> 	
+					<english>What for/How now?</english>
+					<soundfile>
+					</soundfile>
+				</line>
+				<line>
+					<migmaq>[...muta] mu apoqonmuiw'n, mu goqwei telimiw'n, mu nestuiw'n...</migmaq> 	
+					<english>[Because] you don't help me, you don't tell me anything, you don't understand me...</english>
+					<soundfile>
+					</soundfile>
+				</line>
+				<line>
+					<migmaq>[...aq muta] nun'gi'gug mu wel'te'lmulugig.</migmaq> 	
+					<english>
+					</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>		
+			<dialog>
+				<line>
+					<migmaq>Tew'ji-ulamgusin! Gesalul!</migmaq> 	
+					<english>
+					</english>
+					<soundfile>
+					</soundfile>
+				</line>
+				<line>
+					<migmaq>Mu tal-ulamgusiw'n! Mu gesalulnu.</migmaq> 	
+					<english>
+					</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>		
+			<dialog>
+				<line>
+					<migmaq>"Wen na ala ji'nm(ji'j)? Welamg. [Ma'mun-ulamg]. Ge' apoqonmui: jugua'l."</migmaq> 	
+					<english>
+					</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>		
+			<dialog>
+				<line>
+					<migmaq>Alternative interaction with friend:</migmaq> 	
+					<english>
+					</english>
+					<soundfile>
+					</soundfile>
+				</line>
+				<line>
+					<migmaq>"Gesal'sg? Moqwa'! Gi'l gesalt."</migmaq> 	
+					<english>
+					</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>		
+			<dialog>
+				<note>Alternative comment from friend:</note>
+				<line>
+					<migmaq>"Ne'gaw gesalatl, aq nige', gesaltl."</migmaq> 	
+					<english>
+					</english>
+					<soundfile>
+					</soundfile>
+				</line>
+				<note>Alternative final conclusion from freind, with the two hugging in the background:</note>
+				<line>
+					<migmaq>"Gesaltijig [nige']."</migmaq> 	
+					<english>
+					</english>
+					<soundfile>
+					</soundfile>
+				</line>
+			</dialog>
+		</lesson>
+	</unit>-->
 	<unit>
 		<title>Bonus dialog</title>
 		<note>You're almost done with this section. You've learned so much! Here is a short review unit to help you remember and practice everything you've learned.</note>
