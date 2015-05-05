@@ -7322,6 +7322,207 @@
 				</line>
 			</vocab>
 		</lesson>
+		<lesson>
+			<title>Clothing</title>
+			<note>Here are the names for articles of clothing.</note>
+			<vocab>
+				<line>
+					<migmaq></migmaq>
+					<english>shirt</english>
+					<soundfile>Shirt</soundfile>
+					<img>1F455.png</img>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>sleeve</english>
+					<soundfile>Sleeve</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>collar</english>
+					<soundfile>Collar</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>t-shirt</english>
+					<soundfile>T-shirt</soundfile>
+					<img>1F45A.png</img>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>jacket</english>
+					<soundfile>Jacket</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq></migmaq>
+					<english>pants</english>
+					<soundfile>Pants</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>jeans</english>
+					<soundfile>Jeans</soundfile>
+					<img>1F456.png</img>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>belt</english>
+					<soundfile>Belt</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>shorts</english>
+					<soundfile>Shorts</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>skirt</english>
+					<soundfile>Skirt</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq></migmaq>
+					<english>shoes</english>
+					<soundfile>Shoes</soundfile>
+					<img>1F45F.png</img>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>slippers</english>
+					<soundfile>Slippers</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>socks</english>
+					<soundfile>Socks</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>tights</english>
+					<soundfile>Tights</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>sandals</english>
+					<soundfile>Sandals</soundfile>
+					<img>1F461.png</img>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>boots</english>
+					<soundfile>Boots</soundfile>
+					<img>1F462.png</img>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>ice skates</english>
+					<soundfile>IceSkates</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq></migmaq>
+					<english>ear muffs</english>
+					<soundfile>EarMuffs</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>hat</english>
+					<soundfile>Hat</soundfile>
+					<img>1F452.png</img>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>gloves</english>
+					<soundfile>Gloves</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>mitten</english>
+					<soundfile>Mitten</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>scarf</english>
+					<soundfile>Scarf</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>helmet</english>
+					<soundfile>Helmet</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>handkerchief</english>
+					<soundfile>Handkerchief</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>purse</english>
+					<soundfile>Purse</soundfile>
+					<img>1F392.png</img>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq></migmaq>
+					<english>pajamas</english>
+					<soundfile>Pajamas</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>swimsuit</english>
+					<soundfile>Swimsuit</soundfile>
+					<img>1F459.png</img>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>dress</english>
+					<soundfile>Dress</soundfile>
+					<img>1F457.png</img>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>underwear</english>
+					<soundfile>Underwear</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq></migmaq>
+					<english>buckle</english>
+					<soundfile>Buckle</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>ribbon</english>
+					<soundfile>Ribbon</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>pocket</english>
+					<soundfile>Pocket</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>cuff hem</english>
+					<soundfile>Cuff-Hem</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>laces</english>
+					<soundfile>Laces</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>zipper</english>
+					<soundfile>Zipper</soundfile>
+				</line>
+			</vocab>
+		</lesson>
 	</unit>
 	<unit>
 		<title>Wants and Needs, Advanced</title>
@@ -7612,7 +7813,7 @@
 	</unit>
 	<unit>
 		<title>Daily routine for children</title>
-		<note>You've learned how to have a lot of conversations! In this unit, we'll learn even more helpful conversation phrases, particularly ones you might use when taking care of children. These next few lessons will also teach you how to give commands to children.</note>
+		<note>You've learned how to have a lot of conversations! In this unit, we'll talk through a parent's morning routine with their children. Along the way, we'll practice the household vocabulary we've been learning.</note>
 		<lesson>
 			<title>Getting up</title>
 			<note>This lesson is meant to help you practice conversation you might use around children. It's a dialog about getting ready in the morning.</note>		
@@ -8101,7 +8302,7 @@
 		<title>Time</title>
 		<note>In this unit, we'll learn how to talk about events that have already happened.</note>
 		<lesson>
-			<title>I've done</title>
+			<title>Things I've done</title>
 			<note>Let's learn how to talk about things we've done.</note>
 			<note>The expression <m>gi's</m> or <m>gisi</m> is another word like <m>getu'</m> that can change its meaning a little depending on context. This dialog shows that <m>gi's</m>/<m>gisi</m> can mean 'have done' OR 'can do/be able to do', just by changing what it is you're talking about.</note>
 			<designnote>Should have explicit note that this can mean either 'have done' or 'can do, be able to do', depending on context.</designnote>
