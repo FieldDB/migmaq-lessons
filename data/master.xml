@@ -7058,57 +7058,7 @@
 				</line>
 			</vocab>
 		</lesson>
-		<lesson>
-			<title>Have to practice</title>
-			<note>Let's practice 'have to' some more with some short dialogs.</note>
-			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:40-1:14</timesig>		
-			<dialog>
-				<linetimsig>[@0:40-0:48]</linetimsig>
-				<line>
-					<migmaq>Natlugwen?</migmaq> 	
-					<english>You're going to work?</english>
-					<soundfile>Natlugwen</soundfile>
-				</line>
-				<line>
-					<migmaq>E'e, natlugwei. Mu getu'-natlugwew, gatu amuj pa natlugwei.</migmaq> 
-					<english>Yes, I'm going to work. I don't want to go to work, but I have to go to work.</english>
-					<soundfile>EeNatlugweiMuGetuNatlugwewGatuAmujPaNatlugwei</soundfile>
-				</line>
-			</dialog>	
-			<dialog>
-			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:40-1:14</timesig>	
-				<linetimsig>[@0:48-0:55]</linetimsig>
-				<line>
-					<migmaq>Aplugwen?</migmaq> 	
-					<english>You're back from work?</english>
-					<soundfile>Aplugwen</soundfile>
-				</line>
-				<line>
-					<migmaq>E'e, aplugwei. Tew'ji-gispnei a!</migmaq> 	
-					<english>Yep,I'm back from work. I'm so tired!</english>
-					<soundfile>EeAplugweiTewjiGispneiA</soundfile>
-				</line>
-			</dialog>	
-			<dialog>
-			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:40-1:14</timesig>	
-				<linetimsig>[@0:57-1:14]</linetimsig>
-				<line>
-					<migmaq>Etllugwen nige'?</migmaq> 	
-					<english>Are you working now?</english>
-					<soundfile>EtllugwenNige</soundfile>
-				</line>
-				<line>
-					<migmaq>E'e, etllugwei. Te'si-gisg'g na ne'w ajiet gaqlugwei, gatu gisgug na'n ajietew.</migmaq> 	
-					<english>Yes, I'm working. Every day I finish working at four o'clock, but today it will be five o'clock.</english>
-					<soundfile>EeEtllugweiTesiGisggNaNewAjietGaqlugweiGatuGisgugNanAjietew</soundfile>
-				</line>
-				<line>
-					<migmaq>Ni'n mu amuj pa na elugwew gisgug. Nmu'lt's to'q na'n ajiej.</migmaq>
-					<english>Me, I don't have to work today. I'll see you then when it's five.</english>
-					<soundfile>NinMuAmujPaNaElugwewGisgugNmultsToqNanAjiej</soundfile>
-				</line>
-			</dialog>
-		</lesson>
+		
 		<lesson>
 			<title>Want to</title>
 			<note>Now let's learn how to say 'want to'. Depending on the context where you say it, the word <m>getu'</m> can mean either 'going to do' or 'want to do'.</note>
@@ -7184,7 +7134,7 @@
 		</lesson>
 	</unit>
 	<unit>
-		<title>Asking for needs</title>
+		<title>Asking for and meeting needs</title>
 		<note>This unit practices asking for things that we want or need, and explaining our requests.</note>
 		<lesson>
 			<title>Give me an apple!</title>
@@ -8023,6 +7973,57 @@
 					<migmaq>Ni'n gisi-apoqonmult's, gulaman gis-gaqa'tut's.</migmaq> 	
 					<english>I will be able to help you, so that you can finish it.</english>
 					<soundfile>NinGisiapoqonmultsGulamanGisgaqatuts</soundfile>
+				</line>
+			</dialog>
+		</lesson>
+		<lesson>
+			<title>Events</title>
+			<note>Listen for the timing of each event discussed.</note>
+			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:40-1:14</timesig>		
+			<dialog>
+				<linetimsig>[@0:40-0:48]</linetimsig>
+				<line>
+					<migmaq>Natlugwen?</migmaq> 	
+					<english>You're going to work?</english>
+					<soundfile>Natlugwen</soundfile>
+				</line>
+				<line>
+					<migmaq>E'e, natlugwei. Mu getu'-natlugwew, gatu amuj pa natlugwei.</migmaq> 
+					<english>Yes, I'm going to work. I don't want to go to work, but I have to go to work.</english>
+					<soundfile>EeNatlugweiMuGetuNatlugwewGatuAmujPaNatlugwei</soundfile>
+				</line>
+			</dialog>	
+			<dialog>
+			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:40-1:14</timesig>	
+				<linetimsig>[@0:48-0:55]</linetimsig>
+				<line>
+					<migmaq>Aplugwen?</migmaq> 	
+					<english>You're back from work?</english>
+					<soundfile>Aplugwen</soundfile>
+				</line>
+				<line>
+					<migmaq>E'e, aplugwei. Tew'ji-gispnei a!</migmaq> 	
+					<english>Yep,I'm back from work. I'm so tired!</english>
+					<soundfile>EeAplugweiTewjiGispneiA</soundfile>
+				</line>
+			</dialog>	
+			<dialog>
+			<timesig>@20120801-JV-MAM-GeLatinejQospemg2Gisi.wav@0:40-1:14</timesig>	
+				<linetimsig>[@0:57-1:14]</linetimsig>
+				<line>
+					<migmaq>Etllugwen nige'?</migmaq> 	
+					<english>Are you working now?</english>
+					<soundfile>EtllugwenNige</soundfile>
+				</line>
+				<line>
+					<migmaq>E'e, etllugwei. Te'si-gisg'g na ne'w ajiet gaqlugwei, gatu gisgug na'n ajietew.</migmaq> 	
+					<english>Yes, I'm working. Every day I finish working at four o'clock, but today it will be five o'clock.</english>
+					<soundfile>EeEtllugweiTesiGisggNaNewAjietGaqlugweiGatuGisgugNanAjietew</soundfile>
+				</line>
+				<line>
+					<migmaq>Ni'n mu amuj pa na elugwew gisgug. Nmu'lt's to'q na'n ajiej.</migmaq>
+					<english>Me, I don't have to work today. I'll see you then when it's five.</english>
+					<soundfile>NinMuAmujPaNaElugwewGisgugNmultsToqNanAjiej</soundfile>
 				</line>
 			</dialog>
 		</lesson>
