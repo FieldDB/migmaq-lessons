@@ -8633,7 +8633,7 @@
 		</lesson>
 	</unit>
 	<unit>
-		<title>Weather</title>
+		<title>Weather and Environment</title>
 		<note>In this unit, we'll continue to practice expressing the timing of events by discussing the weather.</note>
 		<lesson>
 			<title>Weather Vocabulary</title>
@@ -9238,6 +9238,359 @@
 					<migmaq>'Tge'tew</migmaq> 	
 					<english>It will be cold.</english>
 					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
+			<title>Beach vocabulary</title>
+			<note>Let's go to the beach!</note>
+			<vocab>
+				<line>
+					<migmaq>sitm</migmaq>
+					<english>beach</english>
+					<soundfile>beach</soundfile>
+				</line>
+				<line>
+					<migmaq>tu'aqan</migmaq>
+					<english>beach ball</english>
+					<soundfile>ball</soundfile>
+				</line>
+				<line>
+					<migmaq>la'taqsun</migmaq>
+					<english>bucket</english>
+					<soundfile>pail</soundfile>
+				</line>
+				<line>
+					<migmaq>getapetesing</migmaq>
+					<english>dive</english>
+					<soundfile>dive</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>'mtawegn</migmaq>
+					<english>flag</english>
+					<soundfile>flag</soundfile>
+				</line>
+				<line>
+					<migmaq>ala'lugwa'lueg</migmaq>
+					<english>life jacket</english>
+					<soundfile>lifeJacket</soundfile>
+				</line>
+				<line>
+					<migmaq>ala'lugwa'luemgewei</migmaq>
+					<english>life jacket</english>
+					<soundfile>lifeJacket3</soundfile>
+				</line>
+				<line>
+					<migmaq>a'pi</migmaq>
+					<english>net</english>
+					<soundfile>net</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>gunte'j</migmaq>
+					<english>pebble</english>
+					<soundfile>pebble</soundfile>
+				</line>
+				<line>
+					<migmaq>atuomg</migmaq>
+					<english>sand</english>
+					<soundfile>sand</soundfile>
+				</line>
+				<line>
+					<migmaq>atuomgi'gan</migmaq>
+					<english>sandcastle</english>
+					<soundfile>sandcastle</soundfile>
+				</line>
+				<line>
+					<migmaq>apaqt</migmaq>
+					<english>sea</english>
+					<soundfile>sea</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>qaliputi</migmaq>
+					<english>shovel</english>
+					<soundfile>shovel</soundfile>
+				</line>
+				<line>
+					<migmaq>etloqsit</migmaq>
+					<english>sunbathing</english>
+					<soundfile>sunbathing</soundfile>
+				</line>
+				<line>
+					<migmaq>ugpugugwe'l gesategewe'l</migmaq>
+					<english>sunglasses</english>
+					<soundfile>sunglasses</soundfile>
+				</line>
+				<line>
+					<migmaq>tegismit</migmaq>
+					<english>swim</english>
+					<soundfile>swim</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>atuasgwa'q</migmaq>
+					<english>swim on back</english>
+					<soundfile>swimOnBack</soundfile>
+				</line>
+				<line>
+					<migmaq>gasigo's'ti</migmaq>
+					<english>towel</english>
+					<soundfile>towel</soundfile>
+				</line>
+				<line>
+					<migmaq>tegis'mit</migmaq>
+					<english>swim around</english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>'tgu</migmaq>
+					<english>wave</english>
+					<soundfile>wave</soundfile>
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
+			<title>Park vocabulary</title>
+			<note>Let's go to the park!</note>
+			<vocab>
+				<line>
+					<migmaq>pugwana'tegemgewei</migmaq>
+					<english>smoker</english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>altesgasimg</migmaq>
+					<english>bicycling</english>
+					<soundfile>Bicycling</soundfile>
+				</line>
+				<line>
+					<migmaq>gujmug etlatalm'g</migmaq>
+					<english>picnic</english>
+					<soundfile>Picnic</soundfile>
+				</line>
+				<line>
+					<migmaq>ligpenigen mijipjeweiei</migmaq>
+					<english>picnic basket</english>
+					<soundfile>PicnicBasket</soundfile>
+				</line>
+				<line>
+					<migmaq>'mjegeio'q</migmaq>
+					<english>trash can</english>
+					<soundfile>TrashCan</soundfile>
+				</line>
+				<line>
+					<migmaq>wejsamqoltimg</migmaq>
+					<english>water fountain</english>
+					<soundfile>WaterFountain</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>walpog</migmaq>
+					<english>pond</english>
+					<soundfile>Pond</soundfile>
+				</line>
+				<line>
+					<migmaq>sipu</migmaq>
+					<english>river</english>
+					<soundfile>River</soundfile>
+				</line>
+				<line>
+					<migmaq>mnigu</migmaq>
+					<english>island</english>
+					<soundfile>Island</soundfile>
+				</line>
+				<line>
+					<migmaq>qospem</migmaq>
+					<english>lake</english>
+					<soundfile>Lake</soundfile>
+				</line>
+				<line>
+					<migmaq>nipisoqn</migmaq>
+					<english>bush</english>
+					<soundfile>Bush</soundfile>
+				</line>
+				<line>
+					<migmaq>llutaqan</migmaq>
+					<english>fence</english>
+					<soundfile>Fence</soundfile>
+				</line>
+				<line>
+					<migmaq>ga'qana'tas'g</migmaq>
+					<english>gate</english>
+					<soundfile>Gate</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>etlmilita'mgewei</migmaq>
+					<english>playground</english>
+					<soundfile>Playground</soundfile>
+				</line>
+				<line>
+					<migmaq>tepaqanji'j mijua'ji'jewei</migmaq>
+					<english>baby carriage</english>
+					<soundfile>BabyCarriage</soundfile>
+				</line>
+				<line>
+					<migmaq>algusuemgewei</migmaq>
+					<english>monkey bars</english>
+					<soundfile>MonkeyBars</soundfile>
+				</line>
+				<line>
+					<migmaq>elipqamimgewei</migmaq>
+					<english>slide</english>
+					<soundfile>Slide</soundfile>
+				</line>
+				<line>
+					<migmaq>nanamiet</migmaq>
+					<english>swings</english>
+					<soundfile>Swings</soundfile>
+				</line>
+				<line>
+					<migmaq>nanamiaqan</migmaq>
+					<english>swing</english>
+					<soundfile>Swing</soundfile>
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
+			<title>Garden vocabulary</title>
+			<note>Let's walk through a garden!</note>
+			<vocab>
+				<line>
+					<migmaq>ugtejgei ga'qan</migmaq>
+					<english>back door</english>
+					<soundfile>Backdoor</soundfile>
+				</line>
+				<line>
+					<migmaq>algopimgewei</migmaq>
+					<english>balcony</english>
+					<soundfile>Balcony</soundfile>
+				</line>
+				<line>
+					<migmaq>epita'mgewei</migmaq>
+					<english>bench</english>
+					<soundfile>epita'mgewei</soundfile>
+				</line>
+				<line>
+					<migmaq>mawgopimgewei</migmaq>
+					<english>bench</english>
+					<soundfile>mawgopimgewei</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>jipji'juo'guom</migmaq>
+					<english>birdhouse</english>
+					<soundfile>Birdhouse</soundfile>
+				</line>
+				<line>
+					<migmaq>nipispaqan</migmaq>
+					<english>branch</english>
+					<soundfile>Branch</soundfile>
+				</line>
+				<line>
+					<migmaq>pui'gn</migmaq>
+					<english>broom</english>
+					<soundfile>Broom</soundfile>
+				</line>
+				<line>
+					<migmaq>wasuweg</migmaq>
+					<english>flower</english>
+					<soundfile>Flower</soundfile>
+				</line>
+				<line>
+					<migmaq>waswego'q</migmaq>
+					<english>flower pot</english>
+					<soundfile>FlowerPot</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>iga'taqan</migmaq>
+					<english>garden</english>
+					<soundfile>Garden</soundfile>
+				</line>
+				<line>
+					<migmaq>'lge'gn</migmaq>
+					<english>hoe</english>
+					<soundfile>Hoe</soundfile>
+				</line>
+				<line>
+					<migmaq>'msigu'l</migmaq>
+					<english>lawn</english>
+					<soundfile>'msigu'l</soundfile>
+				</line>
+				<line>
+					<migmaq>'msigu</migmaq>
+					<english>lawn</english>
+					<soundfile>'msigu</soundfile>
+				</line>
+				<line>
+					<migmaq>samqwan eltaqa'mgewei</migmaq>
+					<english>hose</english>
+					<soundfile>Hose</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>'psgweso'qn</migmaq>
+					<english>lawn mower</english>
+					<soundfile>LawnMower</soundfile>
+				</line>
+				<line>
+					<migmaq>nipi</migmaq>
+					<english>Leaf</english>
+					<soundfile>Leaf</soundfile>
+				</line>
+				<line>
+					<migmaq>ap'sgeigaqan</migmaq>
+					<english>padlock</english>
+					<soundfile>ap'sgeigaqan</soundfile>
+				</line>
+				<line>
+					<migmaq>apt'sgi'gaqan</migmaq>
+					<english>padlock</english>
+					<soundfile>apt'sgi'gaqan</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>etlitgismimgewei</migmaq>
+					<english>pool</english>
+					<soundfile>Pool</soundfile>
+				</line>
+				<line>
+					<migmaq>jigg'putaqan</migmaq>
+					<english>rake</english>
+					<soundfile>Rake</soundfile>
+				</line>
+				<line>
+					<migmaq>tu'sati</migmaq>
+					<english>shed</english>
+					<soundfile>Shed</soundfile>
+				</line>
+				<line>
+					<migmaq>qaliputi</migmaq>
+					<english>shovel</english>
+					<soundfile>Shovel</soundfile>
+				</line>
+				<line>
+					<migmaq>teppugua'timg</migmaq>
+					<english>step</english>
+					<soundfile>Step</soundfile>
+				</line>
+				<line>
+					<migmaq>miti's</migmaq>
+					<english>tree</english>
+					<soundfile>Tree</soundfile>
 				</line>
 			</vocab>
 		</lesson>
