@@ -8650,14 +8650,15 @@
 					<soundfile>thunderClouds</soundfile>
 				</line>
 				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What is the weather like?</english>
-					<soundfile>Taligisgg1</soundfile>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun5</soundfile>
 				</line>
 				<line>
-					<migmaq>Ewlams'n nemi'g aq elt wasoq'tesg.</migmaq>
-					<english>Looks like tornadoes and lightning.</english>
-					<soundfile>TornadoLighti</soundfile>
+					<migmaq>Emaptoq.</migmaq>
+					<english>Tracks.</english>
+					<soundfile>Tracks</soundfile>
+					<img>1F43E.png</img>
 				</line>
 			</vocab>
 			<vocab>
@@ -8673,28 +8674,18 @@
 					<img>26A1.png</img>
 				</line>
 				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What is the weather like?</english>
-					<soundfile>Taligisgg3</soundfile>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun7</soundfile>
 				</line>
 				<line>
-					<migmaq>Pesaq.</migmaq>
-					<english>Snowing.</english>
-					<soundfile>Snowing</soundfile>
-					<img>2744.png</img>
+					<migmaq>'Tgu'g.</migmaq>
+					<english>Waves.</english>
+					<soundfile>Waves</soundfile>
+					<img>1F30A.png</img>
 				</line>
 			</vocab>
 			<vocab>
-				<line>
-					<migmaq>Taliag?</migmaq>
-					<english>What's happening?</english>
-					<soundfile>Taliag0</soundfile>
-				</line>
-				<line>
-					<migmaq>Nujgma'q wastew.</migmaq>
-					<english>Melting snow.</english>
-					<soundfile>MeltingSnow</soundfile>
-				</line>
 				<line>
 					<migmaq>Taligisg'g?</migmaq>
 					<english>What is the weather like?</english>
@@ -8752,15 +8743,15 @@
 			</vocab>
 			<vocab>
 				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun1</soundfile>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg3</soundfile>
 				</line>
 				<line>
-					<migmaq>Walqwan.</migmaq>
-					<english>Rainbow.</english>
-					<soundfile>Rainbow</soundfile>
-					<img>1F308.png</img>
+					<migmaq>Pesaq.</migmaq>
+					<english>Snowing.</english>
+					<soundfile>Snowing</soundfile>
+					<img>2744.png</img>
 				</line>
 				<line>
 					<migmaq>Goqwei nemitu'g?</migmaq>
@@ -8788,6 +8779,29 @@
 				<line>
 					<migmaq>Goqwei nemitu'n?</migmaq>
 					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun4</soundfile>
+				</line>
+				<line>
+					<migmaq>Wenji'guom aq tepgunset.</migmaq>
+					<english>A full moon.</english>
+					<soundfile>HouseMoon</soundfile>
+					<img>1F315.png</img>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What is the weather like?</english>
+					<soundfile>Taligisgg1</soundfile>
+				</line>
+				<line>
+					<migmaq>Ewlams'n nemi'g aq elt wasoq'tesg.</migmaq>
+					<english>Looks like tornadoes and lightning.</english>
+					<soundfile>TornadoLighti</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
 					<soundfile>GoqweiNemitun3</soundfile>
 				</line>
 				<line>
@@ -8797,40 +8811,6 @@
 				</line>
 			</vocab>
 			<vocab>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun4</soundfile>
-				</line>
-				<line>
-					<migmaq>Wenji'guom aq tepgunset.</migmaq>
-					<english>A full moon.</english>
-					<soundfile>HouseMoon</soundfile>
-					<img>1F315.png</img>
-				</line>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun5</soundfile>
-				</line>
-				<line>
-					<migmaq>Emaptoq.</migmaq>
-					<english>Tracks.</english>
-					<soundfile>Tracks</soundfile>
-					<img>1F43E.png</img>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun6</soundfile>
-				</line>
-				<line>
-					<migmaq>Sisguwig.</migmaq>
-					<english>Muddy.</english>
-					<soundfile>Muddy</soundfile>
-				</line>
 				<line>
 					<migmaq>Taligisg'g?</migmaq>
 					<english>What's the weather like?</english>
@@ -8845,16 +8825,27 @@
 			</vocab>
 			<vocab>
 				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun7</soundfile>
+					<migmaq>Taligisg'g?</migmaq>
+					<english>What's the weather like?</english>
+					<soundfile>Taligisgg17</soundfile>
 				</line>
 				<line>
-					<migmaq>'Tgu'g.</migmaq>
-					<english>Waves.</english>
-					<soundfile>Waves</soundfile>
-					<img>1F30A.png</img>
+					<migmaq>Mesie'waq.</migmaq>
+					<english>Drizzle.</english>
+					<soundfile>Drizzle</soundfile>
 				</line>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun6</soundfile>
+				</line>
+				<line>
+					<migmaq>Sisguwig.</migmaq>
+					<english>Muddy.</english>
+					<soundfile>Muddy</soundfile>
+				</line>
+			</vocab>
+			<vocab>
 				<line>
 					<migmaq>Taligisg'g?</migmaq>
 					<english>What's the weather like?</english>
@@ -8864,6 +8855,17 @@
 					<migmaq>Ma 'munitge'g.</migmaq>
 					<english>Very cold.</english>
 					<soundfile>VeryCold</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun8</soundfile>
+				</line>
+				<line>
+					<migmaq>Miti'sg.</migmaq>
+					<english>Trees.</english>
+					<soundfile>Trees</soundfile>
+					<img>1F332.png</img>
 				</line>
 			</vocab>
 			<vocab>
@@ -8878,6 +8880,19 @@
 					<soundfile>Showers</soundfile>
 				</line>
 				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun1</soundfile>
+				</line>
+				<line>
+					<migmaq>Walqwan.</migmaq>
+					<english>Rainbow.</english>
+					<soundfile>Rainbow</soundfile>
+					<img>1F308.png</img>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
 					<migmaq>Taligisg'g?</migmaq>
 					<english>What's the weather like?</english>
 					<soundfile>Taligisgg11</soundfile>
@@ -8887,19 +8902,6 @@
 					<english>Cloudy.</english>
 					<soundfile>Cloudy</soundfile>
 					<img>2601.png</img>
-				</line>
-			</vocab>
-			<vocab>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun8</soundfile>
-				</line>
-				<line>
-					<migmaq>Miti'sg.</migmaq>
-					<english>Trees.</english>
-					<soundfile>Trees</soundfile>
-					<img>1F332.png</img>
 				</line>
 				<line>
 					<migmaq>Goqwei nemitu'un?</migmaq>
@@ -8926,13 +8928,13 @@
 				<line>
 					<migmaq>Goqwei nemitu'un?</migmaq>
 					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun10</soundfile>
+					<soundfile>GoqweiNemitun11</soundfile>
 				</line>
 				<line>
-					<migmaq>Na'gu'set nemi'g.</migmaq>
-					<english>I see the sun.</english>
-					<soundfile>Sun</soundfile>
-					<img>2600.png</img>
+					<migmaq>Na'gu'set qalqwasiet.</migmaq>
+					<english>The setting sun.</english>
+					<soundfile>SettingSun</soundfile>
+					<img>1F305.png</img>
 				</line>
 			</vocab>
 			<vocab>
@@ -8950,13 +8952,13 @@
 				<line>
 					<migmaq>Goqwei nemitu'un?</migmaq>
 					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun11</soundfile>
+					<soundfile>GoqweiNemitun10</soundfile>
 				</line>
 				<line>
-					<migmaq>Na'gu'set qalqwasiet.</migmaq>
-					<english>The setting sun.</english>
-					<soundfile>SettingSun</soundfile>
-					<img>1F305.png</img>
+					<migmaq>Na'gu'set nemi'g.</migmaq>
+					<english>I see the sun.</english>
+					<soundfile>Sun</soundfile>
+					<img>2600.png</img>
 				</line>
 			</vocab>
 			<vocab>
@@ -8971,14 +8973,14 @@
 					<soundfile>Cold</soundfile>
 				</line>
 				<line>
-					<migmaq>Goqwei nemitu'un?</migmaq>
-					<english>What is visible?</english>
-					<soundfile>GoqweiNemitun12</soundfile>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What's visible?</english>
+					<soundfile>GoqweiNemitun14</soundfile>
 				</line>
 				<line>
-					<migmaq>Gegpewisg.</migmaq>
-					<english>Dew.</english>
-					<soundfile>Dew</soundfile>
+					<migmaq>'Mgumi'gnig nipug.</migmaq>
+					<english>Icy woods.</english>
+					<soundfile>IcyWoods</soundfile>
 				</line>
 			</vocab>
 			<vocab>
@@ -8993,15 +8995,14 @@
 					<soundfile>cool</soundfile>
 				</line>
 				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What's visible?</english>
-					<soundfile>GoqweiNemitun13</soundfile>
+					<migmaq>Goqwei nemitu'un?</migmaq>
+					<english>What is visible?</english>
+					<soundfile>GoqweiNemitun12</soundfile>
 				</line>
 				<line>
-					<migmaq>Maqtawamugsit tepgnuset.</migmaq>
-					<english>A dark moon.</english>
-					<soundfile>DarkMoon</soundfile>
-					<img>1F311.png</img>
+					<migmaq>Gegpewisg.</migmaq>
+					<english>Dew.</english>
+					<soundfile>Dew</soundfile>
 				</line>
 			</vocab>
 			<!--Can't find-->
@@ -9029,16 +9030,6 @@
 			</vocab>
 			<vocab>
 				<line>
-					<migmaq>Taligisg'g?</migmaq>
-					<english>What's the weather like?</english>
-					<soundfile>Taligisgg17</soundfile>
-				</line>
-				<line>
-					<migmaq>Mesie'waq.</migmaq>
-					<english>Drizzle.</english>
-					<soundfile>Drizzle</soundfile>
-				</line>
-				<line>
 					<migmaq>Taliaq?</migmaq>
 					<english>What's going on?</english>
 					<soundfile>Taliag1</soundfile>
@@ -9047,6 +9038,16 @@
 					<migmaq>Mespo'qeg.</migmaq>
 					<english>Flooding.</english>
 					<soundfile>Flooded</soundfile>
+				</line>
+				<line>
+					<migmaq>Goqwei nemitu'n?</migmaq>
+					<english>What's visible?</english>
+					<soundfile>GoqweiNemitun15</soundfile>
+				</line>
+				<line>
+					<migmaq>Wastew etlnujgma'q.</migmaq>
+					<english>Melting snow.</english>
+					<soundfile>Melt</soundfile>
 				</line>
 			</vocab>
 			<vocab>
@@ -9061,6 +9062,18 @@
 					<!--<soundfile>Epteg</soundfile>-->
 				</line>
 				<line>
+					<migmaq>Taliag?</migmaq>
+					<english>What's happening?</english>
+					<soundfile>Taliag0</soundfile>
+				</line>
+				<line>
+					<migmaq>Nujgma'q wastew.</migmaq>
+					<english>Melting snow.</english>
+					<soundfile>MeltingSnow</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
 					<migmaq>Taligisg'g?</migmaq>
 					<english>What's the weather like?</english>
 					<soundfile>Taligisgg19</soundfile>
@@ -9072,16 +9085,6 @@
 				</line>
 			</vocab>
 			<vocab>
-				<line>
-					<migmaq>Goqwei nemitu'n?</migmaq>
-					<english>What's visible?</english>
-					<soundfile>GoqweiNemitun14</soundfile>
-				</line>
-				<line>
-					<migmaq>'Mgumi'gnig nipug.</migmaq>
-					<english>Icy woods.</english>
-					<soundfile>IcyWoods</soundfile>
-				</line>
 				<line>
 					<migmaq>Taligisg'g?</migmaq>
 					<english>What's the weather like?</english>
@@ -9096,12 +9099,13 @@
 				<line>
 					<migmaq>Goqwei nemitu'n?</migmaq>
 					<english>What's visible?</english>
-					<soundfile>GoqweiNemitun15</soundfile>
+					<soundfile>GoqweiNemitun13</soundfile>
 				</line>
 				<line>
-					<migmaq>Wastew etlnujgma'q.</migmaq>
-					<english>Melting snow.</english>
-					<soundfile>Melt</soundfile>
+					<migmaq>Maqtawamugsit tepgnuset.</migmaq>
+					<english>A dark moon.</english>
+					<soundfile>DarkMoon</soundfile>
+					<img>1F311.png</img>
 				</line>
 			</vocab>
 		</lesson>
