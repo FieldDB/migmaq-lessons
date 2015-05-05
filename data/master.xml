@@ -9325,11 +9325,13 @@
 					<migmaq>ugpugugwe'l gesategewe'l</migmaq>
 					<english>sunglasses</english>
 					<soundfile>sunglasses</soundfile>
+					<img>1F453.png</img>
 				</line>
 				<line>
 					<migmaq>tegismit</migmaq>
 					<english>swim</english>
 					<soundfile>swim</soundfile>
+					<img>1F3CA.png</img>
 				</line>
 			</vocab>
 			<vocab>
@@ -9352,6 +9354,7 @@
 					<migmaq>'tgu</migmaq>
 					<english>wave</english>
 					<soundfile>wave</soundfile>
+					<img>1F30A.png</img>
 				</line>
 			</vocab>
 		</lesson>
@@ -9368,6 +9371,7 @@
 					<migmaq>altesgasimg</migmaq>
 					<english>bicycling</english>
 					<soundfile>Bicycling</soundfile>
+					<img>1F6B4.png</img>
 				</line>
 				<line>
 					<migmaq>gujmug etlatalm'g</migmaq>
@@ -9484,44 +9488,38 @@
 					<english>bench</english>
 					<soundfile>mawgopimgewei</soundfile>
 				</line>
+				<line>
+					<migmaq>teppugua'timg</migmaq>
+					<english>step</english>
+					<soundfile>Step</soundfile>
+				</line>
+				<line>
+					<migmaq>etlitgismimgewei</migmaq>
+					<english>pool</english>
+					<soundfile>Pool</soundfile>
+				</line>
 			</vocab>
 			<vocab>
-				<line>
-					<migmaq>jipji'juo'guom</migmaq>
-					<english>birdhouse</english>
-					<soundfile>Birdhouse</soundfile>
-				</line>
 				<line>
 					<migmaq>nipispaqan</migmaq>
 					<english>branch</english>
 					<soundfile>Branch</soundfile>
 				</line>
 				<line>
-					<migmaq>pui'gn</migmaq>
-					<english>broom</english>
-					<soundfile>Broom</soundfile>
-				</line>
-				<line>
 					<migmaq>wasuweg</migmaq>
 					<english>flower</english>
 					<soundfile>Flower</soundfile>
+					<img>1F337.png</img>
 				</line>
 				<line>
-					<migmaq>waswego'q</migmaq>
-					<english>flower pot</english>
-					<soundfile>FlowerPot</soundfile>
+					<migmaq>miti's</migmaq>
+					<english>tree</english>
+					<soundfile>Tree</soundfile>
 				</line>
-			</vocab>
-			<vocab>
 				<line>
 					<migmaq>iga'taqan</migmaq>
 					<english>garden</english>
 					<soundfile>Garden</soundfile>
-				</line>
-				<line>
-					<migmaq>'lge'gn</migmaq>
-					<english>hoe</english>
-					<soundfile>Hoe</soundfile>
 				</line>
 				<line>
 					<migmaq>'msigu'l</migmaq>
@@ -9534,44 +9532,42 @@
 					<soundfile>'msigu</soundfile>
 				</line>
 				<line>
-					<migmaq>samqwan eltaqa'mgewei</migmaq>
-					<english>hose</english>
-					<soundfile>Hose</soundfile>
+					<migmaq>nipi</migmaq>
+					<english>Leaf</english>
+					<soundfile>Leaf</soundfile>
+					<img>1F343.png</img>
 				</line>
 			</vocab>
 			<vocab>
+				<line>
+					<migmaq>jipji'juo'guom</migmaq>
+					<english>birdhouse</english>
+					<soundfile>Birdhouse</soundfile>
+				</line>
 				<line>
 					<migmaq>'psgweso'qn</migmaq>
 					<english>lawn mower</english>
 					<soundfile>LawnMower</soundfile>
 				</line>
 				<line>
-					<migmaq>nipi</migmaq>
-					<english>Leaf</english>
-					<soundfile>Leaf</soundfile>
-				</line>
-				<line>
 					<migmaq>ap'sgeigaqan</migmaq>
 					<english>padlock</english>
 					<soundfile>ap'sgeigaqan</soundfile>
+					<img>1F512.png</img>
 				</line>
 				<line>
 					<migmaq>apt'sgi'gaqan</migmaq>
 					<english>padlock</english>
 					<soundfile>apt'sgi'gaqan</soundfile>
+					<img>1F512.png</img>
+				</line>
+				<line>
+					<migmaq>waswego'q</migmaq>
+					<english>flower pot</english>
+					<soundfile>FlowerPot</soundfile>
 				</line>
 			</vocab>
 			<vocab>
-				<line>
-					<migmaq>etlitgismimgewei</migmaq>
-					<english>pool</english>
-					<soundfile>Pool</soundfile>
-				</line>
-				<line>
-					<migmaq>jigg'putaqan</migmaq>
-					<english>rake</english>
-					<soundfile>Rake</soundfile>
-				</line>
 				<line>
 					<migmaq>tu'sati</migmaq>
 					<english>shed</english>
@@ -9583,14 +9579,24 @@
 					<soundfile>Shovel</soundfile>
 				</line>
 				<line>
-					<migmaq>teppugua'timg</migmaq>
-					<english>step</english>
-					<soundfile>Step</soundfile>
+					<migmaq>'lge'gn</migmaq>
+					<english>hoe</english>
+					<soundfile>Hoe</soundfile>
 				</line>
 				<line>
-					<migmaq>miti's</migmaq>
-					<english>tree</english>
-					<soundfile>Tree</soundfile>
+					<migmaq>samqwan eltaqa'mgewei</migmaq>
+					<english>hose</english>
+					<soundfile>Hose</soundfile>
+				</line>
+				<line>
+					<migmaq>jigg'putaqan</migmaq>
+					<english>rake</english>
+					<soundfile>Rake</soundfile>
+				</line>
+				<line>
+					<migmaq>pui'gn</migmaq>
+					<english>broom</english>
+					<soundfile>Broom</soundfile>
 				</line>
 			</vocab>
 		</lesson>
