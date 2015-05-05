@@ -2794,6 +2794,94 @@
 				</vocab>
 			</lesson>
 			<lesson>
+				<title>Telling time</title>
+				<note>Here's a first look at how to tell time.</note>
+				<dialog>
+					<line>
+						<migmaq>Ta's ajiet?</migmaq> 	
+						<english>What time is it?</english>
+						<soundfile>TasAjiet1</soundfile>
+					</line>
+					<line>
+						<migmaq>Newt ajiet</migmaq> 	
+						<english>It's one o'clock.</english>
+						<soundfile>1oclock</soundfile>
+					</line>
+				</dialog>
+				<dialog>
+					<line>
+						<migmaq>Ta's ajiet?</migmaq> 	
+						<english>What time is it?</english>
+						<soundfile>TasAjiet2</soundfile>
+					</line>
+					<line>
+						<migmaq>Ta'pu ajiet</migmaq> 	
+						<english>It's two o'clock.</english>
+						<soundfile>2oclock</soundfile>
+					</line>
+				</dialog>
+				<dialog>
+					<line>
+						<migmaq>Ta's ajiet?</migmaq> 	
+						<english>What time is it?</english>
+						<soundfile>TasAjiet3</soundfile>
+					</line>
+					<line>
+						<migmaq>Si'st ajiet</migmaq> 	
+						<english>It's three o'clock.</english>
+						<soundfile>3oclock</soundfile>
+					</line>
+				</dialog>
+				<dialog>
+					<line>
+						<migmaq>Ta's ajiet?</migmaq> 	
+						<english>What time is it?</english>
+						<soundfile>TasAjiet4</soundfile>
+					</line>
+					<line>
+						<migmaq>Ne'w ajiet</migmaq> 	
+						<english>It's four o'clock.</english>
+						<soundfile>4oclock</soundfile>
+					</line>
+				</dialog>	
+				<dialog>
+					<line>
+						<migmaq>Ta's ajiet?</migmaq> 	
+						<english>What time is it?</english>
+						<soundfile>TasAjiet5</soundfile>
+					</line>
+					<line>
+						<migmaq>Na'n ajiet</migmaq> 	
+						<english>It's five o'clock.</english>
+						<soundfile>5oclock</soundfile>
+					</line>
+				</dialog>
+				<dialog>
+					<line>
+						<migmaq>Ta's ajiet?</migmaq> 	
+						<english>What time is it?</english>
+						<soundfile>TasAjiet6</soundfile>
+					</line>
+					<line>
+						<migmaq>Na'n ajiet</migmaq> 	
+						<english>Before one.</english>
+						<soundfile>BeforeOne</soundfile>
+					</line>
+				</dialog>
+				<dialog>
+					<line>
+						<migmaq>Ta's ajiet?</migmaq> 	
+						<english>What time is it?</english>
+						<soundfile>TasAjiet7</soundfile>
+					</line>
+					<line>
+						<migmaq>Na'n ajiet</migmaq> 	
+						<english>After one.</english>
+						<soundfile>AfterOne</soundfile>
+					</line>
+				</dialog>
+			</lesson>
+			<lesson>
 				<title>What time is it now?</title>
 				<note>Some hints for this lesson: <m>-geget</m> = 'almost', for something that will happen; <m>-mejit</m> = 'more', until something happens; <m>-ga'l</m> = 'quarter'.</note>
 				<note>Notice that end of the basic word <m>ajiet</m> changes a bit: in one case to match the word <m>mu</m> 'not yet/before', in another to show the future. Can you find both of these?</note>
@@ -2934,7 +3022,7 @@
 						<soundfile>TasAjietNige10</soundfile>
 					</line>
 					<line>
-						<migmaq>Mu geitu. Entu'neg 'gna'gu'seteweimeg?</migmaq> 	
+						<migmaq>Mu geitu. Entu'neg 'gna'gu'seteweimeg?</migmaq> 
 						<english>I don't know. Have you lost your watch?</english>
 						<soundfile>MuGeituEntunegGnaguseteweimeg</soundfile>
 						<img>231A.png</img>
@@ -2967,7 +3055,7 @@
 						<soundfile>TasajietewWeltesgatigw</soundfile>
 					</line>
 					<line>
-						<migmaq>Asugom ajiej, na tujiw ultesgatitesnu.</migmaq> 	
+						<migmaq>Asugom ajiej, na tujiw ultesgatitesnu.</migmaq>
 						<english>When it's six o'clock, that's when we'll meet each other.</english>
 						<soundfile>AsugomAjiejNaTujiwUltesgatitesnu</soundfile>
 						<img>1F555.png</img>
@@ -8119,6 +8207,102 @@
 					<english>winter</english>
 					<soundfile>Winter</soundfile>
 					<img>2744.png</img>
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
+			<title>Casual time</title>
+			<note>We learned how to tell time a while ago, but we didn't learn how to refer casually to different times. In this lesson, we'll learn what to call times of the day.</note>
+			<dialog>
+				<line>
+					<migmaq>Ta'n?</migmaq>
+					<english>When?</english>
+					<soundfile>ta'n0</soundfile>
+				</line>
+				<line>
+					<migmaq>Wapgw.</migmaq>
+					<english>Day.</english>
+					<soundfile>Day</soundfile>
+				</line>
+				<line>
+					<migmaq>Ta'n?</migmaq>
+					<english>When?</english>
+					<soundfile>ta'n1</soundfile>
+				</line>
+				<line>
+					<migmaq>Na'gweg</migmaq>
+					<english>Daylight.</english>
+					<soundfile>Daylight</soundfile>
+				</line>
+			</dialog>
+			<vocab>
+				<line>
+					<migmaq>Egsitpu'g</migmaq>
+					<english>Early morning</english>
+					<soundfile>EarlyMorning</soundfile>
+				</line>
+				<line>
+					<migmaq>Mewlia'gweg</migmaq>
+					<english>Noon</english>
+					<soundfile>Noon</soundfile>
+				</line>
+				<line>
+					<migmaq>Aqtatpa'q</migmaq>
+					<english>Midnight</english>
+					<soundfile>midnight</soundfile>
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
+			<title>Casual dates</title>
+			<note>Here's how to refer casually to dates in the past and future.</note>
+			<vocab>
+				<line>
+					<migmaq>Igtigulagu</migmaq>
+					<english>Day before yesterday</english>
+					<soundfile>DayBeforeYesterday</soundfile>
+				</line>
+				<line>
+					<migmaq>Itig'sapo'nug</migmaq>
+					<english>Day after tomorrow</english>
+					<soundfile>DayAfterTomorrow</soundfile>
+				</line>
+				<line>
+					<migmaq>Igtig, igtig'ulagu</migmaq>
+					<english>Two days ago</english>
+					<soundfile>TwoDaysAgo</soundfile>
+				</line>
+				<line>
+					<migmaq>Igtig, igtig sapo'nug</migmaq>
+					<english>Two days after</english>
+					<soundfile>TwoDaysAfter</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>aq'ntie'wuti</migmaq>
+					<english>one week</english>
+					<soundfile>OneWeek</soundfile>
+				</line>
+				<line>
+					<migmaq>tapu'gl aqantie'uti'l</migmaq>
+					<english>two weeks</english>
+					<soundfile>TwoWeeks</soundfile>
+				</line>
+				<line>
+					<migmaq>ne'sisgl aqantie'uti'l</migmaq>
+					<english>three weeks</english>
+					<soundfile>ThreeWeeks</soundfile>
+				</line>
+				<line>
+					<migmaq>newgul aqantie'uti'l</migmaq>
+					<english>four weeks</english>
+					<soundfile>FourWeeks</soundfile>
+				</line>
+				<line>
+					<migmaq>newgul aqantie'uti'l</migmaq>
+					<english>month</english>
+					<soundfile>Month</soundfile>
 				</line>
 			</vocab>
 		</lesson>
