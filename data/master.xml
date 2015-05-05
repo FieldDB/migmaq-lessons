@@ -5218,7 +5218,7 @@
 	</unit>
 </section>
 <section>
-	<title>Motion, routines, sports</title>
+	<title>Bodies, motion, and position</title>
 	<note>Now that you've gained a foundation in several conversation topics, we'll start focusing more on actions. Verbs are very important in Mi'gmaq: they contain a lot of information.</note>
 	<note>In this section, we'll talk about many of the activities you carry out in your daily life. We'll also learn some ways of talking to children. We'll learn words for parts of the body, and how to describe how you feel. We'll end by learning even more ways to ask about where people are going and what they are doing.</note>
 	<note>By now, you can carry out simple conversations with speakers. Try to find some other learners or speakers to practice with&#8212; it'll really help you improve!</note>
@@ -7166,6 +7166,68 @@
 		<lesson>
 			<title>Colors</title>
 			<note>Here are the names of colors.</note>
+			<vocab>
+				<line>
+					<migmaq>maqtawe'g</migmaq>
+					<english>black</english>
+					<soundfile>black</soundfile>
+				</line>
+				<line>
+					<migmaq>wape'g</migmaq>
+					<english>white</english>
+					<soundfile>white</soundfile>
+				</line>
+				<line>
+					<migmaq>wisawe'g</migmaq>
+					<english>brown</english>
+					<soundfile>brown</soundfile>
+				</line>
+				<line>
+					<migmaq>milamu'g</migmaq>
+					<english>multicolor</english>
+					<soundfile>multicolor</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>stoqonamu'g</migmaq>
+					<english>green</english>
+					<soundfile>green</soundfile>
+					<imgnote>Specifically fir green</imgnote>
+				</line>
+				<line>
+					<migmaq>ewne'g</migmaq>
+					<english>blue</english>
+					<soundfile>blue</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>purple</english>
+					<soundfile>purple</soundfile>
+				</line>				
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq></migmaq>
+					<english>pink</english>
+					<soundfile>pink</soundfile>
+				</line>
+				<line>
+					<migmaq>megwe'g</migmaq>
+					<english>red</english>
+					<soundfile>red</soundfile>
+				</line>
+				<line>
+					<migmaq></migmaq>
+					<english>orange</english>
+					<soundfile>orange</soundfile>
+				</line>
+				<line>
+					<migmaq>watapteg</migmaq>
+					<english>yellow</english>
+					<soundfile>yellow</soundfile>
+				</line>
+			</vocab>
 		</lesson>
 	</unit>
 	<unit>
@@ -8029,6 +8091,32 @@
 					<soundfile>NinMuAmujPaNaElugwewGisgugNmultsToqNanAjiej</soundfile>
 				</line>
 			</dialog>
+		</lesson>
+		<lesson>
+			<title>Seasons</title>
+			<note>Let's learn some more ways to talk about time</note>
+			<vocab>
+				<line>
+					<migmaq>siggw</migmaq>
+					<english>spring</english>
+					<soundfile>Spring</soundfile>
+				</line>
+				<line>
+					<migmaq>nipg</migmaq>
+					<english>summer</english>
+					<soundfile>Summer</soundfile>
+				</line>
+				<line>
+					<migmaq>toqwa'q</migmaq>
+					<english>fall</english>
+					<soundfile>Fall</soundfile>
+				</line>
+				<line>
+					<migmaq>gesig</migmaq>
+					<english>winter</english>
+					<soundfile>Winter</soundfile>
+				</line>
+			</vocab>
 		</lesson>
 	</unit>
 	<unit>
