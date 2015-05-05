@@ -8100,21 +8100,25 @@
 					<migmaq>siggw</migmaq>
 					<english>spring</english>
 					<soundfile>Spring</soundfile>
+					<img>1F33C.png</img>
 				</line>
 				<line>
 					<migmaq>nipg</migmaq>
 					<english>summer</english>
 					<soundfile>Summer</soundfile>
+					<img>2600.png</img>
 				</line>
 				<line>
 					<migmaq>toqwa'q</migmaq>
 					<english>fall</english>
 					<soundfile>Fall</soundfile>
+					<img>1F341.png</img>
 				</line>
 				<line>
 					<migmaq>gesig</migmaq>
 					<english>winter</english>
 					<soundfile>Winter</soundfile>
+					<img>2744.png</img>
 				</line>
 			</vocab>
 		</lesson>
