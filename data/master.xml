@@ -9620,6 +9620,80 @@
 			</vocab>
 		</lesson>
 	</unit>
+	<unit>
+		<title>Jobs and working</title>
+		<note>This unit focuses on work. We'll learn the names of different types of jobs, discuss on the job activities, and learn workplace vocabulary.</note>
+		<lesson>
+			<title>Building site vocabulary</title>
+			<note>Let's build something!</note>
+			<vocab>
+				<line>
+					<migmaq>elsegnji'j</migmaq>
+					<english>brick</english>
+					<soundfile>Brick</soundfile>
+				</line>
+				<line>
+					<migmaq>pqwi'gn</migmaq>
+					<english>drill</english>
+					<soundfile>Drill</soundfile>
+				</line>
+				<line>
+					<migmaq>matejuwei</migmaq>
+					<english>hammer</english>
+					<soundfile>Hammer</soundfile>
+				</line>
+				<line>
+					<migmaq>pqa'luejgl</migmaq>
+					<english>pliers</english>
+					<soundfile>Pliers</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>atuomg</migmaq>
+					<english>sand</english>
+					<soundfile>Sand1</soundfile>
+				</line>
+				<line>
+					<migmaq>tma'gitaqan</migmaq>
+					<english>saw</english>
+					<soundfile>Saw</soundfile>
+				</line>
+				<line>
+					<migmaq>glapaqignei</migmaq>
+					<english>screwdriver</english>
+					<soundfile>glapaqignei</soundfile>
+				</line>
+				<line>
+					<migmaq>segapaqignei</migmaq>
+					<english>screwdriver</english>
+					<soundfile>segapaqignei</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>glapaqign</migmaq>
+					<english>screw</english>
+					<soundfile>Screw</soundfile>
+				</line>
+				<line>
+					<migmaq>sasqigwateget</migmaq>
+					<english>steamroller</english>
+					<soundfile>Steamroller</soundfile>
+				</line>
+				<line>
+					<migmaq>pmapilaqan</migmaq>
+					<english>wheelbarrow</english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>pmatei'taqan</migmaq>
+					<english>wheelbarrow</english>
+					<soundfile></soundfile>
+				</line>
+			</vocab>
+		</lesson>
+	</unit>
 	<!--<unit>
 		<title>Practice Drama</title>
 		<lesson>
