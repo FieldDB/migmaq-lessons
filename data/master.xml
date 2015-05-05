@@ -8804,8 +8804,9 @@
 				</line>
 				<line>
 					<migmaq>Wenji'guom aq tepgunset.</migmaq>
-					<english>A house moon.</english>
+					<english>A full moon.</english>
 					<soundfile>HouseMoon</soundfile>
+					<img>1F315.png</img>
 				</line>
 				<line>
 					<migmaq>Goqwei nemitu'n?</migmaq>
