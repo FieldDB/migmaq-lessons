@@ -7958,19 +7958,19 @@
 				<line>
 					<migmaq>Ge' ignmui wen'ju'su'n!</migmaq> 	
 					<english>Give me an apple!</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Ge'IgnmuiWen'ju'su'n</soundfile>
 					<img>apple.png</img>
 				</line>
 				<line>
 					<migmaq>Goqwei ugjit?</migmaq> 	
 					<english>What for?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GoqweiUgjit</soundfile>
 				</line>
 				<line>
 					<migmaq>Muta gewisin.</migmaq> 	
 					<english>Because I'm hungry.</english>
 					<designnote>or: Muta getu'tm 'because I'm hungry for it'</designnote>
-					<!--<soundfile></soundfile>-->
+					<soundfile>MutaGewisin</soundfile>
 				</line>
 			</dialog>	
 			<dialog>
@@ -7978,23 +7978,23 @@
 				<line>
 					<migmaq>Ge' ignmui jagej!</migmaq> 	
 					<english>Give me a lobster!</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Ge'IgnmuiJagejl</soundfile>
 					<img>lobster.gif</img>
 				</line>
 				<line>
 					<migmaq>Goqwei ugjit?</migmaq> 	
 					<english>What for?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GoqweiUgjit0</soundfile>
 				</line>
 				<line>
 					<migmaq>Muta gewisin.</migmaq> 	
 					<english>Because I'm hungry.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>MutaGewisin0</soundfile>
 				</line>
 				<line>
-					<migmaq>Amuj gewisinn: tmg gelutmn wen'ju'su'n, toqo nige' jagej pewalt.</migmaq> 	
+					<migmaq>Amuj gewisinn: tmg gelutmn wen'ju'su'n, toqo nige' jagej pewalt.</migmaq>
 					<english>You must be hungry: first you ask for an apple, then now you want a lobster.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>AmujGewisinn</soundfile>
 				</line>
 			</dialog>	
 			<dialog>
@@ -8002,18 +8002,18 @@
 				<line>
 					<migmaq>Ge' ignmu wen'ju'su'n!</migmaq> 	
 					<english>Give her an apple!</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Ge'IgnmuWen'ju'su'n</soundfile>
 					<img>apple.png</img>
 				</line>
 				<line>
 					<migmaq>Goqwei ugjit?</migmaq> 	
 					<english>What for?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GoqweiUgjit1</soundfile>
 				</line>
 				<line>
 					<migmaq>Muta gewising.</migmaq> 	
 					<english>Because she's hungry.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>MutaGewising0</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
@@ -8021,28 +8021,28 @@
 				<line>
 					<migmaq>Ge' ignmu jagejl!</migmaq> 	
 					<english>Give her a lobster!</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Ge'IgnmuJagejl</soundfile>
 					<img>lobster.gif</img>
 				</line>
 				<line>
 					<migmaq>Goqwei ugjit?</migmaq> 	
 					<english>What for?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GoqweiUgjit2</soundfile>
 				</line>
 				<line>
 					<migmaq>Muta gewising.</migmaq> 	
 					<english>Because she's hungry.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>MutaGewising1</soundfile>
 				</line>
 				<line>
 					<migmaq>Newte'jinnitl pas'g? Amujpa ignmajig tapusinnijig. Tepiaq tel-guwising, 'tqopata.</migmaq> 	
 					<english>Just one? You should give her two. She's hungry enough, she'll eat both of them.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Newte'jinnitlPas'g</soundfile>
 				</line>
 				<line>
-					<migmaq>Na to'q: tapusinnijig ignmua's.</migmaq> 	
+					<migmaq>Na to'q: tapusinnijig ignmua's.</migmaq>
 					<english>So be it: I will give her two.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>NaTo'q</soundfile>
 				</line>
 			</dialog>
 		</lesson>
