@@ -7116,89 +7116,92 @@
 		<lesson>
 			<title>Warnings and Requests</title>
 			<note>So far, we've mostly practiced questions and answers. In this lesson, we'll learn how to give warnings and ask people to do things.</note>
-			<designnote>
-			</designnote>
 			<vocab>
 				<line>
 					<migmaq>Ango'te'n!</migmaq> 	
 					<english>Take care! Watch out!</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Ango'te'n</soundfile>
 				</line>
 				<line>
 					<migmaq>Apoqonmultes.</migmaq> 	
 					<english>I'll help you.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Apoqonmultes</soundfile>
 				</line>
 				<line>
 					<migmaq>Jugu'a.</migmaq> 	
 					<english>Come here.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Jugu'a</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Ignmui.</migmaq> 	
 					<english>Give it to me.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Ignmui</soundfile>
 				</line>
 				<line>
 					<migmaq>Jugua'tui.</migmaq> 	
 					<english>Bring me it.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Jugua'tui</soundfile>
 				</line>
 				<line>
 					<migmaq>Musga'tui.</migmaq> 	
 					<english>Show me it.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Musga'tui</soundfile>
+				</line>
+				<line>
+					<migmaq>Nmisge'n.</migmaq> 	
+					<english>Go get it.</english>
+					<soundfile>Nmisge'n</soundfile>
+				</line>
+				<line>
+					<migmaq>Nmisgu.</migmaq> 	
+					<english>Go get it.</english>
+					<soundfile>Nmisgu</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
-					<migmaq>Nmisge'n, nmisgu.</migmaq> 	
-					<english>Go get it.</english>
-					<!--<soundfile></soundfile>-->
-				</line>
-				<line>
 					<migmaq>Iga'tu.</migmaq> 	
 					<english>Put it down, let it go.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Iga'tu</soundfile>
 				</line>
 				<line>
 					<migmaq>Ugsua'tu.</migmaq> 	
 					<english>Take it.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Ugsua'tu</soundfile>
 				</line>
 				<line>
 					<migmaq>Jugwa'tu.</migmaq> 	
 					<english>Bring it here.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Jugwa'tu</soundfile>
 				</line>
 				<line>
 					<migmaq>Masgwa'tu.</migmaq> 	
 					<english>Show it.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Masgwa'tu</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Pa'si.</migmaq> 	
 					<english>Sit down.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Pa'si</soundfile>
 				</line>
 				<line>
 					<migmaq>Qama'si.</migmaq> 	
 					<english>Stand up.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Qama'si</soundfile>
 				</line>
 				<line>
 					<migmaq>Qami na'te'l.</migmaq> 	
 					<english>Stand there.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>QamiNa'te'l</soundfile>
 				</line>
 				<line>
 					<migmaq>Lsma'si.</migmaq> 	
 					<english>Lie down.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Lsma'si</soundfile>
 				</line>
 			</vocab>
 		</lesson>
@@ -7209,50 +7212,50 @@
 				<line>
 					<migmaq>Esgma.</migmaq> 	
 					<english>Wait.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Esgma</soundfile>
 				</line>
 				<line>
 					<migmaq>Esgmali.</migmaq> 	
 					<english>Wait for me.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Esgmali</soundfile>
 				</line>
 				<line>
 					<migmaq>Puntoqsi.</migmaq> 	
 					<english>Be quiet.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Puntoqsi</soundfile>
 				</line>
 				<line>
 					<migmaq>Giju' natnmi.</migmaq> 	
 					<english>Go see Grandma.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GijuNatnmi</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Mutt sama'tu, epteg!</migmaq> 	
 					<english>Don't touch it, it's hot!</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>MuttSama'tuEpteg</soundfile>
 				</line>
 				<line>
 					<migmaq>Mutt sama'tu, mejige'g!</migmaq> 	
 					<english>Don't touch it, it's dirty!</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>MuttSama'tuMejige'g</soundfile>
 				</line>
 				<line>
 					<migmaq>Mutt 'tqamaw!</migmaq> 	
 					<english>Don't hit h/her!</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>MuttTqamaw</soundfile>
 				</line>
 				<designnote>Punta'! 'Stop hitting h/her!'</designnote>
 				<line>
 					<migmaq>Punajeiu!</migmaq> 	
 					<english>Leave h/her alone, stop bothering h/her!</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Punajeiu</soundfile>
 				</line>
 				<line>
 					<migmaq>Puni-al'tugwie'n, nun'ji gesnugwig.</migmaq> 	
 					<english>Stop running around, I have a headache.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Punial'tugwie'nNun'jiGesnugwig</soundfile>
 				</line>
 			</vocab>
 		</lesson>
@@ -8275,7 +8278,7 @@
 					<soundfile>NaToqNigeTapuglWenjusunnIgnmulannTepiatew</soundfile>
 				</line>
 				<line>
-					<migmaq>Tapu'gl wen'ju'su'nn ignmuinn? Ugjit newte' wa'w? Me' mu tepianug.</migmaq> 	
+					<migmaq>Tapu'gl wen'ju'su'nn ignmuinn? Ugjit newte' wa'w? Me' mu tepianug.</migmaq>
 					<english>You're giving me two apples? For one egg? It's still not enough.</english>
 					<soundfile>TapuglWenjusunnIgnmuinnUgjitNewteWawMeMuTepianug</soundfile>
 				</line>
@@ -8426,17 +8429,17 @@
 				<line>
 					<migmaq>Mn'ja'si! Amuj pa naji-sgu'lewin.</migmaq> 	
 					<english>Get up! You have to go to school.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Mn'ja'siAmujPaNajisgu'lewin</soundfile>
 				</line>
 				<line>
 					<migmaq>Me' getugsi.</migmaq> 	
 					<english>I'm still sleepy.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>MeGetugsi</soundfile>
 				</line>
 				<line>
 					<migmaq>Tetaqa'tega, jijuaqa messa'tut's 'gpas'm.</migmaq> 	
 					<english>Hurry up, you'll miss your bus.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Tetaqa'tegaJijuaqaMessa'tut'sGpas'm</soundfile>
 					<img>1F68D.png</img>
 				</line>
 			</dialog>		
@@ -8444,32 +8447,29 @@
 				<line>
 					<migmaq>Me' Kevin nepat?</migmaq> 	
 					<english>Is Kevin still sleeping?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Me'KevinNepat</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e.</migmaq> 	
 					<english>Yes.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>E'eSleep</soundfile>
 				</line>
 				<line>
 					<migmaq>Ge' nattugwa'l.</migmaq> 	
 					<english>Go wake him up.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Ge'Nattugwa'l</soundfile>
 				</line>
-				<line>
-					<migmaq>...</migmaq> 	
-					<english>...</english>
-					<!--<soundfile></soundfile>-->
-				</line>
+			</dialog>
+			<dialog>
 				<line>
 					<migmaq>Gi's menja'sit?</migmaq> 	
 					<english>Has he gotten up now?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Gi'sMenja'sit</soundfile>
 				</line>
 				<line>
-					<migmaq>Moqwa', me' mnaq tugwiegw.</migmaq> 	
+					<migmaq>Moqwa', me' mnaq tugwiegw.</migmaq>
 					<english>He still hasn't woken up.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>MoqwaMe'MnaqTugwiegw</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -8480,7 +8480,7 @@
 				<line>
 					<migmaq>Maja'si, naji-sgi.</migmaq> 	
 					<english>Go, go pee.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile></soundfile>
 					<img>1F6BD.png</img>
 				</line>
 				<line>
