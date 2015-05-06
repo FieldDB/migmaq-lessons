@@ -8257,37 +8257,37 @@
 				<line>
 					<migmaq>Wegaigtul!</migmaq> 	
 					<english>I'm mad at you!</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Wegaigtul</soundfile>
 				</line>
 				<line>
 					<migmaq>Goqwei ugjit?</migmaq> 	
 					<english>What for?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GoqweiUgjit3</soundfile>
 				</line>
 				<line>
 					<migmaq>Muta te'si-gisgug, wa'w ignmul. Toqo-jiw pas'g newte' wen'ju'su'n ignumuin. Mu tepianug.</migmaq> 	
 					<english>Every day, I give you an egg. And then you only give me an apple. It's not enough.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>MutaTesigisgugWawIgnmulToqojiw</soundfile>
 				</line>
 				<line>
 					<migmaq>Na to'q, nige' tapu'gl wen'ju'su'nn ignmulann. Tepiatew?</migmaq>
 					<english>Okay, now I'm giving you two apples. Will it be enough?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>NaToqNigeTapuglWenjusunnIgnmulannTepiatew</soundfile>
 				</line>
 				<line>
 					<migmaq>Tapu'gl wen'ju'su'nn ignmuinn? Ugjit newte' wa'w? Me' mu tepianug.</migmaq> 	
 					<english>You're giving me two apples? For one egg? It's still not enough.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>TapuglWenjusunnIgnmuinnUgjitNewteWawMeMuTepianug</soundfile>
 				</line>
 				<line>
 					<migmaq>Na to'q, nige' tapusijig tap'tang elt ignmulanig. Tepiatew nige'?</migmaq> 	
 					<english>Okay, now I'm giving you two potatoes, too. Will it be enough now?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>NaToqNigeTapusijigTaptangEltIgnmulanigTepiatewNige</soundfile>
 				</line>
 				<line>
 					<migmaq>Tapusijig tap'tang ignmuinig? Aq elt tapu'gl wen'ju'su'nn? Ugjit newte' wa'w? Tepiatew na nugu'!</migmaq> 	
 					<english>You're giving me two potatoes? And also two apples? For one egg? Oh all right, that will be enough.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>TapusijigTaptangIgnmuinigAqEltTapuglWenjusunnUgjitNewteWawTapiatewNaNugu</soundfile>
 				</line>
 			</dialog>	
 			<dialog>
@@ -8295,33 +8295,33 @@
 				<line>
 					<migmaq>Te'si-gisgug, newte'jinnitl jagejl ignmaql nsis.</migmaq> 	
 					<english>Every day, I give my older brother one lobster.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>TesigisgugNewte'jinnitlJagejlIgnmaqlNsis</soundfile>
 				</line>
 				<line>
 					<migmaq>Aq negm ignmuitl newte'jinnitl ga'tal.</migmaq> 	
 					<english>And he gives me one eel.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>AqNegmIgnmuitlNewte'jinnitlGa'tal</soundfile>
 				</line>
 				<line>
 					<migmaq>Aq te'si-gisgug, tapusinnijig atugwa'su'g ignmaqi nmis.</migmaq>
 					<english>And every day, I give my older sister two trout.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>AqTesigisgugTapusinnijigAtugwa'su'gIgnmaqiNmis</soundfile>
 				</line>
 				<line>
 					<migmaq>Aq negm ignmuiji tapusinnijig tmatosg.</migmaq> 	
 					<english>And she gives me two tomatoes.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>AqNegmIgnmuijiTapusinnijigTmatosg</soundfile>
 				</line>
 				<line>
 					<migmaq>Aq te'si-gisgug, nsis ignmuatl nmisnenn negla jagejl.</migmaq> 	
 					<english>And every day, my older brother gives our older sister that lobster.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>AqTesigisgugNsisIgnmuatlNmisnennNeglaJagejl</soundfile>
 					<img>lobster.gif</img>
 				</line>
 				<line>
 					<migmaq>Aq nmis ignmuaji nsisinenn negla atugwa'su'g.</migmaq> 	
 					<english>And our my older sister gives our older brother those trout.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>AqNmisIgnmuajiNsisinennNeglaAtugwa'su'g</soundfile>
 				</line>
 			</dialog>
 		</lesson>
@@ -9133,7 +9133,7 @@
 					<soundfile>Aplugwen</soundfile>
 				</line>
 				<line>
-					<migmaq>E'e, aplugwei. Tew'ji-gispnei a!</migmaq> 	
+					<migmaq>E'e, aplugwei. Tew'ji-gispnei a!</migmaq>
 					<english>Yep,I'm back from work. I'm so tired!</english>
 					<soundfile>EeAplugweiTewjiGispneiA</soundfile>
 				</line>
@@ -9342,23 +9342,23 @@
 				<line>
 					<migmaq>Gisgug aji-puna'n! Ge' to'q ignmulapnn signn!</migmaq> 	
 					<english>Today you're having your birthday! Let me give you socks!</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GisgugAjipuna'nGeToqIgnmulapnnSignn</soundfile>
 				</line>
 				<line>
 					<migmaq>Ignmuin sign? Goqwei ugjit? Ma' ulapetmu newte' sign.</migmaq> 	
 					<english>You're giving me a sock? What for? I won't get good use out of one sock.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>IgnmuinSignGoqweiUgjitMaUlapetmuNewteSign</soundfile>
 				</line>
 				<line>
 					<migmaq>Teluap, "Ignmulann signn"! Signn, mu sign.</migmaq> 	
 					<english>I said, "I'm giving you socks"! Socks, not sock.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>TeluapIgnmulannSignnSignnMuSign</soundfile>
 					<img>socks.gif</img>
 				</line>
 				<line>
 					<migmaq>A', ignmuinn signn. Nestasi nige'. Wela'lin! Muta gewtaqsigi.</migmaq> 	
 					<english>Oh, you're giving me socks. I understand now. Thanks! Since my feet are cold (I feel cold in my feet/have cold feet).</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>AIgnmuinnSignnNestasiNigeWelalinMutaGewtaqsigi</soundfile>
 				</line>
 			</dialog>	
 			<dialog>
@@ -9366,22 +9366,22 @@
 				<line>
 					<migmaq>Te's-aji-puna'i, ignmuitl nmis signn.</migmaq> 	
 					<english>Every time I have a birthday, my big sister gives me socks.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>TesajipunaiIgnmuitlNmisSignn</soundfile>
 				</line>
 				<line>
 					<migmaq>Sign? Ma' ulapetmu'n newte' sign.</migmaq> 	
 					<english>A sock? You won't get good use out of one sock.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>SignMaUlapetmunNewteSign</soundfile>
 				</line>
 				<line>
 					<migmaq>Teluap, "Ignmuitl signn"! Signn ignmuitl, mu sign.</migmaq> 	
 					<english>I said, "She gives me socks"! Socks she gives me, not (a) sock.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>TeluapIgnmuitlSignnSignnIgnmuitlMuSign</soundfile>
 				</line>
 				<line>
 					<migmaq>A', nestasi. Wellugwen: mu (g)eggunmuann signn.</migmaq> 	
 					<english>Oh, I understand. You've done well: I don't have any socks.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>ANestasiWellugwenMuGeggunmuannSignn</soundfile>
 				</line>
 			</dialog>		
 			<dialog>
@@ -9389,17 +9389,17 @@
 				<line>
 					<migmaq>Aq te's-aji-puna'i, nsis ignmuiji tap'tang.</migmaq> 	
 					<english>And every time I have a birthday, my older brother gives me potatoes.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>AqTesajipunaiNsisIgnmuijiTap'tang</soundfile>
 				</line>
 				<line>
 					<migmaq>Tap'tang? Ignmasgi tap'tang?</migmaq> 	
 					<english>Potatoes? He gives you potatoes?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>TaptangIgnmasgiTaptang</soundfile>
 				</line>
 				<line>
 					<migmaq>E'e. Tap'tang ignmuiji. Muta apjiw al'guwisin.</migmaq> 	
 					<english>Yes. He gives me potatoes. Because I'm always going around hungry.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>E'eTap'tangIgnmuijiMutaApjiwAl'guwisin</soundfile>
 				</line>
 			</dialog>
 		</lesson>
