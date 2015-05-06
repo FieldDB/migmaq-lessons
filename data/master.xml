@@ -5189,7 +5189,7 @@
 						<soundfile>WasueglGeggunmnn</soundfile>
 					</line>
 					<line>
-						<migmaq>E'e, geggunmann wasuegl.</migmaq> 	
+						<migmaq>E'e, geggunmann wasuegl.</migmaq>
 						<english>Yes, I have flowers.</english>
 						<soundfile>EeGeggunmannWasuegl</soundfile>
 					</line>
@@ -7108,8 +7108,8 @@
 	</unit>
 </section>
 <section>
-	<title>Childcare</title>
-	<note>You've learned a lot so far! In this lesson, we'll practice some more advanced verb forms to help express desire and necessity. The vocabulary in this section will focus on childcare and words to practice with children.</note>
+	<title>Around the House</title>
+	<note>You've learned a lot so far! In this lesson, we'll practice some more advanced verb forms to help express desire and necessity. We'll learn useful coversation for taking care of children, and more vocabulary for household items.</note>
 	<unit>
 		<title>Taking care of children</title>
 		<note>This unit teaches how to give warnings and commands to children. It also practices some vocabulary that is useful around children.</note>
@@ -7753,6 +7753,204 @@
 			</dialog>
 		</lesson>
 		<lesson>
+			<title>Kitchen vocabulary</title>
+			<note>Let's name some things in a kitchen.</note>
+			<vocab>
+				<line>
+					<migmaq>labowl</migmaq>
+					<english>bowl</english>
+					<soundfile>Bowl</soundfile>
+				</line>
+				<line>
+					<migmaq>g'p'tai</migmaq>
+					<english>ceiling</english>
+					<soundfile>Ceiling</soundfile>
+				</line>
+				<line>
+					<migmaq>mutputi</migmaq>
+					<english>chair</english>
+					<soundfile>Chair</soundfile>
+				</line>
+				<line>
+					<migmaq>nagu'setewei</migmaq>
+					<english>clock</english>
+					<soundfile>Clock</soundfile>
+				</line>
+				<line>
+					<migmaq>eplugutimg</migmaq>
+					<english>counter</english>
+					<soundfile>Counter</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>tegpa'q samuqan</migmaq>
+					<english>cold water</english>
+					<soundfile>ColdWater</soundfile>
+				</line>
+				<line>
+					<migmaq>gapji'j</migmaq>
+					<english>cup</english>
+					<soundfile>Cup</soundfile>
+				</line>
+				<line>
+					<migmaq>eptaqano'guom</migmaq>
+					<english>cupboard</english>
+					<soundfile>Cupboard</soundfile>
+				</line>
+				<line>
+					<migmaq>ga'qan</migmaq>
+					<english>door</english>
+					<soundfile>Door</soundfile>
+				</line>
+				<line>
+					<migmaq>ugsuateja'taqan</migmaq>
+					<english>drawer</english>
+					<soundfile>Drawer</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>samuqwan weja'tmg</migmaq>
+					<english>faucet</english>
+					<soundfile>Faucet</soundfile>
+				</line>
+				<line>
+					<migmaq>naqana'pemgewei</migmaq>
+					<english>faucet</english>
+					<soundfile>Faucet2</soundfile>
+				</line>
+				<line>
+					<migmaq>alasenmamgewei</migmaq>
+					<english>flashlight</english>
+					<soundfile>Flashlight</soundfile>
+				</line>
+				<line>
+					<migmaq>migwije'maqan</migmaq>
+					<english>fork</english>
+					<soundfile>Fork</soundfile>
+				</line>
+				<line>
+					<migmaq>gljistaqanei</migmaq>
+					<english>freezer</english>
+					<soundfile>Freezer</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>lapue'l</migmaq>
+					<english>frying pan</english>
+					<soundfile>FryingPan</soundfile>
+				</line>
+				<line>
+					<migmaq>lapue'lji'j</migmaq>
+					<english>frying pan</english>
+					<soundfile>FryingPan1</soundfile>
+				</line>
+				<line>
+					<migmaq>mjegeio'q</migmaq>
+					<english>garbage can</english>
+					<soundfile>GarbageCan</soundfile>
+				</line>
+				<line>
+					<migmaq>tumletji'j</migmaq>
+					<english>glass</english>
+					<soundfile>Glass</soundfile>
+				</line>
+				<line>
+					<migmaq>epteg samuqwan</migmaq>
+					<english>hot water</english>
+					<soundfile>HotWater</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>etloqsewo'guom</migmaq>
+					<english>kitchen</english>
+					<soundfile>Kitchen</soundfile>
+				</line>
+				<line>
+					<migmaq>wa'qan</migmaq>
+					<english>knife</english>
+					<soundfile>Knife</soundfile>
+				</line>
+				<line>
+					<migmaq>wasoqn</migmaq>
+					<english>light</english>
+					<soundfile>Light</soundfile>
+				</line>
+				<line>
+					<migmaq>oven</migmaq>
+					<english>epipno'guom</english>
+					<soundfile>Oven</soundfile>
+				</line>
+				<line>
+					<migmaq>eptaqan</migmaq>
+					<english>plate</english>
+					<soundfile>Plate</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>wow</migmaq>
+					<english>pot</english>
+					<soundfile>Pot</soundfile>
+				</line>
+				<line>
+					<migmaq>tegistegeg</migmaq>
+					<english>refrigerator</english>
+					<soundfile>Refrigerator</soundfile>
+				</line>
+				<line>
+					<migmaq>pisew</migmaq>
+					<english>sponge</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>amqwanji'j</migmaq>
+					<english>spoon</english>
+					<soundfile>Spoon</soundfile>
+				</line>
+				<line>
+					<migmaq>mutputi'j</migmaq>
+					<english>stool</english>
+					<soundfile>Stool</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>epsaqtejg</migmaq>
+					<english>stove</english>
+					<soundfile>Stove</soundfile>
+				</line>
+				<line>
+					<migmaq>pata'uti</migmaq>
+					<english>table</english>
+					<soundfile>Table</soundfile>
+				</line>
+				<line>
+					<migmaq>pawtiewegn</migmaq>
+					<english>tablecloth</english>
+					<soundfile>Tablecloth</soundfile>
+				</line>
+				<line>
+					<migmaq>wisawoqsewemgewei</migmaq>
+					<english>toaster</english>
+					<soundfile>Toaster</soundfile>
+				</line>
+				<line>
+					<migmaq>tmsaqign</migmaq>
+					<english>wall</english>
+					<soundfile>Wall</soundfile>
+				</line>
+				<line>
+					<migmaq>tuop'ti</migmaq>
+					<english>window</english>
+					<soundfile>Window1</soundfile>
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
 			<title>Give me an apple!</title>
 			<note>Let's practice asking for food.</note>
 			<timesig>@20120705_JW_AV_ignmui1</timesig>		
@@ -7847,6 +8045,190 @@
 					<!--<soundfile></soundfile>-->
 				</line>
 			</dialog>
+		</lesson>
+		<lesson>
+			<title>More food words</title>
+			<note>Here are some more names of foods.</note>
+			<vocab>
+				<line>
+					<migmaq>galgunawei</migmaq>
+					<english>cookie</english>
+					<soundfile>Cookie</soundfile>
+				</line>
+				<line>
+					<migmaq>amu apu</migmaq>
+					<english>honey</english>
+					<soundfile>Honey</soundfile>
+				</line>
+				<line>
+					<migmaq>laglmgelt'g</migmaq>
+					<english>ice cream</english>
+					<soundfile>IceCream</soundfile>
+				</line>
+				<line>
+					<migmaq>wiaq</migmaq>
+					<english>milkshake</english>
+					<soundfile>Milkshake</soundfile>
+				</line>
+				<line>
+					<migmaq>'mgumi'j</migmaq>
+					<english>ice cube</english>
+					<soundfile>IceCube</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>guto'tas'gewei sisla'gwa'taqan</migmaq>
+					<english>pancake</english>
+					<soundfile>guto'tas'geweiSisla'gwa'taqan</soundfile>
+				</line>
+				<line>
+					<migmaq>sisla'gwa'taqan</migmaq>
+					<english>pancake</english>
+					<soundfile>sisla'gwa'taqan</soundfile>
+				</line>
+				<line>
+					<migmaq>sismo'qnapu</migmaq>
+					<english>syrup</english>
+					<soundfile>Syrup</soundfile>
+				</line>
+				<line>
+					<migmaq>pasgoqsign</migmaq>
+					<english>jam</english>
+					<soundfile>Jam</soundfile>
+				</line>
+				<line>
+					<migmaq>apu</migmaq>
+					<english>juice</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>wigunapu</migmaq>
+					<english>coffee</english>
+					<soundfile>Coffee</soundfile>
+				</line>
+				<line>
+					<migmaq>gulmgewe'l</migmaq>
+					<english>cereal or wheat</english>
+					<soundfile>Cereal</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>sewlugwemgewei</migmaq>
+					<english>lemon</english>
+					<soundfile>Lemon</soundfile>
+				</line>
+				<line>
+					<migmaq>majoqtelignji'j</migmaq>
+					<english>peach</english>
+					<soundfile>Peach</soundfile>
+				</line>
+				<line>
+					<migmaq>jijapignej</migmaq>
+					<english>orange</english>
+					<soundfile>OrangeFood</soundfile>
+				</line>
+				<line>
+					<migmaq>almijeming'g</migmaq>
+					<english>plum</english>
+					<soundfile></soundfile>
+				</line>
+				<line>
+					<migmaq>atuomgomin</migmaq>
+					<english>strawberry</english>
+					<soundfile>atuomgomin</soundfile>
+				</line>
+				<line>
+					<migmaq>glitaw</migmaq>
+					<english>strawberry</english>
+					<soundfile>glitaw</soundfile>
+				</line>
+				<line>
+					<migmaq>masgwe'siman</migmaq>
+					<english>cherry</english>
+					<soundfile>Cherry</soundfile>
+				</line>
+				<line>
+					<migmaq>'pqam</migmaq>
+					<english>coconut</english>
+					<soundfile>Coconut</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>aptelmultimewe'l</migmaq>
+					<english>rice</english>
+					<soundfile>Rice</soundfile>
+				</line>
+				<line>
+					<migmaq>toqjoqtegl</migmaq>
+					<english>sandwich</english>
+					<soundfile>Sandwich</soundfile>
+				</line>
+				<line>
+					<migmaq>wiligse'jl</migmaq>
+					<english>sausage</english>
+					<soundfile>Sausage</soundfile>
+				</line>
+				<line>
+					<migmaq>p'te'j lasup</migmaq>
+					<english>soup</english>
+					<soundfile>Soup</soundfile>
+				</line>
+				<line>
+					<migmaq>nugjaqsas'g wius</migmaq>
+					<english>hamburger</english>
+					<soundfile>Hamburger</soundfile>
+				</line>
+				<line>
+					<migmaq>teplma'sewei</migmaq>
+					<english>cheese</english>
+					<soundfile>Cheese</soundfile>
+				</line>
+				<line>
+					<migmaq>'lgetu</migmaq>
+					<english>mushroom</english>
+					<soundfile>Mushroom</soundfile>
+				</line>
+				<line>
+					<migmaq>'pqwanj</migmaq>
+					<english>peanut</english>
+					<soundfile>Peanut</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>te'pi'sewe'l</migmaq>
+					<english>pepper</english>
+					<soundfile>Pepper</soundfile>
+				</line>
+				<line>
+					<migmaq>salawei</migmaq>
+					<english>salt</english>
+					<soundfile>Salt</soundfile>
+				</line>
+				<line>
+					<migmaq>milima'qewe'l</migmaq>
+					<english>spices</english>
+					<soundfile>milima'qewe'l</soundfile>
+				</line>
+				<line>
+					<migmaq>milima'tegegl</migmaq>
+					<english>spices</english>
+					<soundfile>milima'tegegl</soundfile>
+				</line>
+				<line>
+					<migmaq>mimei</migmaq>
+					<english>oil</english>
+					<soundfile>Oil</soundfile>
+				</line>
+				<line>
+					<migmaq>sismo'qn</migmaq>
+					<english>sugar</english>
+					<soundfile>Sugar</soundfile>
+				</line>
+			</vocab>
 		</lesson>
 		<lesson>
 			<title>I give you an egg</title>
