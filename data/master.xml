@@ -8054,16 +8054,19 @@
 					<migmaq>galgunawei</migmaq>
 					<english>cookie</english>
 					<soundfile>Cookie</soundfile>
+					<img>1F36A.png</img>
 				</line>
 				<line>
 					<migmaq>amu apu</migmaq>
 					<english>honey</english>
 					<soundfile>Honey</soundfile>
+					<img>1F36F.png</img>
 				</line>
 				<line>
 					<migmaq>laglmgelt'g</migmaq>
 					<english>ice cream</english>
 					<soundfile>IceCream</soundfile>
+					<img>1F366.png</img>
 				</line>
 				<line>
 					<migmaq>wiaq</migmaq>
@@ -8106,6 +8109,7 @@
 					<migmaq>wigunapu</migmaq>
 					<english>coffee</english>
 					<soundfile>Coffee</soundfile>
+					<img>2615.png</img>
 				</line>
 				<line>
 					<migmaq>gulmgewe'l</migmaq>
@@ -8118,36 +8122,42 @@
 					<migmaq>sewlugwemgewei</migmaq>
 					<english>lemon</english>
 					<soundfile>Lemon</soundfile>
+					<img>1F34B.png</img>
 				</line>
 				<line>
 					<migmaq>majoqtelignji'j</migmaq>
 					<english>peach</english>
 					<soundfile>Peach</soundfile>
+					<img>1F351.png</img>
 				</line>
 				<line>
 					<migmaq>jijapignej</migmaq>
 					<english>orange</english>
 					<soundfile>OrangeFood</soundfile>
+					<img>1F34A.png</img>
 				</line>
 				<line>
 					<migmaq>almijeming'g</migmaq>
 					<english>plum</english>
-					<soundfile></soundfile>
+					<!--<soundfile></soundfile>-->
 				</line>
 				<line>
 					<migmaq>atuomgomin</migmaq>
 					<english>strawberry</english>
 					<soundfile>atuomgomin</soundfile>
+					<img>1F353.png</img>
 				</line>
 				<line>
 					<migmaq>glitaw</migmaq>
 					<english>strawberry</english>
 					<soundfile>glitaw</soundfile>
+					<img>1F353.png</img>
 				</line>
 				<line>
 					<migmaq>masgwe'siman</migmaq>
 					<english>cherry</english>
 					<soundfile>Cherry</soundfile>
+					<img>1F352.png</img>
 				</line>
 				<line>
 					<migmaq>'pqam</migmaq>
@@ -8160,6 +8170,7 @@
 					<migmaq>aptelmultimewe'l</migmaq>
 					<english>rice</english>
 					<soundfile>Rice</soundfile>
+					<img>1F35A.png</img>
 				</line>
 				<line>
 					<migmaq>toqjoqtegl</migmaq>
@@ -8175,11 +8186,13 @@
 					<migmaq>p'te'j lasup</migmaq>
 					<english>soup</english>
 					<soundfile>Soup</soundfile>
+					<img>1F372.png</img>
 				</line>
 				<line>
 					<migmaq>nugjaqsas'g wius</migmaq>
 					<english>hamburger</english>
 					<soundfile>Hamburger</soundfile>
+					<img>1F354.png</img>
 				</line>
 				<line>
 					<migmaq>teplma'sewei</migmaq>
@@ -8190,6 +8203,7 @@
 					<migmaq>'lgetu</migmaq>
 					<english>mushroom</english>
 					<soundfile>Mushroom</soundfile>
+					<img>1F344.png</img>
 				</line>
 				<line>
 					<migmaq>'pqwanj</migmaq>
