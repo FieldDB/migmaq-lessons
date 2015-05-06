@@ -7959,7 +7959,7 @@
 					<migmaq>Ge' ignmui wen'ju'su'n!</migmaq> 	
 					<english>Give me an apple!</english>
 					<soundfile>Ge'IgnmuiWen'ju'su'n</soundfile>
-					<img>apple.png</img>
+					<img>1F34F.png</img>
 				</line>
 				<line>
 					<migmaq>Goqwei ugjit?</migmaq> 	
@@ -8003,7 +8003,7 @@
 					<migmaq>Ge' ignmu wen'ju'su'n!</migmaq> 	
 					<english>Give her an apple!</english>
 					<soundfile>Ge'IgnmuWen'ju'su'n</soundfile>
-					<img>apple.png</img>
+					<img>1F34F.png</img>
 				</line>
 				<line>
 					<migmaq>Goqwei ugjit?</migmaq> 	
@@ -8035,14 +8035,19 @@
 					<soundfile>MutaGewising1</soundfile>
 				</line>
 				<line>
-					<migmaq>Newte'jinnitl pas'g? Amujpa ignmajig tapusinnijig. Tepiaq tel-guwising, 'tqopata.</migmaq> 	
-					<english>Just one? You should give her two. She's hungry enough, she'll eat both of them.</english>
+					<migmaq>Newte'jinnitl pas'g?</migmaq> 	
+					<english>Just one?</english>
 					<soundfile>Newte'jinnitlPas'g</soundfile>
+				</line>
+				<line>
+					<migmaq>Amujpa ignmajig tapusinnijig. Tepiaq tel-guwising, 'tqopata.</migmaq> 	
+					<english>You should give her two. She's hungry enough, she'll eat both of them.</english>
+					<soundfile>AmujpaIgnmajigTapusinnijig</soundfile>
 				</line>
 				<line>
 					<migmaq>Na to'q: tapusinnijig ignmua's.</migmaq>
 					<english>So be it: I will give her two.</english>
-					<soundfile>NaTo'q</soundfile>
+					<soundfile>NaTo'qTapusinnijigIgnmua's</soundfile>
 				</line>
 			</dialog>
 		</lesson>
