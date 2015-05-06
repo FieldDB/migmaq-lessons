@@ -8480,43 +8480,43 @@
 				<line>
 					<migmaq>Maja'si, naji-sgi.</migmaq> 	
 					<english>Go, go pee.</english>
-					<soundfile></soundfile>
+					<soundfile>Maja'siNajisgi</soundfile>
 					<img>1F6BD.png</img>
 				</line>
 				<line>
 					<migmaq>Gasiptna'si.</migmaq> 	
 					<english>Wash your hands.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Gasiptna'si</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
-					<migmaq>Ge' jugu'a...</migmaq> 	
+					<migmaq>Ge' jugu'a.</migmaq> 	
 					<english>Come here now.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GeJugu'a</soundfile>
 				</line>
 				<line>
 					<migmaq>Ge' gasigo'tlulap.</migmaq> 	
 					<english>Let me wash your face.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GeGasigo'tlulap</soundfile>
 				</line>
 				<line>
 					<migmaq>Gasigwa'si.</migmaq> 	
 					<english>Wash your face.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Gasigwa'si</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Pana'tu samqwan.</migmaq> 	
 					<english>Turn on/open the water.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Pana'tuSamqwan</soundfile>
 					<img>1F6B0.png</img>
 				</line>
 				<line>
 					<migmaq>Ilta'tu samqwan.</migmaq> 	
 					<english>Turn off/close the water.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Ilta'tuSamqwan</soundfile>
 					<img>1F6B1.png</img>
 				</line>
 			</vocab>
@@ -8524,23 +8524,23 @@
 				<line>
 					<migmaq>'Gsispa'tu gipitl.</migmaq> 	
 					<english>Brush your teeth.</english>
-				<!--<soundfile></soundfile>-->
+					<soundfile>Gsispa'tuGipitl</soundfile>
 				</line>
 				<line>
 					<migmaq>Tami eteg 'gtoothbrushm?</migmaq> 	
 					<english>Where's your toothbrush?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>TamiEtegGtoothbrushm</soundfile>
 				</line>
 				<line>
 					<migmaq>G'psoqwa'tu samqwan.</migmaq> 	
 					<english>Turn off the water.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>G'psoqwa'tuSamqwan</soundfile>
 					<img>1F6B1.png</img>
 				</line>
 				<line>
 					<migmaq>Apaji-gp'soqwa'tu.</migmaq> 	
 					<english>Put the cap back on (the toothpaste).</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Apajigp'soqwa'tu</soundfile>
 				</line>
 			</vocab>
 		</lesson>
@@ -8670,132 +8670,132 @@
 			<title>Taking a bath or shower</title>
 			<note>Here is how to talk about washing.</note>
 			<vocab>
-				<line>
+				<!--<line>
 					<migmaq>'Gsispalsi.</migmaq> 	
 					<english>Wash yourself / take a bath.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Gsispalsi</soundfile>
 					<img>1F6C0.png</img>
-				</line>
+				</line>-->
 				<line>
 					<migmaq>'Gsispa'tu gusapunn.</migmaq> 	
 					<english>Wash your hair.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Gsispa'tuGusapunn</soundfile>
 				</line>
 				<line>
 					<migmaq>Gwija'si.</migmaq> 	
 					<english>Get into the water [= the tub].</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Gwija'si</soundfile>
 				</line>
 				<line>
 					<migmaq>Gwija'si samqwanigtug aq 'gsispalsi.</migmaq> 	
 					<english>Get into the water and wash yourself.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Gwija'siSamqwanigtugAqGsispalsi</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Samuqwan gisgatteg.</migmaq> 	
 					<english>The water is ready.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>SamuqwanGisgatteg</soundfile>
 				</line>
 				<line>
 					<migmaq>Tegpa'q.</migmaq> 	
 					<english>It's cold (water).</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Tegpa'q</soundfile>
 				</line>
 				<line>
 					<migmaq>Wesami-tg'pa'q.</migmaq> 	
 					<english>It's too cold (water).</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Wesamitg'pa'q</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Epteg samuqwan.</migmaq> 	
 					<english>The water is hot.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>EptegSamuqwan</soundfile>
 				</line>
 				<line>
 					<migmaq>Wesam'p'teg samqwan.</migmaq> 	
 					<english>The water is too hot.</english>
 					<designnote>[no real equivalent with -pa'q]</designnote>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Wesam'p'tegSamqwan</soundfile>
 				</line>
 				<line>
 					<migmaq>Eppa'q.</migmaq> 	
 					<english>Warm [not hot] water.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Eppa'q</soundfile>
 				</line>
 				<line>
 					<migmaq>Wel'p'teg.</migmaq> 	
 					<english>It's (nice and) warm.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Wel'p'teg</soundfile>
 				</line>
 				<line>
 					<migmaq>Assma wel'p'teg.</migmaq> 	
 					<english>It's just the right temperature warm.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>AssmaWel'p'teg</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Tami epit suspanign?</migmaq> 	
 					<english>Where's the soap?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>TamiEpitSuspanign</soundfile>
 				</line>
 				<line>
 					<migmaq>Tami eteg body wash?</migmaq> 	
 					<english>Where's the body wash?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>TamiEtegBodyWash</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Ge' gesispa'tulapnn gusapunn.</migmaq> 	
 					<english>Let me wash your hair.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Ge'Gesispa'tulapnnGusapunn</soundfile>
 				</line>
 				<line>
 					<migmaq>Ge' gesispa'tulapnn 'gsituaqann.</migmaq> 	
 					<english>Let me wash your ears.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Ge'Gesispa'tulapnnGsituaqann</soundfile>
 				</line>
 				<line>
 					<migmaq>Ge' gesispa'tulap 'gpaqam.</migmaq> 	
 					<english>Let me wash your back.</english>
-				<!--<soundfile></soundfile>-->
+					<soundfile>GeGesispa'tulapGpaqam</soundfile>
 				</line>
 				<line>
-					<migmaq>Gesispa'tul 'gpaqam.</migmaq> 	
+					<migmaq>Nige' gesispa'tul 'gpaqam.</migmaq> 	
 					<english>I am washing your back.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>NigeGesispa'tulGpaqam</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Natqa'si aq ga'susi.</migmaq> 	
 					<english>Step out [from the tub].</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Natqa'siAqGa'susi</soundfile>
 				</line>
 				<line>
 					<migmaq>Ula gasigo's'ti.</migmaq> 	
 					<english>Here's the towel [alt: gasigo'suti].</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>UlaGasigo's'ti</soundfile>
 				</line>
 				<line>
 					<migmaq>Gasigo's'ti'j.</migmaq> 	
 					<english>Facecloth.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Gasigo's'ti'j</soundfile>
 				</line>
 				<line>
 					<migmaq>Gis-ga'susin?</migmaq> 	
 					<english>Have you toweled off?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Gisga'susin</soundfile>
 				</line>
 				<line>
 					<migmaq>Ango'te'n, sesupe'g 'msaqtaqt.</migmaq> 	
 					<english>Careful, the floor is wet.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Ango'te'nSesupe'gMsaqtaqt</soundfile>
 				</line>
 			</vocab>
 		</lesson>
@@ -8849,68 +8849,73 @@
 				<line>
 					<migmaq>Ilaji nige'.</migmaq> 	
 					<english>Get ready now.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>IlajiNige</soundfile>
 				</line>
 				<line>
 					<migmaq>Gispase'n gusapunn.</migmaq> 	
 					<english>Dry your hair.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Gispase'nGusapunn</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Nugwaltugo'si.</migmaq> 	
 					<english>Brush your hair.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Nugwaltugo'si</soundfile>
 				</line>
 				<line>
 					<migmaq>Ge' nugwaltugwa' 'ggwe'ji'j.</migmaq> 	
 					<english>Brush your little sister's hair.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GeNugwaltugwaGgwe'ji'j</soundfile>
 				</line>
 				<line>
 					<migmaq>Ge' lisgnuatmu 'ggwe'ji'j usapunn.</migmaq> 	
 					<english>Braid your little sister's hair.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GeLisgnuatmuGgwe'ji'jUsapunn</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Nige' gna'si.</migmaq> 	
 					<english>Now get dressed.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>NigeGna'si</soundfile>
 				</line>
 				<line>
 					<migmaq>Ula nasa'tu (pita'qwe'ji'tl, pita'qawe'l, signn)</migmaq> 	
 					<english>Put this on (&#95;&#95;&#95;).</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>UlaNasa'tuPita'qwe'ji'tlPita'qawe'lSignn</soundfile>
 				</line>
 				<line>
-					<migmaq>Ula nasa'l (lamqwan, atla'i)</migmaq> 	
+					<migmaq>Ula nasa'l lamqwan</migmaq> 	
 					<english>Put this on (&#95;&#95;&#95;).</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>UlaNasa'lLamqwan</soundfile>
+				</line>
+				<line>
+					<migmaq>Ula nasa'l atla'i</migmaq> 	
+					<english>Put this on (&#95;&#95;&#95;).</english>
+					<soundfile>UlaNasa'lAtla'i</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Tegen atla'i getu'-nasgat?</migmaq> 	
 					<english>Which shirt do you want to wear?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>TegenAtla'iGetunasgat</soundfile>
 				</line>
 				<line>
 					<migmaq>Nasa'tu waqame'gl pita'qawe'l.</migmaq> 	
 					<english>Put on clean pants.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Nasa'tuWaqame'glPita'qawe'l</soundfile>
 				</line>
 				<line>
 					<migmaq>Unaqatija'tu.</migmaq> 	
 					<english>Slide it up (zipper).</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Unaqatija'tu</soundfile>
 				</line>
 				<line>
 					<migmaq>'Spisuna'si.</migmaq> 	
 					<english>Put on a belt.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Spisuna'si</soundfile>
 					<img>belt.gif</img>
 				</line>
 			</vocab>
@@ -8918,142 +8923,142 @@
 				<line>
 					<migmaq>Tami etegl 'gtisignn? Nmisge'n.</migmaq> 	
 					<english>Where are your socks? Go get them.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>TamiEteglGtisignnNmisge'n</soundfile>
 					<img>socks.gif</img>
 				</line>
 				<line>
 					<migmaq>Tami epijig gmugsng? Nmisgu.</migmaq> 	
 					<english>Where are your shoes?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>TamiEpijigGmugsngNmisgu</soundfile>
 				</line>
 				<line>
 					<migmaq>Signa'si.</migmaq> 	
 					<english>Put socks on.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Signa'si</soundfile>
 				</line>
 				<line>
 					<migmaq>'Mg'sn nasa'l.</migmaq> 	
 					<english>Put on the shoe.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Mg'snNasa'l</soundfile>
 					<img>1F45F.png</img>
 				</line>
 				<line>
 					<migmaq>'Mg'sna'si.</migmaq> 	
 					<english>Put shoes on.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Mg'sna'si</soundfile>
 				</line>
 				<line>
 					<migmaq>Ilaqpo'l gmugsng.</migmaq> 	
 					<english>Lace up your shoes.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Ilaqpo'lGmugsng</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Glusgulsi.</migmaq> 	
 					<english>Button yourself up.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Glusgulsi</soundfile>
 				</line>
 				<line>
 					<migmaq>Glusgul na 'gtatla'im.</migmaq> 	
 					<english>Button up your shirt.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GlusgulNaGtatla'im</soundfile>
 				</line>
 				<line>
 					<migmaq>Napitoqo'l na 'gtatla'im.</migmaq> 	
 					<english>Button up your shirt.[same as above].</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Napitoqo'lNaGtatla'im</soundfile>
 				</line>
 				<line>
 					<migmaq>Napitoqo'lsi.</migmaq> 	
 					<english>Button yourself up.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Napitoqo'lsi</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>O', mu nugu' welgmu'n ula magot. Segg'teg.</migmaq>
 					<english>Oh, this dress doesn't fit you any more. It's tight.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>OMuNuguWelgmu'nUlaMagotSegg'teg</soundfile>
 					<img>1F457.png</img>
 				</line>
 				<line>
 					<migmaq>Wesam-pita'qal.</migmaq> 	
 					<english>They (pants) are too long.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Wesampita'qal</soundfile>
 					<img>1F456.png</img>
 				</line>
 				<line>
 					<migmaq>Wesami-tqwaqji'jgl.</migmaq> 	
 					<english>They (pants) are too short.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Wesamitqwaqji'jgl</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Gesipguit 'ntatla'im.</migmaq> 	
 					<english>My shirt is itchy on me.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GesipguitNtatla'im</soundfile>
 				</line>
 				<line>
 					<migmaq>Gesipguet 'ntatla'im.</migmaq> 	
 					<english>My shirt is itchy.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GesipguetNtatla'im</soundfile>
 					<img>1F45A.png</img>
 				</line>
 				<line>
 					<migmaq>Gesipguwigl 'ntisignn.</migmaq> 	
 					<english>My socks are itchy.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GesipguwiglNtisignn</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Welpisin!</migmaq> 	
 					<english>You're so well-dressed; you look good in those clothes!</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Welpisin</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Sa'se'wgna'si.</migmaq> 	
 					<english>Change your clothes.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Sa'se'wgna'si</soundfile>
 				</line>
 				<line>
 					<migmaq>Waqamgna'si.</migmaq> 	
 					<english>Wear clean clothes.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Waqamgna'si</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>Gota'mn?</migmaq> 	
 					<english>Are you wearing a coat?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Gota'mn</soundfile>
 				</line>
 				<line>
 					<migmaq>Gota'si.</migmaq> 	
 					<english>Wear a coat.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>Gota'si</soundfile>
 					<img>coat.gif</img>
 				</line>
 				<line>
 					<migmaq>'Ggotm nasa'l.</migmaq> 	
 					<english>Put on your coat.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>GgotmNasa'l</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
 					<migmaq>A'gusna'mn?</migmaq> 	
 					<english>Are you wearing a hat?</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>A'gusna'mn</soundfile>
 				</line>
 				<line>
 					<migmaq>A'gusna'si!</migmaq> 	
 					<english>Wear a hat.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>A'gusna'si</soundfile>
 					<img>hat.gif</img>
 				</line>
 			</vocab>
@@ -9061,7 +9066,7 @@
 				<line>
 					<migmaq>Mutt awan'ta'siw 'gtui'gatignn.</migmaq> 	
 					<english>Don't forget your books.</english>
-					<!--<soundfile></soundfile>-->
+					<soundfile>MuttAwan'ta'siwGtui'gatignn</soundfile>
 				</line>
 			</vocab>
 		</lesson>
