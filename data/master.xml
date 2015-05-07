@@ -9301,6 +9301,152 @@
 				</line>
 			</vocab>
 		</lesson>
+		<lesson>
+			<title>My daily routine</title>
+			<note>Let's practice talking about our daily routine.</note>
+			<dialog>
+				<line>
+					<migmaq>Asugom ajiet menja'si.</migmaq>
+					<english>I get up at 6 o'clock.</english>
+					<soundfile>AsugomAjietMenja'si</soundfile>
+				</line>
+				<line>
+					<migmaq>Mi'jano'guomg eliei aq gesispa'lsi.</migmaq>
+					<english>I go to the bathroom, clean up and shower.</english>
+					<soundfile>Mi'jano'guomgElieiAqGesispa'lsi</soundfile>
+				</line>
+				<line>
+					<migmaq>Gisapalsi na gegna'si.</migmaq>
+					<english>I dress after a shower.</english>
+					<soundfile>GisapalsiNaGegna'si</soundfile>
+				</line>
+				<line>
+					<migmaq>Egsitpu'geweim elugwatm.</migmaq>
+					<english>I prepare my breakfast.</english>
+					<soundfile>Egsitpu'geweimElugwatm</soundfile>
+				</line>
+				<line>
+					<migmaq>Ilaji ugjit natlugwen.</migmaq>
+					<english>I get ready for work.</english>
+					<soundfile>IlajiUgjitNatlugwen</soundfile>
+				</line>
+			</dialog>
+			<dialog>
+				<line>
+					<migmaq>Ntlugowaqang pegisin ugmuljin te'sajiet jel a'qataig.</migmaq>
+					<english>I arrive at my work at 8:30.</english>
+					<soundfile>NtlugowaqangPegisinUgmuljinTe'sajietJelA'qataig</soundfile>
+				</line>
+				<line>
+					<migmaq>Nujo'tm na tlisutiei goqwei Listugujg.</migmaq>
+					<english>I work with the language in Listuguj.</english>
+					<soundfile>Nujo'tmNaTlisutieiGoqweiListugujg</soundfile>
+				</line>
+				<line>
+					<migmaq>Angaptnann email'l petgitmuimgl, aq alt asitemgig.</migmaq>
+					<english>I go through my emails and I answer some of them.</english>
+					<soundfile>AngaptnannEmail'lPetgitmuimglAqAltAsitemgig</soundfile>
+				</line>
+				<line>
+					<migmaq>Siawa'tu ta'n goqwei ulagu wesgo'tmap.</migmaq>
+					<english>I continue the work I had from yesterday.</english>
+					<soundfile>Siawa'tuTa'nGoqweiUlaguWesgo'tmap</soundfile>
+				</line>
+				<line>
+					<migmaq>Jijuaqa na na'tuen petgitmuitew natgoqwei ta'n pewatg 'ns'tmasewugsin gisna natgoqwei tli'sutiei ugjit 'sgu'ligtug.</migmaq>
+					<english>Sometimes someone will send things for me to translate or language help for the school.</english>
+					<soundfile>JijuaqaNaNa'tuenPetgitmuitewNatgoqweiTa'nPewatgNs'tmasewugsinGisnaNatgoqweiTli'sutieiUgjitSgu'ligtug</soundfile>
+				</line>
+			</dialog>
+			<dialog>
+				<line>
+					<migmaq>Mewlia'gwej na enmiei aq atatal aq apaja'si newt ajiet.</migmaq>
+					<english>At noon I go home and eat and come back at 1 pm.</english>
+					<soundfile>Mewlia'gwejNaEnmieiAqAtatalAqApaja'siNewtAjiet</soundfile>
+				</line>
+				<line>
+					<migmaq>Gismewlia'gej ap na siawlugwatesg ta'n goqwei wesgo'tmap egsitpu'gweg aq enmiei 4:30.</migmaq>
+					<english>After noon I'll continue what I had been working on that morning and go home at 4:30.</english>
+					<soundfile>Gismewlia'gejApNaSiawlugwatesgTa'nGoqweiWesgo'tmapEgsitpu'gweg</soundfile>
+				</line>
+				<line>
+					<migmaq>Wela'gweweim elugwatm.</migmaq>
+					<english>I prepare my supper.</english>
+					<soundfile>Wela'gweweimElugwatm</soundfile>
+				</line>
+				<line>
+					<migmaq>Gisiuloqotal na 'nti tewa'tieg aq potl'legaieg.</migmaq>
+					<english>After supper I go for a walk with my dog.</english>
+					<soundfile>GisiuloqotalNaNtiTewa'tiegAqPotl'legaieg</soundfile>
+				</line>
+			</dialog>
+			<dialog>
+				<line>
+					<migmaq>Apaja'tieg na engopa'si aq angaptm tv.</migmaq>
+					<english>When we get back I sit and watch some tv.</english>
+					<soundfile>Apaja'tiegNaEngopa'siAqAngaptm</soundfile>
+				</line>
+				<line>
+					<migmaq>Glapis na newtisga'q ajiet na tujiw ilaji ugjit Najinpan.</migmaq>
+					<english>At about 10 pm I get ready and go to bed.</english>
+					<soundfile>GlapisNaNewtisga'qAjietNaTujiwIlajiUgjitNajinpan</soundfile>
+				</line>
+				<line>
+					<migmaq>Na ntna'gwegm na.</migmaq>
+					<english>That is my day.</english>
+					<soundfile>NaNtna'gwegmNa</soundfile>
+				</line>
+			</dialog>
+			<dialog>
+				<line>
+					<migmaq>Ula ni'n 'ntna'gwegm.</migmaq>
+					<english>Here is my day.</english>
+					<soundfile>UlaNi'nNtna'gwegm</soundfile>
+				</line>
+				<line>
+					<migmaq>Ntna'gwegm pojiaq asugom ajiet egsitpu'gl, Amgwes ellugutim glapis Weltamultimg.</migmaq>
+					<english>My day begins at 6 am mornings, Monday to Friday.</english>
+					<soundfile>Ntna'gwegmPojiaqAsugomAjietEgsitpu'glAmgwesEllugutimGlapisWeltamultimg</soundfile>
+				</line>
+				<line>
+					<migmaq>Ugmuljig te'sajiet jel a'qataig poqtluwei aq punlugwei ne'w ajiet jel a'qataig te'sigisg'g.</migmaq>
+					<english>I begin work at 8:30 and get off at 4:30 daily.</english>
+					<soundfile>UgmuljigTe'sajietJelA'qataigPoqtluweiAqPunlugwei</soundfile>
+				</line>
+				<line>
+					<migmaq>Amgwesewei na ilajugtaqig nujigina'maqig.</migmaq>
+					<english>I prepare to greet my students.</english>
+					<soundfile>AmgweseweiNaIlajugtaqigNujigina'maqig</soundfile>
+				</line>
+				<line>
+					<migmaq>Egina'maqig na 'ns'tmnew ta'n goqwei egitmi'tij aq ewi'gmi'tij Aqalasie'wigtug.</migmaq>
+					<english>I tutor my students to comprehend what they read and write in English.</english>
+					<soundfile>Egina'maqigNaNs'tmnewTa'nGoqweiEgitmi'tijAqEwi'gmi'tijAqalasie'wigtug</soundfile>
+				</line>
+			</dialog>
+			<dialog>
+				<line>
+					<migmaq>Mewlia'gwej na emiei aq atatal, gisgug telatal lasup aq pipnaqanji'j amjaqas'g.</migmaq>
+					<english>At noon I go home and eat lunch. Today I had a bowl of soup and a sandwich.</english>
+					<soundfile>Mewlia'gwejNaEmieiAqAtatalGisgugTelatalLasupAqPipnaqanji'jAmjaqas'g</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo ge'sgmnaq apaja'siw 'ntlugowaqneg na ijga' nigtigte'gei.</migmaq>
+					<english>Before I went back to work I did my dishes and tidied up.</english>
+					<soundfile>ToqoGe'sgmnaqApaja'siwNtlugowaqnegNaIjgaNigtigte'gei</soundfile>
+				</line>
+				<line>
+					<migmaq>Apaja'sianeg 'ntlugowaqng na siawgina'maqapnig ta'nig etlgina'maqaig glapis 4:30.</migmaq>
+					<english>After lunch I return to my students and continue where we left off until 4:30.</english>
+					<soundfile>Apaja'sianegNtlugowaqngNaSiawgina'maqapnigTa'nigEtlgina'maqaigGlapis</soundfile>
+				</line>
+				<line>
+					<migmaq>Ginite'tm na ta'n teliuluguti'tij na etlgina'maqig 'nstmnew Aqalasie'wei tli'suti.</migmaq>
+					<english>I'm proud of the progress my students are making in understanding the English.</english>
+					<soundfile>Ginite'tmNaTa'nTeliuluguti'tijNaEtlgina'maqigNstmnewAqalasie'weiTli'suti</soundfile>
+				</line>
+			</dialog>
+		</lesson>
 	</unit>
 </section>
 <section>
@@ -9322,7 +9468,7 @@
 					<soundfile>GisGisatunGtlugowaqan</soundfile>
 				</line>
 				<line>
-					<migmaq>Gi's ta's'g gisa'tu. Gatu mu gis-gaqa'tu.</migmaq> 	
+					<migmaq>Gi's ta's'g gisa'tu. Gatu mu gis-gaqa'tu.</migmaq>
 					<english>I have done some of it. But I can't finish it.</english>
 					<soundfile>GisTasgGisatuGatuMuGisgaqatu</soundfile>
 				</line>
@@ -9536,7 +9682,7 @@
 					<!--<soundfile></soundfile>-->
 				</line>
 				<line>
-					<migmaq>Ni'nen e'pitewieg; gatu gi'l ji'nmuin.</migmaq> 	
+					<migmaq>Ni'nen e'pitewieg; gatu gi'l ji'nmuin.</migmaq>
 					<english>We are women; while you are a man.</english>
 					<!--<soundfile></soundfile>-->
 				</line>
