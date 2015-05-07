@@ -6318,9 +6318,8 @@
 		</lesson>
 	</unit>
 	<unit>
-		<title>Motion and position</title>
-		<note>This unit focuses on motion and position. You'll learn how to ask where people are and how to describe your position.</note>
-		<note>You'll learn some new verbs to describe what people are doing, too.</note>
+		<title>Position and location</title>
+		<note>This unit focuses on location and position. You'll learn how to ask where people are and how to describe your position.</note>
 		<lesson>
 			<title>Where are you?</title>
 			<note>In this lesson, we'll practice asking where people are, and describing our location.</note>
@@ -7047,33 +7046,241 @@
 					<soundfile>EeAtelGisiMtoqiei</soundfile>
 				</line>
 			</dialog>		
+		</lesson>
+	</unit>
+	<unit>
+		<title>Motion</title>
+		<note>In this unit, we'll talk about doing activities. We'll learn some new verbs for different kinds of motion.</note>
+		<note>We'll learn about preverbs, works that can attach to the beginning of verbs to modify what they mean.</note>
+		<note>Then we'll practice describing daily routines.</note>
+		<lesson>
+			<title>Running all around</title>
+			<note>This lesson will teach you five words that can attach to the beginning of verbs to change their meanings slightly: <m>al</m>­, <m>el</m>­, <m>pem</m>­, <m>wejgw­</m> and <m>enm­</m>.</note>
+			<note>All of these "preverbs" can attach to any of the verbs in this lesson. There are many more preverbs, but these are commonly used with the motion verbs we're learning.</note>
+			<note>NOTE: this lesson includes pronouns before every verb to help you understand who is doing them but when speaking Mi'gmaq it sounds better to leave them off.</note>
+			<note>In the following four examples you will see <m>al</m>­ attached to the beginning of the verbs. This is similar to the word "around" in English and means that you are doing the action (running, walking etc.) without any particular direction in mind.</note>
+			<note>See if you can figure out the meaning of the other preverbs from the examples in this lesson!</note>
+			<vocab>
+				<line>
+					<migmaq>Ni'n altugwi'm awtigtug.</migmaq>
+					<english>I run around on the road.</english>
+					<soundfile>Ni'nAltugwi'mAwtigtug</soundfile>
+				</line>
+				<line>
+					<migmaq>Gi'l all'ga'n.</migmaq>
+					<english>You walk around.</english>
+					<soundfile>Gi'lAll'ga'n</soundfile>
+				</line>
+				<line>
+					<migmaq>Ji'nm ala'gwiteget awtigtug</migmaq>
+					<english>(S)he drives around on the road.</english>
+					<soundfile>Ji'nmAla'gwitegetAwtigtug</soundfile>
+				</line>
+				<line>
+					<migmaq>Ala'm</migmaq>
+					<english>I swim.</english>
+					<soundfile>Alam</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Ninen ell'gaieg qospemg.</migmaq>
+					<english>(S)he and I walk to the lake.</english>
+					<soundfile>NinenEl'gaiegQospemg</soundfile>
+				</line>
+				<line>
+					<migmaq>Gilew pema'moq.</migmaq>
+					<english>You two swim across.</english>
+					<soundfile>GilewPema'moq</soundfile>
+				</line>
+				<line>
+					<migmaq>Ginu ela'gwi'tegeigw qospemg.</migmaq>
+					<english>You and I drive to the lake.</english>
+					<soundfile>GinuEla'gwi'tegeigwQospemg</soundfile>
+				</line>
+				<line>
+					<migmaq>Negmow pemtugwi'gig.</migmaq>
+					<english>They (two) are running by.</english>
+					<soundfile>NegmowPemtugwi'gig</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Ninen wejgutugwi'meg.</migmaq>
+					<english>We (exclusive) are running here.</english>
+					<soundfile>NinenWejgutugwi'meg</soundfile>
+				</line>
+				<line>
+					<migmaq>Gilew enm'lgo'ltioq.</migmaq>
+					<english>You are walking there.</english>
+					<soundfile>GilewEnm'lgo'ltioq</soundfile>
+				</line>
+				<line>
+					<migmaq>Ginu enma'mu'ti'gw.</migmaq>
+					<english>We (inclusive) are swimming there.</english>
+					<soundfile>GinuEnma'mu'ti'gw</soundfile>
+				</line>
+				<line>
+					<migmaq>Negmow wejglugo'ltijig.</migmaq>
+					<english>They are walking here.</english>
+					<soundfile>NegmowWejglugo'ltijig</soundfile>
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
+			<title>How about a swim?</title>
+			<note>Here's a dialogue using some more preverbs to help you practice their meanings.</note>
 			<dialog>
 				<line>
-					<migmaq>Maja'si, naji-ilego'tu gm'po'qon.</migmaq> 	
-					<english>Go, go make your bed.</english>
-					<soundfile>MajasiNajiIlegotuGmpoqon</soundfile>
+					<migmaq>Egsitpu'gl altugwi'm awtigtug gesgmnaq mijjiw.</migmaq>
+					<english>In the morning I run on the road before I eat.</english>
+					<!--<soundfile></soundfile>-->
 				</line>
 				<line>
-					<migmaq>Atel gisi-ilego'tu!</migmaq> 	
-					<english>I have just made it!</english>
-					<soundfile>AtelGisiIlegotu</soundfile>
+					<migmaq>­Mu gesatmu altugwi'm.</migmaq>
+					<english>­I don't like to run.</english>
+					<!--<soundfile></soundfile>-->
 				</line>
-			</dialog>		
+				<line>
+					<migmaq>Goqwei migua'tu'n ?</migmaq>
+					<english>What do you like to do?</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>­Gesatm ala'm sitmug.</migmaq>
+					<english>I like to swim around the shore.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>O! Ula nitap Douglas aq ni'n naji ala'meg qospemg sapo'nug, getu' wije'wieg?</migmaq>
+					<english>Oh! My friend Douglas and I go swimming at the lake, would you like to come with us tomorrow?</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>­E'e, talilta'tesnu.</migmaq>
+					<english>­Yes, how will we all get there?</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>Douglas aq ni'n 'll'tugwi'tesnen egsitpu'nug aq Sosep 'll'ga'tew aq (gi'l) gisila'gwi'tegetes na'te'l toqo na'te'l tliultesgultesnen.</migmaq>
+					<english>Douglas and I will run there in the morning, Joe will walk, you can drive your car on the road and we will meet you there.</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+				<line>
+					<migmaq>­Nmultes sapo'nug!</migmaq>
+					<english>­See you tomorrow!</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</dialog>
+		</lesson>
+		<lesson>
+			<title>Dancing about</title>
+			<note>In this lesson, we'll learn four more motion verbs and four more preverbs: <m>naji-</m>, <m>espi-</m>, <m>natawi-</m>, and <m>aji</m>.</note>
+			<note><m>Naji-</m>, adds the meaning: go somewhere to do something.</note>
+			<note><m>Espi-</m> is about height.</note>
+			<note><m>Natawi-</m> means: know something about, capable, good at something.</note>
+			<note><m>Aji’-</m> is a comparative preverb meaning: much or more.</note>
+			<note>In this lesson you will see a second preverb added to the beginning of verbs: a verb can take more than one preverb.</note>
+			<note>For instance, you'll see <m>aji-</m> used with <m>es-</m> in this lesson, but it can also work as a single preverb on <m>gelu’lg</m>, 'it is good' to make <m>ajiglu’lg</m>, 'it is better' (Note that the spelling of <m>gelu’lg</m> changes to <m>–glu’lg-</m> when combined with the preverb.)</note>
+			<vocab>
+				<line>
+					<migmaq>Ni'n ala’lugwei.</migmaq>
+					<english>I dance about.</english>
+					<soundfile>NinAla'lugwei</soundfile>
+				</line>
+				<line>
+					<migmaq>Gi'l wenaqien.</migmaq>
+					<english>You jump.</english>
+					<soundfile>GilWenaqien</soundfile>
+				</line>
+				<line>
+					<migmaq>‘Nsis eliet amagewaqan; najiamalgat.</migmaq>
+					<english>My older brother is going to the dance; he’s going there to dance.</english>
+					<soundfile>NsisElietAmagewaqanNajiamalgat</soundfile>
+				</line>
+				<line>
+					<migmaq>Gil elg wenaqja’n.</migmaq>
+					<english>You also hop.</english>
+					<soundfile>GilElgWenaqja’n</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Ninen espiwnaqaieieg.</migmaq>
+					<english>He and I jump high.</english>
+					<soundfile>NinenEspiwnaqaieieg</soundfile>
+				</line>
+				<line>
+					<migmaq>Gilew natawiala’lugweioq.</migmaq>
+					<english>You two dance about well.</english>
+					<soundfile>GilewNatawiala’lugweioq</soundfile>
+				</line>
+				<line>
+					<migmaq>Ginu najiamalgaigw.</migmaq>
+					<english>You and I are going there to dance.</english>
+					<soundfile>GinuNajiamalgaigw</soundfile>
+				</line>
+				<line>
+					<migmaq>Negmow ajiespiunaqja’tijig.</migmaq>
+					<english>They (two) are hopping even higher.</english>
+					<soundfile>NegmowAjiespiunaqja’tijig</soundfile>
+				</line>
+				<line>
+					<migmaq>Negmow ajiespiunaqja’jig.</migmaq>
+					<english>They (two) are hopping even higher.</english>
+					<soundfile>NegmowAjiespiunaqja’jig</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>Ninen natawiamalgaltieg.</migmaq>
+					<english>We (exclusive plural) dance well. / We are good dancers.</english>
+					<soundfile>NinenNatawiamalgaltieg</soundfile>
+				</line>
+				<line>
+					<migmaq>Ginu najiunaqjolti’gw.</migmaq>
+					<english>We (inclusive plural) go there to hop.</english>
+					<soundfile>GinuNajiunaqjolti’gw</soundfile>
+				</line>
+				<line>
+					<migmaq>Gilew ajinatawiala’lugutioq.</migmaq>
+					<english>You (plural) dance about even better.</english>
+					<soundfile>GilewAjinatawiala’lugutioq</soundfile>
+				</line>
+				<line>
+					<migmaq>Negmow espiwnaqia’tijig.</migmaq>
+					<english>They (plural) jump high.</english>
+					<soundfile>NegmowEspiwnaqia’tijig</soundfile>
+				</line>
+			</vocab>
+		</lesson>
+		<lesson>
+			<title>Would you like to dance?</title>
+			<note>Here's a dialogue to help you practice preverbs.</note>
 			<dialog>
 				<line>
-					<migmaq>Maja'si, naji-gasiptna'si.</migmaq> 	
-					<english>Go, go wash your hands.</english>
-					<soundfile>MajasiNajiGasiptnasi</soundfile>
+					<migmaq>Weltamultimg wela’gw amalgewaqan getu pmiaq. Ni’n aq nmis najiamalgaieg. Gatu gi’l elg getu ala’lugwen Weltamultimg?</migmaq>
+					<english>There will be a dance Friday night. My older sister and I are going there to dance. How about you, do you want to dance about on Friday?</english>
+					<soundfile>WeltamultimgWela’gwAmalgewaqanGetuPmiaq</soundfile>
 				</line>
 				<line>
-					<migmaq>Atel gis-gasiptna'si!</migmaq> 	
-					<english>I have just washed my hands!</english>
-					<soundfile>AtelGisGasiptnasi</soundfile>
+					<migmaq>­E’e, getu ala’lugwei, aq je getu espiwnaqiei, gatu ma’ aliwunaqja’w.</migmaq>
+					<english>Yes, I want to dance about, and I even want to jump high, but I will not skip about.</english>
+					<soundfile>E’eGetuAla’lugweiAqJeGetuEspiwnaqiei</soundfile>
+				</line>
+				<line>
+					<migmaq>Netna, wijetultitesnu. Aq natawiamalgan, geju’l, gatu elg pugwelgig natawiamalgaltijig.</migmaq>
+					<english>Great, then we will all go together. And you dance well, I know that, but many others are also good at dancing.</english>
+					<soundfile>NetnaWijetultitesnu</soundfile>
+				</line>
+				<line>
+					<migmaq>Teliaq; gaqatepiet me’ ap ajinatawiala’lugutijig je mu ni’n.</migmaq>
+					<english>It’s true; there are plenty who are even better than I am at dancing about.</english>
+					<soundfile>TeliaqGaqatepietMeApAjinatawiala’lugutijigJeMuNi’n</soundfile>
 				</line>
 			</dialog>
 		</lesson>
 	</unit>
-	<checked/>
 	<unit>
 		<title>Exit Conversation</title>
 		<lesson>
@@ -7099,7 +7306,7 @@
 					<img>1F3CA.png</img>
 				</line>
 				<line>
-					<migmaq>Ge' tmg magasang la'tinej...getu'-nattelmann suitisl.</migmaq> 	
+					<migmaq>Ge' tmg magasang la'tinej...getu'-nattelmann suitisl.</migmaq>
 					<english>Let's go to the store first...I want to go buy some sweets.</english>
 					<soundfile>GetmgMagasangLatinejGetunattelmannSuitisl</soundfile>
 				</line>
@@ -7258,6 +7465,30 @@
 					<soundfile>Punial'tugwie'nNun'jiGesnugwig</soundfile>
 				</line>
 			</vocab>
+			<dialog>
+				<line>
+					<migmaq>Maja'si, naji-ilego'tu gm'po'qon.</migmaq> 	
+					<english>Go, go make your bed.</english>
+					<soundfile>MajasiNajiIlegotuGmpoqon</soundfile>
+				</line>
+				<line>
+					<migmaq>Atel gisi-ilego'tu!</migmaq> 	
+					<english>I have just made it!</english>
+					<soundfile>AtelGisiIlegotu</soundfile>
+				</line>
+			</dialog>		
+			<dialog>
+				<line>
+					<migmaq>Maja'si, naji-gasiptna'si.</migmaq> 	
+					<english>Go, go wash your hands.</english>
+					<soundfile>MajasiNajiGasiptnasi</soundfile>
+				</line>
+				<line>
+					<migmaq>Atel gis-gasiptna'si!</migmaq> 	
+					<english>I have just washed my hands!</english>
+					<soundfile>AtelGisGasiptnasi</soundfile>
+				</line>
+			</dialog>
 		</lesson>
 		<lesson>
 			<title>Colors</title>
