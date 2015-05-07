@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:template match="/list">
+    <xsl:for-each select="activity">
+      <xsl:for-each select="list">
     <div class="container">
       <script>
         var list = 
@@ -12,6 +14,8 @@
         </xsl:for-each>]
       </script>
     </div>
+  </xsl:for-each>
+</xsl:for-each>
   </xsl:template>
   <xsl:template match="soundfile">
     <div class="col-md-1">&#160;
@@ -41,10 +45,8 @@
   </xsl:template>
   <xsl:template match="img">
     <div class="col-md-2">&#160;
-      <xsl:if test="img">
-        <xsl:variable name="vimg">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
-        <img class="img-responsive thumbnail" src="{$vimg}" style="width: 64px"/>
-      </xsl:if>
+      <xsl:variable name="vimg">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
+      <img class="img-responsive thumbnail" src="{$vimg}" style="width: 64px"/>
     </div>
   </xsl:template>
   <xsl:template match="m">
