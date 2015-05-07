@@ -5313,289 +5313,8 @@
 <section>
 	<title>Bodies, motion, and position</title>
 	<note>Now that you've gained a foundation in several conversation topics, we'll start focusing more on actions. Verbs are very important in Mi'gmaq: they contain a lot of information.</note>
-	<note>In this section, we'll talk about many of the activities you carry out in your daily life. We'll also learn some ways of talking to children. We'll learn words for parts of the body, and how to describe how you feel. We'll end by learning even more ways to ask about where people are going and what they are doing.</note>
+	<note>In this section, we'll talk about many of the activities you carry out in your daily life. We'll learn words for parts of the body, and how to describe how you feel. We'll end by learning even more ways to ask about where people are going and what they are doing.</note>
 	<note>By now, you can carry out simple conversations with speakers. Try to find some other learners or speakers to practice with&#8212; it'll really help you improve!</note>
-	<unit>
-		<title>Daily routine</title>
-		<note>Now let's talk about some of the things we do every day.</note>
-		<note>A good way to practice this vocabulary is to narrate your actions to yourself (out loud or in your head) as you get ready in the morning.</note>
-		<lesson>
-			<title>Describing your routine</title>
-			<timesig>@20120801-JV-MAM-Tesigisgg1.wav@0:01-1:57</timesig>	
-			<audionote>Full dialog in Tesigisgg1</audionote>	
-			<dialog>
-				<line>
-					<migmaq>Te'si-gisg'g, tugwiei.</migmaq> 	
-					<english>Every morning, I wake up.</english>
-					<soundfile>TesigisggTugwiei</soundfile>
-				</line>
-				<line>
-					<migmaq>N'npoqoneg elisin.</migmaq> 	
-					<english>I am lying in my bed.</english>
-					<soundfile>NnpoqonegElisin</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw men'ja'si.</migmaq> 	
-					<english>Then I get up.</english>
-					<soundfile>ToqojiwMen'ja'si</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw gesispa'lsi.</migmaq> 	
-					<english>Then I wash myself.</english>
-					<soundfile>ToqojiwGesispalsi</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw geg'na'si.</migmaq> 	
-					<english>Then I get dressed.</english>
-					<soundfile>ToqojiwGegnasi</soundfile>
-				</line>
-			</dialog>
-			<dialog>
-				<line>
-					<migmaq>Gisgna'si, na tujiw wissugwai.</migmaq> 	
-					<english>After I get dressed, then I cook for myself.</english>
-					<soundfile>GisgnasiNaTujiwWissugwai</soundfile>
-				</line>
-				<line>
-					<migmaq>Mijji; ilaji ugjit natlugwen. Aq natlugwei. Eliei Listugujg. Na'te'l etllugwei.</migmaq> 	
-					<english>I eat; I get ready to go to work. And I go to work. I go to Listuguj. There is where I work.</english>
-					<soundfile>MijjiIlajiUgjitNatlugwenAqNatlugweiElieiListugujgNatelEtllugwei</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw pegisin ta'n etllugwei.</migmaq> 	
-					<english>Then I arrive where I work.</english>
-					<soundfile>ToqojiwPegisinTanEtllugwei</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw poqtlugwei.</migmaq> 	
-					<english>Then I start to work.</english>
-					<soundfile>ToqojiwPoqtlugwei</soundfile>
-				</line>
-				<line>
-					<migmaq>Ta'n tujiw gispnei na atlasmi.</migmaq> 	
-					<english>When I get tired, then I rest.</english>
-					<soundfile>TanTujiwGispneiNaAtlasmi</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw mijji.</migmaq> 	
-					<english>Then I eat.</english>
-					<soundfile>ToqojiwMijji</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw apatlugwei.</migmaq> 	
-					<english>Then I go back to work.</english>
-					<soundfile>ToqojiwApatlugwei</soundfile>
-				</line>
-			</dialog>
-			<dialog>
-				<line>
-					<migmaq>Ta'n tujiw gaqlugwei, na enmiei.</migmaq> 	
-					<english>When I finish work, then I go home.</english>
-					<soundfile>TanTujiwGaqlugweiNaEnmiei</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw pegisin nignaq.</migmaq> 	
-					<english>Then I arrive home [lit. 'at our house'].</english>
-					<soundfile>ToqojiwPegisinNignaq</soundfile>
-					<img>1F3E0.png</img>
-				</line>
-				<linetimsig>[@1:12.5-1:15.5]</linetimsig>
-				<line>
-					<migmaq>Toqo-jiw poqji-wissugwatigei.</migmaq> 	
-					<english>Then I start to cook.</english>
-					<soundfile>ToqojiwPoqjiwissugwatigei</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw app mijji.</migmaq> 	
-					<english>Then I eat again.</english>
-					<soundfile>ToqojiwAppMijji</soundfile>
-				</line>
-				<linetimsig>[@1:25.5-1:28.5]</linetimsig>
-				<line>
-					<migmaq>Ta'n tujiw g's'tal, na getugsiei.</migmaq> 	
-					<english>When I have eaten, then I get sleepy.</english>
-					<soundfile>TanTujiwGstalNaGetugsiei</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw nepa'ji'ji.</migmaq> 	
-					<english>Then I take a nap.</english>
-					<soundfile>ToqojiwNepajiji</soundfile>
-				</line>
-			</dialog>
-			<dialog>
-				<line>
-					<migmaq>Ta'n tujiw tugwiei, na 'ntiga'taqang naji-matu'lugwei.</migmaq> 	
-					<english>When I wake up, then I go putter around in my garden.</english>
-					<soundfile>TanTujiwTugwieiNaNtigataqangNajimatulugwei</soundfile>
-				</line>
-				<line>
-					<migmaq>Apaji-pisgwa'i, toqo engopa'si, aq egijjei.</migmaq> 	
-					<english>I go back inside, then I sit down, and I read.</english>
-					<soundfile>ApajipisgwaiToqoEngopasiAqEgijjei</soundfile>
-					<img>1F4D6.png</img>
-				</line>
-				<line>
-					<migmaq>Glapis getugsiei.</migmaq> 	
-					<english>Eventually I get sleepy.</english>
-					<soundfile>GlapisGetugsiei</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw gesispa'tuann nipitl.</migmaq> 	
-					<english>Then I brush (lit. 'clean') my teeth.</english>
-					<soundfile>ToqojiwGesispatuannNipitl</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw naji-npai.</migmaq> 	
-					<english>Then I go to sleep.</english>
-					<soundfile>ToqojiwNajinpai</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw nepai.</migmaq> 	
-					<english>Then I sleep.</english>
-					<soundfile>ToqojiwNepai</soundfile>
-				</line>
-			</dialog>
-		</lesson>
-		<lesson>
-			<title>Describing another person's routine</title>
-			<note>Now pretend that you are repeating someone else's description of their daily routine back to them.</note>
-			<timesig>@20120801-JV-MAM-Tesigisgg2.wav@0:02-2:15</timesig>
-			<designnote>Note slight variations in the responder's forms: she says egiljen instead of "egijjen". Both are common versions of 'read'. Similarly, "engosin" and "engopin" are both versions of "pemgopi".</designnote>	
-			<audionote>Whole dialog in Tesgisgg2</audionote>	
-			<dialog>
-				<line>
-					<migmaq>A', te'si-gisg'g, tugwien.</migmaq> 	
-					<english>Ah, every morning, you wake up.</english>
-					<soundfile>ATesigisggTugwien</soundfile>
-				</line>
-				<line>
-					<migmaq>Gnpoqoneg elisinn.</migmaq> 	
-					<english>You are lying in your bed.</english>
-					<soundfile>GnpoqonegElisinn</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw men'ja'sin.</migmaq> 	
-					<english>Then you get up.</english>
-					<soundfile>ToqojiwMenjasin</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw gesispa'lsin.</migmaq> 	
-					<english>Then you wash yourself.</english>
-					<soundfile>ToqojiwGesispalsin</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw geg'na'sin.</migmaq> 	
-					<english>Then you get dressed.</english>
-					<soundfile>ToqojiwGegnasin</soundfile>
-				</line>
-			</dialog>
-			<dialog>
-				<line>
-					<migmaq>Gisgna'sin, na tujiw wissugwan.</migmaq> 	
-					<english>After you get dressed, then you cook for yourself.</english>
-					<soundfile>GisgnasinNaTujiwWissugwan</soundfile>
-				</line>
-				<line>
-					<migmaq>Mijji; ilajin ugjit natlugwen. Aq natlugwen. Elien Listugujg. Na'te'l etllugwen.</migmaq> 	
-					<english>You eat; you get ready to go to work. And you go to work. You go to Listuguj. There is where you work.</english>
-					<soundfile>MijjiIlajinUgjitNatlugwenAqNatlugwenElienListugujgNatelEtllugwen</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw pegisinn ta'n etllugwen.</migmaq> 	
-					<english>Then you arrive where you work.</english>
-					<soundfile>ToqojiwPegisinnTanEtllugwen</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw poqtlugwen.</migmaq> 	
-					<english>Then you start to work.</english>
-					<soundfile>ToqojiwPoqtlugwen</soundfile>
-				</line>
-				<line>
-					<migmaq>Ta'n tujiw gispnen na atlasmin.</migmaq> 	
-					<english>When you get tired, then you rest.</english>
-					<soundfile>TanTujiwGispnenNaAtlasmin</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw mijjin.</migmaq> 	
-					<english>Then you eat.</english>
-					<soundfile>ToqojiwMijjin</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw apatlugwen.</migmaq> 	
-					<english>Then you go back to work.</english>
-					<soundfile>ToqojiwApatlugwen</soundfile>
-				</line>
-			</dialog>
-			<dialog>
-				<line>
-					<migmaq>Ta'n tujiw gaqlugwen, na enmien.</migmaq> 	
-					<english>When you finish work, then you go home.</english>
-					<soundfile>TanTujiwGaqlugwenNaEnmien</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw pegisinn giguaq.</migmaq> 	
-					<english>Then you arrive home [lit. 'at your (group's) house'].</english>
-					<soundfile>ToqojiwPegisinnGiguaq</soundfile>
-					<img>1F3E0.png</img>
-				</line>
-				<linetimsig>[@1:23.5-1:25.5]</linetimsig>
-				<line>
-					<migmaq>Toqo-jiw poqji-wissugwatigen.</migmaq> 	
-					<english>Then you start to cook.</english>
-					<soundfile>ToqojiwPoqjiwissugwatigen</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw app mijjin.</migmaq> 	
-					<english>Then you eat again.</english>
-					<soundfile>ToqojiwAppMijjin</soundfile>
-				</line>
-				<line>
-					<migmaq>Ta'n tujiw g's'tann, na getugsien.</migmaq> 	
-					<english>When you have eaten, then you get sleepy.</english>
-					<soundfile>TanTujiwGstannNaGetugsien</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw nepa'ji'jin.</migmaq> 	
-					<english>Then you take a nap.</english>
-					<soundfile>ToqojiwNepajijin</soundfile>
-				</line>
-				<linetimsig>[@1:45-1:50 .5]</linetimsig>
-			</dialog>
-			<dialog>
-				<line>
-					<migmaq>Ta'n tujiw tugwien, na 'gtiga'taqang naji-matu'lugwen.</migmaq> 	
-					<english>When you wake up, then you go putter around in your garden.</english>
-					<soundfile>TanTujiwTugwienNaGtigataqangNajimatulugwen</soundfile>
-				</line>
-				<line>
-					<migmaq>Apaji-pisgwa'n, toqo engopa'sin, aq egijjen.</migmaq> 	
-					<english>You go back inside, then you sit down, and you read.</english>
-					<soundfile>ApajipisgwanToqoEngopasinAqEgijjen</soundfile>
-					<img>1F4D6.png</img>
-				</line>
-				<line>
-					<migmaq>Glapis getugsien.</migmaq> 	
-					<english>Eventually you get sleepy.</english>
-					<soundfile>GlapisGetugsien</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw gesispa'tu'nn gipitl.</migmaq> 	
-					<english>Then you brush (lit. 'clean') your teeth.</english>
-					<soundfile>ToqojiwGesispatunnGipitl</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw naji-npan.</migmaq> 	
-					<english>Then you go to sleep.</english>
-					<soundfile>ToqojiwNajinpan</soundfile>
-				</line>
-				<line>
-					<migmaq>Toqo-jiw nepan.</migmaq> 	
-					<english>Then you sleep.</english>
-					<soundfile>ToqojiwNepan</soundfile>
-				</line>
-			</dialog>
-		</lesson>
-	</unit>
 	<unit>
 		<title>Body parts, how they hurt, and possession</title>
 		<note>In this unit, you'll learn the names for the parts of your body. You'll see how to talk about them if they are hurting. You'll also pick up on how possession works in Mi'gmaq.</note>
@@ -7052,7 +6771,6 @@
 		<title>Motion</title>
 		<note>In this unit, we'll talk about doing activities. We'll learn some new verbs for different kinds of motion.</note>
 		<note>We'll learn about preverbs, works that can attach to the beginning of verbs to modify what they mean.</note>
-		<note>Then we'll practice describing daily routines.</note>
 		<lesson>
 			<title>Running all around</title>
 			<note>This lesson will teach you five words that can attach to the beginning of verbs to change their meanings slightly: <m>al</m>­, <m>el</m>­, <m>pem</m>­, <m>wejgw­</m> and <m>enm­</m>.</note>
@@ -9301,6 +9019,11 @@
 				</line>
 			</vocab>
 		</lesson>
+	</unit>
+	<unit>
+		<title>Daily routine</title>
+		<note>Now let's talk about some of the things we do every day.</note>
+		<note>A good way to practice this vocabulary is to narrate your actions to yourself (out loud or in your head) as you get ready in the morning.</note>
 		<lesson>
 			<title>My daily routine</title>
 			<note>Let's practice talking about our daily routine.</note>
@@ -9444,6 +9167,282 @@
 					<migmaq>Ginite'tm na ta'n teliuluguti'tij na etlgina'maqig 'nstmnew Aqalasie'wei tli'suti.</migmaq>
 					<english>I'm proud of the progress my students are making in understanding the English.</english>
 					<soundfile>Ginite'tmNaTa'nTeliuluguti'tijNaEtlgina'maqigNstmnewAqalasie'weiTli'suti</soundfile>
+				</line>
+			</dialog>
+		</lesson>
+		<lesson>
+			<title>Describing your routine</title>
+			<timesig>@20120801-JV-MAM-Tesigisgg1.wav@0:01-1:57</timesig>	
+			<audionote>Full dialog in Tesigisgg1</audionote>	
+			<dialog>
+				<line>
+					<migmaq>Te'si-gisg'g, tugwiei.</migmaq> 	
+					<english>Every morning, I wake up.</english>
+					<soundfile>TesigisggTugwiei</soundfile>
+				</line>
+				<line>
+					<migmaq>N'npoqoneg elisin.</migmaq> 	
+					<english>I am lying in my bed.</english>
+					<soundfile>NnpoqonegElisin</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw men'ja'si.</migmaq> 	
+					<english>Then I get up.</english>
+					<soundfile>ToqojiwMen'ja'si</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw gesispa'lsi.</migmaq> 	
+					<english>Then I wash myself.</english>
+					<soundfile>ToqojiwGesispalsi</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw geg'na'si.</migmaq> 	
+					<english>Then I get dressed.</english>
+					<soundfile>ToqojiwGegnasi</soundfile>
+				</line>
+			</dialog>
+			<dialog>
+				<line>
+					<migmaq>Gisgna'si, na tujiw wissugwai.</migmaq> 	
+					<english>After I get dressed, then I cook for myself.</english>
+					<soundfile>GisgnasiNaTujiwWissugwai</soundfile>
+				</line>
+				<line>
+					<migmaq>Mijji; ilaji ugjit natlugwen. Aq natlugwei. Eliei Listugujg. Na'te'l etllugwei.</migmaq> 	
+					<english>I eat; I get ready to go to work. And I go to work. I go to Listuguj. There is where I work.</english>
+					<soundfile>MijjiIlajiUgjitNatlugwenAqNatlugweiElieiListugujgNatelEtllugwei</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw pegisin ta'n etllugwei.</migmaq> 	
+					<english>Then I arrive where I work.</english>
+					<soundfile>ToqojiwPegisinTanEtllugwei</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw poqtlugwei.</migmaq> 	
+					<english>Then I start to work.</english>
+					<soundfile>ToqojiwPoqtlugwei</soundfile>
+				</line>
+				<line>
+					<migmaq>Ta'n tujiw gispnei na atlasmi.</migmaq> 	
+					<english>When I get tired, then I rest.</english>
+					<soundfile>TanTujiwGispneiNaAtlasmi</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw mijji.</migmaq> 	
+					<english>Then I eat.</english>
+					<soundfile>ToqojiwMijji</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw apatlugwei.</migmaq> 	
+					<english>Then I go back to work.</english>
+					<soundfile>ToqojiwApatlugwei</soundfile>
+				</line>
+			</dialog>
+			<dialog>
+				<line>
+					<migmaq>Ta'n tujiw gaqlugwei, na enmiei.</migmaq> 	
+					<english>When I finish work, then I go home.</english>
+					<soundfile>TanTujiwGaqlugweiNaEnmiei</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw pegisin nignaq.</migmaq> 	
+					<english>Then I arrive home [lit. 'at our house'].</english>
+					<soundfile>ToqojiwPegisinNignaq</soundfile>
+					<img>1F3E0.png</img>
+				</line>
+				<linetimsig>[@1:12.5-1:15.5]</linetimsig>
+				<line>
+					<migmaq>Toqo-jiw poqji-wissugwatigei.</migmaq> 	
+					<english>Then I start to cook.</english>
+					<soundfile>ToqojiwPoqjiwissugwatigei</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw app mijji.</migmaq> 	
+					<english>Then I eat again.</english>
+					<soundfile>ToqojiwAppMijji</soundfile>
+				</line>
+				<linetimsig>[@1:25.5-1:28.5]</linetimsig>
+				<line>
+					<migmaq>Ta'n tujiw g's'tal, na getugsiei.</migmaq> 	
+					<english>When I have eaten, then I get sleepy.</english>
+					<soundfile>TanTujiwGstalNaGetugsiei</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw nepa'ji'ji.</migmaq> 	
+					<english>Then I take a nap.</english>
+					<soundfile>ToqojiwNepajiji</soundfile>
+				</line>
+			</dialog>
+			<dialog>
+				<line>
+					<migmaq>Ta'n tujiw tugwiei, na 'ntiga'taqang naji-matu'lugwei.</migmaq> 	
+					<english>When I wake up, then I go putter around in my garden.</english>
+					<soundfile>TanTujiwTugwieiNaNtigataqangNajimatulugwei</soundfile>
+				</line>
+				<line>
+					<migmaq>Apaji-pisgwa'i, toqo engopa'si, aq egijjei.</migmaq> 	
+					<english>I go back inside, then I sit down, and I read.</english>
+					<soundfile>ApajipisgwaiToqoEngopasiAqEgijjei</soundfile>
+					<img>1F4D6.png</img>
+				</line>
+				<line>
+					<migmaq>Glapis getugsiei.</migmaq> 	
+					<english>Eventually I get sleepy.</english>
+					<soundfile>GlapisGetugsiei</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw gesispa'tuann nipitl.</migmaq> 	
+					<english>Then I brush (lit. 'clean') my teeth.</english>
+					<soundfile>ToqojiwGesispatuannNipitl</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw naji-npai.</migmaq> 	
+					<english>Then I go to sleep.</english>
+					<soundfile>ToqojiwNajinpai</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw nepai.</migmaq> 	
+					<english>Then I sleep.</english>
+					<soundfile>ToqojiwNepai</soundfile>
+				</line>
+			</dialog>
+		</lesson>
+		<lesson>
+			<title>Describing another person's routine</title>
+			<note>Now pretend that you are repeating someone else's description of their daily routine back to them.</note>
+			<timesig>@20120801-JV-MAM-Tesigisgg2.wav@0:02-2:15</timesig>
+			<designnote>Note slight variations in the responder's forms: she says egiljen instead of "egijjen". Both are common versions of 'read'. Similarly, "engosin" and "engopin" are both versions of "pemgopi".</designnote>	
+			<audionote>Whole dialog in Tesgisgg2</audionote>	
+			<dialog>
+				<line>
+					<migmaq>A', te'si-gisg'g, tugwien.</migmaq> 	
+					<english>Ah, every morning, you wake up.</english>
+					<soundfile>ATesigisggTugwien</soundfile>
+				</line>
+				<line>
+					<migmaq>Gnpoqoneg elisinn.</migmaq> 	
+					<english>You are lying in your bed.</english>
+					<soundfile>GnpoqonegElisinn</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw men'ja'sin.</migmaq> 	
+					<english>Then you get up.</english>
+					<soundfile>ToqojiwMenjasin</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw gesispa'lsin.</migmaq> 	
+					<english>Then you wash yourself.</english>
+					<soundfile>ToqojiwGesispalsin</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw geg'na'sin.</migmaq> 	
+					<english>Then you get dressed.</english>
+					<soundfile>ToqojiwGegnasin</soundfile>
+				</line>
+			</dialog>
+			<dialog>
+				<line>
+					<migmaq>Gisgna'sin, na tujiw wissugwan.</migmaq> 	
+					<english>After you get dressed, then you cook for yourself.</english>
+					<soundfile>GisgnasinNaTujiwWissugwan</soundfile>
+				</line>
+				<line>
+					<migmaq>Mijji; ilajin ugjit natlugwen. Aq natlugwen. Elien Listugujg. Na'te'l etllugwen.</migmaq> 	
+					<english>You eat; you get ready to go to work. And you go to work. You go to Listuguj. There is where you work.</english>
+					<soundfile>MijjiIlajinUgjitNatlugwenAqNatlugwenElienListugujgNatelEtllugwen</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw pegisinn ta'n etllugwen.</migmaq> 	
+					<english>Then you arrive where you work.</english>
+					<soundfile>ToqojiwPegisinnTanEtllugwen</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw poqtlugwen.</migmaq> 	
+					<english>Then you start to work.</english>
+					<soundfile>ToqojiwPoqtlugwen</soundfile>
+				</line>
+				<line>
+					<migmaq>Ta'n tujiw gispnen na atlasmin.</migmaq> 	
+					<english>When you get tired, then you rest.</english>
+					<soundfile>TanTujiwGispnenNaAtlasmin</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw mijjin.</migmaq> 	
+					<english>Then you eat.</english>
+					<soundfile>ToqojiwMijjin</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw apatlugwen.</migmaq> 	
+					<english>Then you go back to work.</english>
+					<soundfile>ToqojiwApatlugwen</soundfile>
+				</line>
+			</dialog>
+			<dialog>
+				<line>
+					<migmaq>Ta'n tujiw gaqlugwen, na enmien.</migmaq> 	
+					<english>When you finish work, then you go home.</english>
+					<soundfile>TanTujiwGaqlugwenNaEnmien</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw pegisinn giguaq.</migmaq> 	
+					<english>Then you arrive home [lit. 'at your (group's) house'].</english>
+					<soundfile>ToqojiwPegisinnGiguaq</soundfile>
+					<img>1F3E0.png</img>
+				</line>
+				<linetimsig>[@1:23.5-1:25.5]</linetimsig>
+				<line>
+					<migmaq>Toqo-jiw poqji-wissugwatigen.</migmaq> 	
+					<english>Then you start to cook.</english>
+					<soundfile>ToqojiwPoqjiwissugwatigen</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw app mijjin.</migmaq> 	
+					<english>Then you eat again.</english>
+					<soundfile>ToqojiwAppMijjin</soundfile>
+				</line>
+				<line>
+					<migmaq>Ta'n tujiw g's'tann, na getugsien.</migmaq> 	
+					<english>When you have eaten, then you get sleepy.</english>
+					<soundfile>TanTujiwGstannNaGetugsien</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw nepa'ji'jin.</migmaq> 	
+					<english>Then you take a nap.</english>
+					<soundfile>ToqojiwNepajijin</soundfile>
+				</line>
+				<linetimsig>[@1:45-1:50 .5]</linetimsig>
+			</dialog>
+			<dialog>
+				<line>
+					<migmaq>Ta'n tujiw tugwien, na 'gtiga'taqang naji-matu'lugwen.</migmaq> 	
+					<english>When you wake up, then you go putter around in your garden.</english>
+					<soundfile>TanTujiwTugwienNaGtigataqangNajimatulugwen</soundfile>
+				</line>
+				<line>
+					<migmaq>Apaji-pisgwa'n, toqo engopa'sin, aq egijjen.</migmaq> 	
+					<english>You go back inside, then you sit down, and you read.</english>
+					<soundfile>ApajipisgwanToqoEngopasinAqEgijjen</soundfile>
+					<img>1F4D6.png</img>
+				</line>
+				<line>
+					<migmaq>Glapis getugsien.</migmaq> 	
+					<english>Eventually you get sleepy.</english>
+					<soundfile>GlapisGetugsien</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw gesispa'tu'nn gipitl.</migmaq> 	
+					<english>Then you brush (lit. 'clean') your teeth.</english>
+					<soundfile>ToqojiwGesispatunnGipitl</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw naji-npan.</migmaq> 	
+					<english>Then you go to sleep.</english>
+					<soundfile>ToqojiwNajinpan</soundfile>
+				</line>
+				<line>
+					<migmaq>Toqo-jiw nepan.</migmaq> 	
+					<english>Then you sleep.</english>
+					<soundfile>ToqojiwNepan</soundfile>
 				</line>
 			</dialog>
 		</lesson>
