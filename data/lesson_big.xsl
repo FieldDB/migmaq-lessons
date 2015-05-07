@@ -23,7 +23,7 @@
         <xsl:when test="img"><!--Display image if there is one, else display default-->
           <div class="col-md-4">
             <xsl:variable name="main_img"><xsl:value-of select="img"/></xsl:variable>
-            <img class="img-responsive thumbnail" src="{$main_img}" alt="Trees" style="max-width: 75%"/>
+            <img class="img-responsive thumbnail" src="{$main_img}" style="max-width: 75%"/>
           </div>
         </xsl:when>
         <xsl:otherwise>
@@ -61,7 +61,7 @@
                   <div class="col-md-2">&#160;
                     <xsl:if test="img">
                       <xsl:variable name="d_img">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
-                      <img class="img-responsive thumbnail" src="{$d_img}" alt="Trees" style="width: 64px"/>
+                      <img class="img-responsive thumbnail" src="{$d_img}" style="width: 64px"/>
                     </xsl:if>
                   </div>
                 </div>
@@ -110,7 +110,7 @@
                   <div class="col-md-2">&#160;
                     <xsl:if test="img">
                       <xsl:variable name="vimg">{{ site.baseurl }}/emoji/<xsl:value-of select="img"/></xsl:variable>
-                      <img class="img-responsive thumbnail" src="{$vimg}" alt="Trees" style="width: 64px"/>
+                      <img class="img-responsive thumbnail" src="{$vimg}" style="width: 64px"/>
                     </xsl:if>
                   </div>
                 </div>
