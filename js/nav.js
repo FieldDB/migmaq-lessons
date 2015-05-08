@@ -1,5 +1,5 @@
 "use strict";
-(function () {
+(function() {
 
 	function scrolly(titleText, items, title, nextLink, prevLink) {
 		$.each(items, function(index, value) {

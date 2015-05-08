@@ -1,4 +1,4 @@
-(function () {
+$(function() {
     var activeButton = null;
     var activeAudio = null;
     addPlay();
@@ -26,4 +26,4 @@
         activeAudio = null;
     }
 }
-})();
+});

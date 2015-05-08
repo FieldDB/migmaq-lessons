@@ -2,7 +2,7 @@
 <!--This transformation creates a webpage for a unit. It matches on a given unit node and displays the unit title, img, intro, and all dialogs or vocabs included in the unit.-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:template match="/lesson"><!--Match on current unit node-->
-    <h1 class="title">
+    <h1 class="title" id="intro_text">
       <xsl:value-of select="title"/>
     </h1><!--Display unit title at top of page-->
     <xsl:choose>

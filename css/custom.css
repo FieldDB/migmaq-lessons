@@ -241,6 +241,28 @@ header {
  height: 40px;
 }
 
+.first > div{
+  border-color: transparent;
+  border: 2px;
+  border-style: dashed;
+  color: transparent;
+}
+
+.second > div{
+  border-color: transparent;
+  border: 2px;
+  border-style: dashed;
+  color:transparent;
+}
+
+.first > div > h2{
+  color:black;
+}
+
+.second > div > h2{
+  color:black;
+}
+
 a {
   color: inherit;
   }
