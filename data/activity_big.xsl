@@ -4,15 +4,12 @@
     <xsl:for-each select="activity">
       <xsl:for-each select="list">
     <div class="container">
-      <script>
-        var list = 
-        [<xsl:for-each select="line">
-          [<div class="row">
-            [<xsl:value-of select="first"/>],
-            [<xsl:value-of select="second"/>]
-          </div>]
-        </xsl:for-each>]
-      </script>
+      <xsl:for-each select="line">
+        <div class="row">
+          <xsl:value-of select="first"/>
+          <xsl:value-of select="second"/>
+        </div>
+      </xsl:for-each>
     </div>
   </xsl:for-each>
 </xsl:for-each>

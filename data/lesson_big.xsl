@@ -9,19 +9,24 @@
       <xsl:when test="activity">
         <xsl:for-each select="activity">
           <xsl:for-each select="list">
-            <div class="container">
-              <xsl:variable name="jsList">
-                var list = [
-                <xsl:for-each select="item">
-                [<div class="row">
-                [<xsl:apply-templates mode="activity"/>],
-                [<xsl:apply-templates mode="activity"/>]
-                </div>],
-                </xsl:for-each>
-                ]
-            </xsl:variable>
-            <xsl:value-of select="$jsList"/>
-            <script><xsl:value-of select="$jsList"/></script>
+            <div class="container" id="activity">
+              <xsl:for-each select="item">
+                <xsl:variable name="index">
+                  <xsl:value-of select="count(preceding-sibling::item)+1"/>
+                </xsl:variable>
+                <div class="row item">
+                  <xsl:for-each select="first">
+                    <div class="first {$index}">
+                      <xsl:apply-templates mode="activity"/>
+                    </div>
+                  </xsl:for-each>
+                  <xsl:for-each select="second">
+                    <div class="second {$index}">
+                      <xsl:apply-templates mode="activity"/>
+                    </div>
+                  </xsl:for-each>
+                </div>
+              </xsl:for-each>
             </div>
           </xsl:for-each>
         </xsl:for-each>
@@ -160,7 +165,7 @@
     <strong><xsl:value-of select="."/></strong>
   </xsl:template>
   <xsl:template match="soundfile" mode="activity">
-    <div class="col-md-1">&#160;
+    <div class="col-xs-1">&#160;
       <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="."/>.mp3</xsl:variable>
       <button class="btn btn-default" type="button">
         <span class="glyphicon glyphicon-play" aria-hidden="true">
@@ -172,21 +177,21 @@
     </div>
   </xsl:template>
   <xsl:template match="migmaq" mode="activity">
-    <div class="col-md-5">
+    <div class="col-xs-5">
       <h2 class="media-heading">
         <xsl:value-of select="."/>
       </h2>
     </div>
   </xsl:template>
   <xsl:template match="english" mode="activity">
-    <div class="col-md-5">
+    <div class="col-xs-5">
       <h2 class="media-heading">
         <xsl:value-of select="."/>
       </h2>
     </div>
   </xsl:template>
   <xsl:template match="img" mode="activity">
-    <div class="col-md-2">&#160;
+    <div class="col-xs-2">&#160;
       <xsl:variable name="vimg">{{ site.baseurl }}/emoji/<xsl:value-of select="."/></xsl:variable>
       <img class="img-responsive thumbnail" src="{$vimg}" style="width: 64px"/>
     </div>
