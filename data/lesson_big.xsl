@@ -7,6 +7,7 @@
     </h1><!--Display unit title at top of page-->
     <xsl:choose>
       <xsl:when test="activity">
+        <script src="{{{{ site.baseurl }}}}/js/match_shared.js">hi</script>
         <xsl:for-each select="activity">
           <xsl:for-each select="list">
             <div class="container" id="activity">
@@ -16,12 +17,12 @@
                 </xsl:variable>
                 <div class="row item">
                   <xsl:for-each select="first">
-                    <div class="first {$index}">
+                    <div class="first" id="{$index}">
                       <xsl:apply-templates mode="activity"/>
                     </div>
                   </xsl:for-each>
                   <xsl:for-each select="second">
-                    <div class="second {$index}">
+                    <div class="second" id="{$index}">
                       <xsl:apply-templates mode="activity"/>
                     </div>
                   </xsl:for-each>

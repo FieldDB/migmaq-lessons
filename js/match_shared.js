@@ -3,7 +3,6 @@ var chosenRight = null;
 var matched = [];
 
 function checkMatch() {
-    
     if ((chosenLeft !== null) && (chosenRight !== null)) {
         console.log("Things aren't null");
         if (chosenLeft.id === chosenRight.id) {
@@ -80,6 +79,7 @@ function neutralEffectLeft(item) {
         item.firstChild.style.borderColor = "transparent";
     } else {
         item.style.color = "black";
+    }
 }
 
 function neutralEffectRight(item) {
@@ -89,8 +89,6 @@ function neutralEffectRight(item) {
         item.style.color = "black";
     }
 }
-
-
 
 function changeRight(item, color) {
     var type = typeR;
@@ -138,7 +136,6 @@ function addBorderChange(tag, color) {
      }
     return el.length;
  }
-
 
 function addTextChange(tag, color) {
     var el = document.getElementsByClassName(tag);

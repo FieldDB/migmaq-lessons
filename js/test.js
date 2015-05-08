@@ -24,5 +24,11 @@ function rearrange(ordered) {
 
 rearrange($.makeArray(first));
 rearrange($.makeArray(second));
+
+var typeR = "border";
+var typeL = "border";
+var numItems = addBorderChange("right", "red");
+numItems = numItems + addTextChange("left", "blue");
+
 });
 
