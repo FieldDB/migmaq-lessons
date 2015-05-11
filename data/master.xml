@@ -794,7 +794,7 @@
 				</vocab>
 			</lesson>
 			<lesson>
-				<title>People vocabulary activity</title>
+				<title>Person Game</title>
 				<activity>
 					<intro>
 						Let's practice our words for different ages of people with a matching game.
@@ -3457,6 +3457,7 @@
 						<migmaq>wapus</migmaq> 	
 						<english>rabbit</english>
 						<soundfile>Wapus</soundfile>
+						<img>1F407.png</img>
 					</line>
 					<line>
 						<migmaq>apigji'j</migmaq> 	
@@ -3467,7 +3468,7 @@
 				</vocab>
 			</lesson>
 			<lesson>
-				<title>Animal vocabulary activity</title>
+				<title>Animal Game</title>
 				<activity>
 					<intro>Let's practice animal vocabulary with a matching game!</intro>
 					<list>
@@ -3478,6 +3479,77 @@
 							</first>
 							<second>
 								<english>mouse</english>
+								<img>1F400.png</img>
+							</second>
+						</item>
+						<item>
+							<first>
+								<migmaq>wapus</migmaq>
+								<soundfile>Wapus</soundfile>
+							</first>
+							<second>
+								<english>rabbit</english>
+								<img>1F407.png</img>
+							</second>
+						</item>
+						<item>
+							<first>
+								<migmaq>mui'n</migmaq> 
+								<soundfile>Muin</soundfile>
+							</first>
+							<second>
+								<english>bear</english>
+								<img>1F43B.png</img>
+							</second>
+						</item>
+						<item>
+							<first>
+								<migmaq>paqt'sm</migmaq> 
+								<soundfile>Paqtesm</soundfile>
+							</first>
+							<second>
+								<english>wolf</english>
+								<img>1F43A.png</img>
+							</second>
+						</item>
+						<item>
+							<first>
+								<migmaq>'sqolj</migmaq> 
+								<soundfile>Sqolj</soundfile>
+							</first>
+							<second>
+								<english>frog</english>
+								<img>1F438.png</img>
+							</second>
+						</item>
+						<item>
+							<first>
+								<migmaq>migjigj</migmaq> 
+								<soundfile>Migjigj</soundfile>
+							</first>
+							<second>
+								<english>turtle</english>
+								<img>1F422.png</img>
+							</second>
+						</item>
+						<item>
+							<first>
+								<migmaq>go'qoli'gwej</migmaq> 
+								<soundfile>Goqoligwej</soundfile>
+							</first>
+							<second>
+								<english>chicken</english>
+								<img>1F414.png</img>
+							</second>
+						</item>
+						<item>
+							<first>
+								<migmaq>te'plj</migmaq>  
+								<soundfile>Teplj</soundfile>
+							</first>
+							<second>
+								<english>goat</english>
+								<img>1F410.png</img>
 							</second>
 						</item>
 					</list>
@@ -7323,21 +7395,25 @@
 					<migmaq>maqtawe'g</migmaq>
 					<english>black</english>
 					<soundfile>black</soundfile>
+					<img>black.png</img>
 				</line>
 				<line>
 					<migmaq>wape'g</migmaq>
 					<english>white</english>
 					<soundfile>white</soundfile>
+					<img>white.png</img>
 				</line>
 				<line>
 					<migmaq>wisawe'g</migmaq>
 					<english>brown</english>
 					<soundfile>brown</soundfile>
+					<img>brown.png</img>
 				</line>
 				<line>
 					<migmaq>milamu'g</migmaq>
 					<english>multicolor</english>
 					<soundfile>multicolor</soundfile>
+					<img>multicolor.png</img>
 				</line>
 			</vocab>
 			<vocab>
@@ -7346,16 +7422,19 @@
 					<english>green</english>
 					<soundfile>green</soundfile>
 					<imgnote>Specifically fir green</imgnote>
+					<img>green.png</img>
 				</line>
 				<line>
 					<migmaq>ewne'g</migmaq>
 					<english>blue</english>
 					<soundfile>blue</soundfile>
+					<img>blue.png</img>
 				</line>
 				<line>
 					<migmaq></migmaq>
 					<english>purple</english>
 					<soundfile>purple</soundfile>
+					<img>purple.png</img>
 				</line>				
 			</vocab>
 			<vocab>
@@ -7363,23 +7442,125 @@
 					<migmaq></migmaq>
 					<english>pink</english>
 					<soundfile>pink</soundfile>
+					<img>pink.png</img>
 				</line>
 				<line>
 					<migmaq>megwe'g</migmaq>
 					<english>red</english>
 					<soundfile>red</soundfile>
+					<img>red.png</img>
 				</line>
 				<line>
 					<migmaq></migmaq>
 					<english>orange</english>
 					<soundfile>orange</soundfile>
+					<img>orange.png</img>
 				</line>
 				<line>
 					<migmaq>watapteg</migmaq>
 					<english>yellow</english>
 					<soundfile>yellow</soundfile>
+					<img>yellow.png</img>
 				</line>
 			</vocab>
+		</lesson>
+		<lesson>
+			<title>Practice with Colors</title>
+			<activity>
+				<intro>Here's a quick game to practice your color names!</intro>
+				<list>
+					<item>
+						<first>
+							<migmaq></migmaq>
+							<soundfile>pink</soundfile>
+						</first>
+						<second>
+							<img>pink.png</img>
+						</second>
+					</item>
+					<item>
+						<first>
+							<migmaq>megwe'g</migmaq>
+							<soundfile>red</soundfile>
+						</first>
+						<second>
+							<img>red.png</img>
+						</second>
+					</item>
+					<item>
+						<first>
+							<migmaq></migmaq>
+							<soundfile>orange</soundfile>
+						</first>
+						<second>
+							<img>orange.png</img>
+						</second>
+					</item>
+					<item>
+						<first>
+							<migmaq>watapteg</migmaq>
+							<soundfile>yellow</soundfile>
+						</first>
+						<second>
+							<img>yellow.png</img>
+						</second>
+					</item>
+					<item>
+						<first>
+							<migmaq>ewne'g</migmaq>
+							<soundfile>blue</soundfile>
+						</first>
+						<second>
+							<img>blue.png</img>
+						</second>
+					</item>
+					<item>
+						<first>
+							<migmaq>stoqonamu'g</migmaq>
+							<soundfile>green</soundfile>
+						</first>
+						<second>
+							<img>green.png</img>
+						</second>
+					</item>
+					<item>
+						<first>
+							<migmaq>maqtawe'g</migmaq>
+							<soundfile>black</soundfile>
+						</first>
+						<second>
+							<img>black.png</img>
+						</second>
+					</item>
+					<item>
+						<first>
+							<migmaq>wape'g</migmaq>
+							<soundfile>white</soundfile>
+						</first>
+						<second>
+							<img>white.png</img>
+						</second>
+					</item>
+					<item>
+						<first>
+							<migmaq>wisawe'g</migmaq>
+							<soundfile>brown</soundfile>
+						</first>
+						<second>
+							<img>brown.png</img>
+						</second>
+					</item>
+					<item>
+						<first>
+							<migmaq>milamu'g</migmaq>
+							<soundfile>multicolor</soundfile>
+						</first>
+						<second>
+							<img>multicolor.png</img>
+						</second>
+					</item>
+				</list>	
+			</activity>
 		</lesson>
 		<lesson>
 			<title>Clothing</title>

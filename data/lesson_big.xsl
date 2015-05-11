@@ -19,10 +19,10 @@
                   <xsl:value-of select="count(preceding-sibling::item)+1"/>
                 </xsl:variable>
                 <xsl:variable name="factorfirst">
-                  <xsl:value-of select="count(first/child::soundfile) + (2 * count(first/child::img)) + (6 * count(first/child::migmaq)) + (6 * count(first/child::english))"/>
+                  <xsl:value-of select="count(first/child::soundfile) + (3 * count(first/child::img)) + (4 * count(first/child::migmaq)) + (4 * count(first/child::english))"/>
                 </xsl:variable>
                 <xsl:variable name="factorsecond">
-                  <xsl:value-of select="count(second/child::soundfile) + (2 * count(second/child::img)) + (6 * count(second/child::migmaq)) + (6 * count(second/child::english))"/>
+                  <xsl:value-of select="count(second/child::soundfile) + (3 * count(second/child::img)) + (4 * count(second/child::migmaq)) + (4 * count(second/child::english))"/>
                 </xsl:variable>
                 <xsl:variable name="sizefactor">
                   <xsl:value-of select="12 div ($factorfirst + $factorsecond)"/>
