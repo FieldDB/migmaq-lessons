@@ -7,10 +7,13 @@
     </h1><!--Display unit title at top of page-->
     <xsl:choose>
       <xsl:when test="activity">
-        <script src="{{{{ site.baseurl }}}}/js/match_shared.js">hi</script>
+        <script src="{{{{ site.baseurl }}}}/js/test.js">hi</script>
         <xsl:for-each select="activity">
-          <xsl:for-each select="list">
-            <div class="container" id="activity">
+          <div class="container" id="activity">
+            <p id="intro">
+              <xsl:value-of select="intro"/>
+            </p>
+            <xsl:for-each select="list">
               <xsl:for-each select="item">
                 <xsl:variable name="index">
                   <xsl:value-of select="count(preceding-sibling::item)+1"/>
@@ -21,6 +24,9 @@
                       <xsl:apply-templates mode="activity"/>
                     </div>
                   </xsl:for-each>
+                  <div class="col-xs-1">
+                    &#160;
+                  </div>
                   <xsl:for-each select="second">
                     <div class="second" id="{$index}">
                       <xsl:apply-templates mode="activity"/>
@@ -28,8 +34,8 @@
                   </xsl:for-each>
                 </div>
               </xsl:for-each>
-            </div>
-          </xsl:for-each>
+            </xsl:for-each>
+          </div>
         </xsl:for-each>
       </xsl:when>
       <xsl:otherwise>

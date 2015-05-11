@@ -1,7 +1,0 @@
-"use strict";
-(function () {
-
-var first = $("#activity > .item > .first”);
-var second = $("#activity > .item > .second”);
-
-})();
