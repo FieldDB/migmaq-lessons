@@ -241,14 +241,14 @@ header {
  height: 40px;
 }
 
-.first > div{
+.first {
   border-color: transparent;
   border: 2px;
   border-style: dashed;
   color: transparent;
 }
 
-.second > div{
+.second {
   border-color: transparent;
   border: 2px;
   border-style: dashed;

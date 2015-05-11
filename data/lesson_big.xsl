@@ -9,7 +9,7 @@
       <xsl:when test="activity">
         <script src="{{{{ site.baseurl }}}}/js/test.js">hi</script>
         <xsl:for-each select="activity">
-          <div class="container" id="activity">
+          <div class="container-fluid" id="activity">
             <p id="intro">
               <xsl:value-of select="intro"/>
             </p>
@@ -18,17 +18,35 @@
                 <xsl:variable name="index">
                   <xsl:value-of select="count(preceding-sibling::item)+1"/>
                 </xsl:variable>
+                <xsl:variable name="factorfirst">
+                  <xsl:value-of select="count(first/child::soundfile) + (2 * count(first/child::img)) + (6 * count(first/child::migmaq)) + (6 * count(first/child::english))"/>
+                </xsl:variable>
+                <xsl:variable name="factorsecond">
+                  <xsl:value-of select="count(second/child::soundfile) + (2 * count(second/child::img)) + (6 * count(second/child::migmaq)) + (6 * count(second/child::english))"/>
+                </xsl:variable>
+                <xsl:variable name="sizefactor">
+                  <xsl:value-of select="12 div ($factorfirst + $factorsecond)"/>
+                </xsl:variable>
+                <xsl:variable name="sizefirst">
+                  <xsl:value-of select="($factorfirst * $sizefactor) - (($factorfirst * $sizefactor) mod 1)"/>
+                </xsl:variable>
+                <xsl:variable name="sizesecond">
+                  <xsl:value-of select="($factorsecond * $sizefactor) - (($factorsecond * $sizefactor) mod 1)"/>
+                </xsl:variable>
+                <xsl:variable name="whitespace">
+                  <xsl:value-of select="12 - ($sizefirst + $sizesecond)"/>
+                </xsl:variable>
                 <div class="row item">
                   <xsl:for-each select="first">
-                    <div class="first" id="{$index}">
+                    <div class="col-xs-{$sizefirst} first" id="{$index}">
                       <xsl:apply-templates mode="activity"/>
                     </div>
                   </xsl:for-each>
-                  <div class="col-xs-1">
-                    &#160;
-                  </div>
+                  <xsl:if test="$whitespace > 0">
+                    <div class="col-xs-{$whitespace}">&#160;</div>
+                  </xsl:if>
                   <xsl:for-each select="second">
-                    <div class="second" id="{$index}">
+                    <div class="col-xs-{$sizesecond} second" id="{$index}">
                       <xsl:apply-templates mode="activity"/>
                     </div>
                   </xsl:for-each>
@@ -172,7 +190,7 @@
     <strong><xsl:value-of select="."/></strong>
   </xsl:template>
   <xsl:template match="soundfile" mode="activity">
-    <div class="col-xs-1">&#160;
+    <div class="col-xs-2">&#160;
       <xsl:variable name="soundurl">{{ site.baseurl }}/audio/<xsl:value-of select="."/>.mp3</xsl:variable>
       <button class="btn btn-default" type="button">
         <span class="glyphicon glyphicon-play" aria-hidden="true">
@@ -184,21 +202,21 @@
     </div>
   </xsl:template>
   <xsl:template match="migmaq" mode="activity">
-    <div class="col-xs-5">
+    <div class="col-xs-8">
       <h2 class="media-heading">
         <xsl:value-of select="."/>
       </h2>
     </div>
   </xsl:template>
   <xsl:template match="english" mode="activity">
-    <div class="col-xs-5">
+    <div class="col-xs-8">
       <h2 class="media-heading">
         <xsl:value-of select="."/>
       </h2>
     </div>
   </xsl:template>
   <xsl:template match="img" mode="activity">
-    <div class="col-xs-2">&#160;
+    <div class="col-xs-4">&#160;
       <xsl:variable name="vimg">{{ site.baseurl }}/emoji/<xsl:value-of select="."/></xsl:variable>
       <img class="img-responsive thumbnail" src="{$vimg}" style="width: 64px"/>
     </div>

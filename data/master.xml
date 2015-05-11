@@ -3467,6 +3467,23 @@
 				</vocab>
 			</lesson>
 			<lesson>
+				<title>Animal vocabulary activity</title>
+				<activity>
+					<intro>Let's practice animal vocabulary with a matching game!</intro>
+					<list>
+						<item>
+							<first>
+								<migmaq>apigji'j</migmaq> 
+								<soundfile>Apigjij</soundfile>
+							</first>
+							<second>
+								<english>mouse</english>
+							</second>
+						</item>
+					</list>
+				</activity>
+			</lesson>
+			<lesson>
 				<title>Many animals</title>
 				<note>Let's learn how to talk about groups of animals.</note>
 				<designnote>Animal images from Mary-Ann: plural.</designnote>

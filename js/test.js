@@ -10,12 +10,12 @@ $(function() {
 	var typeR = "border";
 	var typeL = "border";
 	var displayText = document.getElementById("intro");
-	var rightFirst = function (item) {item.children[0].style.borderColor = "green"};
-	var rightSecond = function (item) {item.children[0].style.borderColor = "green"};
-	var selectFirst = function (item) {item.children[0].style.borderColor = "red"};
-	var selectSecond = function (item) {item.children[0].style.borderColor = "blue"};
-	var neutralFirst = function (item) {item.children[0].style.borderColor = "transparent"};
-	var neutralSecond = function (item) {item.children[0].style.borderColor = "transparent"};
+	var rightFirst = function (item) {item.style.borderColor = "green"};
+	var rightSecond = function (item) {item.style.borderColor = "green"};
+	var selectFirst = function (item) {item.style.borderColor = "red"};
+	var selectSecond = function (item) {item.style.borderColor = "blue"};
+	var neutralFirst = function (item) {item.style.borderColor = "transparent"};
+	var neutralSecond = function (item) {item.style.borderColor = "transparent"};
 	var numItems = 0;
 
 	function rearrange(ordered) {
