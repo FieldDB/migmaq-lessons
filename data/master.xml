@@ -6244,7 +6244,7 @@
 				<line>
 					<migmaq>Tami eimn?</migmaq> 	
 					<english>Where are you?</english>
-					<soundfile>TamiEimn_GujmugGujmugEim_ANinLamuguomgEim_EeGilGujmugMuEimunAqNinMuEimuLamuguomg</soundfile>
+					<soundfile>TamiEimn</soundfile>
 				</line>
 				<line>
 					<migmaq>Gujmug! Gujmug eim.</migmaq> 	
@@ -6264,36 +6264,9 @@
 			</dialog>
 		</lesson>
 		<lesson>
-			<title>Where is she?</title>
-			<note>Now we'll ask where other people are and talk about their locations.</note>
-			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@0:33-0:39.5</timesig>		
-			<dialog>
-				<line>
-					<migmaq>Tam' eig 'ggij?</migmaq> 	
-					<english>Where's your mom?</english>
-					<soundfile>TamEigGgij</soundfile>
-				</line>
-				<line>
-					<migmaq>A'se'g.</migmaq> 	
-					<english>In the other room.</english>
-					<soundfile>Aseg</soundfile>
-				</line>
-				<line>
-					<migmaq>A'se'g?</migmaq> 	
-					<english>In the other room.</english>
-					<soundfile>AsegQ</soundfile>
-				</line>
-				<line>
-					<migmaq>E'e, a'se'g eig.</migmaq> 	
-					<english>Yes, she's in the other room.</english>
-					<soundfile>EeAsegEig</soundfile>
-				</line>
-			</dialog>
-		</lesson>
-		<lesson>
 			<title>Where is everyone else?</title>
 			<note>You're very curious today and want to know where everyone is. Here's how to ask about them.</note>
-			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@0:40-0:</timesig>		
+			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@0:33-0:39.5</timesig>		
 			<dialog>
 				<line>
 					<migmaq>Tam' eig 'nmu'j?</migmaq> 	
@@ -6336,7 +6309,29 @@
 		<lesson>
 			<title>Is your mom here?</title>
 			<note>We'll practice asking about locations some more.</note>
-			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@0:58.5-1 :07.5</timesig>		
+			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@0:58.5-1 :07.5</timesig>
+			<dialog>
+				<line>
+					<migmaq>Tam' eig 'ggij?</migmaq> 	
+					<english>Where's your mom?</english>
+					<soundfile>TamEigGgij</soundfile>
+				</line>
+				<line>
+					<migmaq>A'se'g.</migmaq> 	
+					<english>In the other room.</english>
+					<soundfile>Aseg</soundfile>
+				</line>
+				<line>
+					<migmaq>A'se'g?</migmaq> 	
+					<english>In the other room.</english>
+					<soundfile>AsegQ</soundfile>
+				</line>
+				<line>
+					<migmaq>E'e, a'se'g eig.</migmaq> 	
+					<english>Yes, she's in the other room.</english>
+					<soundfile>EeAsegEig</soundfile>
+				</line>
+			</dialog>		
 			<dialog>
 				<line>
 					<migmaq>'Ggij eig?</migmaq> 	
@@ -6363,10 +6358,10 @@
 		<lesson>
 			<title>Position Verbs</title>
 			<note>Some verbs tell us what position people are in, whether they are standing, sitting, or lying down. We'll practice describe people's positions in this lesson.</note>
-			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@1:12-1:37</timesig>		
+			<timesig>@20120801-JV-MAM-Tami2Positionals.wav@1:12-1:37</timesig>
 			<dialog>
 				<line>
-					<migmaq>Ge' lapa'si! Ala' ji'nm gaqamit awtigtug.</migmaq> 	
+					<migmaq>Ge' lapa'si! Ala' ji'nm gaqamit awtigtug.</migmaq>
 					<english>Look over there! Over there there's a man standing in the road.</english>
 					<soundfile>GeLapasiAlaJinmGaqamitAwtigtug</soundfile>
 				</line>
@@ -6381,7 +6376,7 @@
 					<soundfile>GeLapasiAlaNmujElisingMsiguigtug</soundfile>
 				</line>
 				<line>
-					<migmaq>Goqwei wetpualin angaptmn 'ms't goqwei?</migmaq> 	
+					<migmaq>Goqwei wetpualin angaptmn 'ms't goqwei?</migmaq>
 					<english>Why do you want me to look at everything?</english>
 					<soundfile>GoqweiWetpualinAngaptmnMstGoqwei</soundfile>
 				</line>
