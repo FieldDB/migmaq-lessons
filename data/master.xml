@@ -7177,6 +7177,109 @@
 				</line>
 			</dialog>
 		</lesson>
+		<lesson>
+			<title>Sports names</title>
+			<note>Here are some names of sports and games.</note>
+			<vocab>
+				<line>
+					<migmaq>majoqteligemg</migmaq>
+					<english>archery</english>
+					<soundfile>Archery</soundfile>
+				</line>
+				<line>
+					<migmaq>tu'at</migmaq>
+					<english>baseball</english>
+					<soundfile>Baseball</soundfile>
+					<img>26BE.png</img>
+				</line>
+				<line>
+					<migmaq>tepsultimgewei</migmaq>
+					<english>dodgeball</english>
+					<soundfile>Dodgeball</soundfile>
+				</line>
+				<line>
+					<migmaq>aptntimg</migmaq>
+					<english>wrestling</english>
+					<soundfile>Wrestling</soundfile>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>enmegwe'to'timg</migmaq>
+					<english>boxing</english>
+					<soundfile>enmegwe'to'timg</soundfile>
+				</line>
+				<line>
+					<migmaq>amjaqteligemg</migmaq>
+					<english>paintball</english>
+					<soundfile>Paintball</soundfile>
+				</line>
+				<line>
+					<migmaq>gugwejultimg</migmaq>
+					<english>tag games</english>
+					<soundfile>TagGames</soundfile>
+				</line>
+				<line>
+					<migmaq>gewte'gemg</migmaq>
+					<english>bowling</english>
+					<soundfile>Bowling</soundfile>
+					<img>1F3B3.png</img>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>nisipqamultimg</migmaq>
+					<english>skiing</english>
+					<soundfile>Skiing</soundfile>
+					<img>1F3BF.png</img>
+				</line>
+				<line>
+					<migmaq>alqosuemg</migmaq>
+					<english>rock climbing</english>
+					<soundfile>RockClimbing</soundfile>
+				</line>
+				<line>
+					<migmaq>getantagemg</migmaq>
+					<english>hunting</english>
+					<soundfile>Hunting</soundfile>
+				</line>
+				<line>
+					<migmaq>alaqtegemg</migmaq>
+					<english>sailing</english>
+					<soundfile>Sailing</soundfile>
+					<img>26F5.png</img>
+				</line>
+			</vocab>
+			<vocab>
+				<line>
+					<migmaq>wenaqpmaqanje'mamg</migmaq>
+					<english>lacrosse</english>
+					<soundfile>Lacrosse</soundfile>
+				</line>
+				<line>
+					<migmaq>alje'mamg</migmaq>
+					<english>paddling</english>
+					<soundfile>Paddling</soundfile>
+					<img>1F6A3.png</img>
+				</line>
+				<line>
+					<migmaq>lasgugwet</migmaq>
+					<english>playing cards</english>
+					<soundfile>PlayingCards</soundfile>
+				</line>
+				<line>
+					<migmaq>wesgemg</migmaq>
+					<english>fishing</english>
+					<soundfile>wesgemg</soundfile>
+					<img>1F3A3.png</img>
+				</line>
+				<line>
+					<migmaq>wesg'timg</migmaq>
+					<english>fishing</english>
+					<!--<soundfile></soundfile>-->
+				</line>
+			</vocab>
+		</lesson>
 	</unit>
 	<unit>
 		<title>Exit Conversation</title>
