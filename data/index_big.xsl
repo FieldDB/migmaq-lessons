@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--This transformation creates an index of children sections, lessons, and units. It applies to the current node and lists any children up to the unit level. It gives links to their webpages.-->
+<!--This transformation creates an index of children sections, lessons, and units. It applies to the current node. It lists any children down to the lesson level and gives links to their webpages.-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:param name="fileprefix" />
   <xsl:template match="section|unit[1]"><!--Match current node-->
-    <h1 class="title"><xsl:value-of select="title"/></h1>
+    <h1 class="title"><xsl:value-of select="title"/></h1><!--Display title-->
     <div class="row">
       <div class="col-md-8">
         <xsl:for-each select="note">
@@ -13,9 +13,9 @@
         </xsl:for-each>
       </div>
       <div class="col-md-4">&#160;
-        <xsl:if test="/img">
+        <xsl:if test="img"><!--If there's an img in the xml, display it-->
           <xsl:variable name="imgurl"><xsl:value-of select="img"/></xsl:variable>
-          <img class="img-responsive thumbnail" src="{$imgurl}" alt="Trees" style="max-width: 75%"></img>
+          <img class="img-responsive thumbnail" src="{$imgurl}" style="max-width: 75%"></img>
         </xsl:if>
       </div>
     </div>
@@ -31,13 +31,13 @@
           </xsl:for-each>
         </div>
       </xsl:for-each>
-      <xsl:if test="lesson">
-      <div class="col-md-3">
-        <xsl:for-each select="lesson"><!--Find all lesson children-->  
-          <xsl:variable name="lessadd">{{ site.baseurl }}/lessons/<xsl:value-of select="$fileprefix"/><xsl:value-of select="count(preceding-sibling::lesson)+1"/>.html</xsl:variable><!--Create filename for lesson child webpage-->
-          <a href="{$lessadd}"><h4><xsl:value-of select="*[1]"/></h4></a><!--List lesson titles as links to their webpages-->
-        </xsl:for-each>
-      </div>
+      <xsl:if test="lesson"><!--If there are children that are lessons, display them-->
+        <div class="col-md-3">
+          <xsl:for-each select="lesson"><!--Find all lesson children-->  
+            <xsl:variable name="lessadd">{{ site.baseurl }}/lessons/<xsl:value-of select="$fileprefix"/><xsl:value-of select="count(preceding-sibling::lesson)+1"/>.html</xsl:variable><!--Create filename for lesson child webpage-->
+            <a href="{$lessadd}"><h4><xsl:value-of select="*[1]"/></h4></a><!--List lesson titles as links to their webpages-->
+          </xsl:for-each>
+        </div>
     </xsl:if>
     </div>
   </xsl:template>

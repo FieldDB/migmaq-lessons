@@ -8,6 +8,7 @@ Source code:
 
 Media:
 	audio: audio recordings by Mi'gmaq speakers
+	emoji: small imgs that accompany a line in lessons
 	img: images used on site
 
 Styles:
@@ -35,3 +36,5 @@ To build the website, run make. The Makefile will run the python scripts if nece
 Jekyll output should not be committed to this repository, only source code. [Currently -site is committed as well because we are using free bitbucket website hosting]
 
 This repository is now public, since we have permission to use the audio files.
+
+The website is found at learn.migmaq.org. It is hosted through WebFaction, using Jessica's account.

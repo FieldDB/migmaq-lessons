@@ -13,15 +13,15 @@ The program currently applies tranformations to the lessonset, section, unit, an
  of the XML file. However, each function is parameterized by current node and depth, so the 
 program could be easily modified to tranform other levels of the tree using the same functions.
 
-Author: Carolyn Anderson          Last Modified: 2/13/2015
+Author: Carolyn Anderson          Last Modified: 5/12/2015
 """
 
 #Create xsl transformation functions
 lesson_xsl_raw = etree.parse("lesson_big.xsl")  #Displays data from Lesson down
 lesson_xsl = etree.XSLT(lesson_xsl_raw) 
-index_xsl_raw = etree.parse("index_big.xsl")  #Makes an index of child files
+index_xsl_raw = etree.parse("index_big.xsl")  #Makes an index of child files for unit and section pages
 index_xsl = etree.XSLT(index_xsl_raw) 
-intro_xsl_raw = etree.parse("intro_big.xsl")  #Creates intro page
+intro_xsl_raw = etree.parse("intro_big.xsl")  #Creates table of contents intro page
 intro_xsl = etree.XSLT(intro_xsl_raw) 
 
 def processLesson(level, lesson):

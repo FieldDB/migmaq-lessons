@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--This transformation creates a webpage for a unit. It matches on a given unit node and displays the unit title, img, intro, and all dialogs or vocabs included in the unit.-->
+<!--This searches through the given xml file and finds missing audio files (lines in a lesson that do not have an audiofile).-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
   <xsl:template match="section">
     <h1 class="title">Section <xsl:value-of select="title"/></h1>&#160;
@@ -11,8 +11,8 @@
           <h4 class="title">Dialog <xsl:value-of select="count(preceding-sibling::dialog)+1"/></h4>&#160;
           <xsl:for-each select="line">
             <xsl:choose>
-              <xsl:when test="soundfile"></xsl:when>
-              <xsl:otherwise>
+              <xsl:when test="soundfile"></xsl:when><!--If there's a soundfile, do nothing-->
+              <xsl:otherwise><!--Otherwise print the name of the line with the missing soundfile-->
                 <p>Missing: Line <xsl:value-of select="count(preceding-sibling::line)+1"/>: <xsl:value-of select="migmaq"/></p>&#160;
               </xsl:otherwise>
             </xsl:choose>
@@ -22,8 +22,8 @@
           <h4 class="title">Vocab <xsl:value-of select="count(preceding-sibling::vocab)+1"/></h4>&#160;
           <xsl:for-each select="line">
             <xsl:choose>
-              <xsl:when test="soundfile"></xsl:when>
-              <xsl:otherwise>
+              <xsl:when test="soundfile"></xsl:when><!--If there's a soundfile, do nothing-->
+              <xsl:otherwise><!--Otherwise print the name of the line with the missing soundfile-->
                 <p>Missing: Line <xsl:value-of select="count(preceding-sibling::line)+1"/>: <xsl:value-of select="migmaq"/></p>&#160;
               </xsl:otherwise>
             </xsl:choose>
