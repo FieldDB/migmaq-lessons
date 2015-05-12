@@ -1,4 +1,6 @@
 $(function() {
+  /*This function finds all audio buttons on the page and adds an event listener
+   to play and pause them on click.*/
   var activeButton = null;
   var activeAudio = null;
   addPlay();
