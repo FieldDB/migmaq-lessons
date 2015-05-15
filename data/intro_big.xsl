@@ -18,7 +18,7 @@
         <a href="{$secadd}"><h4><xsl:value-of select="*[1]"/></h4></a>
         <xsl:for-each select="unit"><!--Find all lesson children-->
           <div class="col-md-3"><!--Put each unit in a div-->
-            <xsl:variable name="lessadd">units/<xsl:value-of select="count(../preceding-sibling::section)+1"/><xsl:value-of select="count(preceding-sibling::unit)+1"/>.html</xsl:variable><!--Create filename for lesson child webpage-->
+            <xsl:variable name="lessadd">units/<xsl:value-of select="count(../preceding-sibling::section)+1"/>.<xsl:value-of select="count(preceding-sibling::unit)+1"/>.html</xsl:variable><!--Create filename for lesson child webpage-->
             <a href="{$lessadd}"><h5><xsl:value-of select="*[1]"/></h5></a><!--List lesson titles as links to their webpages-->
             <xsl:for-each select="lesson"><!--Find all unit children-->
               <xsl:variable name="unadd">lessons/<xsl:value-of select="count(../../preceding-sibling::section)+1"/>.<xsl:value-of select="count(../preceding-sibling::unit) +1"/>.<xsl:value-of select="count(preceding-sibling::lesson)+1"/>.html</xsl:variable><!--Create filename for unit child webpage-->
