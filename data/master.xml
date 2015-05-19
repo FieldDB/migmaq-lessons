@@ -1542,7 +1542,7 @@
 					<line>
 						<migmaq>Nemituann tapu'gl mutputi'l awtigtug.</migmaq>
 						<english>I see two chairs in the road.</english>
-						<!--<soundfile>NemituannTapuglMutputilAwtigtug</soundfile>-->
+						<soundfile>NemituannTapuglMutputilAwtigtug</soundfile>
 					</line>
 				</dialog>		
 				<dialog>
