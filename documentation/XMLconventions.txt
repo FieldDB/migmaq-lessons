@@ -21,6 +21,18 @@ An ordered set of lines that form a conversation.
 <activity>
 A game or exercise to practice a lesson.
 
+<list>
+A list of items in an activity.
+
+<item>
+A pair in a list in an activity.
+
+<first>
+The first item in a pair in an activity list.
+
+<second>
+The second item in a pair in an activity list.
+
 <line>
 A line containing Mi'gmaq, English translation, a soundfile, and (optionally) an image.
 
