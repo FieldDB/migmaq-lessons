@@ -19,8 +19,8 @@
         </xsl:if>
       </div>
     </div>
+    <h3>Outline:</h3><!--Outline is just a list of child node titles and links to their pages-->
     <div class="row">
-      <h3>Outline:</h3><!--Outline is just a list of child node titles and links to their pages-->
       <xsl:for-each select="unit"><!--Find all unit children-->
         <div class="col-md-3">
           <xsl:variable name="unadd">{{ site.baseurl }}/units/<xsl:value-of select="$fileprefix"/><xsl:value-of select="count(preceding-sibling::unit)+1"/>.html</xsl:variable><!--Create filename for unit child webpage-->
