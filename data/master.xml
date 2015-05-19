@@ -2,10 +2,6 @@
 <?xml-stylesheet type="text/xsl" href="MasterScriptXSL-20130228.xsl"?>
 <lessonset>
 	<title>Mi'gmaq Language Lessons</title>
-	<generalintro>
-		<genintrotitle>How to use this course</genintrotitle>
-		<genintrotext>Goal, structure of the course, etc.</genintrotext>
-	</generalintro>
 	<section>
 		<title>Beginning Mi'gmaq</title>
 		<note>Welcome to Learn Mi'gmaq Online! In this first section, you will learn the basics of the language. We'll start by learning the sounds of the language. After working on pronunciation and listening, you will learn basic introductions. Next, we will look at how to talk about people. This will help you pick up on some grammatical concepts, like how to talk about different kinds of groups of people, how to count, and how to build basic sentences. This section also includes some tips on how to study Mi'gmaq.</note>
@@ -700,7 +696,7 @@
 				<note>Another hint: <m>etl-</m> can be used to show the meaning 'doing', rather than 'did' or 'done'. It can also help emphasize that someone is in the process of  doing something in a particular place.</note>
 				<note>Once you've worked out as much as you can on your own, try asking speakers and other learners for help, too!</note>
 				<designnote>Reviewing /tami (tett).../ 'where...' pattern, reviewing endings for 'me' and 'you', introducing 'work' and 'study/learn', and briefly, several other important patterns: mu ...-w 'I ... not ...', etl- 'be doing...'</designnote>
-				<timesig>@20120723-JW-RM-1thru25.wav@4:17-4:27</timesig>		
+				<timesig>@20120723-JW-RM-1thru25.wav@4:17-4:27</timesig>
 				<dialog>
 					<line>
 						<migmaq>Tami tett etllugwen?</migmaq> 	
@@ -1316,7 +1312,7 @@
 			<lesson>
 				<title>Who is that woman standing at the rock?</title>
 				<note>Let's practice what we've learned so far with a short dialog!</note>
-				<timesig>@20120814-JM-JV-Corrections21b_24_27b</timesig>		
+				<timesig>@20120814-JM-JV-Corrections21b_24_27b</timesig>
 				<dialog>
 					<line>
 						<migmaq>Ji'nm nemi'g, gaqamit awtigtug. Wen na?</migmaq> 	
@@ -1361,8 +1357,8 @@
 			<lesson>
 				<title>How many people? 1-3, many.</title>
 				<designnote>This lesson introduces counting (of people), using only the minimum numbers/amounts (1, 2, 3, many) needed to show the basics of the system. Image files simply show these numbers: X number of countables together, either as a natural picture or a photoshopping of X number of identical images.</designnote>
-				<explnote>In this lesson, we learn to count people: asking how many, and giving answers.	</explnote>
-				<timesig>@20120723-JW-RM-1thru25.wav@8:31-8:57</timesig>		
+				<explnote>In this lesson, we learn to count people: asking how many, and giving answers.</explnote>
+				<timesig>@20120723-JW-RM-1thru25.wav@8:31-8:57</timesig>
 				<dialog>
 					<line>
 						<migmaq>Ta'sijig ji'nmug?</migmaq> 	
@@ -1416,7 +1412,7 @@
 				<title>How many things? 1-3, many.</title>
 				<note>In this lesson, we learn to count things: asking how many, and giving answers.</note>
 				<designnote>This lesson continues with the counting of things, again using only the minimum numbers/amounts (1, 2, 3, many) needed to show the basics of the system. Keeping the presentation identical to the preceding one should help confirm the pattern for learners. Image files again simply show these numbers: X number of countables together, either as a natural picture or a photoshopping of X number of identical images.</designnote>
-				<timesig>@20120723-JW-RM-1thru25.wav@8:58-9:22.5</timesig>		
+				<timesig>@20120723-JW-RM-1thru25.wav@8:58-9:22.5</timesig>
 				<dialog>
 					<line>
 						<migmaq>Ta's'gl mutputi'l?</migmaq> 	
@@ -1470,7 +1466,7 @@
 				<title>How many people do you see?</title>
 				<note>Now we'll start building more complex sentences.</note>
 				<designnote>This lesson combines the earlier nemi'g(ig)/nemitu(ann) pattern with the 'how many &#95;&#95;&#95;?' patterns just shown. As in earlier lessons, the main aim is helping learners see how they can now build more complex sentences. Image files again simply show these numbers: X number of countables together, either as a natural picture or a photoshopping of X number of identical images.</designnote>
-				<timesig>@20120814-JM-JV-Corrections21b_24_27b</timesig>		
+				<timesig>@20120814-JM-JV-Corrections21b_24_27b</timesig>
 				<dialog>
 					<line>
 						<migmaq>Ta'sijig nemi'jig ji'nmug?</migmaq> 	
@@ -1524,7 +1520,7 @@
 				<title>How many things do you see?</title>
 				<note>Remember how to talk about groups of things?</note>
 				<designnote>This lesson combines the earlier nemi'g(ig)/nemitu(ann) pattern with the 'how many &#95;&#95;&#95;?' patterns just learned, helping learners see how they can now build more complex sentences. Image files again simply show these numbers: X number of countables together, either as a natural picture or a photoshopping of X number of identical images.</designnote>
-				<timesig>@20120723-JW-RM-1thru25.wav@9:54-10:20</timesig>		
+				<timesig>@20120723-JW-RM-1thru25.wav@9:54-10:20</timesig>
 				<dialog>
 					<line>
 						<migmaq>Ta's'gl nemitu'nn mutputi'l?</migmaq> 	
@@ -1544,7 +1540,7 @@
 						<soundfile>TasglNemitunnMutputil1</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemituann tapu'gl mutputi'l awtigtug.</migmaq> 	
+						<migmaq>Nemituann tapu'gl mutputi'l awtigtug.</migmaq>
 						<english>I see two chairs in the road.</english>
 						<!--<soundfile>NemituannTapuglMutputilAwtigtug</soundfile>-->
 					</line>
@@ -1943,7 +1939,7 @@
 				<note>Here we go back to the patterns we learned for counting people, bringing in the higher numbers we have now learned.</note>
 				<note>Pay special attention to <m>te's-</m> again being used with 6, 7, 8, 9, and the usual use of <m>jel</m>. Notice also that the ending you learned on its own as <m>-sga'q</m> comes out here as <m>-sgeg-</m>.</note>
 				<designnote>This lesson combines the patterns of the original minimal 1, 2, 3, many people-counting system with the above higher number patterns to show learners how to count up to ninety-nine people.</designnote>
-				<timesig>@20120723-JW-RM-26thru40.wav@2:35-4:04.5</timesig>		
+				<timesig>@20120723-JW-RM-26thru40.wav@2:35-4:04.5</timesig>
 				<dialog>
 					<linetimsig>[@2:35]</linetimsig>
 					<line>
@@ -2088,7 +2084,7 @@
 				<title>How many things? 1-12</title>
 				<note>Here we go back to the patterns we learned for counting things, bringing in the higher numbers we have now learned.</note>
 				<note>Pay special attention to <m>te's-'</m> again being used with 6, 7, 8, 9, and the usual use of <m>jel</m>. Notice also that the ending you learned on its own as <m>-sga'q</m> stays as <m>-sga'q-</m>, but will add the matching <m>-l</m>. The combination can also be said and written as <m>-sqa'qal</m>.</note>
-				<timesig>@20120723-JW-RM-26thru40.wav@4:14.5-5:33.5</timesig>		
+				<timesig>@20120723-JW-RM-26thru40.wav@4:14.5-5:33.5</timesig>
 				<dialog>
 					<line>
 						<migmaq>Ta's'gl mutputi'l?</migmaq> 	
@@ -2209,7 +2205,7 @@
 						<soundfile>TasglMutputil8</soundfile>
 					</line>
 					<line>
-						<migmaq>Newtisga'ql. Newtisgegs'ql mutputi'l.</migmaq> 	
+						<migmaq>Newtisga'ql. Newtisgegs'ql mutputi'l.</migmaq>
 						<english>Ten. There are ten chairs.</english>
 						<soundfile>NewtisgaqlNewtisgegsqlMutputil</soundfile>
 					</line>
@@ -2305,7 +2301,7 @@
 						<soundfile>TasglNemitunnMutputil</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemituann lluigneg te's'gl mutputi'l.</migmaq> 	
+						<migmaq>Nemituann lluigneg te's'gl mutputi'l.</migmaq>
 						<english>I see seven chairs.</english>
 						<soundfile>NemituannLluignegTesglMutputil</soundfile>
 					</line>
@@ -2498,12 +2494,12 @@
 						<soundfile>TasiPunan</soundfile>
 					</line>
 					<line>
-						<migmaq>Asugom te'sisgegi-puna'i jel si'st.</migmaq> 	
+						<migmaq>Asugom te'sisgegi-puna'i jel si'st.</migmaq>
 						<english>I am sixty-three.</english>
 						<soundfile>AsugomTesisgegiPunaiJelSist</soundfile>
 					</line>
 					<line>
-						<migmaq>Ugumuljin te'sisgegi-puna'i jel newt.</migmaq> 	
+						<migmaq>Ugumuljin te'sisgegi-puna'i jel newt.</migmaq>
 						<english>I am eighty-one.</english>
 						<soundfile>UgumuljinTesisgegiPunaiJelNewt</soundfile>
 					</line>
@@ -2555,7 +2551,7 @@
 				<note>Once you have worked that out, you can see two common ways to say '(more)&#95;&#95;&#95; than&#95;&#95;&#95;'. Both of them start with <m>me'</m>, which here means 'more&#95;, &#95;-er'.</note>
 				<note>Then you can use either <m>aq</m> (which also you know as 'and') or <m>jemu</m> for the idea of 'than&#95;&#95;&#95;'. So the patterns for 'more&#95;&#95;&#95; than&#95;&#95;&#95;' are: <m>-me'</m>&#95;&#95;&#95; <m>aq</m>&#95;&#95;&#95; <m>-me'</m>&#95;&#95;&#95; <m>jemu</m>&#95;&#95;&#95;</note>
 				<designnote>Taking the form of a single unbroken conversation, this lesson starts from the basic opposites gisigui- 'be old' and maljewejui- 'be young', and uses them to introduces two ways to say '(more)...than...': - me' ... aq ... - me' ... jemu ... It also introduces the related idea of 'so (much)...', expressed by te'uji- / tew'ji-. And also the very different sense of 'so, then ...' that the word na is used for.</designnote>
-				<timesig>@20120730-JV-MAM-36thru38.wav@2:00-2:18</timesig>		
+				<timesig>@20120730-JV-MAM-36thru38.wav@2:00-2:18</timesig>
 				<dialog>
 					<line>
 						<migmaq>Ta'si-puna'n?</migmaq> 	
@@ -2595,7 +2591,7 @@
 				<note>So here we see <m>-'s'p</m> to ask a question about 'you' in the past. And then we see <m>-ap</m> to give the answer (or just make a statement) about 'me' in the past.</note>
 				<note>Pay close attention to the word <m>ta'n</m>. It has many uses; here we see it used to ask 'when&#95;&#95;&#95;?' about the past.</note>
 				<designnote>Reviewing 'me' and 'you' past forms, through their natural conversational use around asking the month of someone's birth.</designnote>
-				<timesig>@20120723-JW-RM-26thru40.wav@:9:34.5-9:52</timesig>		
+				<timesig>@20120723-JW-RM-26thru40.wav@:9:34.5-9:52</timesig>
 				<dialog>
 					<line>
 						<migmaq>Ta'n ugs'tqamui's'p?</migmaq> 	
@@ -2775,7 +2771,7 @@
 				<note>Now that you know how to talk about your birthday and about specific dates, this conversation will show you how to put those together naturally.</note>
 				<note>Notice also the word <m>gatu</m>, which can mean 'but, however' but is also used to shift the topic of the conversation from one person/thing to another.</note>
 				<designnote>This is a simple review lesson, combining talking about birthdays with the naming of dates. In particular, it reworks the previous lesson's list-based material in the form of an actual simple conversation. It also brings to the front the use of gatu 'but, however; as for&#95;&#95;&#95;' in its 'as for&#95;&#95;&#95;' topic-shifting sense. Again use the exact calendar date pictures for each speaker.</designnote>
-				<timesig>@20120730-JV-MAM-41thru43.wav@0:05-0:16.5</timesig>		
+				<timesig>@20120730-JV-MAM-41thru43.wav@0:05-0:16.5</timesig>
 				<dialog>
 					<line>
 						<migmaq>Ta'sugunit gi'l aji-puna'n?</migmaq> 	
@@ -2800,7 +2796,7 @@
 				<note>A few lessons back we saw <m>ta'n</m> used to ask "when?" about the past. Here we see <m>ta'nug</m>, which is used to ask "when?" about the future.</note>
 				<note>And yes, you guessed right: the endings for talking about "me" and	"you" in the future are (for many speakers, at least) the same. The	context of the conversation usually makes clear which one you mean,	and you can always add in <m>ni'n</m> 'me' or <m>gi'l</m> 'you' if you need.</note>
 				<designnote> Again use the exact calendar date picture, with an arrow indicating ahead, or some other indicator of the future.</designnote>
-				<timesig>@20120730-JV-MAM-41thru43.wav@0:21-0:49</timesig>		
+				<timesig>@20120730-JV-MAM-41thru43.wav@0:21-0:49</timesig>
 				<dialog>
 					<line>
 						<migmaq>Ta'nug aji-puna'tes?</migmaq> 	
@@ -3284,7 +3280,7 @@
 						<img>1F4DA.png</img>
 					</line>
 					<line>
-						<migmaq>Moqwa': 'gtignipn gaqgina'masiapneg.</migmaq> 	
+						<migmaq>Moqwa': 'gtignipn gaqgina'masiapneg.</migmaq>
 						<english>No: last year I finished my studies.</english>
 						<soundfile>MoqwaGtignipnGaqginamasiapneg</soundfile>
 						<img>1F393.png</img>
@@ -3293,7 +3289,7 @@
 			</lesson>
 			<lesson>
 				<title>Who is that?</title>	
-				<note>Here's one last bonus dialog for you to practice.</note>	
+				<note>Here's one last bonus dialog for you to practice.</note>
 				<dialog>
 					<line>
 						<migmaq>Wen na ala ji'nm gaqamit awtigtug?</migmaq> 	
@@ -3674,17 +3670,17 @@
 				<timesig>@20120730-JV-NemigWisis1-2-3pluscorrections.wav@0:00-1:45; see other corrections @6:29</timesig>
 				<vocab>
 					<line>
-						<migmaq>Nemi'g gitpu alaqsing musigisg'tug.</migmaq> 	
+						<migmaq>Nemi'g gitpu alaqsing musigisg'tug.</migmaq>
 						<english>I see an eagle flying around in the sky.</english>
 						<soundfile>Nemi'gGitpuAlaqsingMusigisgtug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'g gu'gu'gwes alaqsing nipugtug.</migmaq> 	
+						<migmaq>Nemi'g gu'gu'gwes alaqsing nipugtug.</migmaq>
 						<english>I see an owl flying around in the woods.</english>
 						<soundfile>NemigGugugwesAlaqsingNipugtug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'g mimiges alaqsing musigisg'tug.</migmaq> 	
+						<migmaq>Nemi'g mimiges alaqsing musigisg'tug.</migmaq>
 						<english>I see a butterfly flying around in the sky.</english>
 						<soundfile>NemigMimigesAlaqsingMusigisgtug</soundfile>
 					</line>
@@ -3696,12 +3692,12 @@
 						<soundfile>NutaqAmaljugwejMetewegGujmug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'g wowgwis al'tugwi'g awtigtug.</migmaq> 	
+						<migmaq>Nemi'g wowgwis al'tugwi'g awtigtug.</migmaq>
 						<english>I see a fox running around in the road.</english>
 						<soundfile>NemigWowgwisAltugwigAwtigtug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'g apigjilu pisit tepaqanigtug.</migmaq> 	
+						<migmaq>Nemi'g apigjilu pisit tepaqanigtug.</migmaq>
 						<english>I see a skunk located in/underneath the car.</english>
 						<soundfile>NemigApigjiluPisitTepaqanigtug</soundfile>
 					</line>
@@ -3718,7 +3714,7 @@
 						<soundfile>NutaqAptapegiejitEtlatalgMsiguigtug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'g te'plj al-mila'teget gujmug.</migmaq> 	
+						<migmaq>Nemi'g te'plj al-mila'teget gujmug.</migmaq>
 						<english>I see a goat playing around/going around doing mischief outside.</english>
 						<soundfile>NemigTepljAlmilategetGujmug</soundfile>
 					</line>
@@ -3764,7 +3760,7 @@
 				</vocab>
 				<vocab>
 					<line>
-						<migmaq>Nutaq wapus ali-unaqja't 'msiguigtug.</migmaq> 	
+						<migmaq>Nutaq wapus ali-unaqja't 'msiguigtug.</migmaq>
 						<english>I hear a rabbit hopping around in the grass.</english>
 						<soundfile>NutaqWapusAliunaqjatMsiguigtug</soundfile>
 					</line>
@@ -3838,12 +3834,12 @@
 				</vocab>
 				<vocab>
 					<line>
-						<migmaq>Nemi'gig 'sqoljig ala'qig qospemg.</migmaq> 	
+						<migmaq>Nemi'gig 'sqoljig ala'qig qospemg.</migmaq>
 						<english>I see two frogs swimming around in the lake.</english>
 						<soundfile>NemigigSqoljigAlaqigQospemg</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'gig migjigjig ala'qig qospemg.</migmaq> 	
+						<migmaq>Nemi'gig migjigjig ala'qig qospemg.</migmaq>
 						<english>I see two turtles swimming around in the lake.</english>
 						<soundfile>NemigigMigjigjigAlaqigQospemg</soundfile>
 					</line>
@@ -3856,7 +3852,7 @@
 				</vocab>
 				<vocab>
 					<line>
-						<migmaq>Nemi'gig mui'naq ale'gig nipugtug.</migmaq> 	
+						<migmaq>Nemi'gig mui'naq ale'gig nipugtug.</migmaq>
 						<english>I see two bears hanging around in the woods.</english>
 						<soundfile>NemigigMuinaqAlegigNipugtug</soundfile>
 					</line>
@@ -3970,7 +3966,7 @@
 				</vocab>
 				<vocab>	
 					<line>
-						<migmaq>Nemi'gig mui'naq alo'ltijig nipugtug.</migmaq> 	
+						<migmaq>Nemi'gig mui'naq alo'ltijig nipugtug.</migmaq>
 						<english>I see bears hanging around in the woods.</english>
 						<soundfile>NemigigMuinaqAloltijigNipugtug</soundfile>
 					</line>
@@ -3980,7 +3976,7 @@
 						<soundfile>NutaqigMuinejgAltemultijigNipugtug</soundfile>
 					</line>
 					<line>
-						<migmaq>Nemi'gig tia'mug alo'ltijig qospemg.</migmaq> 	
+						<migmaq>Nemi'gig tia'mug alo'ltijig qospemg.</migmaq>
 						<english>I see moose hanging around at the lake.</english>
 						<soundfile>NemigigTiamugAloltijigQospemg</soundfile>
 					</line>
@@ -4195,7 +4191,7 @@
 						<soundfile>TaptanTaptangClip</soundfile>
 					</line>
 					<line>
-						<migmaq>&#160;&#160;&#160;&#160;&#160;mlagejg</migmaq> 	
+						<migmaq>&#160;&#160;&#160;&#160;&#160;mlagejg</migmaq>
 						<english>milk</english>
 						<soundfile>MlagejgClip</soundfile>
 					</line>
@@ -4536,7 +4532,7 @@
 			<lesson>
 				<title>Taste good to you?(animate)</title>
 				<note>What food do you like? Let's talk about it!</note>
-				<timesig>@20120731-JV-MAM-Wigpt2Getupt@0:02-0:21</timesig>		
+				<timesig>@20120731-JV-MAM-Wigpt2Getupt@0:02-0:21</timesig>
 				<dialog>
 					<line>
 						<migmaq>Wigp't na enmapejit?</migmaq> 	
@@ -4594,7 +4590,7 @@
 			<lesson>
 				<title>Taste good to you? (inanimate)</title>
 				<note>How about these foods? Do you like them, or not?</note>
-				<timesig>@20120731-JV-MAM-Wigpt2Getupt@0:21-41.5</timesig>		
+				<timesig>@20120731-JV-MAM-Wigpt2Getupt@0:21-41.5</timesig>
 				<dialog>
 					<line>
 						<migmaq>Wigtmn pipnaqan?</migmaq> 	
@@ -4654,7 +4650,7 @@
 			<lesson>
 				<title>What do you want to eat? (animate)</title>
 				<note>Are you hungry yet? What sounds good to you?</note>
-				<timesig>@20120731-JV-MAM-Wigpt2Getupt@0:42.5-1:01</timesig>		
+				<timesig>@20120731-JV-MAM-Wigpt2Getupt@0:42.5-1:01</timesig>
 				<dialog>
 					<line>
 						<migmaq>Goqwei getutmn?</migmaq> 	
@@ -5521,7 +5517,7 @@
 					<img>1F443.png</img>
 				</line>
 				<line>
-					<migmaq>nitn&#160;&#160;&#160;&#160;&#160;nitnn</migmaq> 	
+					<migmaq>nitn&#160;&#160;&#160;&#160;&#160;nitnn</migmaq>
 					<english>my nostril&#160;&#160;&#160;&#160;&#160;my nostrils</english>
 					<soundfile>Nitn_Nitnn</soundfile>
 				</line>
@@ -5532,20 +5528,20 @@
 					<img>1F444.png</img>
 				</line>
 				<line>
-					<migmaq>'nsi&#160;&#160;&#160;&#160;&#160;'nsi'l</migmaq> 	
+					<migmaq>'nsi&#160;&#160;&#160;&#160;&#160;'nsi'l</migmaq>
 					<english>my lip&#160;&#160;&#160;&#160;&#160;my lips</english>
 					<soundfile>Nsi_Nsil</soundfile>
 					<img>1F48B.png</img>
 				</line>
 				<line>
-					<migmaq>nipit&#160;&#160;&#160;&#160;&#160;nipitl</migmaq> 	
+					<migmaq>nipit&#160;&#160;&#160;&#160;&#160;nipitl</migmaq>
 					<english>my tooth&#160;&#160;&#160;&#160;&#160;my teeth</english>
 					<soundfile>Nipit_Nipitl</soundfile>
 				</line>
 			</vocab>
 			<vocab>
 				<line>
-					<migmaq>nusapun&#160;&#160;&#160;&#160;&#160;nusapunn</migmaq> 	
+					<migmaq>nusapun&#160;&#160;&#160;&#160;&#160;nusapunn</migmaq>
 					<english>my (single) hair&#160;&#160;&#160;&#160;&#160;my hair(s)</english>
 					<soundfile>Nusapun_Nusapunn</soundfile>
 					<img>1F487.png</img>
@@ -5567,7 +5563,7 @@
 					<soundfile>Nsisgw</soundfile>
 				</line>
 				<line>
-					<migmaq>nijinuan&#160;&#160;&#160;&#160;&#160;nijinuann</migmaq> 	
+					<migmaq>nijinuan&#160;&#160;&#160;&#160;&#160;nijinuann</migmaq>
 					<english>my cheek&#160;&#160;&#160;&#160;&#160;my cheeks</english>
 					<soundfile>Nijinuan_Nijinuann</soundfile>
 				</line>
@@ -5591,30 +5587,30 @@
 				</line>
 				<linetimsig>[@1:00.5-1:05]</linetimsig>
 				<line>
-					<migmaq>'ntlmaqan&#160;&#160;&#160;&#160;&#160;ntlmaqann</migmaq> 	
+					<migmaq>'ntlmaqan&#160;&#160;&#160;&#160;&#160;ntlmaqann</migmaq>
 					<english>my shoulder&#160;&#160;&#160;&#160;&#160;my shoulders</english>
 					<soundfile>Ntlmaqan_Ntlmaqann</soundfile>
 				</line>
 				<linetimsig>[@1:08-1:11.5]</linetimsig>
 				<line>
-					<migmaq>'npitnoqom&#160;&#160;&#160;&#160;&#160;npitnoqoml</migmaq> 	
+					<migmaq>'npitnoqom&#160;&#160;&#160;&#160;&#160;npitnoqoml</migmaq>
 					<english>my arm&#160;&#160;&#160;&#160;&#160;my arms</english>
 					<soundfile>Npitnoqom_Npitnoqoml</soundfile>
 					<img>1F4AA.png</img>
 				</line>
 				<line>
-					<migmaq>'ntlusgnignm&#160;&#160;&#160;&#160;&#160;'ntlusgnignmg</migmaq> 	
+					<migmaq>'ntlusgnignm&#160;&#160;&#160;&#160;&#160;'ntlusgnignmg</migmaq>
 					<english>my elbow&#160;&#160;&#160;&#160;&#160;my elbows</english>
 					<soundfile>Ntlusgnignm_Ntlusgnignmg</soundfile>
 				</line>
 				<line>
-					<migmaq>'npitn&#160;&#160;&#160;&#160;&#160;'npitnn</migmaq> 	
+					<migmaq>'npitn&#160;&#160;&#160;&#160;&#160;'npitnn</migmaq>
 					<english>my hand&#160;&#160;&#160;&#160;&#160;my hands</english>
 					<soundfile>Npitn_Npitnn</soundfile>
 					<img>1F44F.png</img>
 				</line>
 				<line>
-					<migmaq>'ntijin&#160;&#160;&#160;&#160;&#160;ntijinn</migmaq> 	
+					<migmaq>'ntijin&#160;&#160;&#160;&#160;&#160;ntijinn</migmaq>
 					<english>my thumb&#160;&#160;&#160;&#160;&#160;my thumbs</english>
 					<soundfile>Ntijin_Ntijinn</soundfile>
 					<img>1F44D.png</img>
@@ -5644,7 +5640,7 @@
 			</vocab>
 			<vocab>
 				<line>
-					<migmaq>'ngat&#160;&#160;&#160;&#160;&#160;'ngatl</migmaq> 	
+					<migmaq>'ngat&#160;&#160;&#160;&#160;&#160;'ngatl</migmaq>
 					<english>my foot/leg&#160;&#160;&#160;&#160;&#160;my feet/legs</english>
 					<soundfile>Ngat_Ngatl</soundfile>
 				</line>
@@ -5654,18 +5650,18 @@
 					<soundfile>Nulugun_Nulugunn</soundfile>
 				</line>
 				<line>
-					<migmaq>'njigun&#160;&#160;&#160;&#160;&#160;'njigung</migmaq> 	
+					<migmaq>'njigun&#160;&#160;&#160;&#160;&#160;'njigung</migmaq>
 					<english>my knee&#160;&#160;&#160;&#160;&#160;my knees</english>
 					<soundfile>Njigun_Njigung</soundfile>
 				</line>
 				<line>
-					<migmaq>'ngajign&#160;&#160;&#160;&#160;&#160;'ngajignn</migmaq> 	
+					<migmaq>'ngajign&#160;&#160;&#160;&#160;&#160;'ngajignn</migmaq>
 					<english>my lower leg&#160;&#160;&#160;&#160;&#160;my l ower legs</english>
 					<soundfile>Ngajign_Ngajignn</soundfile>
 				</line>
 				<designnote>still missing 'calf'</designnote>
 				<line>
-					<migmaq>'nqon&#160;&#160;&#160;&#160;&#160;nqong</migmaq> 	
+					<migmaq>'nqon&#160;&#160;&#160;&#160;&#160;nqong</migmaq>
 					<english>my heel&#160;&#160;&#160;&#160;&#160;my heels</english>
 					<soundfile>Nqon_Nqong</soundfile>
 				</line>
@@ -5685,7 +5681,7 @@
 				</line>
 				<linetimsig>[@2:09-2:14]</linetimsig>
 				<line>
-					<migmaq>'npn&#160;&#160;&#160;&#160;&#160;npng</migmaq> 		
+					<migmaq>'npn&#160;&#160;&#160;&#160;&#160;npng</migmaq>
 					<english>my lung&#160;&#160;&#160;&#160;&#160;my lungs</english>
 					<soundfile>Npn_Npng</soundfile>
 				</line>
