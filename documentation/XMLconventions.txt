@@ -1,0 +1,53 @@
+XML Conventions:
+
+<lessonset>
+Root node that contains everything else. Contains a title and sections.
+
+<section>
+Ordered collection of units at a certain skill level. Contains a title, introduction notes, and units.
+
+<unit>
+Collection of lessons arranged around a theme. Contains a title, introduction notes, and lessons.
+
+<lesson>
+Teaches or practices topics, dialogues, or vocabulary. Contains a title and may contain explanatory notes, pictures, dialogues, vocabulary sets, and activities.
+
+<vocab>
+A set of vocabulary lines.
+
+<dialog>
+An ordered set of lines that form a conversation.
+
+<activity>
+A game or exercise to practice a lesson.
+
+<line>
+A line containing Mi'gmaq, English translation, a soundfile, and (optionally) an image.
+
+<migmaq>
+A line of Mi'gmaq.
+
+<english>
+A line of English accompanying a line of Mi'gmaq.
+
+<soundfile>
+An audio file to go with a line.
+
+<img>
+A picture.
+
+<title>
+Title at any level.
+
+<note>
+Text to introduce or explain content.
+
+<m>
+A Mi'gmaq word in a note.
+
+<designnote>
+A note that explains design decisions. Not meant to be displayed.
+
+<timesig>
+Timestamp that notes what audio file contains what lines.
+
