@@ -1,33 +1,95 @@
+/*This is the custom CSS file for the website. All changes to CSS should be done here.*/
 
-html, body {
-  height: 100%;
-  padding-bottom: 0px;
+a {
+  color: inherit;
+}
+
+.dropdown-menu{
+  min-width: 80px;
+  margin: -5px 15px 15px 5px;
+}
+
+.dropdown-menu a{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 15em;
+  white-space: nowrap;
+}
+
+.dropdown-submenu{
+  position:relative;
+}
+
+.dropdown-submenu>a:after{
+  display:block;content:" ";
+  float:right;
+  width:0;
+  height:0;
+  border-color:transparent;
+  border-style:solid;
+  border-width:5px 0 5px 5px;
+  border-left-color:#cccccc;
+  margin-top:5px;
+  margin-right:-10px;
+}
+
+.dropdown-submenu>.dropdown-menu{
+  top:0;left:100%;margin-top:-6px;margin-left:-1px;
+  -webkit-border-radius:0 6px 6px 6px;
+  -moz-border-radius:0 6px 6px 6px;border-radius:0 6px 6px 6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu{
+  display:block;
+}
+
+.dropdown-submenu:hover>a:after{
+  border-left-color:#ffffff;
+}
+
+.dropdown-submenu.pull-left{
+  float:none;
+}
+
+.dropdown-submenu.pull-left>.dropdown-menu{
+  left:-100%;
+  margin-left:10px;
+  -webkit-border-radius:6px 0 6px 6px;
+  -moz-border-radius:6px 0 6px 6px;
+  border-radius:6px 0 6px 6px;
 }
 
 .embed-responsive.embed-responsive-16by9 {
   height: 100%;
   padding-bottom: 0px;
 }
-.title {
-  padding-bottom: 10px;
+
+/*Styles for first item of a pair in an activity*/
+
+.first {
+  border-color: transparent;
+  border: 2px;
+  border-style: dashed;
+  color: transparent;
 }
 
-#wrap {
-  min-height: 100%;
+.first > div > h2{
+  color:black;
+}
+        
+footer{
+  padding-left: 5em;
+  opacity:0.8;
+  background: rgba(240, 69, 22, 0.5);
+  align: left;
+  position: relative;
+  margin-top: -40px; /* negative value of footer height */
+  height: 40px;
+  padding-top: 2px;
 }
 
-#main {
-  min-height: 100%;
-  overflow:auto;
-  padding-bottom:45px; /* this needs to be bigger than footer height*/
-}
-
-.navbar-header a {
-  color: white;
-}
-
-.navbar-header > a:hover { 
-  color: #F47D5C;
+.form-control{
+  font-size: 10px;
 }
 
 header {
@@ -36,15 +98,31 @@ header {
   background: #f04516;
 }
 
+html, body {
+  height: 100%;
+  padding-bottom: 0px;
+}
+
 .iconbar{
   /*Add some white space around icons*/
   margin: 5px;
 }
 
-@media (max-width: 768px) {
-  .iconbar {
-    display: none;
-  }
+.list-inline{
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.list-inline li{
+  display: inline !important;
+  margin: 5px;
+  float: right;
+}
+
+#main {
+  min-height: 100%;
+  overflow:auto;
+  padding-bottom:45px; /* this needs to be bigger than footer height*/
 }
 
 @media (max-width: 768px) {
@@ -54,7 +132,7 @@ header {
 }
 
 @media (max-width: 768px) {
-  #sidebar-wrapper {
+  .iconbar {
     display: none;
   }
 }
@@ -64,16 +142,6 @@ header {
     display: none;
   }
   }
-
-.list-inline{
-  margin-top: 12px;
-  margin-bottom: 12px;
-}
-
-.navbar-brand {
-  padding: 5px 15px;
-  }
-
 
 @media (max-width: 768px) {
   .navbar-collapse{
@@ -95,20 +163,59 @@ header {
   }
 }
 
-  .navbar-horizontal {
-    max-width:300px;
-    margin-right: 0;
-    margin-left: 0;
-  } 
-
-  .mini-menu>ul>li {
-    color: white;
-    padding: 0px;
+@media (min-width: 768px) { 
+  #page-content-wrapper{
+    margin: 10px 30px 10px 130px; /*Extra margin to create a "column" for the menu button */
   }
+}
 
-  .navbar-toggle>span{
-    background-color: gray;
+@media (max-width: 768px) {
+  #sidebar-wrapper {
+    display: none;
   }
+}
+
+.mini-menu>ul>li {
+  color: white;
+  padding: 0px;
+}
+
+.navbar-brand {
+  padding: 5px 15px;
+  height: inherit;
+}
+
+.navbar-header{
+  height: 80px;
+  padding-right: 5px;
+}
+
+.navbar-header a {
+  color: white;
+}
+
+.navbar-header > a:hover { 
+  color: #F47D5C;
+}
+
+.navbar-horizontal {
+  max-width:300px;
+  margin-right: 0;
+  margin-left: 0;
+} 
+
+.navbar-nav,
+.navbar-nav > li,
+.navbar-left,
+.navbar-right,
+.navbar-header .navbar-horizontal .navbar-fixed-top{
+  float:none !important;
+}
+
+.navbar-right .dropdown-menu {left:0;right:auto;}
+.navbar-collapse .navbar-nav.navbar-right:last-child {
+  margin-right: 0;
+}
 
 .navbar-toggle {
   position: relative;
@@ -124,114 +231,31 @@ header {
   color: gray;
 }
 
-  .navbar-nav,
-  .navbar-nav > li,
-  .navbar-left,
-  .navbar-right,
-  .navbar-header .navbar-horizontal .navbar-fixed-top{
-    float:none !important;
-  }
-  .navbar-header{
-    padding-right: 5px;
-   }
-        
-  .navbar-right .dropdown-menu {left:0;right:auto;}
-  .navbar-collapse .navbar-nav.navbar-right:last-child {
-    margin-right: 0;
-  }
-
-  .list-inline li{
-    display: inline !important;
-    margin: 5px;
-    float: right;
-  }
- 
-@media (min-width: 768px) { 
-  #page-content-wrapper{
-    margin: 10px 30px 10px 130px; /*Extra margin to create a "column" for the menu button */
-  }
+.navbar-toggle>span{
+  background-color: gray;
 }
 
-  footer{
-    padding-left: 5em;
-    opacity:0.8;
-    background: rgba(240, 69, 22, 0.5);\
-    align: left;
-    position: relative;
-    margin-top: -40px; /* negative value of footer height */
-    height: 40px;
-    padding-top: 2px;
-  }
+/*Styles for second item in a pair in an activity*/
 
-.navbar-header{
-  height: 80px;
+.second {
+  border-color: transparent;
+  border: 2px;
+  border-style: dashed;
+  color:transparent;
 }
 
-.navbar-brand{
-  height: inherit;
+.second > div > h2{
+  color:black;
 }
-
-/*Styles for sidenav with multiple levels on hover*/
-
-.dropdown-menu{
-  min-width: 80px;
-  margin: -5px 15px 15px 5px;
-}
-
-.dropdown-submenu{
-  position:relative;
-}
-
-.dropdown-menu a{
-  overflow: hidden;
-  text-overflow: ellipsis;
-  max-width: 15em;
-  white-space: nowrap;
-}
-
-.dropdown-submenu>.dropdown-menu{
-  top:0;left:100%;margin-top:-6px;margin-left:-1px;
-  -webkit-border-radius:0 6px 6px 6px;
-  -moz-border-radius:0 6px 6px 6px;border-radius:0 6px 6px 6px;
-}
-.dropdown-submenu:hover>.dropdown-menu{
-  display:block;
-}
-.dropdown-submenu>a:after{
-  display:block;content:" ";
-  float:right;
-  width:0;
-  height:0;
-  border-color:transparent;
-  border-style:solid;
-  border-width:5px 0 5px 5px;
-  border-left-color:#cccccc;
-  margin-top:5px;
-  margin-right:-10px;
-}
-.dropdown-submenu:hover>a:after{
-  border-left-color:#ffffff;
-}
-.dropdown-submenu.pull-left{
-  float:none;
-  }
-  .dropdown-submenu.pull-left>.dropdown-menu{
-    left:-100%;
-    margin-left:10px;
-    -webkit-border-radius:6px 0 6px 6px;
-    -moz-border-radius:6px 0 6px 6px;
-    border-radius:6px 0 6px 6px;
-  }
 
 .sidebar-nav li form {
     text-indent: 0px;
     line-height: 5px;
 }
-.form-control{
-        font-size: 10px;
-    }
 
- .social {
+/*Styles for social media icons in the top header bar*/
+
+.social {
   max-width: 100px;
   margin: 10px;
 }
@@ -241,31 +265,7 @@ header {
  height: 40px;
 }
 
-.first {
-  border-color: transparent;
-  border: 2px;
-  border-style: dashed;
-  color: transparent;
-}
-
-.second {
-  border-color: transparent;
-  border: 2px;
-  border-style: dashed;
-  color:transparent;
-}
-
-.first > div > h2{
-  color:black;
-}
-
-.second > div > h2{
-  color:black;
-}
-
-a {
-  color: inherit;
-  }
+/*Styles for start button*/
 
 .start {
   width: 50%; 
@@ -279,4 +279,12 @@ a {
 .start:hover,.start:focus{
   color: #F47D5C;
   background-color: #FFB08F;
+}
+
+.title {
+  padding-bottom: 10px;
+}
+
+#wrap {
+  min-height: 100%;
 }
