@@ -1,0 +1,23 @@
+<html lang="en">
+  {% include head.html %}<!--include head (js,css files)-->
+  <!--This is the layout for non-lesson pages.-->
+  <body>
+    <div id="wrap">
+      <div id="main">
+        {% include header.html %}<!--include navbar at top-->
+        <div class="container-fluid">
+          <div id="wrapper">
+            {% include sidenav.html %}<!--include side menu-->
+            <div id="page-content-wrapper">
+              <div class="container-fluid">
+                {{ content }}<!--main content of the webpage-->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% include footer.html %}<!--include footer-->
+  </body>
+   <script src="{{ site.baseurl }}/js/analytics.js"></script><!--track site traffic-->
+</html>

@@ -1,0 +1,11 @@
+collections:
+sections:
+output: true
+units:
+output: true
+lessons:
+output: true
+dialogs:
+output: true
+exclude: [documentation, data, Makefile, README.md]
+baseurl: 
