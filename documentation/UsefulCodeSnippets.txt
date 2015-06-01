@@ -1,0 +1,24 @@
+Useful code snippets
+
+
+Terminal commands:
+
+Remove the prefix from an mp3 file:
+for f in *-*.mp3; do mv "$f" "${f#*-}"; done
+
+Convert wav to mp3 using lame:
+for f in *; do lame -V2 $f ${f.wav}.mp3; done
+
+Pull out all audio files in a nested folder hierarchy:
+find audio/ -mindepth 2 -type f -exec; mv -i '{}' audio/ ';'
+
+
+Javascript:
+
+Zip two lists:
+function zip(arr1, arr2) { 
+	return arr1.map(function(elt1, index1) { 
+		return [elt1, arr2[index1]]; 
+	}) 
+};
+

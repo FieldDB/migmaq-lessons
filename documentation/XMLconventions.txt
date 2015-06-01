@@ -1,0 +1,84 @@
+Document structure:
+
+lessonset
+	section
+		unit
+			lesson
+				vocab
+				dialog
+					line
+						migmaq
+						english
+						soundfile
+						img
+				activity
+					list
+						item
+							first
+							second
+
+XML Conventions:
+
+<activity>
+A game or exercise to practice a lesson.
+
+<designnote>
+A note that explains design decisions. Not meant to be displayed.
+
+<dialog>
+An ordered set of lines that form a conversation.
+
+<english>
+A line of English accompanying a line of Mi'gmaq.
+
+<first>
+The first item in a pair in an activity list.
+
+<img>
+A picture.
+
+<item>
+A pair in a list in an activity.
+
+<lesson>
+Teaches or practices topics, dialogues, or vocabulary. Contains a title and may contain explanatory notes, pictures, dialogues, vocabulary sets, and activities.
+
+<lessonset>
+Root node that contains everything else. Contains a title and sections.
+
+<line>
+A line containing Mi'gmaq, English translation, a soundfile, and (optionally) an image.
+
+<list>
+A list of items in an activity.
+
+<m>
+A Mi'gmaq word in a note.
+
+<migmaq>
+A line of Mi'gmaq.
+
+<note>
+Text to introduce or explain content.
+
+<second>
+The second item in a pair in an activity list.
+
+<section>
+Ordered collection of units at a certain skill level. Contains a title, introduction notes, and units.
+
+<soundfile>
+An audio file to go with a line.
+
+<timesig>
+Timestamp that notes what audio file contains what lines.
+
+<title>
+Title at any level.
+
+<unit>
+Collection of lessons arranged around a theme. Contains a title, introduction notes, and lessons.
+
+<vocab>
+A set of vocabulary lines.
+
