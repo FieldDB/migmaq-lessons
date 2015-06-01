@@ -48,6 +48,6 @@ To build the website, run `$ make`. The Makefile will run the python scripts if 
 
 Jekyll output should not be committed to this repository, only source code.
 
-This repository is now public, since we have permission to use the audio files.
+This repository is now public, since we have permission to use [the audio files](https://www.dropbox.com/sh/5p2hp85xc35jmur/AACn9cIPt9m-f7WXhs6bbSgda?dl=0).
 
 The website is found at http://learn.migmaq.org
