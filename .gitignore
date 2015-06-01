@@ -1,3 +1,28 @@
+# Binary files are in a seperate repo
+audio
+documentation
+emoji
+img
+
+*.mp3
+*.wav
+*.ogg
+*.mp4
+*.avi
+*.mov
+
+#*.png
+#*.gif
+*.bmp
+
+*.docx
+*.pdf
+
+# Generated files
+_site
+
+
+
 MasterScript*
 S1U1/
 S1U2/
